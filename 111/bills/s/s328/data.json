@@ -1,0 +1,271 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-26", 
+      "references": [], 
+      "text": "Introduced in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-26", 
+      "references": [
+        {
+          "reference": "CR S847-849", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-26", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2009-01-27T10:39:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-27T12:00:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-27T20:20:00-05:00", 
+      "references": [], 
+      "text": "Mr. Boucher moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-27T20:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H584-593", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-27T20:21:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 328.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-27T20:30:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House continued with debate on S. 328.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-27T21:10:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until Jan. 28.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-28T12:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H619", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-01-28T12:53:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H619", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "41", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 258 - 168 (Roll no. 41).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s38-111", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "38"
+    }
+  ], 
+  "bill_id": "s328-111", 
+  "bill_type": "s", 
+  "committees": [], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2009-01-27", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2009-01-27", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "2009-01-26", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2009-01-26", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kohl, Herb", 
+      "sponsored_at": "2009-01-27", 
+      "state": "WI", 
+      "thomas_id": "01380", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2009-01-27", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2009-01-27", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2009-01-26", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2009-01-28T12:53:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2009-01-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-01-26", 
+  "number": "328", 
+  "official_title": "A bill to postpone the DTV transition date.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s352-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s352-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "DTV Delay Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2009-01-28T12:53:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Broadcasting, cable, digital technologies", 
+    "Consumer affairs", 
+    "Department of Commerce", 
+    "Emergency communications systems", 
+    "Federal Communications Commission (FCC)", 
+    "Licensing and registrations", 
+    "Science, technology, communications", 
+    "Telecommunication rates and fees", 
+    "Television and film"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2009-01-26", 
+    "text": "DTV Delay Act - Amends the Digital Television Transition and Public Safety Act of 2005 to delay the transition of television broadcasting from analog to digital to June 13, 2009. Requires the Federal Communications Commission (FCC) to extend for a 116-day period the licenses for recovered spectrum, including the license period and construction requirements associated with those licenses. Extends to July 31, 2009, the deadline for requesting digital-to-analog converter box coupons. Authorizes the issuance, on request, of one replacement coupon for each coupon that expired without being redeemed. Declares that this Act does not prevent a station from ending analog broadcasting (and continuing to broadcast exclusively digitally) before June 13, 2009. Requires the FCC to permit the use, for authorized public safety radio services, of certain spectrum cleared as a result of a television station ceasing to broadcast analog signals before June 12, 2009, provided the FCC determines that such use does not cause harmful interference to full-power analog or digital television stations. Amends the Communications Act of 1934 to extend through September 30, 2012 (under current law, September 30, 2011), the authority of the FCC to grant a license or permit under provisions relating to competitive bidding. Designates the amounts made available by this Act as an emergency requirement and necessary to meet emergency needs under the concurrent resolutions on the budget for FY2008-2009."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "DTV Delay Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "DTV Delay Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to postpone the DTV transition date.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:49-05:00"
+}

@@ -1,0 +1,254 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-23", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-04-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2009-05-18T19:55:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 111-117.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-18T19:56:00-04:00", 
+      "calendar": "Union", 
+      "number": "60", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 60.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2009-05-19T13:21:00-04:00", 
+      "references": [], 
+      "text": "Mr. Weiner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-19T13:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5730-5738", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-19T13:21:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1676.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-19T13:34:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-21T13:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5912-5913", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-21T13:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 5/19/2009 H5730-5736", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "287", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 11 (Roll no. 287).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-05-21T13:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-01", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1676-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2009-04-21", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2009-04-28", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2009-04-01", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-05-21T13:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-03-23", 
+  "number": "1676", 
+  "official_title": "To prevent tobacco smuggling, to ensure the collection of all tobacco taxes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1147-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "PACT Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Weiner, Anthony D.", 
+    "state": "NY", 
+    "thomas_id": "01597", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2009-05-21T13:53:00-04:00", 
+  "subjects": [
+    "Business records", 
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Criminal procedure and sentencing", 
+    "Drug, alcohol, tobacco use", 
+    "Federal district courts", 
+    "Federal-Indian relations", 
+    "Government information and archives", 
+    "Jurisdiction and venue", 
+    "Postal service", 
+    "Retail and wholesale trades", 
+    "Smuggling and trafficking", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2009-05-21", 
+    "text": "Prevent All Cigarette Trafficking Act of 2009 or PACT Act - Amends the Jenkins Act to revise provisions governing the collection of taxes on, and trafficking in, cigarettes and smokeless tobacco. (Sec. 2) Revises the definition of \"cigarette\" to include roll-your-own tobacco and to exclude cigars. Defines \"delivery sale\" to mean any sale of cigarettes or smokeless tobacco to a consumer ordered by telephone, the mails, or the Internet or other online service . Redefines \"person\" to include state, local, and Indian tribal governments. Redefines \"use\" to include the consumption, storage, handling, or disposal of smokeless tobacco, in addition to cigarettes. Applies state tobacco tax reporting requirements to: (1) the sale or advertising for sale of smokeless tobacco products; (2) persons who ship or transfer cigarettes and smokeless tobacco products; and (3) the shipment of cigarettes or smokeless tobacco into a locality or Indian country that taxes the sale or use of such products. Requires sellers of tobacco products to file with the Attorney General reports filed with state tobacco tax administrators. Imposes additional information reporting requirements on such sellers, including the disclosure of electronic mail addresses, website addresses, and authorized agents for service of process. Limits the use of information received from sellers of tobacco products solely for tax enforcement purposes. Expands requirements for delivery sales by requiring each delivery seller, with respect to delivery sales into a specific state and place, to: (1) comply with specified shipping and record-keeping requirements, all state, local, tribal, and other laws generally applicable to sales of cigarettes or smokeless tobacco as if such delivery sales occurred entirely within the specific state and place (including laws imposing excise taxes and licensing and tax-stamping requirements), and specified tax collection requirements; (2) include on the bill of lading for the shipping package containing cigarettes or smokeless tobacco a clear and conspicuous statement that federal law requires the payment of all applicable excise and sales taxes and compliance with applicable licensing and tax-stamping obligations; (3) comply with specified weight and age verification requirements; and (4) keep records of all delivery sales, organized by state, for four years and make such records accessible to state, local, and Indian tribe tax authorities and the Attorney General. Prohibits the delivery of cigarettes or smokeless tobacco unless the excise tax on such products has been paid and any required stamps or other indicia of payment are properly affixed to the products. Allows an exception for states that require delivery sellers to collect the tax from consumers and remit such tax to state or local tax authorities. Requires the Attorney General to compile a list of noncompliant delivery sellers of cigarettes and smokeless tobacco and to distribute such list to state attorneys general and tax administrators and common carriers and other couriers, including the United States Postal Service. Prohibits the delivery of any package to, or on behalf of, a noncompliant delivery seller without determining that such package does not include cigarettes or smokeless tobacco. Makes knowingly violating the Jenkins Act a felony (currently, a misdemeanor). Increases civil penalties for violations to the greater of $5,000 for a first violation or $10,000 for any other violation, or two percent of the gross sales of cigarettes or smokeless tobacco for the year before the violation. Grants federal district courts jurisdiction to prevent and restrain violations of this Act and to provide injunctive or equitable relief, including money damages. Empowers the Attorney General to administer and enforce this Act. Authorizes a state attorney general, a local government, an Indian tribe that levies a tax subject to this Act, or a holder of a permit as a manufacturer or importer of tobacco products or as an export warehouse proprietor (permit holder) to bring an action in U.S. district court to prevent and restrain violations of this Act. Authorizes a state attorney general or such a local government or Indian tribe to provide to the Attorney General or a U.S. Attorney evidence of a violation of this Act by any person not subject to state, local, or tribal government enforcement actions for violations of this Act. Establishes a PACT Anti-Trafficking Fund into which 50% of criminal and civil penalties collected in enforcing this Act shall be deposited and available to the Attorney General to enforce this Act and other laws relating to contraband tobacco products. Requires the Attorney General to make information on enforcement actions publicly available (including on the Internet) and to report to Congress on such actions. (Sec. 3) Amends the federal criminal code to treat cigarettes and smokeless tobacco as nonmailable matter and prohibit their deposit into the U.S. mails. Authorizes the U.S. Postal Service to refuse to accept nonmailable tobacco products and to issue cease and desist orders to anyone mailing such products. Imposes civil penalties for failure to comply with such orders. Exempts from such prohibition: (1) cigars; and (2) mailings within Alaska or Hawaii; (3) mailings for business purposes between legally operating tobacco businesses, and by individuals for noncommercial purposes; or (4) mailings for consumer testing by manufacturers or the federal government. Requires the seizure and forfeiture of any cigarettes or smokeless tobacco illegally deposited into the U.S. mails. Imposes a criminal penalty for intentionally placing nonmailable tobacco products in the U.S. mails. Establishes the PACT Postal Service Fund to which 50% of criminal and civil fines for mailing violations shall be transferred and made available to the Postmaster General to enforce mailing restrictions on cigarettes and smokeless tobacco products. Allows a state, local government, or Indian tribe to obtain appropriate injunctive or equitable relief for mailing violations in a civil action in a U.S. district court. (Sec. 4) Prohibits a tobacco product manufacturer or importer from selling in, delivering to, or placing for delivery sale in a state that is a party to the Master Settlement Agreement (executed November 23, 1998, by state attorneys general and certain tobacco manufacturers) any cigarette of such a manufacturer that is not in full compliance with the terms of the Model Statute or Qualifying Statute enacted by such state. Grants: (1) U.S. district courts jurisdiction to prevent and restrain prohibited sales; and (2) the Attorney General authority to administer and enforce compliance with restrictions on such sales. (Sec. 5) Authorizes the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) to enter the business premises of delivery sellers and inspect their records and information and any cigarettes or smokeless tobacco stored at such premises. Authorizes federal district courts to compel such inspections. Imposes a civil penalty for failure to comply with inspections. (Sec. 6) Declares that nothing in this Act shall be construed to affect, amend, or modify specified agreements or limitations relating to the collection of taxes on, and related matters regarding, cigarettes or smokeless tobacco sold in Indian country or to inhibit the coordination of law enforcement by states or other jurisdictions, including Indian tribes, with respect to interstate sales or seizures of tobacco products. (Sec. 7) Directs the ATF Director to: (1) create six regional contraband trafficking teams over a three-year period in New York City, Washington, D.C., Detroit, Los Angeles, Seattle, and Miami; (2) create a new Tobacco Intelligence Center to oversee and monitor smuggling investigations; (3) establish a covert national warehouse for undercover operations; and (4) create a computer database to track and analyze information from retail sellers of tobacco products who sell through the Internet or mail order or who make other non face-to-face sales. Authorizes appropriations. (Sec. 10) Expresses the sense of Congress that this Act responds to the unique harms posed by online cigarette sales and does not create a precedent for the collection of state sales or use taxes by, or the validity of efforts to impose other types of taxes on, out-of-state entities that do not have a physical presence in the taxing state."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "PACT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Prevent All Cigarette Trafficking Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "PACT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Prevent All Cigarette Trafficking Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "PACT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Prevent All Cigarette Trafficking Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To prevent tobacco smuggling, to ensure the collection of all tobacco taxes, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:52:43-05:00"
+}

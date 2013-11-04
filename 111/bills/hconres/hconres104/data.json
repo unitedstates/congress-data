@@ -1,0 +1,300 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-22", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-04-28T14:45:00-04:00", 
+      "references": [], 
+      "text": "Mr. Scott (VA) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-28T14:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4871-4873", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-28T14:45:00-04:00", 
+      "bill_ids": [
+        "hcres104-111"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 104.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-28T14:52:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4871", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-04-28T14:52:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-29", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-04-30", 
+      "references": [
+        {
+          "reference": "CR S4995", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-04-30", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2009-05-01", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres104-111", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2009-04-22", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2009-04-22", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2009-04-22", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2009-04-22", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Herseth Sandlin, Stephanie", 
+      "sponsored_at": "2009-04-22", 
+      "state": "SD", 
+      "thomas_id": "01760", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2009-04-22", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2009-04-22", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2009-04-22", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2009-04-22", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2009-04-22", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2009-04-22", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sestak, Joe", 
+      "sponsored_at": "2009-04-22", 
+      "state": "PA", 
+      "thomas_id": "01874", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2009-04-22", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-04-28T14:52:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2009-04-30", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-04-22", 
+  "number": "104", 
+  "official_title": "Supporting the goals and ideals of National Sexual Assault Awareness and Prevention Month.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres1259-111", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "sconres22-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "sres501-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Baldwin, Tammy", 
+    "state": "WI", 
+    "thomas_id": "01558", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2009-04-30", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Crimes against women", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Health personnel", 
+    "Law enforcement officers", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2009-04-30", 
+    "text": "Expresses support for the goals and ideals of National Sexual Assault Awareness and Prevention Month. Calls for recognition of: (1) national and community organizations and private sector supporters for their work in promoting awareness about sexual assault, providing information and treatment to its survivors, and increasing the number of successful prosecutions of its perpetrators; and (2) public safety, law enforcement, and health professionals for their hard work and innovative strategies to increase the percentage of sexual assault cases that result in the prosecution and incarceration of the offenders. Urges national and community organizations, private businesses, colleges and universities, and the media to promote, through such Month, awareness of sexual violence and strategies to decrease the incidence of sexual assault."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Supporting the goals and ideals of National Sexual Assault Awareness and Prevention Month.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:54:55-05:00"
+}

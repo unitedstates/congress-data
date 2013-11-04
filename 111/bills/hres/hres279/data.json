@@ -1,0 +1,213 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-24", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-03-25", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-25", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2009-03-27T17:02:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on House Administration. H. Rept. 111-59.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-27T17:03:00-04:00", 
+      "calendar": "House", 
+      "number": "33", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 33.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2009-03-30T16:36:00-04:00", 
+      "bill_ids": [
+        "hres294-111"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 294 Reported to House. Rule provides for consideration of H. Res. 279 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The rule provides that the amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the resolution shall be considered as adopted. The rule waives all points of order against consideration of the resolution and provides that the resolution, as amended, shall be considered as read. the rule provides one motion to recommit which may not contain instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-31T13:05:00-04:00", 
+      "bill_ids": [
+        "hres294-111"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 294 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-31T15:26:00-04:00", 
+      "bill_ids": [
+        "hres294-111"
+      ], 
+      "references": [
+        {
+          "reference": "CR H4193-4198", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 294.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-31T15:26:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H. Res. 279 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The rule provides that the amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the resolution shall be considered as adopted. The rule waives all points of order against consideration of the resolution and provides that the resolution, as amended, shall be considered as read. the rule provides one motion to recommit which may not contain instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-31T15:27:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 279.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-31T16:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4197", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-31T16:25:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4193", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "172", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 288 - 136 (Roll no. 172).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-03-31T16:25:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h62-111", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "62"
+    }
+  ], 
+  "bill_id": "hres279-111", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-03-31T16:25:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-03-24", 
+  "number": "279", 
+  "official_title": "Providing for the expenses of certain committees of the House of Representatives in the One Hundred Eleventh Congress.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres294-111", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Brady, Robert A.", 
+    "state": "PA", 
+    "thomas_id": "01469", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2009-03-31T16:25:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "Congressional committees", 
+    "House Committee on Agriculture", 
+    "House Committee on Armed Services", 
+    "House Committee on Education and Labor", 
+    "House Committee on Energy and Commerce", 
+    "House Committee on Financial Services", 
+    "House Committee on Foreign Affairs", 
+    "House Committee on Homeland Security", 
+    "House Committee on House Administration", 
+    "House Committee on Natural Resources", 
+    "House Committee on Oversight and Government Reform", 
+    "House Committee on Rules", 
+    "House Committee on Science and Technology", 
+    "House Committee on Small Business", 
+    "House Committee on Standards of Official Conduct", 
+    "House Committee on Transportation and Infrastructure", 
+    "House Committee on Veterans' Affairs", 
+    "House Committee on Ways and Means", 
+    "House Committee on the Budget", 
+    "House Committee on the Judiciary", 
+    "House Permanent Select Committee on Intelligence", 
+    "House Select Committee on Energy Independence and Global Warming", 
+    "House of Representatives"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2009-03-31", 
+    "text": "Sets forth the levels of payment for 111th Congress expenses (including staff salaries) for the Committees on Agriculture, Armed Services, the Budget, Education and Labor, Energy and Commerce, Financial Services, Foreign Affairs, Homeland Security, House Administration, the Judiciary, Natural Resources, Oversight and Government Reform, Rules, Science and Technology, Small Business, Standards of Official Conduct, Transportation and Infrastructure, Veterans' Affairs, Ways and Means, as well as the Select Committee on Energy Independence and Global Warming, and the Permanent Select Committee on Intelligence. Prescribes limitations to such expenses for the 1st and 2nd sessions of the 111th Congress. Prohibits funds provided for a Committee in the first session of Congress from being made available for such Committee in the second session, after February 3, 2010, unless the Committee's chair or ranking minority member appears and presents testimony at a hearing of the Committee on House Administration held before such date to: (1) review the Committee's use of such first session funds; and (2) determine whether the amount specified for the second session for such Committee should be updated on the basis of the review."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Providing for the expenses of certain committees of the House of Representatives in the One Hundred Eleventh Congress.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:51:11-05:00"
+}

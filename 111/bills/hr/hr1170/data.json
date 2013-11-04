@@ -1,0 +1,199 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-02-25", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-02-27", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "subcommittee": "Economic Opportunity", 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-05-01", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Subcommittee on Economic Opportunity Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-06", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-06", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2009-05-14T16:55:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-109.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-14T16:56:00-04:00", 
+      "calendar": "Union", 
+      "number": "53", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 53.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2009-05-19T12:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Filner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-19T12:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5723-5724", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-19T12:33:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1170.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-19T12:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5723", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-05-19T12:41:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-20", 
+      "committee": "Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1170-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "2009-02-25", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-05-19T12:41:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-02-25", 
+  "number": "1170", 
+  "official_title": "To amend chapter 21 of title 38, United States Code, to establish a grant program to encourage the development of new assistive technologies for specially adapted housing.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boozman, John", 
+    "state": "AR", 
+    "thomas_id": "01687", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2009-05-19T12:41:00-04:00", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Armed forces and national security", 
+    "Disability and paralysis", 
+    "Housing for the elderly and disabled", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2009-05-19", 
+    "text": "Directs the Secretary of Veterans Affairs to make grants to encourage the development of new assistive technologies for specially adapted housing for disabled veterans. Limits grant amounts to $200,000 annually per recipient. Provides that if a grant recipient is awarded a patent related to assistive technology developed with grant amounts, the Secretary shall retain no less than a 30% interest in the patent. Provides grant funds. Terminates grant authority five years after the enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend chapter 21 of title 38, United States Code, to establish a grant program to encourage the development of new assistive technologies for specially adapted housing.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:52:27-05:00"
+}

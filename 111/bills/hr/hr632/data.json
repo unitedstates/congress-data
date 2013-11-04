@@ -1,0 +1,364 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-22", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-02-10T18:48:00-05:00", 
+      "references": [], 
+      "text": "Mr. Johnson (GA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-02-10T18:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1123-1128", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-02-10T18:48:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 632.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-02-10T19:10:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1123-1125", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-02-10T19:10:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-02-11", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr632-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2009-01-22", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2009-01-22", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Clarke, Yvette D.", 
+      "sponsored_at": "2009-01-22", 
+      "state": "NY", 
+      "thomas_id": "01864", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2009-02-10", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2009-02-10", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2009-02-10", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hodes, Paul W.", 
+      "sponsored_at": "2009-02-10", 
+      "state": "NH", 
+      "thomas_id": "01862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2009-01-22", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2009-01-22", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2009-02-10", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2009-02-10", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2009-01-22", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2009-02-10", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2009-02-10", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2009-01-22", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2009-02-10", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "2009-01-22", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2009-01-22", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Sires, Albio", 
+      "sponsored_at": "2009-01-22", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snyder, Vic", 
+      "sponsored_at": "2009-01-22", 
+      "state": "AR", 
+      "thomas_id": "01530", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2009-01-22", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2009-02-10", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-02-10T19:10:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-01-22", 
+  "number": "632", 
+  "official_title": "To encourage, enhance, and integrate Silver Alert plans throughout the United States, to authorize grants for the assistance of organizations to find missing adults, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s557-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Kristen's Act Reauthorization of 2009", 
+  "sponsor": {
+    "district": "25", 
+    "name": "Doggett, Lloyd", 
+    "state": "TX", 
+    "thomas_id": "00303", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2009-02-10T19:10:00-05:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Aging", 
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Department of Justice", 
+    "Emergency communications systems", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Intergovernmental relations", 
+    "Law enforcement administration and funding", 
+    "Public-private cooperation", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2009-02-10", 
+    "text": "Title I: Silver Alert Communications Network - National Silver Alert Act 2009 - (Sec. 103) Directs the Attorney General to establish a national Silver Alert communications network within the Department of Justice (DOJ) to assist regional and local search efforts for missing seniors in coordination with states, local governments, and law enforcement agencies. Defines \"missing senior\" as any individual who is reported to, or identified by, a law enforcement agency as a missing person and who meets state requirements for designation.(Sec. 104) Directs the Attorney General to designate a DOJ employee as the National Coordinator of the Silver Alert communications network. Sets forth the duties of the Coordinator, including the establishment of voluntary guidelines for states to use in developing Silver Alert plans, the development of protocols for efforts to recover missing seniors and for notifying law enforcement agencies that a senior is missing, and the establishment of an advisory group to assist states, local governments, law enforcement agencies, and other entities involved in the network.Directs the Coordinator to: (1) report to Congress annually on the Coordinator's activities and the effectiveness and status of the Silver Alert plans of each state; (2) establish minimum standards for the issuance of alerts through the network; (3) make available to states, local governments, law enforcement and other agencies training and educational programs and materials; and (4) coordinate training and educational activities with the Assistant Secretary for Aging of the Department of Health and Human Services (DHS) and the head of the Missing Alzheimer's Disease Patient Alert Program within DOJ. (Sec. 107) Authorizes appropriations to carry out the Silver Alert communications network.(Sec. 108) Directs the Attorney General to provide grants to states for the development and enhancement of state programs and activities to support Silver Alert plans and the network. Authorizes appropriations for FY2009-FY2013Title II: Kristen's Act Reauthorization - Kristen's Act Reauthorization of 2009 - (Sec. 203) Directs the Attorney General to make competitive grants to public agencies or nonprofit private organizations to: (1) maintain a national resource center and information clearinghouse for missing and unidentified adults; (2) maintain a national, interconnected database to track missing adults endangered due to age, diminished mental capacity, or the the circumstances of disappearance, when foul play is suspected or circumstances are unknown; (3) coordinate public and private programs that locate or recover missing adults; (4) provide assistance and training to law enforcement agencies, state and local governments, and other agencies involved with missing adults; (5) provide assistance to families in locating and recovering missing adults; and (6) assist in public notification and victim advocacy related to missing adults. Requires the Attorney General to: (1) periodically solicit applications for grants using the Federal Register and the DOJ website; (2) coordinate federally-funded programs relating to missing adults; and (3) encourage coordination among grant recipients. (Sec. 204) Authorizes appropriations for FY2010-FY2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Kristen's Act Reauthorization of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "National Silver Alert Act 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Kristen's Act Reauthorization of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "National Silver Alert Act 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To encourage, enhance, and integrate Silver Alert plans throughout the United States, to authorize grants for the assistance of organizations to find missing adults, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:52:12-05:00"
+}

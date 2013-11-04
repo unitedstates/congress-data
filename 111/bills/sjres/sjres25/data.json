@@ -1,0 +1,237 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-24", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-01-21", 
+      "references": [
+        {
+          "reference": "CR S131-132", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-21", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S132", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-01-22T10:03:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-22", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-04-14T11:51:00-04:00", 
+      "references": [], 
+      "text": "Mr. Conyers moved to suspend the rules and pass the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-14T11:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2521-2522", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-14T11:52:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 25.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-14T11:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2521-2522", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-04-14T11:55:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-14", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-04-16", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-04-26", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-04-26", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "160", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-160.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sjres25-111", 
+  "bill_type": "sjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2009-12-24", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "sponsored_at": "2009-12-24", 
+      "state": "VA", 
+      "thomas_id": "01897", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Webb, Jim", 
+      "sponsored_at": "2009-12-24", 
+      "state": "VA", 
+      "thomas_id": "01822", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "160"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-04-26", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-04-14T11:55:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-01-21", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-12-24", 
+  "number": "25", 
+  "official_title": "A joint resolution granting the consent and approval of Congress to amendments made by the State of Maryland, the Commonwealth of Virginia, and the District of Columbia to the Washington Metropolitan Area Transit Regulation Compact.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-04-26", 
+  "subjects": [
+    "Congressional oversight", 
+    "District of Columbia", 
+    "Intergovernmental relations", 
+    "Maryland", 
+    "Public transit", 
+    "State and local government operations", 
+    "Transportation and public works", 
+    "Virginia"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-04-14", 
+    "text": "Grants the consent and approval of Congress to amendments made by Maryland, the Commonwealth of Virginia, and the District of Columbia to article III of title I of the Washington Metropolitan Area Transit Regulation Compact to revise the composition of the Washington Metropolitan Area Transit Commission. States that the Commission shall be composed of three members, one member appointed by the Governor of Virginia from the Department of Motor Vehicles of the Commonwealth of Virginia, one member appointed by the Governor of Maryland from the Maryland Public Service Commission, and one member appointed by the Mayor of the District of Columbia from a District agency with oversight of matters relating to the Commission. Declares that such amendment to the article shall not affect any member in office on its effective date."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A joint resolution granting the consent and approval of Congress to amendments made by the State of Maryland, the Commonwealth of Virginia, and the District of Columbia to the Washington Metropolitan Area Transit Regulation Compact.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:55:02-05:00"
+}

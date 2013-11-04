@@ -1,0 +1,267 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-10-01", 
+      "committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-12-15T14:25:00-05:00", 
+      "references": [], 
+      "text": "Mr. Berman moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-15T14:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H14916-14921", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-15T14:25:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3714.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-15T14:59:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Berman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-16T16:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H15431", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-16T16:36:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 12/15/2009 H14916-14917", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "989", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 403 - 12 (Roll no. 989).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-12-16T16:36:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-16T16:36:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-17", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-04-29", 
+      "references": [
+        {
+          "reference": "CR S2981", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-29", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-04-29", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-04-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-05-06", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-05-17", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-05-17", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "166", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-166.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3714-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Pence, Mike", 
+      "sponsored_at": "2009-10-01", 
+      "state": "IN", 
+      "thomas_id": "01649", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "166"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-05-17", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-12-16T16:36:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-04-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-10-01", 
+  "number": "3714", 
+  "official_title": "To amend the Foreign Assistance Act of 1961 to include in the Annual Country Reports on Human Rights Practices information about freedom of the press in foreign countries, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2410-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1739-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1739-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Daniel Pearl Freedom of the Press Act of 2009", 
+  "sponsor": {
+    "district": "29", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-05-17", 
+  "subjects": [
+    "Congressional oversight", 
+    "Foreign aid and international relief", 
+    "Human rights", 
+    "International affairs", 
+    "News media and reporting"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-05-17", 
+    "text": "Daniel Pearl Freedom of the Press Act of 2009 - Amends the Foreign Assistance Act of 1961 to expand the annual Country Reports on Human Rights Practices to include: (1) a description of the status of freedom of the press in each country reviewed in the report; (2) identification of countries in which there were violations of freedom of the press; and (3) in countries where there are particularly severe violations of freedom of the press, whether such governments participate in or condone such violations and the actions such governments have taken to preserve the safety and independence of the media and ensure the prosecution of individuals who attack or murder journalists."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Daniel Pearl Freedom of the Press Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Daniel Pearl Freedom of the Press Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Daniel Pearl Freedom of the Press Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Daniel Pearl Freedom of the Press Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Foreign Assistance Act of 1961 to include in the Annual Country Reports on Human Rights Practices information about freedom of the press in foreign countries, establish a grant program to promote freedom of the press worldwide, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "To amend the Foreign Assistance Act of 1961 to include in the Annual Country Reports on Human Rights Practices information about freedom of the press in foreign countries, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:53:42-05:00"
+}

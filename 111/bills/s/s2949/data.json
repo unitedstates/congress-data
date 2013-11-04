@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-01-25", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S202-203", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S203", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-01-26T12:31:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-26T15:00:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-26T15:15:00-05:00", 
+      "references": [], 
+      "text": "Mr. McDermott moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-26T15:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H348-350", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-26T15:15:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2949.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-26T15:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H348", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-01-26T15:28:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-26", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-01-27", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-01-27", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-01-27", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "127", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-127.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2949-111", 
+  "bill_type": "s", 
+  "committees": [], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "2010-01-25", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "LeMieux, George S.", 
+      "sponsored_at": "2010-01-25", 
+      "state": "FL", 
+      "thomas_id": "01971", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2010-01-25", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2010-01-25", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "127"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-01-27", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-01-26T15:28:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-01-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-01-25", 
+  "number": "2949", 
+  "official_title": "A bill to amend section 1113 of the Social Security Act to provide authority for increased fiscal year 2010 payments for temporary assistance to United States citizens returned from foreign countries, to provide necessary funding to avoid shortfalls in the Medicare cost-sharing program for low-income qualifying individuals, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emergency Aid to American Survivors of the Haiti Earthquake Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-01-27", 
+  "subjects": [
+    "Caribbean area", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Disaster relief and insurance", 
+    "Emergency medical services and trauma care", 
+    "Emergency planning and evacuation", 
+    "Haiti", 
+    "Homelessness and emergency shelter", 
+    "Latin America", 
+    "Medicaid", 
+    "Medicare", 
+    "Natural disasters", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-01-27", 
+    "text": "Emergency Aid to American Survivors of the Haiti Earthquake Act - Amends title XI of the Social Security Act (SSA) to increase the funding cap under the U.S. Repatriation Program to $25 million for FY2010 for temporary assistance to U.S. citizens (and their dependents) returning from foreign countries in the event of destitution, illness, war, threat of war, invasion, or similar crisis. Amends SSA title XIX (Medicaid) to provide $65 million in additional funding for the Qualified Individual (QI) Program which pays the Medicare part B premium costs for low-income seniors. Reduces a corresponding amount otherwise available to the Medicaid Improvement Fund for FY2014."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Emergency Aid to American Survivors of the Haiti Earthquake Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Emergency Aid to American Survivors of the Haiti Earthquake Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Emergency Aid to American Survivors of the Haiti Earthquake Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Emergency Aid to American Survivors of the Haiti Earthquake Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend section 1113 of the Social Security Act to provide authority for increased fiscal year 2010 payments for temporary assistance to United States citizens returned from foreign countries, to provide necessary funding to avoid shortfalls in the Medicare cost-sharing program for low-income qualifying individuals, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:40-05:00"
+}

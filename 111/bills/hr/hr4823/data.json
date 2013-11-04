@@ -1,0 +1,205 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-03-11", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-03-16", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "National Parks, Forests and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-06-10", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "National Parks, Forests and Public Lands", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-22", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Subcommittee on National Parks, Forests and Public Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-22", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-22", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2010-09-16T14:40:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-599.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-16T14:40:00-04:00", 
+      "calendar": "Union", 
+      "number": "344", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 344.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2010-09-22T14:48:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Christensen moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-22T14:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6824-6825", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6824", 
+          "type": "text of measure as reported in House"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-22T14:48:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4823.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-22T14:59:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-23T13:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6904", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-23T13:24:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "538", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 258 - 160 (Roll no. 538).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4823-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2010-09-23T13:24:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-03-11", 
+  "number": "4823", 
+  "official_title": "To establish the Sedona-Red Rock National Scenic Area in the Coconino National Forest, Arizona, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Sedona-Red Rock National Scenic Area Act of 2010", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Kirkpatrick, Ann", 
+    "state": "AZ", 
+    "thomas_id": "01907", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2010-09-23T13:24:00-04:00", 
+  "subjects": [
+    "Arizona", 
+    "Forests", 
+    "Government trust funds", 
+    "Land transfers", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2010-09-16", 
+    "text": "Sedona-Red Rock National Scenic Area Act of 2010 - Establishes the Sedona-Red Rock National Scenic Area in the Coconino National Forest in Arizona to limit exchanges of land involving National Forest System land included in the Scenic Area and to manage the System land included in the Scenic Area as provided in the land resource management plan for the Forest. Bars the inclusion of any land located outside the boundaries of Coconino National Forest in the Scenic Area. Requires the Scenic Area to be administered in accordance with this Act, the land and resource management plan for the Coconino National Forest, and the laws and regulations applicable to the National Forest System. Permits land exchanges that dispose of System land included in the Scenic Area only if: (1) they result in the acquisition of land from a willing seller for inclusion in the Area; (2) there is no net loss of System land; and (3) an environmental analysis is completed before any land is exchanged. Requires the deposit of the proceeds received from sales or exchanges of land within the Coconino National Forest in a special fund in the Treasury to be used for the acquisition of land or interests within the National Forest System in Arizona. Prohibits the establishment of the Scenic Area from affecting: (1) the maintenance and use of public, private, or Forest Service roads; and (2) the legal status, maintenance and use rights-of-way and utility easements; (3) the management of state, municipal, or private land; (4) the management of National Forest System land that is not included in the Scenic Area; and (5) the construction or siting of transportation or water projects and associated facilities. Prohibits anything in this Act creating a private cause of action in any federal, state, or tribal courts."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Sedona-Red Rock National Scenic Area Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Sedona-Red Rock National Scenic Area Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish the Sedona-Red Rock National Scenic Area in the Coconino National Forest, Arizona, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:54:10-05:00"
+}

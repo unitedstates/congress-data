@@ -1,0 +1,214 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-12-17", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-12-17T15:10:00-05:00", 
+      "bill_ids": [
+        "hres1776-111"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 1776 Reported to House. Rule provides for consideration of H.J. Res. 105 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived except those arising under clause 10 of rule XXI.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-17T16:12:00-05:00", 
+      "bill_ids": [
+        "hres1776-111"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 1776 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-17T16:25:00-05:00", 
+      "bill_ids": [
+        "hres1776-111"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8767-8768", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 1776.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-17T16:25:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 105 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived except those arising under clause 10 of rule XXI.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-17T16:25:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 105.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-17T16:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8767", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-12-17T16:28:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-17", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10492-10493", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-12-17", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-17", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-12-17", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-12-18", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-12-18", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "317", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-317.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres105-111", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "317"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-12-17T16:28:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-12-17", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-12-17", 
+  "number": "105", 
+  "official_title": "Making further continuing appropriations for fiscal year 2011, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres1776-111", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "hjres101-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hjres101-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "sjres42-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "sjres42-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-12-18", 
+  "subjects": [
+    "Appropriations", 
+    "Economics and public finance", 
+    "Executive agency funding and structure"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-12-18", 
+    "text": "Amends the Continuing Appropriations Act, 2011 (P.L. 111-242) to extend through December 21, 2010, specified continuing appropriations for FY2011."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Making further continuing appropriations for fiscal year 2011, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:55:21-05:00"
+}

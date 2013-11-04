@@ -1,0 +1,236 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-07", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-07-07T15:22:00-04:00", 
+      "references": [], 
+      "text": "Mr. Johnson (GA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-07T15:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7723-7724", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-07T15:23:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3114.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-07T15:34:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Poe (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-07T18:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7725", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-07T18:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7723", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-07-07T18:58:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-08", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7664", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2009-07-16", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2009-07-20", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-27", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2009-08-07", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2009-08-07", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "45", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-45.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3114-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2009-07-07", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2009-07-07", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2009-07-07", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "45"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2009-08-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-07-07T18:58:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2009-07-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-07-07", 
+  "number": "3114", 
+  "official_title": "To authorize the Director of the United States Patent and Trademark Office to use funds made available under the Trademark Act of 1946 for patent operations in order to avoid furloughs and reductions-in-force, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1358-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1358-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2009-08-07", 
+  "subjects": [
+    "Commerce", 
+    "Congressional oversight", 
+    "Department of Commerce", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Intellectual property", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2009-08-07", 
+    "text": "Authorizes the Director of the United States Patent and Trademark Office (USPTO) to use funds made available for FY2009 under the Omnibus Appropriations Act, 2009 to support the processing of patents and other activities, services, and materials relating to patents, notwithstanding provisions restricting the use of such fees to activities relating trademark registrations, provided the Director certifies to Congress that the use of such funds is reasonably necessary to avoid USPTO furloughs or a reduction-in-force, or both, and does not create a substantial risk of a furlough or reduction-in-force of personnel working in the Trademark Operation of the USPTO. Requires the Director, on the exercise of that authority and notwithstanding any other law, to establish a surcharge on patent fees to repay any funds drawn down. Terminates such authority on June 30, 2010. Requires: (1) the surcharge to begin no later than September 30, 2011; and (2) the funds so used to be repaid to trademark operations not later than September 30, 2014."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize the Director of the United States Patent and Trademark Office to use funds made available under the Trademark Act of 1946 for patent operations in order to avoid furloughs and reductions-in-force, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:53:25-05:00"
+}

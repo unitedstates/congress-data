@@ -1,0 +1,304 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-06-28", 
+      "committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-06-30T20:59:00-04:00", 
+      "references": [], 
+      "text": "Ms. Chu moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-06-30T20:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5280-5281", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-06-30T20:59:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5610.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-06-30T21:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5280", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-06-30T21:05:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-12", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-07-27", 
+      "references": [], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-27", 
+      "references": [
+        {
+          "reference": "CR S6278", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-27", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-07-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28T20:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6257-6258", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Ms. Chu moved that the House suspend the rules and agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28T20:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6258", 
+          "type": "text"
+        }
+      ], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 5610.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28T20:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-07-28T20:48:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-07-29", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-07-29", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-07-29", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "213", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-213.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4518-111", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4518"
+    }
+  ], 
+  "bill_id": "hr5610-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2010-06-28", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2010-06-28", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2010-06-30", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2010-06-28", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "213"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-07-29", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-07-28T20:48:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-07-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-06-28", 
+  "number": "5610", 
+  "official_title": "To provide a technical adjustment with respect to funding for independent living centers under the Rehabilitation Act of 1973 in order to ensure stability for such centers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Independent Living Centers Technical Adjustment Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Miller, George", 
+    "state": "CA", 
+    "thomas_id": "00808", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-07-29", 
+  "subjects": [
+    "Appropriations", 
+    "Disability and paralysis", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-07-29", 
+    "text": "Independent Living Centers Technical Adjustment Act - Directs the Commissioner of the Rehabilitation Services Administration of the Department of Education, in awarding funds in a state during FY2010 to existing centers for independent living for people with disabilities under the Rehabilitation Act of 1973, if certain conditions are satisfied, to distribute such funds among such centers according to a proportional allocation, disregarding any funds previously distributed from appropriations by the American Recovery and Reinvestment Act of 2009 (ARRA). Sets as such conditions that: (1) the Commissioner receives from the state, by August 5, 2010, a request to disregard ARRA funds, jointly signed by the designated state unit that receives and disburses funds to such centers and the state's Statewide Independent Living Council; and (2) the Commissioner is not conducting a competition to establish a new center for independent living in the state with ARRA funds. Requires the distribution of funds among such centers in a state for FY2010 (except under ARRA) to be in the same proportion as the regular funds appropriated for FY2009 for such centers, disregarding any ARRA funds. Requires continued disregard of ARRA funds in the allocation of funds for such centers in FY2011 and subsequent fiscal years. Authorizes the director of the designated state unit with approval to award funds to existing centers for independent living in the state to: (1) distribute non-ARRA funds among such centers during FY2010 in the same proportion as such funds were distributed in FY2009, disregarding ARRA funds; and (2) continue disregarding ARRA funds in distributions for FY2011 and subsequent fiscal years."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Independent Living Centers Technical Adjustment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Independent Living Centers Technical Adjustment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Independent Living Centers Technical Adjustment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Independent Living Centers Technical Adjustment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide a technical adjustment with respect to funding for independent living centers under the Rehabilitation Act of 1973 in order to ensure stability for such centers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:54:31-05:00"
+}

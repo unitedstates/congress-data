@@ -1,0 +1,638 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-29", 
+      "committee": "House Committee on Oversight and Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-10-23", 
+      "in_committee": "House Committee on Oversight and Government Reform", 
+      "references": [], 
+      "subcommittee": "Government Management, Organization, and Procurement", 
+      "text": "Referred to the Subcommittee on Government Management, Organization, and Procurement.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-04-28T10:23:00-04:00", 
+      "references": [], 
+      "text": "Mr. Towns moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-28T10:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2942-2947", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-28T10:23:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3393.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-28T10:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2942-2945", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-04-28T10:41:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-04-29", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3393-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Government Management, Organization, and Procurement", 
+      "subcommittee_id": "24"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Altmire, Jason", 
+      "sponsored_at": "2010-04-21", 
+      "state": "PA", 
+      "thomas_id": "01873", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Arcuri, Michael A.", 
+      "sponsored_at": "2010-04-27", 
+      "state": "NY", 
+      "thomas_id": "01867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Barrow, John", 
+      "sponsored_at": "2010-04-21", 
+      "state": "GA", 
+      "thomas_id": "01780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bean, Melissa L.", 
+      "sponsored_at": "2010-04-26", 
+      "state": "IL", 
+      "thomas_id": "01782", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Bilbray, Brian P.", 
+      "sponsored_at": "2009-07-29", 
+      "state": "CA", 
+      "thomas_id": "00087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2010-04-27", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2009-12-09", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boswell, Leonard L.", 
+      "sponsored_at": "2010-04-27", 
+      "state": "IA", 
+      "thomas_id": "01466", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyd, Allen", 
+      "sponsored_at": "2010-01-27", 
+      "state": "FL", 
+      "thomas_id": "01467", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bright, Bobby", 
+      "sponsored_at": "2010-04-14", 
+      "state": "AL", 
+      "thomas_id": "01905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Cardoza, Dennis A.", 
+      "sponsored_at": "2010-03-11", 
+      "state": "CA", 
+      "thomas_id": "01709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carney, Christopher P.", 
+      "sponsored_at": "2010-04-27", 
+      "state": "PA", 
+      "thomas_id": "01876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Chandler, Ben", 
+      "sponsored_at": "2010-04-14", 
+      "state": "KY", 
+      "thomas_id": "01759", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Childers, Travis", 
+      "sponsored_at": "2010-04-27", 
+      "state": "MS", 
+      "thomas_id": "01893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2010-04-14", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2010-03-25", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Dahlkemper, Kathleen A.", 
+      "sponsored_at": "2010-03-17", 
+      "state": "PA", 
+      "thomas_id": "01951", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Lincoln", 
+      "sponsored_at": "2010-04-20", 
+      "state": "TN", 
+      "thomas_id": "01747", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2010-01-27", 
+      "state": "IN", 
+      "thomas_id": "01850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Driehaus, Steve", 
+      "sponsored_at": "2009-12-11", 
+      "state": "OH", 
+      "thomas_id": "01946", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2009-12-11", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2010-02-26", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Harman, Jane", 
+      "sponsored_at": "2010-04-22", 
+      "state": "CA", 
+      "thomas_id": "00502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Herseth Sandlin, Stephanie", 
+      "sponsored_at": "2010-03-11", 
+      "state": "SD", 
+      "thomas_id": "01760", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hill, Baron P.", 
+      "sponsored_at": "2010-02-26", 
+      "state": "IN", 
+      "thomas_id": "01578", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2009-12-09", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Kilroy, Mary Jo", 
+      "sponsored_at": "2010-04-26", 
+      "state": "OH", 
+      "thomas_id": "01948", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kratovil, Frank,  Jr.", 
+      "sponsored_at": "2010-04-27", 
+      "state": "MD", 
+      "thomas_id": "01926", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Markey, Betsy", 
+      "sponsored_at": "2010-01-27", 
+      "state": "CO", 
+      "thomas_id": "01911", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2010-02-26", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McIntyre, Mike", 
+      "sponsored_at": "2010-03-25", 
+      "state": "NC", 
+      "thomas_id": "01505", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2010-04-28", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Minnick, Walter", 
+      "sponsored_at": "2010-02-26", 
+      "state": "ID", 
+      "thomas_id": "01918", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mitchell, Harry E.", 
+      "sponsored_at": "2010-04-22", 
+      "state": "AZ", 
+      "thomas_id": "01830", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2010-02-26", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Murphy, Scott", 
+      "sponsored_at": "2009-12-09", 
+      "state": "NY", 
+      "thomas_id": "01968", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Nye, Glenn C.", 
+      "sponsored_at": "2010-04-27", 
+      "state": "VA", 
+      "thomas_id": "01957", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "2009-12-11", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2010-04-27", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2009-12-11", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2010-04-27", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2010-02-26", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2010-04-27", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2010-01-27", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2010-04-14", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2010-02-26", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2010-04-27", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Shuler, Heath", 
+      "sponsored_at": "2010-03-11", 
+      "state": "NC", 
+      "thomas_id": "01859", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Space, Zachary T.", 
+      "sponsored_at": "2010-03-17", 
+      "state": "OH", 
+      "thomas_id": "01871", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Tanner, John S.", 
+      "sponsored_at": "2010-04-14", 
+      "state": "TN", 
+      "thomas_id": "01137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Titus, Dina", 
+      "sponsored_at": "2010-04-26", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Wilson, Charles A.", 
+      "sponsored_at": "2010-02-26", 
+      "state": "OH", 
+      "thomas_id": "01869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-04-28T10:41:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-07-29", 
+  "number": "3393", 
+  "official_title": "To amend the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note) in order to prevent the loss of billions in taxpayer dollars.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1508-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1508-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Improper Payments Elimination and Recovery Act of 2010", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Murphy, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "01875", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2010-04-28T10:41:00-04:00", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Government investigations", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2010-04-28", 
+    "text": "Improper Payments Elimination and Recovery Act of 2010 - (Sec. 2) Amends the Improper Payments Information Act of 2002 to expand requirements for identifying programs and activities susceptible to improper payments by requiring the head of each federal agency, during the year after the enactment of this Act and at least once every three fiscal years thereafter, to review and identify agency programs and activities that may be susceptible to significant improper payments. Defines \"significant\" to mean: (1) improper payments in the preceding fiscal year that may have exceeded $100 million or $10 million of all program and activity payments and 2.5% of program outlays; and (2) for fiscal years prior to FY2013, improper payments that may have exceeded $100 million or $10 million of all program and activity payments and 1.5% of program outlays. Sets forth risk factors to be considered in conducting improper payment reviews, including: (1) whether the program or activity reviewed is new to the agency; (2) the complexity of the program or activity; (3) the volume of payments made; (4) whether payment or payment eligibility decisions are made outside of the agency; (5) recent major changes in program funding, authorities, practices, or procedures; (6) the level, experience, and quality of personnel training; and (7) significant deficiencies in auditing practices. Revises requirements for estimating improper payments to require agency heads to: (1) produce a statistically valid estimate of the improper payments in their agencies; and (2) include such estimates in their annual financial statements. Expands agency reporting requirements on actions to reduce improper payments to require a statement of whether the agency has sufficient resources with respect to internal controls, human capital, and information systems and other infrastructure to prevent improper payments. Requires reports on actions to recover improper payments. Requires the Director of the Office of Management and Budget (OMB) to: (1) report each fiscal year to the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs on actions agencies have taken to report information relating to improper payments and to recover such payments; (2) prescribe guidance to agencies to implement requirements of this Act; and (3) develop specific criteria as to when an agency should be required to obtain an opinion on internal control over financial reporting. Requires agency heads to: (1) conduct recovery audits for agency programs that expend $1 million or more annually if such audits would be cost-effective; and (2) conduct financial management improvement programs that address problems that contribute directly to agency improper payments. Requires the Chief Financial Officers Council to conduct a study of the implementation and cost effectiveness of recovery audits and report on such study to the House Committee on Oversight and Government Reform, the Senate Committee on Homeland Security and Governmental Affairs, and the Comptroller General. (Sec. 3) Requires the Inspector General of each federal agency in each fiscal year to determine whether such agency is in compliance with the requirements of this Act and submit a report on that determination to the head of the agency, the House Committee on Oversight and Government Reform, the Senate Committee on Homeland Security and Governmental Affairs, and the Comptroller General. Deems an agency to be in compliance if such agency has conducted a program specific risk assessment and has published specified information, including improper payment estimates for all programs and activities, a corrective action plan, and improper payment reduction targets. Sets forth requirements for bringing noncompliant agencies into compliance. Authorizes the OMB Director to establish one or more pilot programs for testing accountability mechanisms for compliance with this Act and report to Congress on such programs. Requires the Chief Financial Officers Council and the Council of Inspectors General on Integrity and Efficiency to: (1) jointly examine the lessons learned in implementing the Chief Financial Officers Act of 1990 and identify reforms or improvements in federal financial management; and (2) report on such examination to the House Committee on Oversight and Government Reform, the Senate Committee on Homeland Security and Governmental Affairs, and the Comptroller General."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Improper Payments Elimination and Recovery Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Improper Payments Elimination and Recovery Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note) in order to prevent the loss of billions in taxpayer dollars.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:53:33-05:00"
+}

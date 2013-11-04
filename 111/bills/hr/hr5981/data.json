@@ -1,0 +1,200 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-30", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-07-30T10:01:00-04:00", 
+      "references": [], 
+      "text": "Mr. Frank (MA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-30T10:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6468-6469", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-30T10:01:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5981.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-30T10:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6468-6469", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-07-30T10:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-30", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-08-02", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-08-04", 
+      "references": [
+        {
+          "reference": "CR S6741", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-08-04", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-08-04", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-08-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-08-10", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-08-11", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-08-11", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "229", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-229.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5981-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "229"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-08-11", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-07-30T10:07:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-08-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-07-30", 
+  "number": "5981", 
+  "official_title": "To increase the flexibility of the Secretary of Housing and Urban Development with respect to the amount of premiums charged for FHA single family housing mortgage insurance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-08-11", 
+  "subjects": [
+    "Congressional oversight", 
+    "Government lending and loan guarantees", 
+    "Housing and community development", 
+    "Housing finance and home ownership"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-08-11", 
+    "text": "Amends the National Housing Act with respect to requirements for the insurance of mortgages secured by a one- to four-family dwelling which are obligations of the Mutual Mortgage Insurance Fund. (Sec. 1) Authorizes the Secretary of Housing and Urban Development (HUD) to establish and collect annual premium payments of up to 1.5% of the remaining insured principal balance on such a dwelling. (Currently the Secretary is required to establish and collect annual premium payments of up to .5% of the remaining insured principal balance.) Authorizes an annual premium of up to 1.55% of the remaining insured principal balance of any 30-year mortgage on such a dwelling involving an original principal obligation greater than 95% percent of such value. (Currently, an annual premium of up to 0.55% of the remaining insured principal balance on such a mortgage is required.) Authorizes the Secretary to adjust the amount of any initial or annual premium through notice published in the Federal Register or mortgagee letter, which shall establish the effective date of any such adjustment. (Sec. 2) Directs the Assistant Secretary of HUD who is the Federal Housing Commissioner to appear before specified congressional committees within 270 days after the enactment of this Act to discuss the finances, including premiums, of the Federal Housing Administration (FHA)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To increase the flexibility of the Secretary of Housing and Urban Development with respect to the amount of premiums charged for FHA single family housing mortgage insurance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:54:40-05:00"
+}

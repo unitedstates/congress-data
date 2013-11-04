@@ -1,0 +1,331 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-02", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-03-03", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-03-04", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Subcommittee on Health Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-04", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-04", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2009-03-23T19:55:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 111-44.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-23T19:55:00-04:00", 
+      "calendar": "Union", 
+      "number": "14", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 14.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2009-03-30T15:17:00-04:00", 
+      "references": [], 
+      "text": "Mr. Pallone moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-30T15:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4078-4079", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-30T15:17:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1246.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-30T15:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4078", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-03-30T15:24:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-03-31", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1246-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Braley, Bruce L.", 
+      "sponsored_at": "2009-03-04", 
+      "state": "IA", 
+      "thomas_id": "01845", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2009-03-04", 
+      "state": "FL", 
+      "thomas_id": "01839", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2009-03-02", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2009-03-04", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2009-03-03", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2009-03-04", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2009-03-03", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2009-03-03", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2009-03-03", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2009-03-03", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Sutton, Betty", 
+      "sponsored_at": "2009-03-02", 
+      "state": "OH", 
+      "thomas_id": "01870", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2009-03-04", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-03-30T15:24:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-03-02", 
+  "number": "1246", 
+  "official_title": "To amend the Public Health Service Act regarding early detection, diagnosis, and treatment of hearing loss.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3199-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s3199-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Early Hearing Detection and Intervention Act of 2009", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2009-03-30T15:24:00-04:00", 
+  "subjects": [
+    "Child health", 
+    "Department of Health and Human Services", 
+    "Executive agency funding and structure", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Hearing, speech, and vision care", 
+    "Medical education", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2009-03-30", 
+    "text": "Early Hearing Detection and Intervention Act of 2009 - Amends the Public Health Service Act to expand the newborns and infants hearing loss program to include diagnostic services among the services provided. Requires the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration (HRSA), to assist in the recruitment, retention, education, and training of qualified personnel and health care providers. Includes within the purposes of such program: (1) prompt evaluation and diagnosis of children referred from screening programs; (2) appropriate education, audiological, and medical interventions for children identified with hearing loss; (3) developing efficient models to ensure that newborns and infants who are identified with a hearing loss through screening receive follow-up by a qualified health care provider; and (4) ensuring an adequate supply of qualified personnel to meet the screening, evaluation, and early intervention needs of children. Requires the Director of the National Institutes of Health (NIH), acting through the Director of the National Institute on Deafness and Other Communication Disorders, to establish a postdoctoral fellowship program to foster research and development in the area of early hearing detection and intervention. Amends the definition of \"early intervention\" to require that families be given the opportunity to obtain the full range of appropriate early intervention services, educational and program placements, and other options for their child from highly qualified providers. Authorizes appropriations for FY2010-FY2015 for hearing screening programs and research."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Early Hearing Detection and Intervention Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Early Hearing Detection and Intervention Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Early Hearing Detection and Intervention Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Public Health Service Act regarding early detection, diagnosis, and treatment of hearing loss.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:52:30-05:00"
+}

@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-01-09", 
+      "committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-01-09", 
+      "in_committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "subcommittee": "Energy and Environment", 
+      "text": "Referred to the Subcommittee on Energy and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-09-09T11:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Tonko moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-09T11:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9355-9357", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-09T11:12:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 445.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-09T11:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9355-9356", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-09-09T11:19:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-10", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr445-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Energy and Environment", 
+      "subcommittee_id": "20"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2009-01-14", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "sponsored_at": "2009-01-14", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2009-01-09", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Brad", 
+      "sponsored_at": "2009-01-14", 
+      "state": "NC", 
+      "thomas_id": "01735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Peters, Gary C.", 
+      "sponsored_at": "2009-01-26", 
+      "state": "MI", 
+      "thomas_id": "01929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2009-01-09", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2009-01-09", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Wilson, Charles A.", 
+      "sponsored_at": "2009-01-14", 
+      "state": "OH", 
+      "thomas_id": "01869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2009-01-09", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-09-09T11:19:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-01-09", 
+  "number": "445", 
+  "official_title": "To establish a research, development, demonstration, and commercial application program to promote research of appropriate technologies for heavy duty plug-in hybrid vehicles, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s679-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s679-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2009-09-09T11:19:00-04:00", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Air quality", 
+    "Climate change and greenhouse gases", 
+    "Electric power generation and transmission", 
+    "Energy efficiency and conservation", 
+    "Energy research", 
+    "Energy storage, supplies, demand", 
+    "Hybrid, electric, and advanced technology vehicles", 
+    "Manufacturing", 
+    "Product development and innovation", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Science, technology, communications", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2009-09-09", 
+    "text": "Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009 - Directs the Secretary of Energy to establish a competitive research, development, demonstration, and commercial application program to provide between three and seven grants of up to $3 million per year each to applicants to carry out projects to advance research and development and to demonstrate technologies, including plug-in hybrid technology, for advanced heavy duty hybrid vehicles. Requires each grant recipient to be required to complete two phases: (1) phase one, research and demonstration of advanced hybrid technology by producing or retrofitting one or more advanced heavy duty hybrid vehicles; and (2) phase two, demonstration of advanced manufacturing processes and technologies by producing or retrofitting 50 advanced heavy duty hybrid vehicles. Directs the Secretary to: (1) conduct research into alternative power train designs for use in advanced heavy duty hybrid vehicles; and (2) establish a pilot program through the National Laboratories and Technology Centers of the Department of Energy to research and test the effects on the domestic electric power grid of the widespread use of plug-in hybrid vehicles, including plug-in hybrid vehicles that are advanced heavy duty hybrid vehicles. Authorizes appropriations for FY2010-FY2012. Amends the United States Energy Storage Competitiveness Act of 2007 to direct the Secretary to conduct an applied research program on energy storage systems to support vehicles with a gross weight over 16,000 pounds."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish a research, development, demonstration, and commercial application program to promote research of appropriate technologies for heavy duty plug-in hybrid vehicles, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:52:06-05:00"
+}

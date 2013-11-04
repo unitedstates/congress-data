@@ -1,0 +1,223 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-03-02", 
+      "committee": "Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-07-15", 
+      "references": [
+        {
+          "reference": "CR S7573", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-15", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7573", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2009-07-16T10:07:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-16", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-11-02T15:47:00-05:00", 
+      "references": [], 
+      "text": "Mr. Walz moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-02T15:47:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12165-12167", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-02T15:47:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 509.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-02T15:55:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-02T19:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12179", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-02T19:14:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H12165", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "834", 
+      "status": "PASSED:BILL", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 352 - 0 (Roll no. 834).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-11-02T19:14:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-02", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2009-11-04", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2009-11-11", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2009-11-11", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "98", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-98.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s509-111", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "98"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2009-11-11", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-11-02T19:14:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2009-07-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-03-02", 
+  "number": "509", 
+  "official_title": "A bill to authorize a major medical facility project at the Department of Veterans Affairs Medical Center, Walla Walla, Washington, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2009-11-11", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Health facilities and institutions", 
+    "Veterans' medical care", 
+    "Washington State"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2009-11-11", 
+    "text": "Authorizes the Secretary of Veterans Affairs (VA) to carry out a major medical facility project at the Department of Veterans Affairs Medical Center, Walla Walla, Washington. Authorizes appropriations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to authorize a major medical facility project at the Department of Veterans Affairs Medical Center, Walla Walla, Washington, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:53-05:00"
+}

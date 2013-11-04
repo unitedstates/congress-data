@@ -1,0 +1,228 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-10-29", 
+      "committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-11-17", 
+      "in_committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-11-17", 
+      "in_committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2009-12-01T18:39:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 111-345.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-01T18:40:00-05:00", 
+      "calendar": "Union", 
+      "number": "198", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 198.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2009-12-02T13:32:00-05:00", 
+      "references": [], 
+      "text": "Ms. Jackson-Lee moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-02T13:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H13415-13417", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-02T13:32:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3963.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-02T13:42:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H13415", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-12-02T13:42:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-03", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3963-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2009-10-29", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carney, Christopher P.", 
+      "sponsored_at": "2009-10-29", 
+      "state": "PA", 
+      "thomas_id": "01876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2009-10-29", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2009-10-29", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Richardson, Laura", 
+      "sponsored_at": "2009-11-18", 
+      "state": "CA", 
+      "thomas_id": "01883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-12-02T13:42:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-10-29", 
+  "number": "3963", 
+  "official_title": "To provide specialized training to Federal air marshals.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Criminal Investigative Training Restoration Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lungren, Daniel E.", 
+    "state": "CA", 
+    "thomas_id": "00717", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2009-12-02T13:42:00-05:00", 
+  "subjects": [
+    "Aviation and airports", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Homeland Security", 
+    "Employment and training programs", 
+    "Government employee pay, benefits, personnel management", 
+    "Law enforcement officers", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2009-12-02", 
+    "text": "Criminal Investigative Training Restoration Act - Directs the Federal Air Marshal Service to require federal air marshals hired after the enactment of this Act to complete the criminal investigative training program at the Federal Law Enforcement Training Center as part of their basic training. Excuses existing federal air marshals who have previously completed such program from repeating it. Requires any air marshal hired before the enactment of this Act who has not completed the program, however, to complete an alternative training program, as determined by the Federal Law Enforcement Center, that provides the training necessary to bridge the gap between the mixed basic police training, the federal air marshal programs already completed by the federal air marshal, and the training provided through the criminal investigative training program. Deems any such alternative program to have met the standards of the criminal investigative training program. Authorizes appropriations for FY2010 and FY2011."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Criminal Investigative Training Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Criminal Investigative Training Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Criminal Investigative Training Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide specialized training to Federal air marshals.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:53:48-05:00"
+}

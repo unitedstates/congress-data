@@ -1,0 +1,220 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-09-08", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-09-10", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "National Parks, Forests and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-11-17", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "National Parks, Forests and Public Lands", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-16", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Subcommittee on National Parks, Forests and Public Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-16", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-12-16", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2010-01-19T14:33:00-05:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-398.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-19T14:33:00-05:00", 
+      "calendar": "Union", 
+      "number": "235", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 235.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2010-01-19T14:43:00-05:00", 
+      "references": [], 
+      "text": "Ms. Bordallo moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-19T14:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H154-155", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H154", 
+          "type": "text of measure as reported in House"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-19T14:43:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3538.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-19T14:49:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-20T14:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H231", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-01-20T14:56:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "11", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 225 - 191 (Roll no. 11).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3538-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Minnick, Walter", 
+      "sponsored_at": "2009-09-08", 
+      "state": "ID", 
+      "thomas_id": "01918", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2010-01-20T14:56:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-09-08", 
+  "number": "3538", 
+  "official_title": "To authorize the continued use of certain water diversions located on National Forest System land in the Frank Church-River of No Return Wilderness and the Selway-Bitterroot Wilderness in the State of Idaho, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4474-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Idaho Wilderness Water Facilities Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Simpson, Michael K.", 
+    "state": "ID", 
+    "thomas_id": "01590", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2010-01-20T14:56:00-05:00", 
+  "subjects": [
+    "Idaho", 
+    "Licensing and registrations", 
+    "Public lands and natural resources", 
+    "Water storage", 
+    "Water use and supply", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2010-01-19", 
+    "text": "Idaho Wilderness Water Facilities Act - Directs the Secretary of Agriculture to issue a special use authorization to each of the 20 owners of a water storage, transport, or diversion facility located on National Forest System land in the Frank Church of No Return Wilderness and the Selway-Bitterroot Wilderness in Idaho for continued operation, maintenance, and reconstruction of such facility if it is determined that: (1) the facility was in existence on the date on which the land upon which it is located was designated as part of the National Wilderness Preservation System; (2) the facility has been in continuous use to deliver water for beneficial use on the owner's non-federal land since the date of designation; (3) the owner holds a valid water right for use of the water on such land under Idaho state law, with a priority date that predates such date; and (4) it is not practicable or feasible to relocate the facility to land outside of the wilderness and continue the beneficial use of water on the non-federal land. Requires the Secretary, in a special use authorization under this Act, to: (1) allow the use of motorized equipment and mechanized transport for operation, maintenance, or reconstruction of a facility, if it is determined that the use is necessary to continue delivery of water to the non-federal land for beneficial uses and, after conducting a minimum tool analysis for a facility, that the use of nonmotorized equipment and nonmechanized transport is impracticable or infeasible; and (2) preclude use of the facility for the storage, diversion, or transport of water in excess of the water right. Allows the Secretary, in such an authorization, to: (1) require or allow modification or relocation of a facility in the wilderness, as determined necessary, to reduce impacts to wilderness values if the beneficial use of water on the non-federal land is not diminished; and (2) require that the owner provide a reciprocal right of access across the non-federal property, in which case the owner shall receive market value for any right-of-way or other interest in real property conveyed to the United States. Permits the market value to be paid by the Secretary, in whole or in part, by the grant of a reciprocal right-of-way or by reduction of fees or other costs that may accrue to the owner in obtaining an authorization for water facilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Idaho Wilderness Water Resources Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Idaho Wilderness Water Facilities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize the continued use of certain water diversions located on National Forest System land in the Frank Church-River of No Return Wilderness and the Selway-Bitterroot Wilderness in the State of Idaho, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:53:37-05:00"
+}

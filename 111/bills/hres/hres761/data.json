@@ -1,0 +1,447 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-09-22", 
+      "committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-10-21T12:06:00-04:00", 
+      "references": [], 
+      "text": "Ms. Watson moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-10-21T12:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11542-11545", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-10-21T12:06:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 761.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-10-21T12:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11542-11543", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-10-21T12:24:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres761-111", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Arcuri, Michael A.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NY", 
+      "thomas_id": "01867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2009-09-22", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E. \"Gerry\"", 
+      "sponsored_at": "2009-09-22", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2009-09-22", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Delahunt, Bill", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MA", 
+      "thomas_id": "01480", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Dreier, David", 
+      "sponsored_at": "2009-09-22", 
+      "state": "CA", 
+      "thomas_id": "00317", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2009-10-20", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2009-09-22", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2009-09-22", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Hare, Phil", 
+      "sponsored_at": "2009-09-22", 
+      "state": "IL", 
+      "thomas_id": "01849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Klein, Ron", 
+      "sponsored_at": "2009-09-22", 
+      "state": "FL", 
+      "thomas_id": "01842", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "McMahon, Michael E.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NY", 
+      "thomas_id": "01941", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Brad", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NC", 
+      "thomas_id": "01735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Olver, John W.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MA", 
+      "thomas_id": "00879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "2009-09-22", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2009-09-22", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2009-09-22", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2009-09-22", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Sires, Albio", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tierney, John F.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "MA", 
+      "thomas_id": "01535", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Watson, Diane E.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "CA", 
+      "thomas_id": "01682", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2009-09-22", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-10-21T12:24:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-09-22", 
+  "number": "761", 
+  "official_title": "Remembering and commemorating the lives and work of Jesuit Fathers Ignacio Ellacuria, Ignacio Martin-Baro, Segundo Montes, Amando Lopez, Juan Ramon Moreno, Joaquin Lopez y Lopez, and housekeeper Julia Elba Ramos and her daughter Celina Mariset Ramos on the occasion of the 20th anniversary of their deaths at the University of Central America Jose Simeon Canas located in San Salvador, El Salvador on November 16, 1989.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres321-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "thomas_id": "01504", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2009-10-21T12:24:00-04:00", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Conflicts and wars", 
+    "Congressional committees", 
+    "Congressional tributes", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Economic development", 
+    "Educational facilities and institutions", 
+    "El Salvador", 
+    "Elementary and secondary education", 
+    "Food assistance and relief", 
+    "Government investigations", 
+    "Higher education", 
+    "House of Representatives", 
+    "Human rights", 
+    "International affairs", 
+    "Latin America", 
+    "Massachusetts", 
+    "Members of Congress", 
+    "Reconstruction and stabilization", 
+    "Religion", 
+    "Rule of law and government transparency", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2009-10-21", 
+    "text": "Commemorates the lives and work of Jesuit Fathers Ignacio Ellacuria, Ignacio Martin-Baro, Segundo Montes, Amando Lopez, Juan Ramon Moreno, Joaquin Lopez y Lopez, and housekeeper Julia Elba Ramos and her daughter Celina Mariset Ramos who were executed by members of the Salvadoran Army on November 16, 1989, at the University of Central America Jose Simeon Canas (UCA) in San Salvador, El Salvador. Extends sympathy to their families, friends, colleagues, and religious communities. Recognizes the continuing academic, spiritual, and social contributions of the UCA. Recognizes the 28 Jesuit colleges and universities in this country for their solidarity with the UCA and annual remembrances of those killed 20 years ago. Remembers the seminal reports by Chairman John Joseph Moakley and the Speaker's Special Task Force on El Salvador in investigating the murders. Acknowledges the role played by the Speaker's Special Task Force, Congressman John Joseph Moakley, the Jesuit leadership of the UCA, and the Salvadoran judicial investigation and convictions in advancing negotiations to end the war. Highlights the solidarity demonstrated by the people of this country, schools, and churches through their participation in local, national, and international events commemorating the 20th anniversary of the murders. Recognizes that, despite significant post-war progress, the social and economic hardships which the murdered individuals dedicated their lives to alleviating persist among many sectors of Salvadoran society. Supports public, private, nongovernmental, and religious efforts to fulfill the legacy of the murdered Jesuits by reducing poverty and hunger and promoting educational opportunity, human rights, the rule of law, and social equity for Salvadorans."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Remembering and commemorating the lives and work of Jesuit Fathers Ignacio Ellacuria, Ignacio Martin-Baro, Segundo Montes, Amando Lopez, Juan Ramon Moreno, Joaquin Lopez y Lopez, and housekeeper Julia Elba Ramos and her daughter Celina Mariset Ramos on the occasion of the 20th anniversary of their deaths at the University of Central America Jose Simeon Canas located in San Salvador, El Salvador on November 16, 1989.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:51:25-05:00"
+}

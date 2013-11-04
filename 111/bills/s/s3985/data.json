@@ -1,0 +1,237 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-11-29", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-11-30", 
+      "calendar": "Senate Legislative", 
+      "number": "655", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 655.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2010-12-06", 
+      "references": [
+        {
+          "reference": "CR S8552", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-06", 
+      "references": [
+        {
+          "reference": "CR S8627-8628", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the bill presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-06", 
+      "references": [], 
+      "text": "Motion to proceed to consideration of measure withdrawn in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-12-08", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S8627-8628", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8627", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "267", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed to the bill not invoked in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 267.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3985-111", 
+  "bill_type": "s", 
+  "committees": [], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2010-11-29", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2010-11-29", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2010-11-29", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2010-11-29", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "2010-11-29", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2010-11-29", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2010-11-29", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2010-11-29", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2010-11-29", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2010-11-29", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2010-11-29", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2010-12-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-11-29", 
+  "number": "3985", 
+  "official_title": "A bill to amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3976-111", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Emergency Senior Citizens Relief Act of 2010", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2010-12-08", 
+  "subjects": [
+    "Appropriations", 
+    "Computers and information technology", 
+    "Disability assistance", 
+    "Employee benefits and pensions", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Income tax credits", 
+    "Railroads", 
+    "Social security and elderly assistance", 
+    "Social welfare", 
+    "Transportation employees", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2010-11-29", 
+    "text": "Emergency Senior Citizens Relief Act of 2010 - Amends the Assistance for Unemployed Workers and Struggling Families Act, title II of the American Recovery and Reinvestment Tax Act of 2009, to extend: (1) through 2011 the $250 economic recovery payments to recipients of Social Security, Supplemental Security Income (SSI) (title XVI of the Social Security Act), railroad retirement benefits, and veterans disability compensation or pension benefits; and (2) through 2011 the special tax credit for certain government retirees. Makes additional appropriations through FY2013 to cover such payments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Emergency Senior Citizens Relief Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:51:02-05:00"
+}

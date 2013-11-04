@@ -1,0 +1,235 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-07-24", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-07-28T16:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Tanner moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-28T16:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8911-8912", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-28T16:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3325.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-28T16:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8911", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-07-28T16:22:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-07-29", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-08-06", 
+      "references": [
+        {
+          "reference": "CR S9059", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-08-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2009-08-06", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2009-08-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-09-10", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2009-09-18", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2009-09-18", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "63", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-63.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3325-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2009-07-28", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2009-07-24", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "63"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2009-09-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-07-28T16:22:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2009-08-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-07-24", 
+  "number": "3325", 
+  "official_title": "To amend title XI of the Social Security Act to reauthorize for 1 year the Work Incentives Planning and Assistance program and the Protection and Advocacy for Beneficiaries of Social Security program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "WIPA and PABSS Reauthorization Act of 2009", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Tanner, John S.", 
+    "state": "TN", 
+    "thomas_id": "01137", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2009-09-18", 
+  "subjects": [
+    "Disability assistance", 
+    "Employment and training programs", 
+    "Executive agency funding and structure", 
+    "Social Security Administration", 
+    "Social security and elderly assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2009-09-18", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) WIPA and PABSS Reauthorization Act of 2009 - Amends the Social Security Act to extend through FY2010 the authorization of appropriations for the Work Incentives Planning and Assistance (WIPA) and the Protection and Advocacy for Beneficiaries of Social Security (PABSS) programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "WIPA and PABSS Reauthorization Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "WIPA and PABSS Reauthorization Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "WIPA and PABSS Reauthorization Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "WIPA and PABSS Reauthorization Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title XI of the Social Security Act to reauthorize for 1 year the Work Incentives Planning and Assistance program and the Protection and Advocacy for Beneficiaries of Social Security program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:53:31-05:00"
+}

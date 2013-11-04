@@ -1,0 +1,224 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-05-05", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-05-20", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-20", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2009-06-12T13:36:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 111-150.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-12T13:36:00-04:00", 
+      "calendar": "Union", 
+      "number": "74", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 74.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2009-06-15T17:01:00-04:00", 
+      "references": [], 
+      "text": "Mr. Cohen moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-15T17:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6773-6775", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-15T17:02:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2247.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-15T17:06:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-16T14:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6849", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-16T14:33:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 6/15/2009 H6773-6774", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "343", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 343).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2009-06-16T14:33:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-06-17", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2247-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2009-05-05", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2009-05-05", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2009-05-05", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2009-06-16T14:33:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-05-05", 
+  "number": "2247", 
+  "official_title": "To amend title 5, United States Code, to make technical amendments to certain provisions of title 5, United States Code, enacted by the Congressional Review Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Congressional Review Act Improvement Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2009-06-16T14:33:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2009-06-16", 
+    "text": "Congressional Review Act Improvement Act - Eliminates a requirement that federal agencies must submit specified information about a rule to both Houses of Congress before such rule can take effect (thus requiring that the information be submitted to only the Comptroller General). Requires the Comptroller General to submit to each House a weekly report containing a list of the rules received, including a notation identifying each major rule. Requires the Speaker of the House of Representatives to publish such report in the Congressional Record."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Congressional Review Act Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Congressional Review Act Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Congressional Review Act Improvement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 5, United States Code, to make technical amendments to certain provisions of title 5, United States Code, enacted by the Congressional Review Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:52:59-05:00"
+}

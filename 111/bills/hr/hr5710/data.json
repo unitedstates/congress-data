@@ -1,0 +1,413 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-07-01", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-07-13", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-07-22", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-22", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-22", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2010-09-22T16:32:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-616.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-22T16:32:00-04:00", 
+      "calendar": "Union", 
+      "number": "358", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 358.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2010-09-22T17:24:00-04:00", 
+      "references": [], 
+      "text": "Mr. Pallone moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-22T17:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6850-6852", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-22T17:24:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5710.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-22T17:35:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-23T15:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6942-6943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-23T15:43:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 9/22/2010 H6850-6851", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "544", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 32 (Roll no. 544).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-09-23T15:43:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-24", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5710-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2010-07-01", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Gingrey, Phil", 
+      "sponsored_at": "2010-07-01", 
+      "state": "GA", 
+      "thomas_id": "01720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2010-07-01", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2010-07-01", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kagen, Steve", 
+      "sponsored_at": "2010-07-01", 
+      "state": "WI", 
+      "thomas_id": "01880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2010-07-26", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2010-07-01", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rogers, Mike J.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "MI", 
+      "thomas_id": "01651", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2010-09-22", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2010-07-01", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Stupak, Bart", 
+      "sponsored_at": "2010-07-01", 
+      "state": "MI", 
+      "thomas_id": "01123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Wilson, Charles A.", 
+      "sponsored_at": "2010-07-01", 
+      "state": "OH", 
+      "thomas_id": "01869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-09-23T15:43:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-07-01", 
+  "number": "5710", 
+  "official_title": "To amend and reauthorize the controlled substance monitoring program under section 399O of the Public Health Service Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3575-111", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "National All Schedules Prescription Electronic Reporting Reauthorization Act of 2010", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Whitfield, Ed", 
+    "state": "KY", 
+    "thomas_id": "01222", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2010-09-23T15:43:00-04:00", 
+  "subjects": [
+    "Congressional oversight", 
+    "Criminal justice information and records", 
+    "Drug trafficking and controlled substances", 
+    "Health", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Licensing and registrations", 
+    "Prescription drugs", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2010-09-23", 
+    "text": "National All Schedules Prescription Electronic Reporting Reauthorization Act of 2010 - Amends the National All Schedules Prescription Electronic Reporting Act of 2005 to include as a purpose of such Act to foster the establishment of state-administered controlled substance monitoring systems in order to ensure that appropriate law enforcement, regulatory, and state professional licensing authorities have access to prescription history information for the purposes of investigating drug diversion and prescribing and dispensing practices of errant prescribers or pharmacists. Amends the Public Health Service Act to revise and update the controlled substance monitoring program, including to: (1) allow grants to be used to maintain and operate existing state controlled substance monitoring programs; (2) require the Secretary of Health and Human Services (HHS) to redistribute any funds that are returned among the remaining grantees; (3) require a state to provide the Secretary with aggregate data and other information to enable the Secretary to evaluate the success of the state's program and to submit a progress report to Congress; and (4) expand the program to include any commonwealth or territory of the United States. Authorizes the Drug Enforcement Administration (DEA) or a state medicaid program or state health department receiving nonidentifiable information from a controlled substance monitoring database to make such information available to other entities for research purposes. Requires a state receiving a grant to: (1) facilitate prescriber use of the state's controlled substance monitoring system; and (2) educate prescribers on the benefits of the system both to them and society. Revises preferences for grants related to drug abuse to authorize the Secretary to give preference to eligible states or tribes that put forth a good faith effort to meet minimum requirements under the controlled substance monitoring program. Authorizes appropriations for FY2011-FY2013."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "National All Schedules Prescription Electronic Reporting Reauthorization Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "National All Schedules Prescription Electronic Reporting Reauthorization Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "National All Schedules Prescription Electronic Reporting Reauthorization Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend and reauthorize the controlled substance monitoring program under section 399O of the Public Health Service Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:54:34-05:00"
+}

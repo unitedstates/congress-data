@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-06-28", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-07-01T16:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Conyers moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-01T16:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5336-5340", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-01T16:17:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5609.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-01T16:52:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-01T17:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5341-5342", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-01T17:28:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5336-5337", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "425", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4 (Roll no. 425).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-07-01T17:28:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-01T17:28:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-13", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5609-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "McMahon, Michael E.", 
+      "sponsored_at": "2010-06-28", 
+      "state": "NY", 
+      "thomas_id": "01941", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-07-01T17:28:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-06-28", 
+  "number": "5609", 
+  "official_title": "To amend the Lobbying Disclosure Act of 1995 to prohibit any person from performing lobbying activities on behalf of a client which is determined by the Secretary of State to be a State sponsor of terrorism.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Hall, John J.", 
+    "state": "NY", 
+    "thomas_id": "01865", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2010-07-01T17:28:00-04:00", 
+  "subjects": [
+    "Elections, voting, political campaign regulation", 
+    "Government operations and politics", 
+    "Public participation and lobbying", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2010-07-01", 
+    "text": "Amends the Lobbying Disclosure Act of 1995 to prohibit anyone from performing lobbying activities on behalf of a client which is a country whose government the Secretary of State has determined has repeatedly provided support for acts of international terrorism."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Federal Election Campaign Act of 1971 to prohibit any registered lobbyist whose clients include foreign governments which are found to be sponsors of international terrorism or include other foreign nationals from making contributions and other campaign-related disbursements in elections for public office.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "To amend the Lobbying Disclosure Act of 1995 to prohibit any person from performing lobbying activities on behalf of a client which is determined by the Secretary of State to be a State sponsor of terrorism.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:54:31-05:00"
+}

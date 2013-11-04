@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "acted_at": "2010-09-23", 
+      "references": [
+        {
+          "reference": "CR E1729", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-23", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-09-28", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-28T17:00:00-04:00", 
+      "references": [], 
+      "text": "Mr. Tanner moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-28T17:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7063-7064", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-28T17:00:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6200.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-28T17:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7063-7064", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-09-28T17:02:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-09-29", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7763", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-09-29", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-09-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-10-01", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-10-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-10-13", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "280", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-280.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6200-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2010-09-23", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2010-09-23", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "280"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-10-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-09-28T17:02:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-09-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2010-09-23", 
+  "number": "6200", 
+  "official_title": "To amend part A of title XI of the Social Security Act to provide for a 1-year extension of the authorizations for the Work Incentives Planning and Assistance program and the Protection and Advocacy for Beneficiaries of Social Security program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "WIPA and PABSS Extension Act of 2010", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pomeroy, Earl", 
+    "state": "ND", 
+    "thomas_id": "00922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-10-13", 
+  "subjects": [
+    "Disability assistance", 
+    "Employment and training programs", 
+    "Social security and elderly assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-10-13", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) WIPA and PABSS Extension Act of 2010 - Amends part A of title XI of the Social Security Act to extend through FY2011 the authorization of appropriations for the Work Incentives Planning and Assistance (WIPA) program and the Protection and Advocacy for Beneficiaries of Social Security (PABSS) Program. Requires each entity awarded a grant, cooperative agreement, or contract under the WIPA Program to report annually to the Commissioner of Social Security on the benefits planning and assistance provided to individuals under such grant, agreement, or contract. Requires up to 10% of the total amount obligated through a grant, cooperative agreement, or contract awarded under the WIPA Program for a fiscal year to a state, private agency, or organization to remain available until the end of the succeeding fiscal year. Limits the extended availability of such amount, however, to benefits planning and assistance only for individuals who are within the grant, agreement, or contract recipient's caseload as of immediately before the beginning of such fiscal year."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "WIPA and PABSS Extension Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "WIPA and PABSS Extension Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "WIPA and PABSS Extension Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "WIPA and PABSS Extension Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend part A of title XI of the Social Security Act to provide for a 1-year extension of the authorizations for the Work Incentives Planning and Assistance program and the Protection and Advocacy for Beneficiaries of Social Security program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:54:45-05:00"
+}

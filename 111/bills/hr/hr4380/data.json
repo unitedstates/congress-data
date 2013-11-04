@@ -1,0 +1,244 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-12-16", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-12-16", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Trade", 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2010-07-21T10:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Levin moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-21T10:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5825-5852", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-21T10:35:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4380.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-21T11:16:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-21T14:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5884", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-21T14:16:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5825-5846", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "456", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 43 (Roll no. 456).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2010-07-21T14:16:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-22", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6341", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2010-07-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-07-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2010-07-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2010-08-11", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2010-08-11", 
+      "congress": "111", 
+      "law": "public", 
+      "number": "227", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 111-227.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4380-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2009-12-16", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "111", 
+    "law_type": "public", 
+    "number": "227"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2010-08-11", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2010-07-21T14:16:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2010-07-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-12-16", 
+  "number": "4380", 
+  "official_title": "To amend the Harmonized Tariff Schedule of the United States to modify temporarily certain rates of duty, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "United States Manufacturing Enhancement Act of 2010", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Levin, Sander M.", 
+    "state": "MI", 
+    "thomas_id": "00683", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2010-08-11", 
+  "subjects": [
+    "Foreign trade and international finance", 
+    "Tariffs", 
+    "Tax administration and collection, taxpayers", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2010-07-27", 
+    "text": "United States Manufacturing Enhancement Act of 2010 - Title I: New Duty Suspensions and Reductions - (Sec. 1004) Amends the Harmonized Tariff Schedule of the United States to provide for duty suspensions and reductions through December 31, 2012, for specified chemicals and other products. Title II: Existing Duty Suspensions and Reductions - (Sec. 2001) Extends existing suspensions and reductions of duties through December 31, 2012, for other specified chemicals and products. Imposes, suspends, and increases and/or decreases the duty on certain chemicals through December 31, 2012. Extends, through December 31, 2012, the suspension of duty on certain products. Imposes, through December 31, 2012, a duty on: (1) brakes designed for bicycles; and (2) certain 12V lead-acid storage batteries. Suspends, through December 31, 2012, the duty on: (1) certain catalytic converter mats of ceramic fibers; and (2) certain herbicides. Extends the duty on aspirin through December 31, 2012. Title III: Additional Existing Duty Suspensions and Reductions - (Sec. 3001) Extends existing suspensions and reductions of duties through December 31, 2012, for certain additional chemicals and products. Imposes, suspends, and increases and/or decreases the duty on certain chemicals and products through December 31, 2012. (Sec. 3002) Directs the U.S. Customs and Border Protection (CBP) to liquidate or reliquidate entries of articles (as amended by titles II and III) which were made on or after January 1, 2010, and before the 15th day after enactment of this Act, and with respect to which there would have been no duty or a reduced duty if the amendments applied to such entries, as though the entries had been made on the 15th day after enactment of this Act. Title IV: Customs User Fees; Time for Payment of Corporate Estimated Taxes; PAYGO Compliance - (Sec. 4001) Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA) to extend certain customs fees for the processing of merchandise entered into the United States through December 10, 2018, and November 30, 2018, respectively. (Sec. 4002) Amends the Hiring Incentives to Restore Employment Act to increase required estimated tax payments of corporations with at least $1 billion in assets in the third quarter of 2015 by 0.5% to 122.0% of such amount."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Miscellaneous Trade and Technical Corrections Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "United States Manufacturing Enhancement Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "United States Manufacturing Enhancement Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "United States Manufacturing Enhancement Act of 2010", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Harmonized Tariff Schedule of the United States to modify temporarily certain rates of duty, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:53:59-05:00"
+}

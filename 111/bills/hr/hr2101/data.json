@@ -1,0 +1,364 @@
+{
+  "actions": [
+    {
+      "acted_at": "2009-04-27", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2009-05-07", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-07", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2009-05-12T12:35:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Armed Services. H. Rept. 111-101.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-12T12:35:00-04:00", 
+      "calendar": "Union", 
+      "number": "47", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 47.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2009-05-13T17:26:00-04:00", 
+      "bill_ids": [
+        "hres432-111"
+      ], 
+      "references": [
+        {
+          "reference": "CR H5539", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Pursuant to the provisions of H. Res. 432, H.R. 2101 is considered passed House as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2009-05-13T17:27:00-04:00", 
+      "bill_ids": [
+        "s454-111"
+      ], 
+      "references": [], 
+      "text": "Laid on the table. See S.454 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2101-111", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "111", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2009-05-07", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Akin, W. Todd", 
+      "sponsored_at": "2009-04-30", 
+      "state": "MO", 
+      "thomas_id": "01655", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2009-04-27", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bartlett, Roscoe G.", 
+      "sponsored_at": "2009-04-30", 
+      "state": "MD", 
+      "thomas_id": "00060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2009-04-27", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2009-04-27", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2009-04-27", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2009-04-30", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2009-04-27", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kissell, Larry", 
+      "sponsored_at": "2009-05-04", 
+      "state": "NC", 
+      "thomas_id": "01934", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2009-05-04", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2009-05-06", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Marshall, Jim", 
+      "sponsored_at": "2009-05-04", 
+      "state": "GA", 
+      "thomas_id": "01718", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Massa, Eric J. J.", 
+      "sponsored_at": "2009-04-27", 
+      "state": "NY", 
+      "thomas_id": "01945", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "McHugh, John M.", 
+      "sponsored_at": "2009-04-27", 
+      "state": "NY", 
+      "thomas_id": "00773", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2009-05-06", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sestak, Joe", 
+      "sponsored_at": "2009-04-27", 
+      "state": "PA", 
+      "thomas_id": "01874", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Shea-Porter, Carol", 
+      "sponsored_at": "2009-04-27", 
+      "state": "NH", 
+      "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snyder, Vic", 
+      "sponsored_at": "2009-04-27", 
+      "state": "AR", 
+      "thomas_id": "01530", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "2009-04-27", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Tauscher, Ellen O.", 
+      "sponsored_at": "2009-04-27", 
+      "state": "CA", 
+      "thomas_id": "01533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Taylor, Gene", 
+      "sponsored_at": "2009-04-30", 
+      "state": "MS", 
+      "thomas_id": "01142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "sponsored_at": "2009-04-30", 
+      "state": "VA", 
+      "thomas_id": "01886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2009-04-27", 
+  "number": "2101", 
+  "official_title": "To promote reform and independence in the oversight of weapons system acquisition by the Department of Defense.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres432-111", 
+      "reason": "unknown"
+    }, 
+    {
+      "bill_id": "s454-111", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s454-111", 
+      "reason": "unknown"
+    }
+  ], 
+  "short_title": "Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Oversight Act of 2009", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Skelton, Ike", 
+    "state": "MO", 
+    "thomas_id": "01064", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2009-05-07", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Defense", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Military procurement, research, weapons development", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Technology assessment"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2009-05-12", 
+    "text": "Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Oversight Act of 2009 - Title I: Acquisition Organization - (Sec. 101) Directs the Secretary of Defense to designate an official within the Office of the Secretary of Defense as the principal advisor to the Secretary for each of the following Department of Defense (DOD) acquisition oversight functions: (1) cost estimation; (2) systems engineering; (3) performance assessment; and (4) such other functions as considered appropriate by the Secretary. (Sec. 102) Requires the official assigned oversight of cost estimation to issue policies, procedures, guidance, and cost estimates in connection with DOD acquisition programs and major defense acquisition programs (MDAPs). Directs the Secretary to ensure that the official so designated: (1) receives all cost estimates, analyses, and studies conducted by the military departments for MDAPs and major automated information systems; and (2) is involved in all discussions relating to cost estimation for MDAPs and major automated information systems at all stages of such programs. Requires such official to: (1) disclose the confidence level used in establishing a baseline estimate for an MDAP; and (2) report annually to the defense and appropriations committees on cost estimation activities. (Sec. 103) Requires the official assigned oversight of systems engineering to: (1) issue policies, procedures, and guidance for DOD use of systems engineering; (2) provide input on the inclusion of systems engineering requirements in the process for consideration of joint military requirements by the Joint Requirements Oversight Council (JROC); (3) review and approve, with respect to each MDAP, the systems engineering master plan and the developmental test and evaluation plan; and (4) report annually to the defense and appropriations committees on systems engineering activities. (Sec. 104) Requires the official assigned oversight of performance assessment to: (1) issue policies, procedures, and guidance governing the conduct of performance assessments for DOD acquisition programs; (2) periodically assess the suitability of MDAP baseline descriptions for providing a basis for performance assessment; (3) be responsible for management and oversight of records of the DOD earned value management system; (4) participate in certain MDAP program reviews; and (5) report annually to the defense and appropriations committees on performance assessment activities. (Sec. 105) Requires the Director of Defense Research and Engineering to: (1) periodically review and assess the technological maturity and integration risk of MDAP critical technologies; (2) report annually to the Secretary and the defense and appropriations committees on such review and assessment; and (3) report to such committees on any additional resources that may be required to implement recommendations made after such reviews and assessments. (Sec. 106) Directs the: (1) JROC to seek and consider input from commanders of combatant commands in identifying joint military requirements; and (2) Comptroller General (CG) to report to the defense committees on the implementation of such requirement. Title II: Acquisition Policy - (Sec. 201) Directs the Secretary to ensure that the acquisition strategy for each MDAP includes: (1) measures to ensure competition at both the prime contract and subcontract level of the MDAP throughout its life-cycle as a means to improve contractor performance; and (2) adequate documentation of the rationale for selection of the subcontractor tier or tiers. Outlines measures to ensure such competition. Requires the Secretary to ensure that, with respect to maintenance of an MDAP, consideration is given to DOD capabilities to perform maintenance functions. (Sec. 202) Directs the milestone decision authority (MDA) for an MDAP who waives certain program certification requirements normally necessary before Milestone B or Key Decision Point B approval to, at least annually, review that MDAP to determine its satisfaction with the waived requirements. Requires the current certification status of such MDAPs to be included in annual DOD budget justification documents. Requires the MDA for an MDAP to have received a preliminary design review and conducted a formal post-preliminary design review assessment before an MDAP may receive Milestone B or Key Decision Point B approval. Directs the MDA, for each MDAP that has not received Milestone C or Key Decision Point C approval, to: (1) determine whether or not the program satisfies specified certification components; and (2) annually review progress in satisfying such components. Requires the current certification status of such MDAPs to be included in annual DOD budget justification documents. Directs the official assigned oversight of performance assessment, with respect to MDAPs that are restructured after experiencing critical cost growth and certified as necessary to continue, to annually review and assess the MDAP's success in achieving adequate program performance. (Sec. 203) Requires certain MDA certification with respect to MDAPs that have not received Milestone B or Key Decision Point B approval, including that the program: (1) fulfills an approved initial capabilities document; and (2) is being executed by an entity with a relevant core competency identified by the Secretary. Directs the MDA to report to the defense and appropriations committees with respect to cost growth or schedule delays under such MDAPs. (Sec. 204) Directs the Secretary, if the acquisition or procurement unit cost of an MDAP or designated major subprogram increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, to: (1) determine the root cause or causes for the cost growth; (2) determine whether to terminate or restructure the program or subprogram; and (3) submit such determinations to Congress. Allows a program or subprogram to be restructured only under limited conditions, including a certification that the program is essential to national security and that there are no alternatives which will provide acceptable military capability at less cost. Provides that when a program is restructured, the next Selected Acquisition Report for the program after the restructuring shall contain a description of all funding changes in the budget as a result of the program's cost growth. (Sec. 205) Directs the Panel on Contracting Integrity (established under the John Warner National Defense Authorization Act for Fiscal Year 2007) to present recommendations to the Secretary on measures to eliminate or mitigate organizational conflicts of interest in the acquisition of major weapons systems. Requires the Secretary to revise the Defense Supplement to the Federal Acquisition Regulation to address such conflicts. Directs the Panel to continue to serve until at least the end of 2011. (Sec. 206) Directs the Secretary to carry out a program to recognize excellent performance by individuals and teams of members of the Armed Forces and civilian DOD personnel in the acquisition of products and services for DOD. Authorizes cash bonuses as part of the program. (Sec. 207) Requires the CG to: (1) review DOD use of certain mechanisms for considering tradeoffs among cost, schedule, and performance in the acquisition of major weapon systems; and (2) report review results to the defense and appropriations committees."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Oversight Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Oversight Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Oversight Act of 2009", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To promote reform and independence in the oversight of weapons system acquisition by the Department of Defense.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:52:55-05:00"
+}
