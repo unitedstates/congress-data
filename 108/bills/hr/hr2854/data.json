@@ -1,0 +1,243 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-24", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-07-25T18:37:00-04:00", 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T18:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7715-7716", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T18:38:00-04:00", 
+      "references": [], 
+      "text": "Mr. Tauzin asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T18:38:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7715-7716", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-07-25T18:38:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-28", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-31", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR 8/1/2003 S10847", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-07-31", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-08-01", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-08-07", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-08-08", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-08-15", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-08-15", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "74", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-74.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2854-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2003-07-24", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2003-07-24", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2003-07-24", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "74"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-08-15", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-07-25T18:38:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-07-31", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-07-24", 
+  "number": "2854", 
+  "official_title": "To amend title XXI of the Social Security Act to extend the availability of allotments for fiscal years 1998 through 2001 under the State Children's Health Insurance Program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr531-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s312-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Tauzin, W. J. (Billy)", 
+    "state": "LA", 
+    "thomas_id": "01140", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-08-15", 
+  "subjects": [
+    "Child health", 
+    "Economics and public finance", 
+    "Families", 
+    "Federal aid to child health services", 
+    "Government operations and politics", 
+    "Health", 
+    "Health insurance", 
+    "Intergovernmental fiscal relations", 
+    "Medicaid", 
+    "Medically uninsured", 
+    "Poor children", 
+    "Social welfare", 
+    "Welfare waivers"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-08-15", 
+    "text": "Amends title XXI (State Children's Health Insurance Program) (SCHIP) of the Social Security Act (SSA) to revise the special rule for the redistribution and availability of unexpended FY1998 and 1999 SCHIP allotments, including to: (1) extend the availability of FY 1998 and 1999 reallocated funds through FY 2004; and (2) permit 50 percent of the total amount of unexpended FY 2000 and 2001 SCHIP allotments that remain available to a State through the end of FY 2002 and 2003 to remain available for expenditure by the State through the end of FY 2004 and 2005, respectively. Makes this amendment effective as though it had been enacted on September 30, 2002. Grants authority to qualifying States, with respect to FY 1998 through 2001 SCHIP allotments, for fiscal years in which such allotments are available, to elect to use not more than 20 percent of them (instead of for expenditures under SCHIP) for Medicaid medical assistance payments with respect to certain children under SSA title XIX. Amends the Jobs and Growth Tax Relief Reconciliation Act of 2003 to make a technical amendment with respect to State eligibility for an increase in its Federal medical assistance percentage (FMAP) or an increase in the cap on Medicaid payments to territories. Makes this amendment effective as if included in the enactment of the Jobs and Growth Tax Relief Reconciliation Act of 2003."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend title XXI of the Social Security Act to extend the availability of allotments for fiscal years 1998 through 2001 under the State Children's Health Insurance Program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:55-05:00"
+}

@@ -1,0 +1,215 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-07-13", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-07-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks, Recreation and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks, Recreation and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-09-28T15:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Radanovich moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-28T15:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7674-7675", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-28T15:41:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4827.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-28T15:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7674", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-09-28T15:42:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-29", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-10", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11183", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-10-10", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-10-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-10-30", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2004-10-30", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "400", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-400.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4827-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Recreation, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Pombo, Richard W.", 
+      "sponsored_at": "2004-07-13", 
+      "state": "CA", 
+      "thomas_id": "00921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "400"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2004-10-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-09-28T15:42:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-10-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-07-13", 
+  "number": "4827", 
+  "official_title": "To amend the Colorado Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000 to rename the Colorado Canyons National Conservation Area as the McInnis Canyons National Conservation Area.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2745-108", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "thomas_id": "01596", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2004-10-30", 
+  "subjects": [
+    "Colorado", 
+    "Congress", 
+    "Congressional tributes", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "Names", 
+    "Natural areas", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2004-10-30", 
+    "text": "Amends the Colorado Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000 to rename the Colorado Canyons National Conservation Area as the McInnis Canyons National Conservation Area."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Colorado Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000 to rename the Colorado Canyons National Conservation Area as the McInnis Canyons National Conservation Area.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:53-05:00"
+}

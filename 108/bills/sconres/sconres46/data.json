@@ -1,0 +1,215 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S6786", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6786", 
+          "type": "text as passed Senate"
+        }, 
+        {
+          "reference": "CR S6717", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-05-20", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-20T20:06:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-20T20:22:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-21T11:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hyde asked unanimous consent to take the concurrent resolution from the Speaker's table and that it be agreed to. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-21T19:13:00-04:00", 
+      "bill_ids": [
+        "scres46-108"
+      ], 
+      "references": [], 
+      "text": "PROCEEDINGS VACATED - Mr. Hunter asked unanimous consent that the proceedings by which S. Con. Res. 46 was adopted from earlier in the day, be vitiated to the extent that the concurrent resolution be considered and adopted with an amendment. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-21T19:13:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hunter asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-21T19:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4382", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-21T19:15:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H4382", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-05-21T19:16:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-22", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-22", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S6918-6919", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR S6918", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Senate agreed to House amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-05-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h148-108", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "148"
+    }
+  ], 
+  "bill_id": "sconres46-108", 
+  "bill_type": "sconres", 
+  "committees": [], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Daschle, Thomas A.", 
+      "sponsored_at": "2003-05-20", 
+      "state": "SD", 
+      "thomas_id": "00267", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-05-21T19:15:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-05-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-05-20", 
+  "number": "46", 
+  "official_title": "A concurrent resolution to correct the enrollment of H.R. 1298.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1298-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1298-108", 
+      "reason": "unknown"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "2003-05-22", 
+  "subjects": [
+    "AIDS (Disease)", 
+    "Congress", 
+    "Health", 
+    "International affairs", 
+    "Legislation", 
+    "Malaria", 
+    "Senate", 
+    "Tuberculosis"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2003-05-21", 
+    "text": "Directs the Clerk of the House of Representatives to make corrections in the enrollment of H.R. 1298 (providing assistance to foreign countries to combat HIV/AIDS, tuberculosis, and malaria)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution to correct the enrollment of H.R. 1298.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:34-05:00"
+}

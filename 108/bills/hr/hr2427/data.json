@@ -1,0 +1,725 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-11", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-06-24", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-07-24T02:48:00-04:00", 
+      "bill_ids": [
+        "hres335-108"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 335 Reported to House. Rule provides for consideration of H.R. 2427.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-24T20:22:00-04:00", 
+      "bill_ids": [
+        "hres335-108"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 335 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T01:01:00-04:00", 
+      "bill_ids": [
+        "hres335-108"
+      ], 
+      "references": [
+        {
+          "reference": "CR H7595-7611", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 335.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T01:01:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 2427.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T01:02:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 2427.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T02:34:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T02:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7610", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7595-7596", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Dingell moved to recommit to Energy and Commerce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T02:35:00-04:00", 
+      "references": [], 
+      "text": "The previous question on the motion to recommit was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T02:36:00-04:00", 
+      "references": [], 
+      "text": "On motion to recommit Failed by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T02:52:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-25T02:52:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "445", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 243 - 186 (Roll no. 445).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-07-25", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2427-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Allen, Thomas H.", 
+      "sponsored_at": "2003-06-16", 
+      "state": "ME", 
+      "thomas_id": "01461", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bartlett, Roscoe G.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MD", 
+      "thomas_id": "00060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "2003-06-11", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2003-06-19", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brown, Henry E., Jr.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "SC", 
+      "thomas_id": "01669", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2003-06-11", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2003-07-18", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2003-07-18", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2003-06-19", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2003-06-24", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeMint, Jim", 
+      "sponsored_at": "2003-07-15", 
+      "state": "SC", 
+      "thomas_id": "01605", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Emanuel, Rahm", 
+      "sponsored_at": "2003-06-11", 
+      "state": "IL", 
+      "thomas_id": "01725", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2003-06-19", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2003-06-19", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "2003-07-23", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2003-06-11", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2003-06-16", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hoekstra, Peter", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MI", 
+      "thomas_id": "00547", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Istook, Ernest J., Jr.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "OK", 
+      "thomas_id": "00586", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Janklow, William J.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "SD", 
+      "thomas_id": "01746", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "King, Steve", 
+      "sponsored_at": "2003-06-16", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kingston, Jack", 
+      "sponsored_at": "2003-06-11", 
+      "state": "GA", 
+      "thomas_id": "00636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kleczka, Gerald D.", 
+      "sponsored_at": "2003-07-15", 
+      "state": "WI", 
+      "thomas_id": "00637", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2003-07-08", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2003-07-08", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2003-07-18", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Northup, Anne M.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "KY", 
+      "thomas_id": "01508", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Olver, John W.", 
+      "sponsored_at": "2003-07-18", 
+      "state": "MA", 
+      "thomas_id": "00879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Osborne, Tom", 
+      "sponsored_at": "2003-06-11", 
+      "state": "NE", 
+      "thomas_id": "01658", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "2003-06-11", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rehberg, Dennis R.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MT", 
+      "thomas_id": "01657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2003-06-11", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2003-07-08", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "2003-06-19", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2003-06-11", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2003-06-16", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2003-07-08", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Smith, Nick", 
+      "sponsored_at": "2003-06-11", 
+      "state": "MI", 
+      "thomas_id": "01080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2003-06-19", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Taylor, Charles H.", 
+      "sponsored_at": "2003-06-11", 
+      "state": "NC", 
+      "thomas_id": "01141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tierney, John F.", 
+      "sponsored_at": "2003-07-23", 
+      "state": "MA", 
+      "thomas_id": "01535", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Toomey, Patrick J.", 
+      "sponsored_at": "2003-06-24", 
+      "state": "PA", 
+      "thomas_id": "01594", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2003-06-24", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2003-07-08", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "2003-07-23", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-07-25T02:52:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-06-11", 
+  "number": "2427", 
+  "official_title": "To authorize the Secretary of Health and Human Services to promulgate regulations for the reimportation of prescription drugs, and for other purposes.", 
+  "popular_title": "Imports of Prescription Drugs bill", 
+  "related_bills": [
+    {
+      "bill_id": "hres335-108", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "s1781-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2137-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Pharmaceutical Market Access Act of 2003", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gutknecht, Gil", 
+    "state": "MN", 
+    "thomas_id": "00479", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2003-07-25T02:52:00-04:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Commerce", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Consumer protection", 
+    "Counterfeiting", 
+    "Crime and law enforcement", 
+    "Department of Health and Human Services", 
+    "Drug industry", 
+    "Drugs", 
+    "Foreign trade and international finance", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Governmental investigations", 
+    "Health", 
+    "Identification devices", 
+    "Import restrictions", 
+    "Imports", 
+    "Labeling", 
+    "Law", 
+    "Packaging", 
+    "Prescription pricing", 
+    "Product safety", 
+    "Science, technology, communications", 
+    "Sunset legislation"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2003-07-25", 
+    "text": "Pharmaceutical Market Access Act of 2003 - (Sec. 4) Amends the Federal Food, Drug and Cosmetic Act to direct the Secretary of Health and Human Services to promulgate regulations allowing qualifying individuals to import covered products (in addition to pharmacists and wholesalers, whom current law authorizes to import such products). Amends provision pertaining to record keeping regarding imported covered products. States that the Secretary shall not have to store records in cases in which qualifying individuals have imported a covered product. Amends provisions regarding the importation of covered products, including to remove language directing the Secretary to require that a foreign seller specify the original source of the product and the amount of each lot of the product originally received. Amends provisions regarding the testing of imported covered products. Declares that specified tests, including ones involving authenticity and degradation of products, shall not be required unless the importer is a wholesaler. Requires such tests to be conducted by the importer unless a product is a prescription drug subject to the provisions of this Act pertaining to counterfeit-resistant packaging. (Currently either the importer or the manufacturer may conduct such tests). Eliminates the sunset date current law establishes for the provisions pertaining to the importation of covered products. (Sec. 5) Classifies prescription drugs as misbranded if they do not incorporate specified counterfeit-resistant technologies in packaging."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Imports of Prescription Drugs bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Pharmaceutical Market Access Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Pharmaceutical Market Access Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize the Secretary of Health and Human Services to promulgate regulations for the reimportation of prescription drugs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:41-05:00"
+}

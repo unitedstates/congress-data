@@ -1,0 +1,269 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-01-08", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-02-12", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Fisheries Conservation, Wildlife and Oceans", 
+      "text": "Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-04-29T16:21:00-04:00", 
+      "references": [], 
+      "text": "Mr. Renzi moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-29T16:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3431-3432", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-29T16:22:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 274.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-29T16:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3431", 
+          "type": "text as passed House"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-04-29T16:25:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-30", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-07-30", 
+      "in_committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-10-30", 
+      "committee": "Environment and Public Works", 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 108-180.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2003-10-30", 
+      "calendar": "Senate Legislative", 
+      "number": "356", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2003-11-07", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S14279", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-11-07", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-11-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-13", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-11-22", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-11-22", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "131", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-131.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr274-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries Conservation, Wildlife, and Oceans", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "131"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-11-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-04-29T16:25:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-11-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-01-08", 
+  "number": "274", 
+  "official_title": "To authorize the Secretary of the Interior to acquire the property in Cecil County, Maryland, known as Garrett Island for inclusion in the Blackwater National Wildlife Refuge.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Blackwater National Wildlife Refuge Expansion Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gilchrest, Wayne T.", 
+    "state": "MD", 
+    "thomas_id": "00438", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-11-22", 
+  "subjects": [
+    "Animals", 
+    "Archaeology", 
+    "Arts, culture, religion", 
+    "Chesapeake Bay", 
+    "Commemorations", 
+    "Commerce", 
+    "Environmental protection", 
+    "Estuaries", 
+    "Habitat conservation", 
+    "Historic sites", 
+    "History", 
+    "Islands", 
+    "Land transfers", 
+    "Marine and coastal resources, fisheries", 
+    "Maryland", 
+    "Migratory bird conservation", 
+    "Public lands and natural resources", 
+    "Water resources development", 
+    "Wildlife refuges"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-11-22", 
+    "text": "Blackwater National Wildlife Refuge Expansion Act - Authorizes the Secretary of the Interior to acquire Garrett Island in Cecil County, Maryland, to be managed as a unit of the Blackwater National Wildlife Refuge."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Blackwater National Wildlife Refuge Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Blackwater National Wildlife Refuge Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Blackwater National Wildlife Refuge Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Blackwater National Wildlife Refuge Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Blackwater National Wildlife Refuge Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize the Secretary of the Interior to acquire the property in Cecil County, Maryland, known as Garrett Island for inclusion in the Blackwater National Wildlife Refuge.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:33:35-05:00"
+}

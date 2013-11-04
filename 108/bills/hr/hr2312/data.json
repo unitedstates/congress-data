@@ -1,0 +1,258 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-03", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-06-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Telecommunications and the Internet", 
+      "text": "Referred to the Subcommittee on Telecommunications and the Internet.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-06-12T18:41:00-04:00", 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-12T18:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Tauzin asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-12T18:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5342-5343", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-12T18:41:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H5342", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-06-12T18:41:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-17", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8315", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-06-20", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-06-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-24", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-06-30", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-06-30", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "39", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-39.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2312-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Telecommunications and the Internet", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "15", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2003-06-03", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2003-06-03", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "2003-06-03", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2003-06-03", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "39"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-06-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-06-12T18:41:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-06-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-06-03", 
+  "number": "2312", 
+  "official_title": "To amend the Communications Satellite of 1962 to provide for the orderly dilution of the ownership interest in Inmarsat by former signatories to the Inmarsat Operating Agreement.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "ORBIT Technical Corrections Act of 2003", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Shimkus, John", 
+    "state": "IL", 
+    "thomas_id": "01527", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-06-30", 
+  "subjects": [
+    "Commerce", 
+    "Communication satellites", 
+    "Finance and financial sector", 
+    "Privatization", 
+    "Science, technology, communications", 
+    "Securities", 
+    "Space activities", 
+    "Telecommunication industry"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-06-30", 
+    "text": "ORBIT Technical Corrections Act of 2003 - Amends the Communications Satellite Act of 1962 to: (1) extend until June 30, 2004, the deadline for conducting an initial public offering of securities for the successor entities of Inmarsat; and (2) allow the Federal Communications Commission to extend such deadline to not later than December 31, 2004."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "ORBIT Technical Corrections Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "ORBIT Technical Corrections Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "ORBIT Technical Corrections Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "ORBIT Technical Corrections Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Communications Satellite of 1962 to provide for the orderly dilution of the ownership interest in Inmarsat by former signatories to the Inmarsat Operating Agreement.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:38-05:00"
+}

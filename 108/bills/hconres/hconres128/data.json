@@ -1,0 +1,214 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-27", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-03-28", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-04-09", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-09", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-05-01T16:23:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation. H. Rept. 108-88.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-01T16:23:00-04:00", 
+      "calendar": "House", 
+      "number": "33", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 33.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2003-05-13T14:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Burgess moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-13T14:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3985-3986", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-13T14:43:00-04:00", 
+      "bill_ids": [
+        "hcres128-108"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 128.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-13T14:44:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3985", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-05-13T14:45:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-14", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-16", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR 5/15/2003 S6568-6569", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-05-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres128-108", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2003-03-27", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-05-13T14:44:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-05-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-03-27", 
+  "number": "128", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the D.C. Special Olympics Law Enforcement Torch Run.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "14", 
+    "name": "LaTourette, Steven C.", 
+    "state": "OH", 
+    "thomas_id": "00667", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2003-05-16", 
+  "subjects": [
+    "Capitol (Washington, D.C.)", 
+    "Congress", 
+    "Crime and law enforcement", 
+    "Disabled", 
+    "District of Columbia", 
+    "Law enforcement officers", 
+    "Olympic games", 
+    "Public lands and natural resources", 
+    "Running", 
+    "Sports and recreation"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2003-05-16", 
+    "text": "(This measure has not been amended since it was introduced in the House on March 27, 2003. The summary of that version is repeated here.)Authorizes the 2003 District of Columbia Special Olympics Law Enforcement Torch Run to be run through the Capitol grounds on June 6, 2003."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the use of the Capitol Grounds for the D.C. Special Olympics Law Enforcement Torch Run.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:11-05:00"
+}

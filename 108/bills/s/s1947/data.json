@@ -1,0 +1,268 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-11-24", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S15873-15874", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S15873", 
+          "type": "text as passed Senate"
+        }, 
+        {
+          "reference": "CR S15873-15874", 
+          "type": "text of measure as introduced"
+        }, 
+        {
+          "reference": "", 
+          "type": null
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-11-25", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-25T12:02:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-25", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-11-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Commercial and Administrative Law", 
+      "text": "Referred to the Subcommittee on Commercial and Administrative Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-12-08T17:26:00-05:00", 
+      "references": [], 
+      "text": "Committee on Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-12-08T17:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12866-12867", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-12-08T17:26:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-12-08T17:27:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H12866-12867", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-12-08T17:27:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-12-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-12-11", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-12-19", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-12-19", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "198", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-198.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1947-108", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Commercial and Administrative Law", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "2003-11-24", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "198"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-12-19", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-12-08T17:27:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-11-24", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-11-24", 
+  "number": "1947", 
+  "official_title": "A bill to prohibit the offer of credit by a financial institution to a financial institution examiner, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Preserving Independence of Financial Institution Examinations Act of 2003", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-12-19", 
+  "subjects": [
+    "Administrative procedure", 
+    "Bank employees", 
+    "Bank examination", 
+    "Bank fraud", 
+    "Bank loans", 
+    "Bank management", 
+    "Bribery", 
+    "Commerce", 
+    "Conflict of interests", 
+    "Consumer protection", 
+    "Credit cards", 
+    "Crime and law enforcement", 
+    "Debt", 
+    "Debtor and creditor", 
+    "Farm Credit Administration", 
+    "Federal Deposit Insurance Corporation", 
+    "Federal Housing Finance Board", 
+    "Federal employees", 
+    "Federal reserve system", 
+    "Finance and financial sector", 
+    "Financial institutions", 
+    "Fines (Penalties)", 
+    "Gifts", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Housing and community development", 
+    "Law", 
+    "Misconduct in office", 
+    "Mortgages", 
+    "Public lands and natural resources", 
+    "Real property", 
+    "Small Business Administration", 
+    "State officials", 
+    "Trusts and trustees"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-12-19", 
+    "text": "Preserving Independence of Financial Institution Examinations Act of 2003 - Amends Federal criminal law to subject to criminal penalties: (1) personnel of a financial institution who offer a loan or gratuity to a financial institution examiner; and (2) a financial institution examiner who accepts such loan or gratuity. Authorizes a Federal financial institution regulatory agency to prescribe regulations establishing additional limitations on the application for and receipt of credit and on the application and receipt of residential mortgage loans, after consulting with each other Federal financial institution regulatory agency. Excludes from the meaning of financial institution covered by this Act a credit union, a Federal Reserve Bank, a Federal home loan bank, or a depository institution holding company. Declares that the term \"loan\" does not include any credit card account established under an open end consumer credit plan, or a loan secured by residential real property that is the principal residence of the examiner, if certain requirements are met."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Preserving Independence of Financial Institution Examinations Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Preserving Independence of Financial Institution Examinations Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Preserving Independence of Financial Institution Examinations Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Preserving Independence of Financial Institution Examinations Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to prohibit the offer of credit by a financial institution to a financial institution examiner, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:32:38-05:00"
+}

@@ -1,0 +1,240 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-15", 
+      "committee": "House Committee on Science", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-07-07T11:59:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ehlers moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T11:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5218-5219", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T11:59:00-04:00", 
+      "bill_ids": [
+        "hcres301-108"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 301.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-07T12:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5218", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-07-07T12:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-08", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-07", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres301-108", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Baird, Brian", 
+      "sponsored_at": "2004-03-18", 
+      "state": "WA", 
+      "thomas_id": "01557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2004-03-09", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2003-10-15", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2004-03-09", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2004-03-09", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2004-03-18", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2004-03-09", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snyder, Vic", 
+      "sponsored_at": "2004-03-18", 
+      "state": "AR", 
+      "thomas_id": "01530", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2004-03-09", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-07-07T12:07:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-10-15", 
+  "number": "301", 
+  "official_title": "Supporting the goals and ideals of the World Year of Physics.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres121-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "sconres121-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "sconres121-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Ehlers, Vernon J.", 
+    "state": "MI", 
+    "thomas_id": "00339", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2004-07-07T12:07:00-04:00", 
+  "subjects": [
+    "Commemorations", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Higher education", 
+    "Physics", 
+    "Research", 
+    "Science, technology, communications", 
+    "Scientific education", 
+    "Special years"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2004-07-07", 
+    "text": "Expresses support for the goals and ideals of the World Year of Physics, as designated by the General Assembly of the International Union of Pure and Applied Physics. Encourages: (1) the American people to observe such Year as a special occasion for giving impetus to education and research in physics as well as to the public's understanding of physics; (2) all science-related government agencies and nongovernmental organizations, the private sector, and the media to highlight and give enhanced recognition to the role of physics in social, cultural, and economic development as well as its positive impact and contributions to society; and (3) all those involved in physics education and research to take additional steps, including strengthening existing and emerging fields of physics research and promoting the public's understanding of physics, to ensure that support for physics continues and that physics studies at all levels continue to attract an adequate number of students."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Supporting the goals and ideals of the World Year of Physics.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:15-05:00"
+}

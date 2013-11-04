@@ -1,0 +1,596 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-04-01", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-04-22", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Trade", 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-04-29", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Trade", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-05-05", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2004-05-05", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-05-19T15:52:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 108-501.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-05-19T15:52:00-04:00", 
+      "calendar": "Union", 
+      "number": "285", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 285.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2004-06-14T14:27:00-04:00", 
+      "references": [], 
+      "text": "Mr. Thomas moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T14:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3884-3891", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T14:28:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4103.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T15:00:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3884-3887", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-06-14T15:00:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-15", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-24", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR 6/25/2004 S7496", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-06-24", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-06-25", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-07-01", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-07-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2004-07-13", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "274", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-274.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4103-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "25", 
+      "name": "Bell, Chris", 
+      "sponsored_at": "2004-05-05", 
+      "state": "TX", 
+      "thomas_id": "01750", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2004-06-03", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2004-05-04", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2004-04-01", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Crane, Philip M.", 
+      "sponsored_at": "2004-04-01", 
+      "state": "IL", 
+      "thomas_id": "00249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "2004-04-01", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "English, Phil", 
+      "sponsored_at": "2004-05-05", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Houghton, Amo", 
+      "sponsored_at": "2004-04-01", 
+      "state": "NY", 
+      "thomas_id": "00563", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hulshof, Kenny C.", 
+      "sponsored_at": "2004-05-05", 
+      "state": "MO", 
+      "thomas_id": "01492", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2004-05-04", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jefferson, William J.", 
+      "sponsored_at": "2004-04-01", 
+      "state": "LA", 
+      "thomas_id": "00592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2004-04-02", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "2004-05-05", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCrery, Jim", 
+      "sponsored_at": "2004-05-05", 
+      "state": "LA", 
+      "thomas_id": "00763", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2004-04-01", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McInnis, Scott", 
+      "sponsored_at": "2004-05-05", 
+      "state": "CO", 
+      "thomas_id": "00775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2004-05-05", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2004-04-01", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2004-05-19", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2004-04-01", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2004-05-05", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2004-04-01", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2004-04-01", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "2004-05-05", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Weiner, Anthony D.", 
+      "sponsored_at": "2004-05-12", 
+      "state": "NY", 
+      "thomas_id": "01597", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2004-04-01", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "274"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2004-07-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-06-14T15:00:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-06-24", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-04-01", 
+  "number": "4103", 
+  "official_title": "To extend and modify the trade benefits under the African Growth and Opportunity Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2529-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "AGOA Acceleration Act of 2004", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2004-07-13", 
+  "subjects": [
+    "AIDS (Disease)", 
+    "Access to health care", 
+    "Administration of justice", 
+    "Africa (Sub-Saharan)", 
+    "Agricultural assistance", 
+    "Agriculture and food", 
+    "Agriculture in foreign trade", 
+    "Air cargo", 
+    "Airports", 
+    "American investments", 
+    "Arts, culture, religion", 
+    "Canada", 
+    "Chambers of commerce", 
+    "Civil rights and liberties, minority issues", 
+    "Clothing", 
+    "Commerce", 
+    "Communicable diseases", 
+    "Customs administration", 
+    "Customs unions", 
+    "Debt relief", 
+    "Democracy", 
+    "Developing countries", 
+    "Dispute settlement", 
+    "Diversification in industry", 
+    "Economic assistance", 
+    "Economic development", 
+    "Economic growth", 
+    "Economic integration", 
+    "Economics and public finance", 
+    "Ecotourism", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Energy", 
+    "Energy development", 
+    "Energy industries", 
+    "Environmental protection", 
+    "Exports", 
+    "Farmers", 
+    "Federal advisory bodies", 
+    "Fibers", 
+    "Foreign investments", 
+    "Foreign trade and international finance", 
+    "Foreign trade promotion", 
+    "Free trade", 
+    "Freight", 
+    "Freight forwarders", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Governmental investigations", 
+    "Handicraft", 
+    "Health", 
+    "Human immunodeficiency viruses", 
+    "Human rights", 
+    "Import restrictions", 
+    "Imports", 
+    "Information technology", 
+    "Infrastructure", 
+    "Infrastructure (Economics)", 
+    "Intellectual property", 
+    "International affairs", 
+    "International cooperation", 
+    "Labor and employment", 
+    "Latin America", 
+    "Law", 
+    "Malaria", 
+    "Marine terminals", 
+    "Mexico", 
+    "Nontariff trade barriers", 
+    "Peace", 
+    "Pest control", 
+    "Poverty", 
+    "Preventive medicine", 
+    "Public health", 
+    "Public lands and natural resources", 
+    "Railroad engineering", 
+    "Reciprocity", 
+    "Regional economic development", 
+    "Regionalism (International organization)", 
+    "Risk", 
+    "Road construction", 
+    "Rule of law", 
+    "Science, technology, communications", 
+    "Small business", 
+    "Social welfare", 
+    "Tariff", 
+    "Tariff preferences", 
+    "Technical assistance", 
+    "Telecommunication industry", 
+    "Textile fabrics", 
+    "Trade agreements", 
+    "Trade negotiations", 
+    "Transportation and public works", 
+    "Tuberculosis", 
+    "Women", 
+    "Women's education", 
+    "Women's employment", 
+    "Women's rights"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2004-07-13", 
+    "text": "AGOA Acceleration Act of 2004 - (Sec. 4) Declares the sense of Congress that the preferential market access opportunities for eligible sub-Saharan African countries (SSA countries) will be complemented and enhanced if those countries implement specified existing obligations under the World Trade Organization (WTO). Urges such countries to participate in and support mutual trade liberalization in ongoing negotiations under WTO auspices, recognizing that such commitments may need to reflect special and differential treatment for developing countries. States that eligible SSA countries will benefit from reduction of trade barriers in other developing countries. Urges all countries to make sanitary and phytosanitary decisions on the basis of sound science. (Sec. 5) Expresses the sense of Congress that the executive branch, including specified Federal agencies, should enforce African Growth and Opportunity Act (AGOA) provisions relating to preferential treatment of textile and apparel articles broadly in order to expand trade by maximizing opportunities for imports of such articles from eligible SSA countries. (Sec. 7) Amends the Trade Act of 1974 to extend duty-free treatment for AGOA articles through FY 2015. Modifies AGOA rules of origin to add to the inputs calculation for duty-free treatment former beneficiary SSA countries (defined as former SSA countries whose designation ceased by reason of entering into a free trade agreement with the United States). Authorizes preferential treatment under the AGOA for apparel articles made from regional fabrics or yarns even if they include U.S. components. Extends preferential treatment for such articles and establishes applicable percentages for benefits. Identifies as eligible for preferential treatment apparel made from fabrics or yarns listed in Annex 401 of the North American Free Trade Agreement (NAFTA) without regard to the origin of the fabrics or yarns. (Currently, such fabrics or yarns must be manufactured in the United States or in a beneficiary SSA country.) Authorizes preferential treatment for ethnic printed fabric of an SSA country that meets certain conditions. States that apparel articles eligible for preferential treatment under the AGOA may continue to use inputs from former SSA countries who have since entered into free trade agreements with the United States. Sets forth special rules for the use of specified components in apparel products eligible for preferential treatment under the AGOA. Raises from seven to ten percent of total article weight the de minimis level of permissible non-AGOA fibers or yarns in articles otherwise qualifying for preferential treatment under the AGOA. (Sec. 8) Requires the Secretary of the Treasury, under specified conditions, to liquidate or reliquidate as free of duty and free of any quantitative restrictions, limitations, or consultative levels any entries of knit-to-shape apparel meeting AGOA requirements, retroactive to October 1, 2000. (Sec. 9) Requires the President to study each eligible SSA country and: (1) identify sectors of its economy with the greatest potential for growth, including through export sales; (2) identify both domestic and international barriers impeding such growth; (3) make recommendations on how the Federal Government and the private sector can provide technical assistance to dismantle such barriers and promote investment in such sectors; and (4) disseminate information to appropriate Federal agencies on each such country. (Sec. 10) Requires the President to develop and implement policies to encourage: (1) infrastructure projects to increase trade capacity and sustainable ecotourism in SSA countries; (2) transboundary cooperation among such countries to facilitate trade; (3) the provision of technical assistance to such countries to establish and sustain adequate trade capacity development; and (4) micro-, small-, and medium-sized enterprises in such countries to participate in ecotourism. (Sec. 11) Requires the President to develop and implement policies to encourage the development of investment in SSA countries, particularly in: (1) infrastructure projects supporting development of land transport road and railroad networks and ports, and the continued upgrading and liberalization of the energy and telecommunications sectors; (2) establishment and expansion of modern information and communication technologies and practices to improve the ability of citizens to research and disseminate specified information; and (3) agriculture, particularly in processing and capacity enhancement. (Sec. 12) Requires the President to foster improved port-to-port and airport-to-airport relationships in order to facilitate and increase trade flows between eligible SSA countries. (Sec. 13) Requires the President to: (1) identify at least ten eligible SSA countries as having the greatest potential to increase marketable exports of agricultural products to the United States and the greatest need for technical assistance, particularly with respect to pest risk assessments and complying with U.S. sanitary and phytosanitary rules; and (2) assign at least 20 full-time personnel to provide assistance to such countries to ensure that their exports of agricultural products meet Federal law requirements. (Sec. 14) Requires the President to convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975, under the Trade Act of 1974."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "AGOA Acceleration Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "AGOA Acceleration Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "AGOA Acceleration Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "AGOA Acceleration Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "AGOA Acceleration Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To extend and modify the trade benefits under the African Growth and Opportunity Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:32-05:00"
+}

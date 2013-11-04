@@ -1,0 +1,228 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-02-04", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-02-10T14:23:00-05:00", 
+      "references": [], 
+      "text": "Mr. Mica moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-10T14:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H403-405", 
+          "type": null
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-10T14:23:00-05:00", 
+      "bill_ids": [
+        "hcres359-108"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 359.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-10T14:41:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-10T18:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H412-413", 
+          "type": null
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-10T18:58:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H403-404", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "20", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 20).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-02-10T18:58:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-11", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-24", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1529", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-02-25", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres359-108", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Cannon, Chris", 
+      "sponsored_at": "2004-02-04", 
+      "state": "UT", 
+      "thomas_id": "01470", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2004-02-04", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2004-02-04", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2004-02-04", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2004-02-10", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Porter, Jon C.", 
+      "sponsored_at": "2004-02-10", 
+      "state": "NV", 
+      "thomas_id": "01739", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-02-10T18:58:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-02-24", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-02-04", 
+  "number": "359", 
+  "official_title": "Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "14", 
+    "name": "LaTourette, Steven C.", 
+    "state": "OH", 
+    "thomas_id": "00667", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2004-02-24", 
+  "subjects": [
+    "Capitol (Washington, D.C.)", 
+    "Commemorations", 
+    "Congress", 
+    "Crime and law enforcement", 
+    "History", 
+    "International affairs", 
+    "Jewish holocaust (1939-1945)", 
+    "Special days", 
+    "Victims of crimes", 
+    "War crimes"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2004-02-24", 
+    "text": "Authorizes the use of the Capitol rotunda on April 22, 2004, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:17-05:00"
+}

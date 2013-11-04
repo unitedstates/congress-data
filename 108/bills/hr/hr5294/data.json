@@ -1,0 +1,254 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-10-08", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-10-08T22:57:00-04:00", 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T22:58:00-04:00", 
+      "references": [], 
+      "text": "Mr. LaTourette asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T22:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9026-9027", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-08T22:58:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H9026-9027", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-10-08T22:58:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-09", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-11", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11271", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-10-11", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-10-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-10-30", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2004-10-30", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "410", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-410.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5294-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "LaTourette, Steven C.", 
+      "sponsored_at": "2004-10-08", 
+      "state": "OH", 
+      "thomas_id": "00667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2004-10-08", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "2004-10-08", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "410"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2004-10-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-10-08T22:58:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-10-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-10-08", 
+  "number": "5294", 
+  "official_title": "To amend the John F. Kennedy Center Act to authorize appropriations for the John F. Kennedy Center for the Performing Arts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3198-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1757-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "John F. Kennedy Center Reauthorization Act of 2004", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2004-10-30", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Authorization", 
+    "Building construction", 
+    "Congress", 
+    "Congressional investigations", 
+    "Congressional reporting requirements", 
+    "Construction costs", 
+    "Cultural centers", 
+    "Department of Transportation", 
+    "District of Columbia", 
+    "Economics and public finance", 
+    "Executive reorganization", 
+    "Federal advisory bodies", 
+    "Federal aid to the arts and humanities", 
+    "Government operations and politics", 
+    "Infrastructure", 
+    "Maintenance and repair", 
+    "Security measures", 
+    "Smithsonian Institution", 
+    "Transportation and public works", 
+    "Transportation engineering"
+  ], 
+  "subjects_top_term": "Arts, culture, religion", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2004-10-30", 
+    "text": "John F. Kennedy Center Reauthorization Act of 2004 - Amends the John F. Kennedy Center Act to authorize appropriations for FY 2005 through 2007 to the Board of Trustees of the John F. Kennedy Center for the Performing Arts (Board) for: (1) maintenance, repair, and security; and (2) capital projects. Revises the John F. Kennedy Center Plaza Authorization Act of 2002 to direct the Secretary of Transportation to establish a Center Plaza Project Team consisting of the Secretary, the Administrator of General Services, the Chair of the Board, or their designees, and other individuals the Team considers appropriate. Requires the Board to consult with the Team on specified matters, including construction of buildings. Subjects to Team approval any Board decision that will significantly affect the scope, cost, schedule, or engineering feasibility of any element of the Project, other than buildings to be constructed on the Plaza. Directs the Comptroller General, until Project completion, to review management and oversight of construction of the Project by the Board and report periodically on review results to specified congressional committees."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "John F. Kennedy Center Reauthorization Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "John F. Kennedy Center Reauthorization Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "John F. Kennedy Center Reauthorization Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "John F. Kennedy Center Reauthorization Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the John F. Kennedy Center Act to authorize appropriations for the John F. Kennedy Center for the Performing Arts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:06-05:00"
+}

@@ -1,0 +1,390 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-03-06", 
+      "committee": "House Committee on Small Business", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-03-31T15:35:00-05:00", 
+      "references": [], 
+      "text": "Mr. Shuster moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-31T15:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2500-2504", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-31T15:36:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1166.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-31T15:54:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-31T18:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2506", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-31T19:04:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2500-2501", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "94", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 378 - 14 (Roll no. 94).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-03-31T19:04:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-01", 
+      "committee": "Committee on Small Business and Entrepreneurship", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Small Business and Entrepreneurship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1166-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Small Business and Entrepreneurship", 
+      "committee_id": "SSSB"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Acevedo-Vila, Anibal", 
+      "sponsored_at": "2003-03-06", 
+      "state": "PR", 
+      "thomas_id": "01679", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ballance, Frank W.,  Jr.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "NC", 
+      "thomas_id": "01734", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Carson, Brad", 
+      "sponsored_at": "2003-03-06", 
+      "state": "OK", 
+      "thomas_id": "01665", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Case, Ed", 
+      "sponsored_at": "2003-03-06", 
+      "state": "HI", 
+      "thomas_id": "01693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cubin, Barbara", 
+      "sponsored_at": "2003-03-19", 
+      "state": "WY", 
+      "thomas_id": "00254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2003-03-06", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "sponsored_at": "2003-03-06", 
+      "state": "MO", 
+      "thomas_id": "01656", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2003-03-06", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "IL", 
+      "thomas_id": "00733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2003-03-06", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "2003-03-31", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2003-03-06", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Renzi, Rick", 
+      "sponsored_at": "2003-03-06", 
+      "state": "AZ", 
+      "thomas_id": "01706", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2003-03-06", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2003-03-06", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2003-03-31", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-03-31T19:04:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-03-06", 
+  "number": "1166", 
+  "official_title": "To amend the Small Business Act to expand and improve the assistance provided by Small Business Development Centers to Indian tribe members, Native Alaskans, and Native Hawaiians.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2003-03-31T19:04:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Alaska", 
+    "Business education", 
+    "Commerce", 
+    "Department of the Interior", 
+    "Education", 
+    "Federal aid to Indians", 
+    "Government and business", 
+    "Government operations and politics", 
+    "Hawaiians", 
+    "Housing and community development", 
+    "Indian economic development", 
+    "Indian lands", 
+    "Indigenous peoples", 
+    "Law", 
+    "Minorities", 
+    "Native Americans", 
+    "Small business", 
+    "State government-Indian relations"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2003-03-31", 
+    "text": "(This measure has not been amended since it was introduced in the House on March 6, 2003. The summary of that version is repeated here.)Amends the Small Business Act to authorize a Small Business Development Center in an eligible State to apply for an additional Small Business Administration grant to be used solely to provide services to assist with outreach, development, and enhancement on Indian lands of small business startups and expansions owned by Indian tribe members, Native Alaskans, and Native Hawaiians (members and Natives). Defines an eligible State as one in which at least one percent of its population is comprised of such members and Natives. Limits each grant to $300,000 in a fiscal year.Requires a State receiving such a grant to request the advice of local tribal councils on how best to provide assistance to such members or Natives and where to locate satellite centers to provide such assistance."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Small Business Act to expand and improve the assistance provided by Small Business Development Centers to Indian tribe members, Native Alaskans, and Native Hawaiians.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:02-05:00"
+}

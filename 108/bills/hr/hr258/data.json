@@ -1,0 +1,402 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-01-08", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-02-13", 
+      "in_committee": "House Committee on Financial Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-13", 
+      "in_committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-02-26T13:21:00-05:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 108-20.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T13:22:00-05:00", 
+      "calendar": "Union", 
+      "number": "14", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 14.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2003-02-26T14:28:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Biggert moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T14:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1351-1354", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T14:28:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 258.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T14:39:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T15:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1356-1357", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T15:19:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T15:19:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1351-1352", 
+          "type": "text of measure as passed House"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "36", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 5 (Roll no. 36).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-02-27", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-04-11", 
+      "references": [], 
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-11", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5391", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-04-11", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-04-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-04-15", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-04-23", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-04-23", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "15", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-15.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr258-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2003-02-11", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, Jo Ann", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "01672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Tom", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hill, Baron P.", 
+      "sponsored_at": "2003-02-26", 
+      "state": "IN", 
+      "thomas_id": "01578", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Schrock, Edward L.", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "01673", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2003-01-08", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "15"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-04-23", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-02-26T15:19:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-04-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-01-08", 
+  "number": "258", 
+  "official_title": "To ensure continuity for the design of the 5-cent coin, establish the Citizens Coinage Advisory Committee, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s471-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s474-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "American 5-Cent Coin Design Continuity Act of 2003", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Cantor, Eric", 
+    "state": "VA", 
+    "thomas_id": "01674", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-04-23", 
+  "subjects": [
+    "Anniversaries", 
+    "Coins and coinage", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional gold medals", 
+    "Europe", 
+    "Federal advisory bodies", 
+    "Fees", 
+    "Finance and financial sector", 
+    "France", 
+    "Government operations and politics", 
+    "History", 
+    "International affairs", 
+    "Jefferson Administration", 
+    "Land transfers", 
+    "Presidential residences", 
+    "Public lands and natural resources", 
+    "Virginia", 
+    "West (U.S.)"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-04-23", 
+    "text": "(This measure has not been amended since it was passed by the House on February 26, 2003. The summary of that version is repeated here.) American 5-Cent Coin Design Continuity Act of 2003 - Title I: United States American 5-Cent Coin Design Continuity - (Sec. 101) Authorizes the Secretary of the Treasury to change the design on the obverse and reverse sides of five-cent coins issued in 2003, 2004, and 2005, in recognition of the bicentennial of the Louisiana Purchase and the expedition of Meriwether Lewis and William Clark.States that if the Secretary elects to change: (1) the obverse of 5-cent coins issued during 2003, 2004, and 2005, the design shall depict a likeness of President Thomas Jefferson, different from the likeness that appeared on the obverse of the 5-cent coins issued during 2002, in recognition of his role with respect to the Louisiana Purchase and the commissioning of the Lewis and Clark expedition; and (2) the reverse of the 5-cent coins issued during such years, the design selected shall depict images emblematic of the Louisiana Purchase or the expedition of Meriwether Lewis and William Clark. (Sec. 102) Requires the obverse of any 5-cent coin issued after December 31, 2005, to bear the likeness of Thomas Jefferson and the reverse of such coin bear an image of the home of Thomas Jefferson at Monticello. (Sec. 103) Establishes a seven-member Coin Design Advisory Committee to advise the Secretary on coin themes and designs.Abolishes the Citizens Commemorative Coin Advisory Committee. Authorizes certain Committee members to continue serving the remainder of their appointed term as a member of the Citizens Coinage Advisory Committee as determined by the Secretary.Title II: Technical and Clarifying Provisions - (Sec. 201) Amends Federal law to revise the requirements for payment of surcharges to recipient organizations.Requires deposit into the Treasury as unpaid receipts certain unpaid amounts derived from surcharge proceeds."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "American 5-Cent Coin Design Continuity Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "American 5-Cent Coin Design Continuity Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "American 5-Cent Coin Design Continuity Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "American 5-Cent Coin Design Continuity Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "American 5-Cent Coin Design Continuity Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To ensure continuity for the design of the 5-cent coin, establish the Citizens Coinage Advisory Committee, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:33:34-05:00"
+}

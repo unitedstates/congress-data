@@ -1,0 +1,431 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-05-13", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-05-21", 
+      "in_committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-07-31", 
+      "committee": "Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Gregg with an amendment in the nature of a substitute. With written report No. 108-122.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2003-07-31", 
+      "calendar": "Senate Legislative", 
+      "number": "247", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2003-10-02", 
+      "references": [
+        {
+          "reference": "CR S12403-12417", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12404-12416", 
+          "type": "text of measure reported in Senate"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-02", 
+      "references": [], 
+      "text": "The committee substitute agreed to by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-14", 
+      "references": [
+        {
+          "reference": "CR S12493-12508", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12499-12508", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-14", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "377", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 377.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-10-15", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-15T13:01:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-15T20:53:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s1824-108", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1824"
+    }
+  ], 
+  "bill_id": "s1053-108", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Biden, Joseph R., Jr.", 
+      "sponsored_at": "2003-10-14", 
+      "state": "DE", 
+      "thomas_id": "01284", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2003-10-14", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2003-05-13", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2003-10-14", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daschle, Thomas A.", 
+      "sponsored_at": "2003-07-31", 
+      "state": "SD", 
+      "thomas_id": "00267", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "DeWine, Mike", 
+      "sponsored_at": "2003-05-13", 
+      "state": "OH", 
+      "thomas_id": "00293", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dodd, Christopher J.", 
+      "sponsored_at": "2003-11-07", 
+      "state": "CT", 
+      "thomas_id": "00302", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2003-05-13", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Frist, William H.", 
+      "sponsored_at": "2003-05-13", 
+      "state": "TN", 
+      "thomas_id": "01336", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gregg, Judd", 
+      "sponsored_at": "2003-05-13", 
+      "state": "NH", 
+      "thomas_id": "00466", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hagel, Chuck", 
+      "sponsored_at": "2003-05-13", 
+      "state": "NE", 
+      "thomas_id": "01545", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2003-11-07", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "2003-07-15", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "2003-05-13", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2003-10-14", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kennedy, Edward M.", 
+      "sponsored_at": "2003-11-07", 
+      "state": "MA", 
+      "thomas_id": "01377", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "2003-10-14", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2003-10-14", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "2004-05-06", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2003-10-14", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "2003-10-14", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, E. Benjamin", 
+      "sponsored_at": "2003-10-14", 
+      "state": "NE", 
+      "thomas_id": "01627", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Talent, Jim", 
+      "sponsored_at": "2003-06-05", 
+      "state": "MO", 
+      "thomas_id": "01135", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-10-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-05-13", 
+  "number": "1053", 
+  "official_title": "A bill to prohibit discrimination on the basis of genetic information with respect to health insurance and employment.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Genetic Information Nondiscrimination Act of 2003", 
+  "sponsor": {
+    "district": null, 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2003-10-14", 
+  "subjects": [
+    "Actions and defenses", 
+    "Administrative procedure", 
+    "Apprenticeship", 
+    "Civil rights and liberties, minority issues", 
+    "Civil rights enforcement", 
+    "Damages", 
+    "Department of Health and Human Services", 
+    "Department of Labor", 
+    "Department of the Treasury", 
+    "Discrimination in employment", 
+    "Discrimination in insurance", 
+    "Discrimination in medical care", 
+    "Dismissal of employees", 
+    "Employee health benefits", 
+    "Employee rights", 
+    "Employee selection", 
+    "Employment agencies", 
+    "Environmental protection", 
+    "Equal Employment Opportunity Commission", 
+    "Families", 
+    "Family leave", 
+    "Federal employees", 
+    "Finance and financial sector", 
+    "Genetic counseling", 
+    "Genetics", 
+    "Government operations and politics", 
+    "Health", 
+    "Health insurance", 
+    "Insurance premiums", 
+    "Labor and employment", 
+    "Labor unions", 
+    "Labor-management committees", 
+    "Law", 
+    "Medical records", 
+    "Medical screening", 
+    "Medical tests", 
+    "Medigap", 
+    "Mine safety", 
+    "Occupational health and safety", 
+    "Position classification", 
+    "Punitive damages", 
+    "Right of privacy", 
+    "Standards"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2003-10-14", 
+    "text": "Genetic Information Nondiscrimination Act of 2003 - Title I: Genetic Nondiscrimination in Health Insurance - (Sec. 101) Amends the Employee Retirement Income Security Act of 1974, the Public Health Service Act, and the Internal Revenue Code to expand the prohibition on health plan or issuer discrimination on the basis of genetic information or services to prohibit: (1) enrollment discrimination based on information about a request for or receipt of genetic services by an individual or an individual's family member; (2) group premium discrimination based on the genetic information of an individual or an individual's family member; and (3) requiring genetic testing. Defines genetic information as genetic tests of an individual or family member or occurrence of a disease or disorder in family members. States that such term shall not include information about the sex or age of an individual. Defines genetic services as genetic tests, genetic counseling, or genetic education. Amends the Public Health Service Act to prohibit such discrimination in coverage offered in the individual market. Requires the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services (HHS) to issue final regulations to carry out this title. (Sec. 104) Amends title XVIII (Medicare) of the Social Security Act to prohibit an issuer of a Medicare supplemental policy from denying or conditioning the issuance or effectiveness of the policy, or from discriminating in the price of the policy of an eligible individual based on genetic information, on the receipt of genetic services or on a request for such services. Prohibits the issuer of such a policy from requesting or requiring a beneficiary to undergo a genetic test. (Sec. 105) Applies the HHS medical privacy rules to the disclosure of genetic information. Prohibits a group health plan, a health insurance issuer, or an issuer of Medicare supplemental policies from using or disclosing genetic information for purposes of underwriting, determining eligibility to enroll, or premium rating. Prohibits such entities from using or disclosing genetic information for the creation, renewal, or replacement of a plan, contract, or coverage for health insurance or benefits. Prohibits such entities from requesting, requiring, or purchasing genetic information concerning a participant, beneficiary, or enrollee prior to the enrollment and in connection with such enrollment of such individual under the plan, coverage, or policy. Permits the incidental collection of such genetic information by such entities if the request, requirement, or purchase that brought the information was not made for certain purposes, including underwriting, and if the information is not used or disclosed in violation of the HHS medical privacy rules. Makes the confidentiality standards inapplicable to group health plans, health insurance issuers, or issuers of Medicare supplemental policies that are not otherwise covered by regulations promulgated under part C of title XI of the Social Security Act and a health information privacy provision of the Health Insurance Portability and Accountability Act of 1996. Makes the prohibition on collection of genetic information inapplicable to genetic information that is not considered to be individually-identifiable health information under such regulations. Title II: Prohibiting Employment Discrimination On the Basis of Genetic Information - (Sec. 202) Makes it an unlawful employment practice for an employer, employment agency, labor organization, or training program to discriminate against an individual or deprive such individual of employment opportunities because of genetic information. Prohibits the collection of genetic information except: (1) where health or genetic services are offered by the employer; (2) where an employer needs certain information to comply with the certification provisions of the Family and Medical Leave Act of 1993 or with State family and medical leave laws; (3) where an employer purchases documents that are commercially and publicly available that include family medical history; or (4) where necessary to monitor the effects of toxic substances in the workplace (when authorized by the employee or as required by law). (Sec. 206) Requires genetic information to be treated as part of an individual's confidential medical record, limiting disclosure to certain parties, including the individual, the family, health researchers, or government officials investigating compliance with this title. Permits disclosure as required by court order or as made in order for an employee to comply with the certification provisions of the Family and Medical Leave Act of 1993 or with State family and medical leave laws. (Sec. 207) Protects applicants or employees covered by: (1) title VII of the Civil Rights Act of 1964 (regarding the EEOC); (2) the Government Employee Rights Act of 1991; (3) the Congressional Accountability Act of 1995; (4) specified Federal law pertaining to the extension of certain rights and protections to presidential offices; and (5) the section of the Civil Rights Act of 1964 regarding employment by the Federal Government. Provides for the same compensatory and punitive damages available to prevailing plaintiffs under Federal law regarding damages in cases of intentional discrimination in employment. (Sec. 208) Requires establishment of a Genetic Nondiscrimination Study Commission, which shall review the developing science of genetics and advise Congress on the advisability of providing for a disparate impact cause of action under this Act. (Sec. 210) Declares that an employer, employment agency, labor organization, or joint labor-management committee shall not be considered to be in violation of this title based on the use, acquisition, or disclosure of medical information that is not genetic information about a manifested disease, disorder, or pathological condition of an employee or member. (Sec. 211) Directs the EEOC to issue final regulations to carry out this title. (Sec. 212) Authorizes appropriations to carry out this title. Title III: Miscellaneous Provision - States that if any part of this Act is held to be unconstitutional, the remainder of this Act shall not be affected."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Genetic Information Nondiscrimination Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Genetic Information Nondiscrimination Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Genetic Information Nondiscrimination Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to prohibit discrimination on the basis of genetic information with respect to health insurance and employment.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:32:17-05:00"
+}

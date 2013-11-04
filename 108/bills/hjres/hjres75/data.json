@@ -1,0 +1,270 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-10-28", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-10-28T20:28:00-05:00", 
+      "bill_ids": [
+        "hres417-108"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 417 Reported to House. Rule provides for consideration of H.J. Res. 75 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-29T12:28:00-05:00", 
+      "bill_ids": [
+        "hres417-108"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 417 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-30T11:10:00-05:00", 
+      "bill_ids": [
+        "hres417-108"
+      ], 
+      "references": [
+        {
+          "reference": "CR H10157-10163", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 417.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-30T11:10:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 75 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-30T11:11:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 75.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-30T12:00:00-05:00", 
+      "references": [], 
+      "text": "The previous question was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-30T12:00:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H10158", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "583", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 406 - 13 (Roll no. 583).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-10-30T12:15:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-30", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S13696", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-10-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-30", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-10-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-10-31", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-10-31", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "104", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-104.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres75-108", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "104"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-10-31", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-10-30T12:00:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-10-30", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-10-28", 
+  "number": "75", 
+  "official_title": "Making further continuing appropriations for the fiscal year 2004, and for other purposes.", 
+  "popular_title": "Continuing Appropriations resolution FY2004 (Second)", 
+  "related_bills": [
+    {
+      "bill_id": "hres417-108", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Young, C.W. Bill", 
+    "state": "FL", 
+    "thomas_id": "01255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-10-31", 
+  "subjects": [
+    "Agriculture and food", 
+    "Airports", 
+    "American investments", 
+    "Appropriations", 
+    "Armed forces abroad", 
+    "Armed forces and national security", 
+    "Arms control", 
+    "Arms control verification", 
+    "Budget resolutions", 
+    "Chemical warfare", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Continuing resolutions", 
+    "Defense budgets", 
+    "Developing countries", 
+    "District of Columbia", 
+    "Economic assistance", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Entitlements", 
+    "Environmental protection", 
+    "Families", 
+    "Federal aid to housing", 
+    "Federal aid to transportation", 
+    "Federal budgets", 
+    "Federally-guaranteed loans", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Food relief", 
+    "Food stamps", 
+    "Foreign trade and international finance", 
+    "Government corporations", 
+    "Government lending", 
+    "Government operations and politics", 
+    "Government trust funds", 
+    "Housing and community development", 
+    "Infrastructure", 
+    "International affairs", 
+    "Investment guaranty insurance", 
+    "Legislation", 
+    "Local budgets", 
+    "Marshall Islands", 
+    "Micronesia", 
+    "Military dependents", 
+    "Military pay", 
+    "Mortgage guaranty insurance", 
+    "Mortgages", 
+    "Oceania", 
+    "Overseas Private Investment Corporation", 
+    "Pesticide regulation", 
+    "President and foreign policy", 
+    "Russia", 
+    "School lunch program", 
+    "Small business", 
+    "Social welfare", 
+    "Supplemental appropriations", 
+    "Transportation and public works", 
+    "Transportation engineering", 
+    "Utah", 
+    "WIC program"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-10-31", 
+    "text": "Amends the law making continuing appropriations for FY 2004 to: (1) extend such law through November 7, 2003; (2) make available to the Secretary of Transportation out of the Airport and Airway Trust Fund such amounts as may be necessary for administrative expenses of the Grants-in-aid Airports program at the current rate of operations; and (3) repeal the continuing availability of funding for administrative expenses of the Federal Highway Administration, Bureau of Transportation Statistics, Federal Transit Administration, National Highway Traffic Safety Administration, and Federal Motor Carrier Safety Administration. Amends the Department of Defense Appropriations Act, 2003 to extend through November 7, 2003, the waiver of certain conditions on the planning, design, or construction of a chemical weapons destruction facility in Russia."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Continuing Appropriations resolution FY2004 (Second)", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making further continuing appropriations for the fiscal year 2004, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:40-05:00"
+}

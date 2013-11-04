@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-25", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-10-08", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-08", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-11-17T15:01:00-05:00", 
+      "references": [], 
+      "text": "Mr. Duncan moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-17T15:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11172-11174", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-17T15:01:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3185.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-17T15:10:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11172-11173", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-11-17T15:10:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-18", 
+      "calendar": "Senate Legislative", 
+      "number": "397", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2003-11-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S15303", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-11-20", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-11-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-26", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-12-06", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-12-06", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "166", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-166.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3185-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bradley, Jeb", 
+      "sponsored_at": "2003-09-25", 
+      "state": "NH", 
+      "thomas_id": "01736", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "166"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-12-06", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-11-17T15:10:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-11-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-09-25", 
+  "number": "3185", 
+  "official_title": "To designate the facility of the United States Postal Service located at 38 Spring Street in Nashua, New Hampshire, as the \"Hugh Gregg Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1692-108", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s1692-108", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s1692-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Bass, Charles F.", 
+    "state": "NH", 
+    "thomas_id": "00063", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-12-06", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Government operations and politics", 
+    "Governors", 
+    "Names", 
+    "New Hampshire", 
+    "Postal facilities"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-12-06", 
+    "text": "Designates the U.S. Postal Service facility located at 38 Spring Street in Nashua, New Hampshire, as the Hugh Gregg Post Office Building."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the facility of the United States Postal Service located at 38 Spring Street in Nashua, New Hampshire, as the \"Hugh Gregg Post Office Building\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:05-05:00"
+}

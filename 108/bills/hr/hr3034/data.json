@@ -1,0 +1,262 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-05", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-09-10", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-10", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-09-17T17:25:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 108-276.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-17T17:25:00-04:00", 
+      "calendar": "Union", 
+      "number": "163", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 163.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2003-10-01T11:44:00-04:00", 
+      "references": [], 
+      "text": "Mr. Upton moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-01T11:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9051-9054", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-01T11:44:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3034.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-01T11:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9051-9052", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-10-01T11:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-02", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3034-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2003-09-05", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2003-09-16", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2003-09-16", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Tom", 
+      "sponsored_at": "2003-09-09", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2003-09-16", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2003-09-05", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-10-01T11:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-09-05", 
+  "number": "3034", 
+  "official_title": "To amend the Public Health Service Act to reauthorize the National Bone Marrow Donor Registery, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Bone Marrow Donor Registry Reauthorization Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Young, C.W. Bill", 
+    "state": "FL", 
+    "thomas_id": "01255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2003-10-01T11:53:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Authorization", 
+    "Blood banks", 
+    "Blood diseases", 
+    "Bone diseases", 
+    "Chemical warfare", 
+    "Collection of accounts", 
+    "Communication in medicine", 
+    "Communication in science", 
+    "Conflict of interests", 
+    "Crime and law enforcement", 
+    "Department of Health and Human Services", 
+    "Directories", 
+    "Donation of organs, tissues, etc.", 
+    "Emergency management", 
+    "Emergency medicine", 
+    "Environmental protection", 
+    "Finance and financial sector", 
+    "Government contractors", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Health", 
+    "Health education", 
+    "Ionizing radiation", 
+    "Medical research", 
+    "Nuclear terrorism", 
+    "Quality of life", 
+    "Science, technology, communications", 
+    "Term limits", 
+    "Terrorism", 
+    "Tissue banks", 
+    "Transplantation of organs, tissues, etc.", 
+    "Victims of terrorism"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2003-10-01", 
+    "text": "National Bone Marrow Donor Registry Reauthorization Act - Amends the Public Health Service Act to authorize: (1) specified FY 2004 appropriations, and FY 2005 through 2008 appropriations, for the National Bone Marrow Donor Registry; and (2) appropriations for emergency contingency response capabilities. Revises Registry provisions respecting: (1) board of directors term of office; and (2) Registry functions, including emergency response to terrorist threats injurious to bone marrow, and umbilical cord blood units and blood banks. Defines \"bone marrow\" and \"marrow\" to include bone marrow and any other source of hematopoietic progenitor cells the acquisition or use of which is not inconsistent with Federal law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "National Bone Marrow Donor Registry Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "National Bone Marrow Donor Registry Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "National Bone Marrow Donor Registry Reauthorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Public Health Service Act to reauthorize the National Bone Marrow Donor Registery, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:01-05:00"
+}

@@ -1,0 +1,172 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-07-16", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-08-15", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Total Force", 
+      "text": "Referred to the Subcommittee on Total Force.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-10-08T13:50:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hunter moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-08T13:50:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H9322-9325", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-08T13:50:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2755.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-08T14:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H9322", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-10-08T14:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-14", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2755-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Total Force", 
+      "subcommittee_id": "27"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "50", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "2003-07-25", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "2003-07-16", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-10-08T14:07:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-07-16", 
+  "number": "2755", 
+  "official_title": "To authorize the President to issue posthumously to the late William \"Billy\" Mitchell a commission as major general, United States Army.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2380-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Bass, Charles F.", 
+    "state": "NH", 
+    "thomas_id": "00063", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2003-10-08T14:07:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Army", 
+    "Military promotions", 
+    "Officer personnel"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2003-10-08", 
+    "text": "Authorizes the President to issue, posthumously, a commission as major general, United States Army, in the name of William Mitchell, a former colonel who resigned his commission on February 1, 1926."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize the President to issue posthumously to the late William \"Billy\" Mitchell a commission as major general, United States Army.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:52-05:00"
+}

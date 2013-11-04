@@ -1,0 +1,293 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-11-20", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-11-20", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Telecommunications and the Internet", 
+      "text": "Referred to the Subcommittee on Telecommunications and the Internet.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-11-20T16:09:00-05:00", 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-11-20T16:10:00-05:00", 
+      "references": [], 
+      "text": "Mr. Pickering asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-11-20T16:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10219-10223", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-11-20T16:10:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H10220-10223", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-11-20T16:10:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-11-20", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-12-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12083", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-12-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-12-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-12-16", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-12-23", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2004-12-23", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "494", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-494.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5419-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Telecommunications and the Internet", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "494"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2004-12-23", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-11-20T16:10:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-12-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-11-20", 
+  "number": "5419", 
+  "official_title": "To amend the National Telecommunications and Information Adminstration Organization Act to facilitate the reallocation of spectrum from governmental to commercial users; to improve, enhance, and promote the Nation's homeland security, public safety, and citizen activated emergency response capabilities through the use of enhanced 911 services, to further upgrade Public Safety Answering Point capabilities and related functions in receiving E-911 calls, and to support in the construction and operation of a ubiquitous and reliable citizen activated system; and to provide that funds received as universal service contributions under section 254 of the Communications Act of 1934 and the universal service support programs established pursuant thereto are not subject to certain provisions of title 31, United States Code, commonly known as the Antideficiency Act, for a period of time.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2898-108", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1250-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Commercial Spectrum Enhancement Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Upton, Fred", 
+    "state": "MI", 
+    "thomas_id": "01177", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2004-12-23", 
+  "subjects": [
+    "Administrative procedure", 
+    "Administrative remedies", 
+    "Appropriations", 
+    "Arts, culture, religion", 
+    "Auctions", 
+    "Commerce", 
+    "Competition", 
+    "Competitive bidding", 
+    "Congress", 
+    "Congressional investigations", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Cost accounting", 
+    "Department of Transportation", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational facilities", 
+    "Elementary and secondary education", 
+    "Emergency communication systems", 
+    "Emergency management", 
+    "Executive reorganization", 
+    "Federal Communications Commission", 
+    "Federal-local relations", 
+    "Federal-state relations", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Government lending", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government trust funds", 
+    "Grants-in-aid", 
+    "Independent regulatory commissions", 
+    "Internet", 
+    "Law", 
+    "Libraries", 
+    "Licenses", 
+    "Local taxation", 
+    "Performance measurement", 
+    "Planning", 
+    "Radio frequency allocation", 
+    "Relocation", 
+    "Science, technology, communications", 
+    "Small business", 
+    "State taxation", 
+    "Taxation", 
+    "Telecommunication industry", 
+    "Telecommunication rates", 
+    "Telephone", 
+    "Telephone rates", 
+    "User charges", 
+    "Wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2004-12-23", 
+    "text": "Title I: E-911 - Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004 or ENHANCE 911 Act of 2004 - (Sec. 104) Amends the National Telecommunications and Information Administration Organization Act (NTIAO Act) to direct the Assistant Secretary of Commerce for Communications and Information (Assistant Secretary) and the Administrator of the National Highway Traffic Safety Administration (Administrator) to: (1) establish a joint program to facilitate coordination between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, and telecommunications carriers, equipment manufacturers, and vendors involved in the implementation of E-911 (enhanced 911 emergency phone) services; and (2) create an E-911 Implementation Coordination Office to facilitate such coordination and implementation. Requires the Assistant Secretary and Administrator to: (1) develop a management plan for the joint program; and (2) provide grants to eligible entities for the implementation and operation of phase II (enhanced) E-911 services. Requires grant recipients to certify that no E-911 charges imposed by the appropriate taxing jurisdiction (on phone bills) are being obligated or expended for any purpose other than E-911 services implementation and maintenance. Authorizes appropriations for the grant program. Terminates the joint program on October 1, 2009. (Sec. 105) Directs the Comptroller General (CG) to study and report to specified congressional committees on: (1) the imposition of taxes or other charges imposed by States or political subdivisions to improve emergency communications services, including E-911 services; and (2) the use of revenues derived from such taxes or charges. (Sec. 106) Directs the Federal Communications Commission (FCC) to report to specified congressional committees on the deployment of E-911 phase II services by tier III service (mobile telecommunications) providers. (Sec. 107) Requires the FCC to act within 100 days on any petition filed by a tier III carrier requesting a waiver of compliance with phase II implementation requirements. Title II: Spectrum Relocation - Commercial Spectrum Enhancement Act - Amends the NTIAO Act to rewrite provisions concerning the reallocation of spectrum from governmental to commercial users. (Sec. 202) Requires any Federal entity that operates a Government station assigned within eligible frequencies and that incurs relocation costs due to reallocation to non-Federal use to receive reimbursement from the Spectrum Relocation Fund established under this title. Includes within eligible frequencies: (1) the 216-220, 1432-1435, 1710-1755, and 2385-2390 megahertz bands; and (2) any other band reallocated from Federal to non-Federal use after January 1, 2003, by competitive bidding, except for bands previously identified by the National Telecommunications and Information Administration (NTIA) in the Spectrum Reallocation Final Report. Requires: (1) the FCC to notify the NTIA at least 18 months prior to the commencement of any auction of eligible frequencies; (2) the NTIA to notify the FCC at least six months prior to any auction of estimated relocation costs and timelines; and (3) the NTIA to submit to specified congressional committees and the CG a copy of the estimated relocation costs and timelines. Directs the NTIA to: (1) ensure the timely relocation of Federal entities' spectrum-related operations from the eligible frequencies to frequencies or facilities of comparable quality; (2) terminate such entity's authority to operate on the former frequency; and (3) notify the FCC that the entity's relocation has been completed. (Sec. 203) Amends the Communications Act of 1934 to require the FCC: (1) in designing competitive bidding under such auctions, to have as an objective the recovery of 110 percent of the estimated relocation costs; (2) to prescribe methods to ensure that the total cash proceeds from any auction equals at least 110 percent of such costs; and (3) to prohibit the FCC from concluding any auction under which such objective is not reached. Authorizes the FCC to grant a license for the advance use of eligible frequencies pending an auction, on the condition that the licensee cannot cause harmful interference to the Federal entity until the entity's authorization has been terminated. (Sec. 204) Establishes the Spectrum Relocation Fund. Provides for: (1) the crediting of receipts from the spectrum auction to the Fund; and (2) the transfer of Fund amounts to pay Federal entity costs of relocating from reallocated frequencies, under specified conditions, including submission of a plan from the Director of the Office of Management and Budget to specified congressional committees and the CG detailing how such sums will be used to pay relocation costs and the timeline for such relocation. Allows a Federal entity to receive more than one transfer, but requires an explanation and CG review when the sum of a subsequent transfer exceeds ten percent of the original transfer. (Sec. 205) Revises the basis for loans or other extensions of credit made to small businesses from the Telecommunications Development Fund. (Sec. 207) Requires an annual report from the NTIA to specified congressional committees and the CG on: (1) progress made in adhering to relocation timelines; and (2) estimated and actual relocation costs and amounts paid from the Spectrum Relocation Fund. (Sec. 208) Requires a report from the NTIA Administrator to specified congressional committees on various policy options to compensate Federal entities for relocation costs when their frequencies are reallocated by the FCC for unlicensed, public safety, shared, or non-commercial use. (Sec. 209) Directs the CG to: (1) examine national commercial spectrum license policy as implemented by the FCC; and (2) report findings to specified congressional committees. Title III: Universal Service - Universal Service Antideficiency Temporary Suspension Act - Makes certain Federal limitations on the obligation and expenditure of Federal funds (including sequestration requirements) and appropriations apportionment inapplicable to any amounts collected as Federal universal service contributions or to the expenditure or obligation of amounts attributable to such contributions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Commercial Spectrum Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "ENHANCE 911 Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Universal Service Antideficiency Temporary Suspension Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Commercial Spectrum Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "ENHANCE 911 Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Universal Service Antideficiency Temporary Suspension Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the National Telecommunications and Information Adminstration Organization Act to facilitate the reallocation of spectrum from governmental to commercial users; to improve, enhance, and promote the Nation's homeland security, public safety, and citizen activated emergency response capabilities through the use of enhanced 911 services, to further upgrade Public Safety Answering Point capabilities and related functions in receiving E-911 calls, and to support in the construction and operation of a ubiquitous and reliable citizen activated system; and to provide that funds received as universal service contributions under section 254 of the Communications Act of 1934 and the universal service support programs established pursuant thereto are not subject to certain provisions of title 31, United States Code, commonly known as the Antideficiency Act, for a period of time.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:57-05:00"
+}

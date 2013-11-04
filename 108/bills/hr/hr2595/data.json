@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-06-25", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-06-26", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-06-26", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-07-10T19:03:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Veterans' Affairs. H. Rept. 108-197.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-07-10T19:03:00-04:00", 
+      "calendar": "Union", 
+      "number": "101", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 101.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2003-09-10T10:21:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (NJ) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-10T10:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8091-8094", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-10T10:21:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2595.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-10T10:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8091", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-09-10T10:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-09-11", 
+      "committee": "Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2595-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2003-06-26", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2003-06-26", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Case, Ed", 
+      "sponsored_at": "2003-06-26", 
+      "state": "HI", 
+      "thomas_id": "01693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2003-06-25", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2003-07-09", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2003-07-09", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Renzi, Rick", 
+      "sponsored_at": "2003-06-25", 
+      "state": "AZ", 
+      "thomas_id": "01706", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2003-06-25", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-09-10T10:38:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-06-25", 
+  "number": "2595", 
+  "official_title": "To restore the operation of the Native American Veteran Housing Loan Program during fiscal year 2003 to the scope of that program as in effect on September 30, 2002.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2003-09-10T10:38:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Economics and public finance", 
+    "Federal-Indian relations", 
+    "Finance and financial sector", 
+    "Government lending", 
+    "Housing and community development", 
+    "Indian housing", 
+    "Minorities", 
+    "Mortgages", 
+    "Veterans' loans"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2003-09-10", 
+    "text": "Directs the Secretary of Veterans Affairs, in carrying out the pilot program to make direct housing loans to Native American veterans, to do so during FY 2003 at the FY 2002 level, without regard to a certain proviso in title I of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2003. Treats such proviso as being of no force or effect. Ratifies any action taken by the Secretary before the enactment of this Act that is inconsistent with such proviso."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To restore the operation of the Native American Veteran Housing Loan Program during fiscal year 2003 to the scope of that program as in effect on September 30, 2002.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:46-05:00"
+}

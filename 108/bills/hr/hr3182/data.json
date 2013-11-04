@@ -1,0 +1,331 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-09-25", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-10-08T12:00:00-04:00", 
+      "references": [], 
+      "text": "Mr. Camp moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-08T12:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9302-9305", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-08T12:00:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3182.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-08T12:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9302-9303", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-10-08T12:11:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-10-14", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-11-14", 
+      "references": [
+        {
+          "reference": "CR S14859-14860", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-14", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-11-14", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-11-20", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2003-12-02", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2003-12-02", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "145", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-145.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3182-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2003-09-25", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2003-09-25", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2003-09-25", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "English, Phil", 
+      "sponsored_at": "2003-09-25", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Greenwood, James C.", 
+      "sponsored_at": "2003-10-07", 
+      "state": "PA", 
+      "thomas_id": "00465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2003-09-25", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2003-09-25", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McInnis, Scott", 
+      "sponsored_at": "2003-09-25", 
+      "state": "CO", 
+      "thomas_id": "00775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "2003-10-07", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2003-09-25", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2003-10-07", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "145"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2003-12-02", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-10-08T12:11:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-11-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-09-25", 
+  "number": "3182", 
+  "official_title": "To reauthorize the adoption incentive payments program under part E of title IV of the Social Security Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1686-108", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Adoption Promotion Act of 2003", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Camp, Dave", 
+    "state": "MI", 
+    "thomas_id": "00166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2003-12-02", 
+  "subjects": [
+    "Adoption", 
+    "Authorization", 
+    "Child health", 
+    "Child welfare", 
+    "Department of Health and Human Services", 
+    "Economics and public finance", 
+    "Families", 
+    "Federal-state relations", 
+    "Foster home care", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Grants-in-aid", 
+    "Health", 
+    "Health insurance", 
+    "Intergovernmental fiscal relations", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2003-12-02", 
+    "text": "Adoption Promotion Act of 2003 - Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to revise requirements with respect to States eligible to receive adoption incentives payments. Reauthorizes the adoption incentive payments program. Provides additional incentives for adoptions of older children (nine years of age and up). Modifies requirements with respect to determination of numbers of special needs adoptions that are not older children as well as adoptions of older children. Revises the formula for adoption incentive payments to States to provide a payment for: (1) special needs adoptions that are not older child adoptions; and (2) older child adoptions. Repeals the requirement that the Secretary of Health and Human Services provide supplemental grants to incentive-eligible States. Authorizes the Secretary to impose specified penalties against a State for failure to provide necessary data to the Secretary for the Adoption and Foster Care Analysis and Reporting System."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Adoption Promotion Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Adoption Promotion Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Adoption Promotion Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Adoption Promotion Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reauthorize the adoption incentive payments program under part E of title IV of the Social Security Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:05-05:00"
+}

@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-02-11", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-02-13", 
+      "in_committee": "House Committee on Financial Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-13", 
+      "in_committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2003-02-25T18:45:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Financial Services. H. Rept. 108-19.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-25T18:45:00-05:00", 
+      "calendar": "Union", 
+      "number": "13", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 13.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2003-02-26T13:24:00-05:00", 
+      "references": [], 
+      "text": "Mr. Garrett (NJ) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T13:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1341-1343", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T13:24:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 657.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-26T13:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1341", 
+          "type": "text of measure as passed House"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-02-26T13:41:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-27", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr657-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Baker, Richard H.", 
+      "sponsored_at": "2003-02-11", 
+      "state": "LA", 
+      "thomas_id": "00047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Emanuel, Rahm", 
+      "sponsored_at": "2003-02-11", 
+      "state": "IL", 
+      "thomas_id": "01725", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2003-02-11", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Kanjorski, Paul E.", 
+      "sponsored_at": "2003-02-11", 
+      "state": "PA", 
+      "thomas_id": "00615", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Oxley, Michael G.", 
+      "sponsored_at": "2003-02-11", 
+      "state": "OH", 
+      "thomas_id": "00885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-02-26T13:41:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-02-11", 
+  "number": "657", 
+  "official_title": "To amend the Securities Exchange Act of 1934 to augment the emergency authority of the Securities and Exchange Commission.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emergency Securities Response Act of 2003", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Garrett, Scott", 
+    "state": "NJ", 
+    "thomas_id": "01737", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2003-02-26T13:41:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Commerce", 
+    "Department of the Treasury", 
+    "Economics and public finance", 
+    "Emergency management", 
+    "Finance and financial sector", 
+    "Financial crises", 
+    "Futures trading", 
+    "Government operations and politics", 
+    "Government securities", 
+    "Independent regulatory commissions", 
+    "Investors", 
+    "Law", 
+    "Mutual funds", 
+    "Securities and Exchange Commission", 
+    "Securities industry", 
+    "Securities regulation", 
+    "Stock exchanges"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2003-02-26", 
+    "text": "Emergency Securities Response Act of 2003 - (Sec. 2) Amends the Securities Exchange Act of 1934 to grant the Securities and Exchange Commission (SEC) powers, in an emergency, to reduce, eliminate, or prevent the substantial disruption by the emergency of: (1) securities markets, investment companies, or other significant portion of such markets; or (2) the transmission or processing of securities transactions.Permits such emergency to extend beyond 30 business days, but no more than 90 calendar days, if the SEC finds that the emergency still exists and determines that the continuation of the emergency order beyond 30 business days is necessary in the public interest and for the protection of investors. Redefines emergency to include a major disturbance that substantially disrupts, or threatens to substantially disrupt: (1) the functioning of securities markets, investment companies, or any other significant portion or segment of the securities markets; or (2) the transmission or processing of securities transactions.Requires the Commission to consult with and consider the views of the Secretary of the Treasury, Board of Governors of the Federal Reserve System, and the Commodity Futures Trading Commission, prior to taking action extending the time frame of its emergency powers unless such consultation is impracticable in light of the emergency.(Sec. 3) Grants the Secretary of the Treasury parallel authority to take any action with respect to a matter or action subject to regulation by the Secretary involving a government security or a market therein that the Commission may take with respect to securities transactions or a market therein."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Emergency Securities Response Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Emergency Securities Response Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Emergency Securities Response Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Securities Exchange Act of 1934 to augment the emergency authority of the Securities and Exchange Commission.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:33:45-05:00"
+}

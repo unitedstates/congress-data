@@ -1,0 +1,240 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-01-21", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-02-03T16:09:00-05:00", 
+      "references": [], 
+      "text": "Mr. Shays moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-03T16:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H274-275 \r", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-03T16:09:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3724.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-03T16:16:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H274", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-02-03T16:16:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-02-04", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-03-12", 
+      "references": [
+        {
+          "reference": "CR S2824", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-12", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-03-12", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-03-15", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-03-23", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-04-01", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2004-04-01", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "213", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-213.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3724-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2004-01-21", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simmons, Rob", 
+      "sponsored_at": "2004-01-21", 
+      "state": "CT", 
+      "thomas_id": "01642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "213"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2004-04-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-02-03T16:16:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-03-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-01-21", 
+  "number": "3724", 
+  "official_title": "To amend section 220 of the National Housing Act to make a technical correction to restore allowable increases in the maximum mortgage limits for FHA-insured mortgages for multifamily housing projects to cover increased costs of installing a solar energy system or residential energy conservation measures.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Energy Efficient Housing Technical Correction Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Shays, Christopher", 
+    "state": "CT", 
+    "thomas_id": "01048", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2004-04-01", 
+  "subjects": [
+    "Apartment houses", 
+    "Economics and public finance", 
+    "Energy", 
+    "Energy conservation", 
+    "Federally-guaranteed loans", 
+    "Finance and financial sector", 
+    "Housing and community development", 
+    "Mortgage guaranty insurance", 
+    "Mortgages", 
+    "Residential rehabilitation", 
+    "Solar energy"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2004-04-01", 
+    "text": "Energy Efficient Housing Technical Correction Act - Amends the National Housing Act to make five-family and smaller units eligible for increased mortgage limits to cover the costs of installing solar energy systems or residential energy conservation measures in Federal Housing Administration (FHA)-insured multifamily housing projects."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Energy Efficient Housing Technical Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Energy Efficient Housing Technical Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Energy Efficient Housing Technical Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Energy Efficient Housing Technical Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend section 220 of the National Housing Act to make a technical correction to restore allowable increases in the maximum mortgage limits for FHA-insured mortgages for multifamily housing projects to cover increased costs of installing a solar energy system or residential energy conservation measures.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:21-05:00"
+}

@@ -1,0 +1,304 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-06-23", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-07-01", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "Civil Service and Agency Organization", 
+      "text": "Referred to the Subcommittee on Civil Service and Agency Organization.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-09-15", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-15", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2004-09-15", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "text": "Subcommittee on Civil Service and Agency Organization Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-06T16:50:00-04:00", 
+      "references": [], 
+      "text": "Mr. Duncan moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-06T16:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8265-8268", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-06T16:51:00-04:00", 
+      "bill_ids": [
+        "hcres464-108"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 464.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-06T17:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8265", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-10-06T17:12:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-07", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-11-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11510", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-11-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres464-108", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Civil Service and Agency Organization", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "18", 
+      "name": "Cardoza, Dennis A.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "CA", 
+      "thomas_id": "01709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Deutsch, Peter", 
+      "sponsored_at": "2004-06-23", 
+      "state": "FL", 
+      "thomas_id": "00291", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2004-06-23", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hostettler, John N.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "IN", 
+      "thomas_id": "00562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Kendrick B.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "FL", 
+      "thomas_id": "01715", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Mollohan, Alan B.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "WV", 
+      "thomas_id": "00824", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Nethercutt, George R., Jr.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "WA", 
+      "thomas_id": "00860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2004-06-23", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2004-10-06", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-10-06T17:11:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-11-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-06-23", 
+  "number": "464", 
+  "official_title": "Honoring the 10 communities selected to receive the 2004 All-America City Award.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hayes, Robin", 
+    "state": "NC", 
+    "thomas_id": "01600", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2004-11-18", 
+  "subjects": [
+    "Awards, medals, prizes", 
+    "California", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Florida", 
+    "Housing and community development", 
+    "Indiana", 
+    "Minnesota", 
+    "North Carolina", 
+    "Ohio", 
+    "Oregon", 
+    "Small towns", 
+    "Texas", 
+    "Urban affairs", 
+    "Urban areas", 
+    "Washington State", 
+    "West Virginia"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2004-11-18", 
+    "text": "Honors the following communities on receiving the National Civic League 2004 All-America City Award: Concord, North Carolina; Evansville, Indiana; Cottage Grove, Oregon; Spokane, Washington; Springfield, Ohio; Montevideo, Minnesota; Pembroke Pines, Florida; Stockton, California; Philippi, West Virginia; and Hidalgo, Texas."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the 10 communities selected to receive the 2004 All-America City Award.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:20-05:00"
+}

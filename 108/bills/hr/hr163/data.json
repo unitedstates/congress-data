@@ -1,0 +1,310 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-01-07", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-02-03", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Executive Comment Requested from DOD.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-02-03", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Total Force", 
+      "text": "Referred to the Subcommittee on Total Force.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-10-05T17:59:00-04:00", 
+      "references": [], 
+      "text": "Mr. McHugh moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-05T18:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8117-8130", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-05T18:00:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 163.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-10-05T19:27:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8117-8118", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "494", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 2 - 402 (Roll no. 494).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr163-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Total Force", 
+      "subcommittee_id": "27"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2003-01-07", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2003-01-28", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2004-05-19", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2003-01-28", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2003-01-07", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2003-01-28", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2003-01-28", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jackson, Jesse L., Jr.", 
+      "sponsored_at": "2004-07-21", 
+      "state": "IL", 
+      "thomas_id": "00587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2003-01-28", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2003-01-07", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2003-01-07", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2003-01-28", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2003-01-07", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2003-01-28", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2003-01-28", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": "2004-06-21"
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2004-10-05T19:27:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-01-07", 
+  "number": "163", 
+  "official_title": "To provide for the common defense by requiring that all young persons in the United States, including women, perform a period of military service or a period of civilian service in furtherance of the national defense and homeland security, and for other purposes.", 
+  "popular_title": "Reinstate Draft bill", 
+  "related_bills": [
+    {
+      "bill_id": "s89-108", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Universal National Service Act of 2003", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2004-10-05T19:27:00-04:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Armed forces and national security", 
+    "Armed forces reserves", 
+    "Compulsory military service", 
+    "Conscientious objectors", 
+    "Disability evaluation", 
+    "Disabled", 
+    "Draft registration", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Executive Office of the President", 
+    "Government operations and politics", 
+    "Health", 
+    "Higher education", 
+    "Labor and employment", 
+    "Law", 
+    "Military discharges", 
+    "Military education", 
+    "Military training", 
+    "National service", 
+    "Physical examinations", 
+    "Recruiting and enlistment", 
+    "Religion", 
+    "Secondary education", 
+    "Social welfare", 
+    "Students", 
+    "Women", 
+    "Women soldiers"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2003-01-07", 
+    "text": "Universal National Service Act of 2003 - Declares that it is the obligation of every U.S. citizen, and every other person residing in the United States, between the ages of 18 and 26 to perform a two-year period of national service, unless exempted, either as a member of an active or reserve component of the armed forces or in a civilian capacity that promotes national defense. Requires induction into national service by the President. Sets forth provisions governing: (1) induction deferments, postponements, and exemptions, including exemption of a conscientious objector from military service that includes combatant training; and (2) discharge following national service.Amends the Military Selective Service Act to authorize the military registration of females."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Reinstate Draft bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Universal National Service Act of 2003", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for the common defense by requiring that all young persons in the United States, including women, perform a period of military service or a period of civilian service in furtherance of the national defense and homeland security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:33:31-05:00"
+}

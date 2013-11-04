@@ -1,0 +1,221 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-05-11", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-05-12", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-05-12", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2004-05-13", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2004-06-14T15:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hunter moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T15:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3900-3901", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T15:53:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4323.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T16:02:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T19:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3926-3927", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-14T19:22:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3900", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "234", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 285 - 97 (Roll no. 234).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-06-14T19:22:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-15", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4323-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Davis, Tom", 
+      "sponsored_at": "2004-05-11", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meehan, Martin T.", 
+      "sponsored_at": "2004-06-14", 
+      "state": "MA", 
+      "thomas_id": "00788", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "2004-06-14", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "2004-05-11", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-06-14T19:22:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-05-11", 
+  "number": "4323", 
+  "official_title": "To amend title 10, United States Code, to provide rapid acquisition authority to the Secretary of Defense to respond to combat emergencies.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "52", 
+    "name": "Hunter, Duncan", 
+    "state": "CA", 
+    "thomas_id": "00575", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2004-06-14T19:22:00-04:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Armed forces and national security", 
+    "Congress", 
+    "Congress and military policy", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Defense contracts", 
+    "Defense procurement", 
+    "Department of Defense", 
+    "Government operations and politics", 
+    "Iraq compilation", 
+    "Law", 
+    "Military and naval supplies", 
+    "Military operations", 
+    "War", 
+    "War casualties"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2004-06-14", 
+    "text": "Authorizes the Secretary of Defense to rapidly acquire, as specified herein, equipment needed by a combatant commander to eliminate a combat capability deficiency that has resulted in combat fatalities. Requires the Secretary, not later than 30 days after the date of the enactment of this Act, to develop a process for such rapid acquisition authority and submit to Congress a detailed explanation of the process, including procedures to be followed in carrying out the process. Requires the process to provide for the following: (1) a requirement that the process be used only to acquire the minimum amount of equipment needed until the needs of the combatant commander can be fulfilled under existing acquisition policies; (2) a goal of awarding a contract for the equipment within 15 days after receipt of a request from a commander; and (3) in a case in which the equipment cannot be acquired without an extensive delay, a requirement for an interim solution to minimize the combat capability deficiency and combat fatalities until the equipment can be acquired. Requires the process to provide for the waiver of the applicability of laws, policies, directives, and regulations related to: (1) the establishment of the requirement for the equipment; (2) the research, development, test, and evaluation of the equipment; and (3) the solicitation and selection of sources, and the award of the contract, for procurement of the equipment. Permits the use of such authority only: (1) after the Secretary of Defense, without delegation, determines in writing that there exists a combat capability deficiency that has resulted in combat fatalities; and (2) to acquire equipment in an amount aggregating not more than $100,000,000 during a fiscal year. Directs the Secretary to notify the congressional defense committees within 15 days after each use of the acquisition authority provided in this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend title 10, United States Code, to provide rapid acquisition authority to the Secretary of Defense to respond to combat emergencies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:38-05:00"
+}

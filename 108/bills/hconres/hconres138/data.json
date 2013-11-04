@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-04-07", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-05-06T14:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Mica moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-06T14:16:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H3650-3651", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-06T14:16:00-04:00", 
+      "bill_ids": [
+        "hcres138-108"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 138.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-06T14:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H3650", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-05-06T14:28:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-07", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-05-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5978", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres138-108", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2003-04-07", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-05-06T14:28:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-05-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-04-07", 
+  "number": "138", 
+  "official_title": "Authorizing the printing of the Biographical Directory of the United States Congress, 1774-2005.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres28-108", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "18", 
+    "name": "Ney, Robert W.", 
+    "state": "OH", 
+    "thomas_id": "00862", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2003-05-08", 
+  "subjects": [
+    "Biography", 
+    "Congress", 
+    "Congressional publications", 
+    "Congressional publicity", 
+    "Directories", 
+    "Government operations and politics", 
+    "Members of Congress", 
+    "Printing"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2003-05-08", 
+    "text": "(This measure has not been amended since it was introduced in the House on April 7, 2003. The summary of that version is repeated here.)Requires printing of a revised edition of the Biographical Directory of the United States Congress for the period ending with the 108th Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the printing of the Biographical Directory of the United States Congress, 1774-2005.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:11-05:00"
+}

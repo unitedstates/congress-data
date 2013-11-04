@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-11-22T06:22:00-05:00", 
+      "references": [], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-22T06:22:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-11-22T06:22:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-22", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-25", 
+      "references": [
+        {
+          "reference": "CR S15927", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-25", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S15927", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2003-11-25T15:23:00-05:00", 
+      "bill_ids": [
+        "hcres339-108"
+      ], 
+      "references": [], 
+      "text": "PRIVILEGED MESSAGE FROM THE SENATE - The Chair laid before the House a message from the Senate on H. Con. Res. 339.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-11-25T15:23:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H12316", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-11-25T15:23:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2217-108", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2217"
+    }
+  ], 
+  "bill_id": "hconres339-108", 
+  "bill_type": "hconres", 
+  "committees": [], 
+  "congress": "108", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-11-25T15:23:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2003-11-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-11-21", 
+  "number": "339", 
+  "official_title": "Providing for the sine die adjournment of the first session of the One Hundred Eighth Congress.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "22", 
+    "name": "DeLay, Tom", 
+    "state": "TX", 
+    "thomas_id": "00282", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "2003-11-25T15:23:00-05:00", 
+  "subjects": [
+    "Congress", 
+    "Congressional sessions"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2003-11-25", 
+    "text": "Provides that when the House of Representatives adjourns on any legislative day from November 25, 2003, and the Senate recesses or adjourns at the close of business on any day from November 24, 2003, through the remainder of the first session of the 108th Congress, they stand adjourned sine die, or stand recessed or adjourned until such day and time as may be specified by the respective Majority Leader or his designee."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Providing for the sine die adjournment of the first session of the One Hundred Eighth Congress.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:17-05:00"
+}

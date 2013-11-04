@@ -1,0 +1,220 @@
+{
+  "actions": [
+    {
+      "acted_at": "2004-03-04", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-03-29", 
+      "in_committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "subcommittee": "21st Century Competitiveness", 
+      "text": "Referred to the Subcommittee on 21st Century Competitiveness.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-06-02T13:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. McKeon moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-02T13:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3642-3643", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-02T13:57:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3908.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-02T14:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3642", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2004-06-02T14:02:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-06-03", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2004-09-10", 
+      "references": [
+        {
+          "reference": "CR S9086", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-10", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2004-09-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2004-09-16", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-09-16", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2004-09-24", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2004-09-24", 
+      "congress": "108", 
+      "law": "public", 
+      "number": "305", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 108-305.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3908-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on 21st Century Competitiveness", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "LaTourette, Steven C.", 
+      "sponsored_at": "2004-05-04", 
+      "state": "OH", 
+      "thomas_id": "00667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "108", 
+    "law_type": "public", 
+    "number": "305"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2004-09-24", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2004-06-02T14:02:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2004-09-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2004-03-04", 
+  "number": "3908", 
+  "official_title": "To provide for the conveyance of the real property located at 1081 West Main Street in Ravenna, Ohio.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "17", 
+    "name": "Ryan, Tim", 
+    "state": "OH", 
+    "thomas_id": "01756", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2004-09-24", 
+  "subjects": [
+    "Land transfers", 
+    "Ohio", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2004-09-24", 
+    "text": "Directs the Secretary of Labor to convey, without charge or consideration, to Portage County, Ohio, all right, title, and interest of the United States (including all Federal equity) in and to the parcel of real property located at 1081 West Main Street in Ravenna, Ohio, to the extent such right, title, or interest was acquired through grants to the State of Ohio under title III (Grants to States for Unemployment Compensation Administration) of the Social Security Act or the Wagner-Peyser Act or through funds distributed to the State under section 903 (Amounts Transferred to State Accounts) of IX (Employment Security Administrative Financing) of the Social Security Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide for the conveyance of the real property located at 1081 West Main Street in Ravenna, Ohio.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:27-05:00"
+}

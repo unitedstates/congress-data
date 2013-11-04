@@ -1,0 +1,295 @@
+{
+  "actions": [
+    {
+      "acted_at": "2003-02-27", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-03-06", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-03-25T14:36:00-05:00", 
+      "references": [], 
+      "text": "Mr. Radanovich moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-25T14:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2289-2292", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-25T14:36:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 961.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-25T14:51:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-25T18:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2293-2294", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-25T18:59:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2289-2290", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "85", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 13 (Roll no. 85).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2003-03-25T18:59:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2003-03-26", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2003-09-23", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr961-108", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "108", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2003-02-27", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gutknecht, Gil", 
+      "sponsored_at": "2003-02-27", 
+      "state": "MN", 
+      "thomas_id": "00479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2003-02-27", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2003-02-27", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Leach, James A.", 
+      "sponsored_at": "2003-02-27", 
+      "state": "IA", 
+      "thomas_id": "00672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Nussle, Jim", 
+      "sponsored_at": "2003-03-20", 
+      "state": "IA", 
+      "thomas_id": "00871", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2003-03-25T18:59:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2003-02-27", 
+  "number": "961", 
+  "official_title": "To promote Department of the Interior efforts to provide a scientific basis for the management of sediment and nutrient loss in the Upper Mississippi River Basin, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Upper Mississippi River Basin Protection Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2003-03-25T18:59:00-05:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "Civil rights and liberties, minority issues", 
+    "Commerce", 
+    "Computer simulation", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Data banks", 
+    "Economics and public finance", 
+    "Electronic government information", 
+    "Environmental monitoring", 
+    "Environmental protection", 
+    "Environmental research", 
+    "Estuaries", 
+    "Eutrophication", 
+    "Federal aid to research", 
+    "Federal aid to water pollution control", 
+    "Federal-Indian relations", 
+    "Federal-local relations", 
+    "Federal-state relations", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Hydrology", 
+    "Illinois", 
+    "Internet", 
+    "Iowa", 
+    "Land use", 
+    "Landscape protection", 
+    "Marine and coastal resources, fisheries", 
+    "Marine pollution", 
+    "Minnesota", 
+    "Minorities", 
+    "Mississippi River", 
+    "Missouri", 
+    "Nature conservation", 
+    "Performance measurement", 
+    "Public lands and natural resources", 
+    "Public-private partnerships", 
+    "Remote sensing", 
+    "Right of privacy", 
+    "Rivers", 
+    "Science, technology, communications", 
+    "Sediment control", 
+    "Sedimentation", 
+    "Soil conservation", 
+    "Soil erosion", 
+    "Space activities", 
+    "Water pollution control", 
+    "Water quality", 
+    "Water resources development", 
+    "Watersheds", 
+    "Wisconsin"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2003-03-25", 
+    "text": "(This measure has not been amended since it was introduced in the House on February 27, 2003. However, because action occurred on the measure, the summary has been expanded.)Upper Mississippi River Basin Protection Act - Declares that it is the policy of Congress that Federal investments in the Upper Mississippi River Basin must be guided by sound science.Title I: Sediment and Nutrient Monitoring Network - (Sec. 101) Directs the Secretary of the Interior (acting through the office of the Director of the United States Geological Survey (USGS)), as part of the Upper Mississippi River Stewardship Initiative, to establish a nutrient and sediment monitoring network for the River Basin to: (1) identify and evaluate sources of sediments and nutrients; (2) quantify the processes affecting mobilization, transport, and fate of those sediments and nutrients on land and in water; (3) quantify their transport to and through the Basin; (4) record changes to sediment and nutrient loss; (5) provide coordinated data to be used in computer modeling of the Basin; and (6) identify major sources for targeting resources to reduce sediment and nutrient loss.(Sec. 102) Directs the Secretary to establish guidelines for related data collection and storage activities. Requires such data to be released to the public using generic station identifiers and hydrologic codes. Prohibits information regarding the location of a monitoring station on private lands from being disseminated without the landowner's permission.(Sec. 103) Directs the Secretary: (1) to inventory the sediment and nutrient monitoring efforts of governmental and nongovernmental entities for the purpose of creating a baseline understanding of overlap, data gaps, and redundancies; and (2) based on such inventory, to integrate such efforts into the monitoring network. Requires that such activities be carried out in coordination with the long-term estuary assessment project authorized under the Estuaries and Clean Waters Act of 2000.(Sec. 104) Directs the Secretary to collaborate with other public and private monitoring programs in establishing the monitoring network.(Sec. 105) Requires the Secretary to report to Congress on the development of such network.(Sec. 106) Directs the National Research Council of the National Academy of Sciences to conduct a water resources assessment of the Basin.Title II: Computer Modeling and Research - (Sec. 201) Requires the USGS Director, as part of the Initiative, to establish a computer modeling program of nutrient and sediment sources in the Basin. Requires such modeling to: (1) be used to identify subwatersheds that are significant sources of sediment and nutrient loss;(2) be made available for targeting public and private sediment and nutrient reduction efforts; and (3) include models to relate nutrient and sediment loss to landscape, land use, and land management practices and to define river channel nutrient transformation processes. Requires the collection of ancillary information in a GIS format to support modeling and management use of modeling results.(Sec. 202) Requires the Director to establish an Internet-based system to provide information about nutrient and sediment loss reduction programs and successful projects and about nutrient and sediment levels in the Upper Mississippi River and its tributaries.(Sec. 203) Requires the Director to provide to Congress and the public: (1) annual reports regarding monitoring activities conducted in the Basin; and (2) triennial progress reports regarding modeling activities.Title III: Authorization of Appropriations and Related Matters - (Sec. 301) Authorizes appropriations to: (1) the USGS to carry out this Act, of which one-third of appropriated amounts shall be made available for the Cooperative Water Program and the remainder for the Hydrologic Networks and Analysis Program; and (2) allow the National Research Council to perform the water resources assessment.(Sec. 302) Subjects funds for the Cooperative Water Program to the same cost sharing requirements as specified in a certain proviso under the Department of the Interior and Related Agencies Appropriations Act, 2002 for USGS surveys, investigations, and research."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Upper Mississippi River Basin Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Upper Mississippi River Basin Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To promote Department of the Interior efforts to provide a scientific basis for the management of sediment and nutrient loss in the Upper Mississippi River Basin, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:33:55-05:00"
+}
