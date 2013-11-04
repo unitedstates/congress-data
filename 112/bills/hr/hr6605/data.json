@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-27", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:24:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6650", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:24:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6605.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6650", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:28:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-06", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-07", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime, Terrorism, and Homeland Security", 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6605-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2012-11-27", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-05T10:28:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-11-27", 
+  "number": "6605", 
+  "official_title": "To eliminate an unnecessary reporting requirement for an unfunded DNA Identification grant program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "14", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-12-05T10:28:00-05:00", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Government information and archives", 
+    "Law enforcement administration and funding"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-12-05", 
+    "text": "Amends the Omnibus Crime Control and Safe Streets Act of 1968 to repeal a reporting requirement under the DNA identification grant program that requires each state or local government that receives a grant to submit to the Attorney General, for each year in which funds are expended, a report on the activities carried out and an assessment of whether such activities are meeting the needs identified in the grant application."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To eliminate an unnecessary reporting requirement for an unfunded DNA Identification grant program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:02:06-05:00"
+}

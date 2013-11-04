@@ -1,0 +1,303 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-08", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-03-14T17:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-14T17:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1776-1778", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-14T17:12:00-04:00", 
+      "bill_ids": [
+        "hcres27-112"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 27.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-14T17:35:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-14T18:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1779-1780", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-14T19:02:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1776", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "176", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 176).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-03-14T19:02:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-15", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1768", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1768", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2011-03-17", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres27-112", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Amash, Justin", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "02029", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Clarke, Hansen", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "02030", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Peters, Gary C.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "01929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rogers, Mike J.", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "01651", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2011-03-08", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-03-14T19:02:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2011-03-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-03-08", 
+  "number": "27", 
+  "official_title": "Providing for the acceptance of a statue of Gerald R. Ford from the people of Michigan for placement in the United States Capitol.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Upton, Fred", 
+    "state": "MI", 
+    "thomas_id": "01177", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2011-03-16", 
+  "subjects": [
+    "Art, artists, authorship", 
+    "Commemorative events and holidays", 
+    "Congress", 
+    "Congressional tributes", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "Michigan", 
+    "Presidential administrations", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2011-03-16", 
+    "text": "Accepts in the name of the United States the statue of Gerald R. Ford furnished by the people of Michigan for placement in the U.S. Capitol. Tenders the thanks of Congress to the people of Michigan for providing this commemoration. Authorizes Michigan to use the rotunda of the Capitol on May 3, 2011, for a presentation ceremony."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Providing for the acceptance of a statue of Gerald R. Ford from the people of Michigan for placement in the United States Capitol.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:03:21-05:00"
+}

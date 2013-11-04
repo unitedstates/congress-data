@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-04", 
+      "committee": "Committee on Agriculture, Nutrition, and Forestry", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-07", 
+      "references": [
+        {
+          "reference": "CR S3870-3871", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-07", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3871", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-06-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-07T22:10:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-07", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-08T12:08:00-04:00", 
+      "references": [], 
+      "text": "Mr. Thompson (PA) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-08T12:08:00-04:00", 
+      "references": [], 
+      "text": "Committee on Agriculture discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-08T12:08:00-04:00", 
+      "references": [
+        {
+          "reference": "H3691", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-08T12:09:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H3691", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-06-08T12:09:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-06-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-06-13", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "132", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-132.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3261-112", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Agriculture, Nutrition, and Forestry", 
+      "committee_id": "SSAF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "2012-06-04", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2012-06-06", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Tester, Jon", 
+      "sponsored_at": "2012-06-06", 
+      "state": "MT", 
+      "thomas_id": "01829", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2012-06-06", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "132"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-06-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-06-08T12:09:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-06-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-06-04", 
+  "number": "3261", 
+  "official_title": "A bill to allow the Chief of the Forest Service to award certain contracts for large air tankers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-06-13", 
+  "subjects": [
+    "Aviation and airports", 
+    "Fires", 
+    "Forests, forestry, trees", 
+    "Public contracts and procurement", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-06-13", 
+    "text": "Authorizes the Chief of the Forest Service to award certain contracts for fire suppression air tankers earlier than the end of the 30-day period beginning on the date of a required notification."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to allow the Chief of the Forest Service to award certain contracts for large air tankers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:35:15-05:00"
+}

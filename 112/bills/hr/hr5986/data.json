@@ -1,0 +1,393 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-21", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-08-02T10:06:00-04:00", 
+      "references": [], 
+      "text": "Mr. Camp moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-02T10:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5640-5644", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-02T10:06:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5986.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-02T10:35:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5640-5641", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-08-02T10:35:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-02", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5934", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5934", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-08-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-03", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-08-10", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-08-10", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "163", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-163.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5986-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "33", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2012-06-21", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2012-06-21", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Buchanan, Vern", 
+      "sponsored_at": "2012-06-21", 
+      "state": "FL", 
+      "thomas_id": "01840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2012-07-10", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2012-06-21", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Geoff", 
+      "sponsored_at": "2012-06-21", 
+      "state": "KY", 
+      "thomas_id": "01784", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2012-06-21", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2012-06-21", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2012-06-21", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2012-06-21", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2012-06-21", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2012-06-21", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2012-06-21", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2012-06-21", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2012-06-21", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "163"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-08-10", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-08-02T10:35:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-08-02", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-06-21", 
+  "number": "5986", 
+  "official_title": "To amend the African Growth and Opportunity Act to extend the third-country fabric program and to add South Sudan to the list of countries eligible for designation under that Act, to make technical corrections to the Harmonized Tariff Schedule of the United States relating to the textile and apparel rules of origin for the Dominican Republic-Central America-United States Free Trade Agreement, to approve the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3326-112", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Camp, Dave", 
+    "state": "MI", 
+    "thomas_id": "00166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-08-10", 
+  "subjects": [
+    "Africa", 
+    "Asia", 
+    "Burma", 
+    "Caribbean area", 
+    "Corporate finance and management", 
+    "Costa Rica", 
+    "Customs enforcement", 
+    "Dominican Republic", 
+    "El Salvador", 
+    "Foreign trade and international finance", 
+    "Free trade and trade barriers", 
+    "Guatemala", 
+    "Honduras", 
+    "Latin America", 
+    "Nicaragua", 
+    "Sanctions", 
+    "South Sudan", 
+    "Tariffs", 
+    "Tax administration and collection, taxpayers", 
+    "Trade agreements and negotiations", 
+    "Trade restrictions", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-08-10", 
+    "text": "(Sec. 1) Amends the African Growth and Opportunity Act to extend through FY2015 the third-country fabric rule granting duty-free treatment of apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles. Revises the term \"sub-Saharan African country\" to include the Republic of South Sudan (South Sudan) under such Act. (Sec. 2) Amends the Harmonized Tariff Schedule of the United States to modify textile and apparel rules of origin for the Dominican Republic-Central America-United States Free Trade Agreement (CAFTA-DR). (Sec. 3) Amends the Burmese Freedom and Democracy Act of 2003 to renew, for three years, the President's authority to ban the import of Burmese products. Approves the renewal of certain import restrictions contained in the Act. Deems this resolution a renewal resolution which shall take effect upon its enactment or July 26, 2012, whichever occurs first. (Sec. 4) Amends the Internal Revenue Code to require estimated tax payments which are otherwise due in the third quarter of 2017 for corporations with assets of at least $1 billion to be 100.25% of such amount. Requires the next required installment to be appropriately reduced to reflect the amount of this increase. (Sec. 5) Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend certain customs users fees for the processing of merchandise entered into the United States from August 2, 2021, to October 22, 2021, and other specified customs users fees from December 8, 2020, to October 29, 2021."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the African Growth and Opportunity Act to extend the third-country fabric program and to add South Sudan to the list of countries eligible for designation under that Act, to make technical corrections to the Harmonized Tariff Schedule of the United States relating to the textile and apparel rules of origin for the Dominican Republic-Central America-United States Free Trade Agreement, to approve the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:56:53-05:00"
+}

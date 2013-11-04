@@ -1,0 +1,217 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "committee": "House Committee on Science, Space, and Technology", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-31T10:58:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hall moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T10:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7485-7491", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T10:59:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6612.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T11:19:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Edwards objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T18:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7512-7513", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T18:16:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T18:16:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7485", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "653", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 653).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-01-01", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6612-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "44", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2012-11-29", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2012-11-30", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2012-11-29", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2012-11-29", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2012-11-29", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2012-11-29", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2012-11-29", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-31T18:16:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-11-29", 
+  "number": "6612", 
+  "official_title": "To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight Research Center and the Western Aeronautical Test Range as the Hugh L. Dryden Aeronautical Test Range.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "22", 
+    "name": "McCarthy, Kevin", 
+    "state": "CA", 
+    "thomas_id": "01833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-12-31T18:16:00-05:00", 
+  "subjects": [
+    "California", 
+    "Congressional tributes", 
+    "Federal officials", 
+    "Government buildings, facilities, and property", 
+    "National Aeronautics and Space Administration", 
+    "Research administration and funding", 
+    "Science, technology, communications", 
+    "Space flight and exploration"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-12-31", 
+    "text": "Redesignates: (1) the National Aeronautics and Space Administration (NASA) Hugh L. Dryden Flight Research Center in Edwards, California, as the \"NASA Neil A. Armstrong Flight Research Center,\" and (2) the National Aeronautics and Space Administration Western Aeronautical Test Range in California as the \"NASA Hugh L. Dryden Aeronautical Test Range.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight Research Center and the Western Aeronautical Test Range as the Hugh L. Dryden Aeronautical Test Range.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:02:09-05:00"
+}

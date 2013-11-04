@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-26", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-08-14", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration Policy and Enforcement", 
+      "text": "Referred to the Subcommittee on Immigration Policy and Enforcement.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:29:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6650-6652", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:29:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6223.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:37:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6650-6651", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:37:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:37:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-06", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-17", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8087-8088", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-12-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-12-28", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-12-28", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "227", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-227.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6223-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration Policy and Enforcement", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2012-11-16", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "227"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-12-28", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-05T10:37:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-12-17", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-07-26", 
+  "number": "6223", 
+  "official_title": "To amend section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 to clarify that a period of employment abroad by the Chief of Mission or United States Armed Forces as a translator, interpreter, or in a security-related position in an executive or managerial capacity is to be counted as a period of residence and physical presence in the United States for purposes of qualifying for naturalization, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3643-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Dent, Charles W.", 
+    "state": "PA", 
+    "thomas_id": "01799", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-12-28", 
+  "subjects": [
+    "Afghanistan", 
+    "Asia", 
+    "Citizenship and naturalization", 
+    "Department of Defense", 
+    "Department of State", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Foreign labor", 
+    "Foreign language and bilingual programs", 
+    "Government employee pay, benefits, personnel management", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Iraq", 
+    "Middle East", 
+    "Military operations and strategy"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-12-28", 
+    "text": "Amends the National Defense Authorization Act for Fiscal Year 2006 to consider the period of time that a person was employed by the Chief of Mission or the U.S. Armed Forces, under contract with the Chief of Mission or the U.S. Armed Forces, or was employed by a firm or corporation under contract with the Chief of Mission or the U.S. Armed Forces as a translator, interpreter, or in an executive or managerial level security position as a period of U.S. residence and physical presence for naturalization purposes if at least a portion of such period was spent abroad working directly in such capacity for the Chief of Mission or U.S. Armed Forces. Makes such amendment effective as if included in the enactment of a specified section of the National Defense Authorization Act for Fiscal Year 2006."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 to clarify that a period of employment abroad by the Chief of Mission or United States Armed Forces as a translator, interpreter, or in an executive level security position is to be counted as a period of residence and physical presence in the United States for purposes of qualifying for naturalization if at least a portion of such period was spent in Iraq or Afghanistan, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "To amend section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 to clarify that a period of employment abroad by the Chief of Mission or United States Armed Forces as a translator, interpreter, or in a security-related position in an executive or managerial capacity is to be counted as a period of residence and physical presence in the United States for purposes of qualifying for naturalization, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:58:52-05:00"
+}

@@ -1,0 +1,191 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-19", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-03-21T12:38:00-04:00", 
+      "references": [], 
+      "text": "Mr. Nugent asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-21T12:38:00-04:00", 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-21T12:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1442", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-21T12:39:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H1442", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-03-21T12:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-21", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-22", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2006", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-03-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres108-112", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2012-03-19", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Hayworth, Nan A. S.", 
+      "sponsored_at": "2012-03-19", 
+      "state": "NY", 
+      "thomas_id": "02042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2012-03-19", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2012-03-19", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-03-21T12:39:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-03-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-03-19", 
+  "number": "108", 
+  "official_title": "Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres33-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Meehan, Patrick", 
+    "state": "PA", 
+    "thomas_id": "02052", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2012-03-22", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congress", 
+    "Crime victims", 
+    "Religion", 
+    "U.S. Capitol", 
+    "War crimes, genocide, crimes against humanity"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2012-03-22", 
+    "text": "Authorizes the use of the Capitol rotunda on April 19, 2012, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:04:02-05:00"
+}

@@ -1,0 +1,388 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-27", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-05-02", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Trade     ", 
+      "text": "Referred to the Subcommittee on Trade     .", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-19T16:46:00-04:00", 
+      "references": [], 
+      "text": "Mr. Johnson, Sam moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T16:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6101-6104", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T16:46:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5044.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T17:07:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T18:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6119-6120", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T18:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6101-6102", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "585", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 585).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-19T18:52:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-20", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5044-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2012-08-02", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "02061", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Griffin, Tim", 
+      "sponsored_at": "2012-05-31", 
+      "state": "AR", 
+      "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2012-05-10", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2012-08-02", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Jordan, Jim", 
+      "sponsored_at": "2012-05-17", 
+      "state": "OH", 
+      "thomas_id": "01868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2012-04-27", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2012-05-17", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2012-04-27", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2012-05-31", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2012-05-10", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2012-05-17", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scalise, Steve", 
+      "sponsored_at": "2012-05-10", 
+      "state": "LA", 
+      "thomas_id": "01892", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2012-05-17", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "West, Allen B.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "FL", 
+      "thomas_id": "02005", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-19T18:52:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-04-27", 
+  "number": "5044", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to exclude from gross income any discharge of indebtedness income on education loans of deceased veterans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Andrew P. Carpenter Tax Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DesJarlais, Scott", 
+    "state": "TN", 
+    "thomas_id": "02062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-09-19T18:52:00-04:00", 
+  "subjects": [
+    "Disability and paralysis", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "Income tax exclusion", 
+    "Student aid and college costs", 
+    "Taxation", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-09-19", 
+    "text": "Andrew P. Carpenter Tax Act - Amends the Internal Revenue Code to: (1) exclude from the gross income of any cosigner of a student loan of a veteran who died as a result of a service-connected disability any amount attributable to the discharge of the indebtedness on such loan, and (2) subject accounts in the Thrift Savings Fund to a federal tax levy. Provides that any potential revenue gain from the enactment of this Act shall be deposited in the general fund of the Treasury and shall be used solely for deficit reduction."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Andrew P. Carpenter Tax Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Andrew P. Carpenter Tax Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income any discharge of indebtedness income on education loans of deceased veterans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:48:59-05:00"
+}

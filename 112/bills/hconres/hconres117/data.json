@@ -1,0 +1,207 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-19", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-04-20", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:44:00-04:00", 
+      "references": [], 
+      "text": "Mr. Denham moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2297-2298", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:44:00-04:00", 
+      "bill_ids": [
+        "hcres117-112"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 117.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:49:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T18:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2301-2302", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T19:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2297-2298", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "197", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 197).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-05-07T19:04:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-08", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3049", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-05-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres117-112", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2012-04-19", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-05-07T19:04:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-05-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-04-19", 
+  "number": "117", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres46-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hconres46-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hconres46-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Denham, Jeff", 
+    "state": "CA", 
+    "thomas_id": "01995", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2012-05-09", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congress", 
+    "Law enforcement officers", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2012-05-09", 
+    "text": "Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 31st Annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2012, to honor the law enforcement officers who died in the line of duty during 2011."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:04:06-05:00"
+}

@@ -1,0 +1,216 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-24", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-02-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-03-19T16:19:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 112-413.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-19T16:20:00-04:00", 
+      "calendar": "Union", 
+      "number": "285", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 285.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-03-19T17:04:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-19T17:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1370-1372", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-19T17:04:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4086.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-19T17:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1370", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-03-19T17:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-20", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4086-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2012-02-24", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2012-02-24", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2012-02-24", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-03-19T17:13:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-02-24", 
+  "number": "4086", 
+  "official_title": "To amend chapter 97 of title 28, United States Code, to clarify the exception to foreign sovereign immunity set forth in section 1605(a)(3) of such title.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2212-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Foreign Cultural Exchange Jurisdictional Immunity Clarification Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "thomas_id": "00186", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-03-19T17:13:00-04:00", 
+  "subjects": [
+    "Art, artists, authorship", 
+    "Cultural exchanges and relations", 
+    "Government liability", 
+    "International law and treaties", 
+    "Jurisdiction and venue", 
+    "Law", 
+    "Museums, exhibitions, cultural centers", 
+    "Property rights", 
+    "War crimes, genocide, crimes against humanity"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-03-19", 
+    "text": "Foreign Cultural Exchange Jurisdictional Immunity Clarification Act - Amends the federal judicial code with respect to denial of a foreign state's immunity from the jurisdiction of U.S. or state courts (under the Foreign Sovereign Immunities Act) in cases where rights in property taken in violation of international law are in issue and that property (or any property exchanged for it) is: (1) present in the United States in connection with a commercial activity carried on by the foreign state in the United States; or (2) owned by an agency or instrumentality of the foreign state, and that agency or instrumentality is engaged in a commercial activity in the United States. Prohibits consideration as a commercial activity (excluded from jurisdictional immunity) any activity in the United States of a foreign state, or of any carrier, associated with a temporary exhibition or display if: (1) the work of art (or other object of cultural significance) in question is imported into the United States from any foreign country pursuant to an agreement for its temporary exhibition or display between a foreign state that is its owner or custodian and the United States or cultural or educational institutions within it; and (2) the President has determined, with notice in the Federal Register, that such work is culturally significant and its temporary exhibition or display is in the national interest. (Thus grants jurisdictional immunity to the foreign state and associated carrier for such works.) Denies application of this prohibition to cases in which: (1) the civil action filed is based upon a claim that the work was taken in Europe in violation of international law by the Nazi government of Germany or governments occupied, assisted, or allied by the Nazi government between January 30, 1933, and May 8, 1945; (2) the court determines that the activity associated with the exhibition or display is commercial; and (3) that determination is necessary for the court to exercise jurisdiction over the foreign state."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Foreign Cultural Exchange Jurisdictional Immunity Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Foreign Cultural Exchange Jurisdictional Immunity Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Foreign Cultural Exchange Jurisdictional Immunity Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend chapter 97 of title 28, United States Code, to clarify the exception to foreign sovereign immunity set forth in section 1605(a)(3) of such title.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:39:00-05:00"
+}

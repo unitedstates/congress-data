@@ -1,0 +1,463 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-31", 
+      "committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-05-13", 
+      "in_committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "subcommittee": "Middle East and South Asia ", 
+      "text": "Referred to the Subcommittee on Middle East and South Asia .", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-31T12:57:00-05:00", 
+      "references": [], 
+      "text": "Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T12:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7506-7508", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T12:58:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 193.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T13:07:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7506-7507", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-31T13:07:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31T13:07:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres193-112", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Middle East and South Asia", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2012-12-11", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Buerkle, Ann Marie", 
+      "sponsored_at": "2012-06-26", 
+      "state": "NY", 
+      "thomas_id": "02045", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Carnahan, Russ", 
+      "sponsored_at": "2012-12-13", 
+      "state": "MO", 
+      "thomas_id": "01789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "sponsored_at": "2012-12-13", 
+      "state": "IL", 
+      "thomas_id": "00478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Keating, William R.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Brad", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NC", 
+      "thomas_id": "01735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2012-12-13", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Olver, John W.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MA", 
+      "thomas_id": "00879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Peters, Gary C.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "MI", 
+      "thomas_id": "01929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2012-12-13", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2012-12-11", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Schwartz, Allyson Y.", 
+      "sponsored_at": "2012-12-11", 
+      "state": "PA", 
+      "thomas_id": "01798", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2012-12-11", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Sires, Albio", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2011-03-31", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tierney, John F.", 
+      "sponsored_at": "2011-04-14", 
+      "state": "MA", 
+      "thomas_id": "01535", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2012-12-11", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2012-12-13", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "2012-12-13", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2012-12-11", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2011-04-06", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-31T13:07:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-03-31", 
+  "number": "193", 
+  "official_title": "Calling for the safe and immediate return of Noor and Ramsay Bower to the United States.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2012-12-31T13:07:00-05:00", 
+  "subjects": [
+    "Crimes against children", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Egypt", 
+    "International affairs", 
+    "International law and treaties", 
+    "Middle East", 
+    "Separation, divorce, custody, support"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-12-31", 
+    "text": "Calls on government officials and competent courts in Egypt to assist in the safe and immediate return of Noor and Ramsay Bower to the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Calling on the new Government of Egypt to honor the rule of law and immediately return Noor and Ramsay Bower to the United States.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "Calling for the safe and immediate return of Noor and Ramsay Bower to the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:43:01-05:00"
+}

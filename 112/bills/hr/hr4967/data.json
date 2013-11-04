@@ -1,0 +1,249 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-27", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-05-09T14:00:00-04:00", 
+      "references": [], 
+      "text": "Committee on Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T14:40:00-04:00", 
+      "references": [], 
+      "text": "Mr. Coble asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T14:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2492-2493", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09T14:40:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H2492-2493", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-05-09T14:40:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-10", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3102-3103", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-05-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-05-25", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-05-25", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "121", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-121.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4967-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2012-04-27", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "121"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-05-25", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-05-09T14:40:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-05-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-04-27", 
+  "number": "4967", 
+  "official_title": "To prevent the termination of the temporary office of bankruptcy judges in certain judicial districts.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1021-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1021-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1821-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1821-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Temporary Bankruptcy Judgeships Extension Act of 2012", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-05-25", 
+  "subjects": [
+    "Bankruptcy", 
+    "California", 
+    "Delaware", 
+    "Federal district courts", 
+    "Florida", 
+    "Georgia", 
+    "Judges", 
+    "Law", 
+    "Legal fees and court costs", 
+    "Maryland", 
+    "Michigan", 
+    "Nevada", 
+    "New Jersey", 
+    "New York State", 
+    "North Carolina", 
+    "Pennsylvania", 
+    "Puerto Rico", 
+    "South Carolina", 
+    "Tennessee", 
+    "Virginia"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-05-25", 
+    "text": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Temporary Bankruptcy Judgeships Extension Act of 2012 - (Sec. 2) Extends the temporary office of certain bankruptcy judgeships authorized or extended under the Bankruptcy Judgeship Act of 1992 and Bankruptcy Judgeship Act of 2005 until applicable vacancies identified in this Act occur in the office of a bankruptcy judge for specified districts in California, Delaware, Florida, Georgia, Maryland, Michigan, New Jersey, New York, North Carolina, Pennsylvania, Puerto Rico, South Carolina, Tennessee, Virginia, and Nevada. Prohibits filling specified bankruptcy judge vacancies in such districts occurring more than five years after enactment of this Act and resulting from the death, retirement, resignation, or removal of a bankruptcy judge (thus extending the lapse date under current law by five years). (Sec. 3) Increases by a specified amount the bankruptcy filing fee for a case commenced under chapter 11 (Reorganization) that does not concern a railroad. Requires that certain incremental amounts collected by reason of such increased fees be: (1) deposited in a special fund in the Treasury; and (2) made available to offset funds appropriated for the operation and maintenance of U.S. courts, but only to the extent specifically appropriated by an Act enacted after enactment of this Act. Reduces the percentage of such fees to be deposited as offsetting collections to the U.S. Trustee System Fund (funds available to the Attorney General for operations of U.S. trustees). Increases the percentage of chapter 7 (Liquidation) and 13 (Adjustment of Debts of an Individual with Regular Income) fees to be deposited as offsetting receipts to remain available to the Judiciary for expenses, services, and administration of U.S. courts. (Sec. 4) Requires Judiciary Committees of the House and Senate, prior to further reauthorization of any judgeship authorized by this Act, to: (1) conduct a review of the bankruptcy judgeships authorized by this Act to determine the need for continued reauthorization of each judgeship; (2) evaluate any changes in all bankruptcy case filings and the effect on filing fee revenue; and (3) require the Administrative Office of the Courts to submit a report on bankruptcy case workload, bankruptcy judgeship costs, and filing fee revenue."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Temporary Bankruptcy Judgeships Extension Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Temporary Bankruptcy Judgeships Extension Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Temporary Bankruptcy Judgeships Extension Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Temporary Bankruptcy Judgeships Extension Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To prevent the termination of the temporary office of bankruptcy judges in certain judicial districts.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:48:21-05:00"
+}

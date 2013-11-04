@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-23", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5932", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5932", 
+          "type": "text as passed Senate"
+        }, 
+        {
+          "reference": "CR S5952", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2011-09-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-26T12:02:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-26", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-10-03T16:52:00-04:00", 
+      "references": [], 
+      "text": "Mr. Harper moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-03T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6481-6483", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-03T16:53:00-04:00", 
+      "bill_ids": [
+        "scres29-112"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 29.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-03T17:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6481-6482", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-10-03T17:01:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres29-112", 
+  "bill_type": "sconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "2011-09-23", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2011-09-23", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2011-09-23", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hutchison, Kay Bailey", 
+      "sponsored_at": "2011-09-23", 
+      "state": "TX", 
+      "thomas_id": "01368", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lieberman, Joseph I.", 
+      "sponsored_at": "2011-09-23", 
+      "state": "CT", 
+      "thomas_id": "01385", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2011-09-23", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2011-09-23", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Vitter, David", 
+      "sponsored_at": "2011-09-23", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-10-03T17:01:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2011-09-23", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-09-23", 
+  "number": "29", 
+  "official_title": "A concurrent resolution authorizing the use of the rotunda of the United States Capitol for an event to present the Congressional Gold Medal, collectively, to Neil A. Armstrong, Edwin E. \"Buzz\" Aldrin, Jr., Michael Collins, and John Herschel Glenn, Jr., in recognition of their significant contributions to society.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2011-10-03T17:01:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "Congressional tributes", 
+    "Space flight and exploration", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2011-10-03", 
+    "text": "Authorizes use of the rotunda of the Capitol on November 16, 2011, for presentation of the Congressional Gold Medal, collectively, to Neil A. Armstrong, Edwin E. \"Buzz\" Aldrin, Jr., Michael Collins, and John Herschel Glenn, Jr., in recognition of their significant contributions to society."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution authorizing the use of the rotunda of the United States Capitol for an event to present the Congressional Gold Medal, collectively, to Neil A. Armstrong, Edwin E. \"Buzz\" Aldrin, Jr., Michael Collins, and John Herschel Glenn, Jr., in recognition of their significant contributions to society.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:10:22-05:00"
+}

@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-28T23:59:00-04:00", 
+      "calendar": "House", 
+      "number": "63", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 63.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2011-07-28T23:59:00-04:00", 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 112-185, by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-29T14:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5739-5749", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-29T14:02:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 382.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-29T15:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5748-5749", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 237 - 185 (Roll no. 671).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-29T15:39:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5739", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "672", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 186 (Roll no. 672).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-07-29T15:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres382-112", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-07-29T15:39:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-07-28", 
+  "number": "382", 
+  "official_title": "Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2011-07-29T15:39:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2011-07-28", 
+    "text": "Waives a specified requirement of Rule XIII (Calendar and Committee Reports) to allow consideration of any resolution reported from the Committee on Rules through the legislative day of August 2, 2011, on the same day it is presented to the House."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:45:15-05:00"
+}

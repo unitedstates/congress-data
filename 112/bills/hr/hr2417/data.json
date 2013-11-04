@@ -1,0 +1,497 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-06", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-07-06", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Energy and Power", 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-07-11T17:30:00-04:00", 
+      "references": [], 
+      "text": "Mr. Barton (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-11T17:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4822-4830", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4822", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-11T17:31:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2417.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-11T18:17:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T18:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4926", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-12T18:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "563", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 233 - 193, 1 Present (Roll no. 563).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-07-12T18:44:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2417-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Akin, W. Todd", 
+      "sponsored_at": "2011-07-06", 
+      "state": "MO", 
+      "thomas_id": "01655", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2011-07-08", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2011-07-06", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Broun, Paul C.", 
+      "sponsored_at": "2011-07-07", 
+      "state": "GA", 
+      "thomas_id": "01882", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2011-07-06", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2011-07-06", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "sponsored_at": "2011-07-08", 
+      "state": "TN", 
+      "thomas_id": "02062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2011-07-08", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2011-07-07", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2011-07-08", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2011-07-11", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Fleischmann, Charles J. \"Chuck\"", 
+      "sponsored_at": "2011-07-08", 
+      "state": "TN", 
+      "thomas_id": "02061", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2011-07-06", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2011-07-06", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "sponsored_at": "2011-07-08", 
+      "state": "MO", 
+      "thomas_id": "02032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2011-07-07", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2011-07-06", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2011-07-07", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2011-07-06", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Mack, Connie", 
+      "sponsored_at": "2011-07-08", 
+      "state": "FL", 
+      "thomas_id": "01776", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "sponsored_at": "2011-07-06", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2011-07-07", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2011-07-06", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2011-07-08", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2011-07-07", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2011-07-06", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2011-07-08", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2011-07-07", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scalise, Steve", 
+      "sponsored_at": "2011-07-06", 
+      "state": "LA", 
+      "thomas_id": "01892", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2011-07-08", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2011-07-08", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2011-07-06", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2011-07-08", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2011-07-06", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Womack, Steve", 
+      "sponsored_at": "2011-07-11", 
+      "state": "AR", 
+      "thomas_id": "01991", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2011-07-06", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": "2011-07-07"
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2011-07-12T18:44:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-07-06", 
+  "number": "2417", 
+  "official_title": "To repeal certain amendments to the Energy Policy and Conservation Act with respect to lighting energy efficiency, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr91-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s395-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Better Use of Light Bulbs Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2011-07-12T18:44:00-04:00", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Consumer affairs", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy research", 
+    "Federal preemption", 
+    "Government buildings, facilities, and property", 
+    "Hazardous wastes and toxic substances", 
+    "Lighting and heating", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2011-07-06", 
+    "text": "Better Use of Light Bulbs Act - Repeals provisions of the Energy Independence and Security Act of 2007 concerning lighting energy efficiency, including provisions amending the Energy Policy and Conservation Act (EPCA), that: (1) prescribe energy efficiency standards for general service incandescent lamps,\u00a0rough service lamps, and other designated lamps; (2) direct the Secretary of Energy (DOE) to conduct and report to the Federal Trade Commission (FTC) on an annual assessment of the market for general service lamps and compact fluorescent lamps; (3) direct the Secretary to carry out a proactive national program of consumer awareness, information, and education about lamp labels and energy-efficient lighting choices; (4) prohibit a manufacturer, distributor, retailer, or private labeler from distributing in commerce specified adapters for incandescent lamps; (5) authorize the Secretary to carry out a lighting technology research and development program; and (6) set forth minimum energy efficiency standards for incandescent reflector lamps. Provides that EPCA shall be applied and administered as if such provisions had not been enacted. Provides that: (1)\u00a0no federal, state, or local\u00a0requirement or standard regarding energy efficient lighting\u00a0 shall be effective to the extent that the requirement or standard can be satisfied only by installing or using lamps containing mercury; and (2)\u00a0no state or local regulation concerning the energy efficiency or energy use of medium screw base general service incandescent lamps shall be effective."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Better Use of Light Bulbs Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To repeal certain amendments to the Energy Policy and Conservation Act with respect to lighting energy efficiency, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:19:26-05:00"
+}

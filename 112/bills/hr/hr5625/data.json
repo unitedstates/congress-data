@@ -1,0 +1,168 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-08", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-05-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:54:00-04:00", 
+      "references": [], 
+      "text": "Mr. Whitfield moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3985-3986", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5625.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3985", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:59:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-27", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5625-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-06-26T14:59:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-05-08", 
+  "number": "5625", 
+  "official_title": "To reinstate and transfer certain hydroelectric licenses and extend the deadline for commencement of construction of certain hydroelectric projects.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1353-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s715-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Collinsville Renewable Energy Promotion Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Murphy, Christopher S.", 
+    "state": "CT", 
+    "thomas_id": "01837", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-06-26T14:59:00-04:00", 
+  "subjects": [
+    "Connecticut", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Environmental assessment, monitoring, research", 
+    "Licensing and registrations"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-06-26", 
+    "text": "Collinsville Renewable Energy Promotion Act - Authorizes the Federal Energy Regulatory Commission (FERC) to: (1) reinstate the license for either or each of the projects numbered 10822 and 10823, and (2) extend for two years after the date on which either or each such project is reinstated the time period during which the licensee must commence project construction. Directs FERC to: (1) transfer the reinstated licenses to the town of Canton, Connecticut, if it reinstates them and extends the time period during which the licensee is required to commence project construction; and (2) complete an environmental assessment for the projects and update the environmental analysis performed during the licensing process. Sets a deadline for FERC to: (1) reach a final decision concerning the projects, and (2) complete the license transfer if it decides to reinstate either or both licenses. Declares that this Act does not affect certain valid licenses issued by FERC before enactment of this Act or diminish or extinguish any existing rights under any such license."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Collinsville Renewable Energy Promotion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Collinsville Renewable Energy Promotion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reinstate and transfer certain hydroelectric licenses and extend the deadline for commencement of construction of certain hydroelectric projects.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:53:52-05:00"
+}

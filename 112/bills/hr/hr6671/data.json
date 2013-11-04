@@ -1,0 +1,285 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-17", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-18T13:48:00-05:00", 
+      "references": [], 
+      "text": "Mr. Goodlatte moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-18T13:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6849-6851", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-18T13:48:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6671.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-18T14:05:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6849-6850", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-18T14:05:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8320-8321", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-12-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-31", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2013-01-10", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2013-01-10", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "258", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-258.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6671-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "32", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2012-12-17", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2012-12-17", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2012-12-17", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2012-12-17", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2012-12-17", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2012-12-17", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Peters, Gary C.", 
+      "sponsored_at": "2012-12-17", 
+      "state": "MI", 
+      "thomas_id": "01929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2012-12-17", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2012-12-17", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2012-12-17", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "258"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2013-01-10", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-18T14:05:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-12-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-12-17", 
+  "number": "6671", 
+  "official_title": "To amend section 2710 of title 18, United States Code, to clarify that a video tape service provider may obtain a consumer's informed, written consent on an ongoing basis and that consent may be obtained through the Internet.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2471-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Video Privacy Protection Act Amendments Act of 2012", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2013-01-10", 
+  "subjects": [
+    "Business records", 
+    "Consumer affairs", 
+    "Crime and law enforcement", 
+    "Internet and video services", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2012-12-20", 
+    "text": "Video Privacy Protection Act Amendments Act of 2012 - Amends provisions of the federal criminal code authorizing a video tape service provider to disclose personally identifiable information concerning any consumer to any person with the informed, written consent of the consumer to: (1) allow such consent to be provided through an electronic means using the Internet; (2) require such consent be in a form distinct and separate from any form setting forth other legal or financial obligations of the consumer; (3) allow such consent to be given in advance for a set period of time, not to exceed two years or until consent is withdrawn by the consumer, whichever is sooner; and (4) require the video tape service provider to provide an opportunity for the consumer to withdraw such consent on a case-by-case basis or to withdraw from ongoing disclosures, at the consumer's election."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Video Privacy Protection Act Amendments Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Video Privacy Protection Act Amendments Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Video Privacy Protection Act Amendments Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend section 2710 of title 18, United States Code, to clarify that a video tape service provider may obtain a consumer's informed, written consent on an ongoing basis and that consent may be obtained through the Internet.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:02:39-05:00"
+}

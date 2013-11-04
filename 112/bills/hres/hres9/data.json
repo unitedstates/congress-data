@@ -1,0 +1,261 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-01-05", 
+      "committee": "House Committee on Rules", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Rules.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-01-06T23:52:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Rules. H. Rept. 112-1.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-06T23:52:00-05:00", 
+      "calendar": "House", 
+      "number": "1", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 1.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2011-01-06T23:53:00-05:00", 
+      "bill_ids": [
+        "hres26-112", 
+        "hr2-112"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 26 Reported to House. Rule provides for consideration of H.R. 2 and H. Res. 9. Measure provides for consideration of H.R. 2, as amended, with the amendment printed in Part A of the report. H.R. 2, as amended, shall be debatable in the House for seven hours, equally divided and controlled. Measure provides for consideration of H. Res. 9 which shall be considered as read, debatable for one hour, equally divided and controlled, and makes in order the amendment printed in Part B of the report.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-07T11:03:00-05:00", 
+      "bill_ids": [
+        "hres26-112"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 26 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-20T09:14:00-05:00", 
+      "bill_ids": [
+        "hres26-112"
+      ], 
+      "references": [
+        {
+          "reference": "CR H361-373", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H361", 
+          "type": "text of measure as reported in House"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-20T09:14:00-05:00", 
+      "bill_ids": [
+        "hr2-112"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 2 and H. Res. 9. Measure provides for consideration of H.R. 2, as amended, with the amendment printed in Part A of the report. H.R. 2, as amended, shall be debatable in the House for seven hours, equally divided and controlled. Measure provides for consideration of H. Res. 9 which shall be considered as read, debatable for one hour, equally divided and controlled, and makes in order the amendment printed in Part B of the report.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-20T09:15:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 9.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-20T10:30:00-05:00", 
+      "bill_ids": [
+        "hres26-112"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H.Res. 26, the House proceeded with 10 minutes of debate on the Matheson (UT) amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-20T11:08:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "16", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution, as amended Agreed to by the Yeas and Nays: 253 - 175 (Roll no. 16).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-01-20T11:08:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h3-112", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "3"
+    }
+  ], 
+  "bill_id": "hres9-112", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2011-01-05", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2011-01-05", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2011-01-06", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lankford, James", 
+      "sponsored_at": "2011-01-05", 
+      "state": "OK", 
+      "thomas_id": "02050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2011-01-06", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2011-01-05", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scalise, Steve", 
+      "sponsored_at": "2011-01-06", 
+      "state": "LA", 
+      "thomas_id": "01892", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2011-01-06", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-01-20T11:08:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-01-05", 
+  "number": "9", 
+  "official_title": "Instructing certain committees to report legislation replacing the job-killing health care law.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres26-112", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "26", 
+    "name": "Dreier, David", 
+    "state": "CA", 
+    "thomas_id": "00317", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2011-01-20T11:08:00-05:00", 
+  "subjects": [
+    "Abortion", 
+    "Civil actions and liability", 
+    "Congress", 
+    "Congressional committees", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health personnel", 
+    "House Committee on Education and the Workforce", 
+    "House Committee on Energy and Commerce", 
+    "House Committee on Ways and Means", 
+    "House Committee on the Judiciary", 
+    "Medicaid", 
+    "Religion"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2011-01-20", 
+    "text": "Requires each of the following House Committees to report to the House legislation, within its jurisdiction, proposing specified changes to existing law (including the Patient Protection and Affordable Care Act): (1) the Committee on Education and the Workforce; (2) the Committee on Energy and Commerce; (3) the Committee on the Judiciary; and (4) the Committee on Ways and Means."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Instructing certain committees to report legislation replacing the job-killing health care law.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:40:49-05:00"
+}

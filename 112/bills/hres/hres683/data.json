@@ -1,0 +1,300 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-08", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-18T16:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-18T16:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3715-3719", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-18T16:35:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 683.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-18T16:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3715-3716", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-06-18T16:57:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres683-112", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "28", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2012-06-15", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2012-06-12", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2012-06-12", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2012-06-08", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Clarke, Hansen", 
+      "sponsored_at": "2012-06-15", 
+      "state": "MI", 
+      "thomas_id": "02030", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2012-06-08", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F. H.", 
+      "sponsored_at": "2012-06-18", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2012-06-08", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2012-06-08", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2012-06-08", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jackson, Jesse L., Jr.", 
+      "sponsored_at": "2012-06-08", 
+      "state": "IL", 
+      "thomas_id": "00587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2012-06-08", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lungren, Daniel E.", 
+      "sponsored_at": "2012-06-12", 
+      "state": "CA", 
+      "thomas_id": "00717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "2012-06-18", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Richardson, Laura", 
+      "sponsored_at": "2012-06-15", 
+      "state": "CA", 
+      "thomas_id": "01883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2012-06-08", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2012-06-15", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2012-06-08", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2012-06-15", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2012-06-18", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-06-18T16:57:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-06-08", 
+  "number": "683", 
+  "official_title": "Expressing the regret of the House of Representatives for the passage of laws that adversely affected the Chinese in the United States, including the Chinese Exclusion Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "32", 
+    "name": "Chu, Judy", 
+    "state": "CA", 
+    "thomas_id": "01970", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2012-06-18T16:57:00-04:00", 
+  "subjects": [
+    "Asia", 
+    "China", 
+    "Citizenship and naturalization", 
+    "Civil rights and liberties, minority issues", 
+    "Immigration status and procedures", 
+    "Racial and ethnic relations", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-06-18", 
+    "text": "Regrets the passage of legislation that adversely affected people of Chinese origin in the United States because of their ethnicity. States that nothing in this resolution may be construed or relied on to authorize or support any claim, including but not limited to constitutionally based claims, claims for monetary compensation or claims for equitable relief against the United States or any other party, or serve as a settlement of any claim against the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the regret of the House of Representatives for the passage of laws that adversely affected the Chinese in the United States, including the Chinese Exclusion Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:48:45-05:00"
+}

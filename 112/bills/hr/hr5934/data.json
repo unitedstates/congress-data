@@ -1,0 +1,207 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-08", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-18", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime, Terrorism, and Homeland Security", 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-11-14T13:05:00-05:00", 
+      "references": [], 
+      "text": "Mr. Coble moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-14T13:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6355-6357", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-14T13:05:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5934.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-14T13:17:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6355", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-11-14T13:17:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-15", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5934-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2012-06-08", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2012-08-02", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2012-08-02", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "sponsored_at": "2012-06-08", 
+      "state": "MP", 
+      "thomas_id": "01962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "2012-11-14", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-11-14T13:17:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-06-08", 
+  "number": "5934", 
+  "official_title": "To amend title 18, United States Code, to include certain territories and possessions of the United States in the definition of State for the purposes of chapter 114, relating to trafficking in contraband cigarettes and smokeless tobacco.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stop Tobacco Smuggling in the Territories Act of 2012", 
+  "sponsor": {
+    "district": null, 
+    "name": "Faleomavaega, Eni F. H.", 
+    "state": "AS", 
+    "thomas_id": "00367", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-11-14T13:17:00-05:00", 
+  "subjects": [
+    "American Samoa", 
+    "Crime and law enforcement", 
+    "Drug, alcohol, tobacco use", 
+    "Guam", 
+    "Northern Mariana Islands", 
+    "Smuggling and trafficking", 
+    "U.S. territories and protectorates"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-11-14", 
+    "text": "Stop Tobacco Smuggling in the Territories Act of 2012 - Amends the federal criminal code to include American Samoa, the Commonwealth of the Northern Mariana Islands, and Guam in the definition of \"state\" for purposes of provisions prohibiting trafficking in contraband cigarettes and smokeless tobacco."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Stop Tobacco Smuggling in the Territories Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Stop Tobacco Smuggling in the Territories Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 18, United States Code, to include certain territories and possessions of the United States in the definition of State for the purposes of chapter 114, relating to trafficking in contraband cigarettes and smokeless tobacco.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:56:27-05:00"
+}

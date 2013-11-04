@@ -1,0 +1,181 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-02", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-05-03", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-05-11T15:32:00-04:00", 
+      "references": [], 
+      "text": "Mr. Denham asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T15:32:00-04:00", 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T15:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3189", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-11T15:32:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H3189", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-05-11T15:32:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-12", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2972", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2011-05-13", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres46-112", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2011-05-02", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-05-11T15:32:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2011-05-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-05-02", 
+  "number": "46", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres117-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hconres117-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hconres117-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Denham, Jeff", 
+    "state": "CA", 
+    "thomas_id": "01995", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2011-05-12", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congress", 
+    "Law enforcement officers", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2011-05-12", 
+    "text": "Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 30th Annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2011, to honor the law enforcement officers who died in the line of duty during 2010."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:03:31-05:00"
+}

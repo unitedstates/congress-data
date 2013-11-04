@@ -1,0 +1,230 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-29", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-03-01", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:20:00-04:00", 
+      "references": [], 
+      "text": "Ms. Herrera Beutler moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2295-2296", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:21:00-04:00", 
+      "bill_ids": [
+        "hcres106-112"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 106.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:30:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2295", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-05-07T16:30:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-08", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-09", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3049", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-05-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres106-112", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2012-02-29", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "sponsored_at": "2012-02-29", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2012-02-29", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2012-02-29", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2012-02-29", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2012-02-29", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-05-07T16:30:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-05-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-02-29", 
+  "number": "106", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres16-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hconres16-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hoyer, Steny H.", 
+    "state": "MD", 
+    "thomas_id": "00566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2012-05-09", 
+  "subjects": [
+    "Congress", 
+    "Games and hobbies", 
+    "Outdoor recreation", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2012-05-09", 
+    "text": "Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 16, 2012."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:04:01-05:00"
+}

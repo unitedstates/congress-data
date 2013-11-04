@@ -1,0 +1,237 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-10", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-12", 
+      "in_committee": "House Committee on Financial Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-12", 
+      "in_committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-09-19T19:04:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Biggert moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T19:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6121-6124", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T19:04:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6361.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T19:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6121-6122", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-19T19:17:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-20", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6361-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2012-09-10", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2012-09-12", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2012-09-10", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2012-09-18", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2012-09-10", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2012-09-10", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2012-09-12", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-19T19:17:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-09-10", 
+  "number": "6361", 
+  "official_title": "To exclude from consideration as income under the United States Housing Act of 1937 payments of pension made under section 1521 of title 38, United States Code, to veterans who are in need of regular aid and attendance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6111-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr6381-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s3614-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Vulnerable Veterans Housing Reform Act of 2012", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Heck, Joseph J.", 
+    "state": "NV", 
+    "thomas_id": "02040", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-09-19T19:17:00-04:00", 
+  "subjects": [
+    "Disability assistance", 
+    "Government information and archives", 
+    "Housing and community development", 
+    "Low- and moderate-income housing", 
+    "Public housing", 
+    "Public utilities and utility rates", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-09-19", 
+    "text": "Vulnerable Veterans Housing Reform Act of 2012 - Amends the United States Housing Act of 1937 to exclude as family income for Department of Housing and Urban Development (HUD) housing assistance purposes any Department of Veterans Affairs (VA) payments made to veterans in need of regular aid and attendance for expenses related to such aid and attendance. Prohibits, in determining the monthly rental assistance payment for low-income families, the amount for tenant-paid utilities from exceeding the appropriate utility allowance for that family unit size as determined by the public housing agency (agency), regardless of the size of the unit leased by the family. Requires the agency, upon request by a family that includes a person with disabilities, an elderly family, or a family that includes a person less than 18 years old, to approve a higher utility, except that, in the case of a family with a disabled person, the agency shall approve the higher amount only when needed as a reasonable accommodation to make the unit accessible to and usable by that person. Directs the HUD Secretary to regularly publish data regarding local utility consumption and costs in order to establish appropriate allowances for tenant-paid utilities for assisted families. Directs the VA Secretary to establish a pilot program to award grants to nonprofit organizations that primarily serve veterans or low-income individuals. Requires such grants to be used to rehabilitate and modify the primary residence of disabled or low-income veterans. Limits grant amounts to $1 million per organization. Requires such Secretary to direct the oversight of grant fund use. Requires a minimum of 50% matching funds by participating organizations. Requires an annual pilot program report from such Secretary to Congress. Authorizes appropriations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Vulnerable Veterans Housing Reform Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Vulnerable Veterans Housing Reform Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To exclude from consideration as income under the United States Housing Act of 1937 payments of pension made under section 1521 of title 38, United States Code, to veterans who are in need of regular aid and attendance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:00:03-05:00"
+}

@@ -1,0 +1,206 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-01-26", 
+      "references": [], 
+      "text": "Introduced in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-01-26", 
+      "references": [
+        {
+          "reference": "CR S136-137", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-01-26", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-01-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-01-27T11:05:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-01-27", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-01-30", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Water Resources and Environment", 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-07-23T17:37:00-04:00", 
+      "references": [], 
+      "text": "Mr. Young (AK) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T17:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5105-5110", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T17:37:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2039.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T17:59:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T18:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5115-5116", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T19:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5105", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "500", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 126 - 254 (Roll no. 500).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s1469-112", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1469"
+    }
+  ], 
+  "bill_id": "s2039-112", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Conrad, Kent", 
+      "sponsored_at": "2012-01-26", 
+      "state": "ND", 
+      "thomas_id": "01307", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2012-07-23T19:04:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-01-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-01-26", 
+  "number": "2039", 
+  "official_title": "A bill to allow a State or local government to construct levees on certain properties otherwise designated as open space lands.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Hoeven, John", 
+    "state": "ND", 
+    "thomas_id": "02079", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2012-07-23T19:04:00-04:00", 
+  "subjects": [
+    "Disaster relief and insurance", 
+    "Emergency management", 
+    "Floods and storm protection", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "North Dakota", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2012-01-26", 
+    "text": "Directs the Administrator of the Federal Emergency Management Agency (FEMA) to approve the construction of a permanent flood risk reduction levee by a state, local, or tribal government under specified circumstances on land: (1) acquired and deed restricted under hazard mitigation provisions of the Robert T. Stafford Disaster Relief and Emergency Assistance Act; and (2) located in North Dakota in a community that is participating in the National Flood Insurance Program on the date on which a state, local, or tribal government requests construction of such a levee and certifies to the Administrator and the Chief of Engineers that the community will continue to participate in the Program. Requires such approval if the Administrator and the Chief of Engineers determine, through a process funded entirely by the state, local, or tribal government seeking to construct it, that: (1) construction of the proposed levee would more effectively mitigate against flooding risk than an open floodplain or other flood risk reduction measures; (2) the proposed levee complies with federal, state, and local requirements, including mitigation of adverse impacts and implementation of floodplain management requirements, which shall include an evaluation of whether its construction, operation, and maintenance would continue to meet best available industry standards and practices, would be the most cost-effective measure to protect against the assessed flood risk, and minimizes future costs to the federal government; and (3) such government has provided an adequate maintenance plan that documents the procedures it will use to ensure that the stability, height, and overall integrity of the proposed levee and its structure and systems are maintained. Requires: (1) a state, local, or tribal government that constructs such a levee to submit to the Administrator and the Chief of Engineers an annual certification indicating whether such government is in compliance with the maintenance plan; and (2) the Chief to review such certification and determine whether such government has complied with that plan."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to allow a State or local government to construct levees on certain properties otherwise designated as open space lands.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:20:58-05:00"
+}

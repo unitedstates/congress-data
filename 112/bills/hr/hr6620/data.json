@@ -1,0 +1,230 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-30", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:02:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6646-6647", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:03:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6620.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:18:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6646", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-05T10:18:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-06", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-28", 
+      "references": [
+        {
+          "reference": "CR S8516-8517", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-28", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-12-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-01-01", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2013-01-10", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2013-01-10", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "257", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-257.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6620-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2012-11-30", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2012-11-30", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2012-11-30", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "257"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2013-01-10", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-05T10:18:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-12-28", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-11-30", 
+  "number": "6620", 
+  "official_title": "To amend title 18, United States Code, to eliminate certain limitations on the length of Secret Service Protection for former Presidents and for the children of former Presidents.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Former Presidents Protection Act of 2012", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gowdy, Trey", 
+    "state": "SC", 
+    "thomas_id": "02058", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2013-01-10", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Government employee pay, benefits, personnel management", 
+    "Presidents and presidential powers"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2012-12-28", 
+    "text": "Former Presidents Protection Act of 2012 - Amends the federal criminal code to eliminate certain limitations on the length of Secret Service protection for former Presidents and their spouses and children. Authorizes the Secret Service to protect: (1) former Presidents and their spouses for their lifetimes, except that protection of a spouse shall terminate in the event of remarriage; and (2) children of a former President who are under age 16."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Former Presidents Protection Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Former Presidents Protection Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Former Presidents Protection Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 18, United States Code, to eliminate certain limitations on the length of Secret Service Protection for former Presidents and for the children of former Presidents.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:02:13-05:00"
+}

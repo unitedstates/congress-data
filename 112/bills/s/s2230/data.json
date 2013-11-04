@@ -1,0 +1,325 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-22", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-26", 
+      "calendar": "Senate Legislative", 
+      "number": "339", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2012-03-27", 
+      "references": [
+        {
+          "reference": "CR S2055-2056", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-28", 
+      "references": [
+        {
+          "reference": "CR S2117", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-29", 
+      "references": [
+        {
+          "reference": "CR S2188, S2223-2224", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-29", 
+      "references": [
+        {
+          "reference": "CR S2223-2224", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2223", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-16", 
+      "references": [
+        {
+          "reference": "CR S2289-2293, S2294-2305, S2313-2314", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-16", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S2313", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2313", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "65", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 65.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2230-112", 
+  "bill_type": "s", 
+  "committees": [], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "2012-03-22", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2012-03-22", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2012-03-22", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2012-03-22", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2012-03-22", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2012-03-22", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2012-03-22", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "2012-04-16", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2012-03-22", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2012-03-22", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2012-04-18", 
+      "state": "MO", 
+      "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2012-04-16", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2012-03-22", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2012-03-22", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2012-03-22", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2012-03-22", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2012-04-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-03-22", 
+  "number": "2230", 
+  "official_title": "A bill to reduce the deficit by imposing a minimum effective tax rate for high-income taxpayers.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3903-112", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "hr5333-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5727-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2059-112", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s2252-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Paying a Fair Share Act of 2012", 
+  "sponsor": {
+    "district": null, 
+    "name": "Whitehouse, Sheldon", 
+    "state": "RI", 
+    "thomas_id": "01823", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2012-04-16", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Employment taxes", 
+    "Income tax deductions", 
+    "Income tax rates", 
+    "Inflation and prices", 
+    "Social work, volunteer service, charitable organizations", 
+    "Tax reform and tax simplification", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2012-03-22", 
+    "text": "Paying a Fair Share Act of 2012 - Amends the Internal Revenue Code to require an individual taxpayer whose adjusted gross income exceeds $1 million to pay a minimum tax rate of 30% of the excess of the taxpayer's adjusted gross income over the taxpayer's modified charitable contribution deduction for the taxable year (tentative fair share tax). Establishes the amount of such tax as the excess (if any) of the tentative fair share tax over the excess of: (1) the sum of the taxpayer's regular tax liability, the alternative minimum tax (AMT) amount, and the payroll tax for the taxable year; over (2) certain tax credits. Provides for a phase-in of such tax. Requires an inflation adjustment to the $1 million income threshold for taxable years beginning after 2013. Expresses the sense of the Senate that Congress should enact tax reform that repeals unfair and unnecessary tax loopholes and expenditures, simplifies the tax system, and makes sure that the wealthiest taxpayers pay a fair share of taxes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Paying a Fair Share Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to reduce the deficit by imposing a minimum effective tax rate for high-income taxpayers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:23:13-05:00"
+}

@@ -1,0 +1,239 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-05", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:23:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 112-551.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:24:00-04:00", 
+      "calendar": "Union", 
+      "number": "395", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 395.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-06-26T15:00:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T15:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3986-3991", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T15:01:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5889.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T15:07:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Johnson (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-28T17:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4421", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-28T17:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR 6/26/2012 H3986-3989", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-06-28T17:37:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-29", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-10", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5889-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2012-06-05", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2012-06-05", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2012-06-05", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-06-28T17:37:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-06-05", 
+  "number": "5889", 
+  "official_title": "To amend title 18, United States Code, to provide for protection of maritime navigation and prevention of nuclear terrorism, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation Act of 2012", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-06-28T17:37:00-04:00", 
+  "subjects": [
+    "Arms control and nonproliferation", 
+    "Crime and law enforcement", 
+    "Crimes against animals and natural resources", 
+    "Criminal procedure and sentencing", 
+    "Firearms and explosives", 
+    "Hazardous wastes and toxic substances", 
+    "Infectious and parasitic diseases", 
+    "International law and treaties", 
+    "Jurisdiction and venue", 
+    "Marine and coastal resources, fisheries", 
+    "Marine and inland water transportation", 
+    "Marine pollution", 
+    "Navigation, waterways, harbors", 
+    "Nuclear weapons", 
+    "Oil and gas", 
+    "Pollution liability", 
+    "Radioactive wastes and releases", 
+    "Terrorism", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-06-28", 
+    "text": "Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation Act of 2012 - Title I: Safety of Maritime Navigation - (Sec. 101) Amends the federal criminal code to provide that existing prohibitions against conduct that endangers the safe navigation of a ship: (1) shall apply to conduct that is committed against or on board a U.S. vessel or a vessel subject to U.S. jurisdiction, in U.S. territorial seas, or by a U.S. corporation or legal entity; and (2) shall not apply to activities of armed forces during an armed conflict or in the exercise of official duties. Sets forth procedures regarding the delivery of a person who is suspected of committing a maritime navigation or fixed platform offense to the authorities of a country that is a party to the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation. Subjects property used or intended to be used to commit or to facilitate the commission of a maritime navigation offense to civil forfeiture. (Sec. 102) Prohibits: (1) using in or on a ship or a maritime fixed platform any explosive or radioactive material, biological, chemical, or nuclear weapon, or other nuclear explosive device in a manner likely to cause death or serious injury or damage when the purpose is to intimidate a population or to compel a government or international organization to act or abstain from acting; (2) transporting on board a ship such material or device (or certain related material or technology) that is intended for such use, with specified exceptions; (3) transporting on board a ship a person known to have committed a maritime navigation offense intending to assist such person to evade prosecution; (4) injuring or killing any person in connection with such an offense; or (5) conspiring, attempting, or threatening to commit such an offense. Sets forth: (1) the circumstances in which the United States can exercise jurisdiction over such offenses, and (2) exceptions applicable to activities of the armed forces. Provides for civil forfeiture of property used to commit or to facilitate a violation. (Sec. 105) Modifies the definition of \"federal crime of terrorism\" to include such offenses. Title II: Prevention of Nuclear Terrorism - (Sec. 201) Prohibits anyone, knowingly, unlawfully, and with intent to cause death, serious bodily injury, or substantial damage to property or the environment, from: (1) possessing radioactive material or making or possessing a nuclear explosive device or a radioactive material dispersal or radiation-emitting device; (2) using radioactive material or a device, using, damaging, or interfering with the operation of a nuclear facility in a manner that causes or increases the risk of the release of radioactive material, or causing radioactive contamination or exposure to radiation; or (3) threatening, attempting, or conspiring to commit such an offense. Sets forth: (1) the circumstances in which the United States can exercise jurisdiction over such offenses, and (2) exceptions applicable to activities of the armed forces. (Sec. 202) Amends provisions prohibiting transactions involving nuclear materials to: (1) prohibit, intentionally and without lawful authority, carrying, sending, or moving nuclear material into or out of a country; and (2) establish an exception for activities of the armed forces."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 18, United States Code, to provide for protection of maritime navigation and prevention of nuclear terrorism, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:56:04-05:00"
+}

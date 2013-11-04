@@ -1,0 +1,632 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-13", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-04-19", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Social Security", 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-19T14:41:00-05:00", 
+      "references": [], 
+      "text": "Mr. Johnson, Sam moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T14:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7309-7313", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T14:41:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1509.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T15:11:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Doggett objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-20T21:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7416", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-20T21:02:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR 12/19/2012 H7309-7310", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-20T21:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-21", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1509-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2011-10-06", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Berg, Rick", 
+      "sponsored_at": "2011-09-15", 
+      "state": "ND", 
+      "thomas_id": "02037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2011-09-15", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2011-06-03", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2011-09-15", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2011-06-15", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2011-06-03", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Buchanan, Vern", 
+      "sponsored_at": "2011-09-20", 
+      "state": "FL", 
+      "thomas_id": "01840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2011-06-03", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2012-05-08", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2011-06-03", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2011-09-15", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Geoff", 
+      "sponsored_at": "2011-09-20", 
+      "state": "KY", 
+      "thomas_id": "01784", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2012-02-28", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2011-06-03", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2011-04-13", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2011-09-15", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2011-07-26", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "sponsored_at": "2011-11-15", 
+      "state": "MO", 
+      "thomas_id": "02032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "sponsored_at": "2011-06-21", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2011-10-12", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2012-08-01", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2012-09-10", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2011-11-15", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2011-12-14", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2011-06-03", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "sponsored_at": "2011-06-24", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2011-06-03", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2011-11-29", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Noem, Kristi L.", 
+      "sponsored_at": "2011-06-03", 
+      "state": "SD", 
+      "thomas_id": "02060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "2011-09-20", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2011-08-05", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2011-06-03", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2011-06-03", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2011-09-22", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2011-09-29", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2011-07-19", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2011-06-03", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2011-10-03", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2011-06-03", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scalise, Steve", 
+      "sponsored_at": "2011-06-03", 
+      "state": "LA", 
+      "thomas_id": "01892", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2011-09-07", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2011-07-19", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Schwartz, Allyson Y.", 
+      "sponsored_at": "2012-12-18", 
+      "state": "PA", 
+      "thomas_id": "01798", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Smith, Adrian", 
+      "sponsored_at": "2011-09-21", 
+      "state": "NE", 
+      "thomas_id": "01860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sullivan, John", 
+      "sponsored_at": "2011-06-03", 
+      "state": "OK", 
+      "thomas_id": "01689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2011-06-21", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2011-06-03", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2011-06-03", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2012-03-06", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoder, Kevin", 
+      "sponsored_at": "2011-08-05", 
+      "state": "KS", 
+      "thomas_id": "02021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-20T21:02:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-04-13", 
+  "number": "1509", 
+  "official_title": "To amend title II of the Social Security Act to prohibit the inclusion of Social Security account numbers on Medicare cards.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicare Identity Theft Prevention Act of 2011", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Johnson, Sam", 
+    "state": "TX", 
+    "thomas_id": "00603", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-12-20T21:02:00-05:00", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Crime prevention", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Health", 
+    "Medicare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2011-04-13", 
+    "text": "Medicare Identity Theft Prevention Act of 2011 - Directs the Secretary of Health and Human Services (HHS) to establish cost-effective procedures to ensure that: (1) a Social Security account number (or any derivative) is not displayed, coded, or embedded on the Medicare card issued to an individual entitled to benefits under part A (Hospital Insurance) of title XVIII (Medicare) of the Social Security Act or enrolled under Medicare part B (Supplementary Medical Insurance); and (2) any other identifier displayed on such card is easily identifiable as not being the Social Security account number (or a derivative)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Medicare Identity Theft Prevention Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title II of the Social Security Act to prohibit the inclusion of Social Security account numbers on Medicare cards.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:08:07-05:00"
+}

@@ -1,0 +1,840 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-16", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-04-27", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-27", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-05-18T15:37:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Veterans' Affairs. H. Rept. 112-488.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-18T15:37:00-04:00", 
+      "calendar": "Union", 
+      "number": "341", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 341.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-05-30T17:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Stearns moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T17:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3234-3236", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T17:33:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4201.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T17:47:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T19:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3248-3249", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T19:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3234", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "295", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 295).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-05-30T19:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-04", 
+      "committee": "Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4201-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2012-03-16", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "sponsored_at": "2012-04-27", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2012-04-27", 
+      "state": "UT", 
+      "thomas_id": "01753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2012-05-08", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bonner, Jo", 
+      "sponsored_at": "2012-04-27", 
+      "state": "AL", 
+      "thomas_id": "01703", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2012-04-19", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2012-04-17", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "sponsored_at": "2012-04-27", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Broun, Paul C.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "GA", 
+      "thomas_id": "01882", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Buchanan, Vern", 
+      "sponsored_at": "2012-04-27", 
+      "state": "FL", 
+      "thomas_id": "01840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2012-04-27", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2012-04-27", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "sponsored_at": "2012-04-17", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "sponsored_at": "2012-04-27", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Critz, Mark S.", 
+      "sponsored_at": "2012-04-17", 
+      "state": "PA", 
+      "thomas_id": "01977", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Mario", 
+      "sponsored_at": "2012-04-27", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fleming, John", 
+      "sponsored_at": "2012-04-27", 
+      "state": "LA", 
+      "thomas_id": "01924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2012-05-08", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2012-04-19", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Garamendi, John", 
+      "sponsored_at": "2012-05-08", 
+      "state": "CA", 
+      "thomas_id": "01973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2012-04-27", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "sponsored_at": "2012-04-27", 
+      "state": "MO", 
+      "thomas_id": "02032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2012-04-27", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2012-04-26", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2012-04-27", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2012-04-26", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2012-04-19", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lance, Leonard", 
+      "sponsored_at": "2012-04-27", 
+      "state": "NJ", 
+      "thomas_id": "01936", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2012-04-17", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "LaTourette, Steven C.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "OH", 
+      "thomas_id": "00667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Lewis, Jerry", 
+      "sponsored_at": "2012-04-27", 
+      "state": "CA", 
+      "thomas_id": "00687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2012-04-27", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2012-04-27", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "sponsored_at": "2012-04-27", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2012-04-27", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2012-04-27", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "sponsored_at": "2012-04-27", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2012-04-27", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Posey, Bill", 
+      "sponsored_at": "2012-04-27", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Rigell, E. Scott", 
+      "sponsored_at": "2012-04-27", 
+      "state": "VA", 
+      "thomas_id": "02068", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Roby, Martha", 
+      "sponsored_at": "2012-04-27", 
+      "state": "AL", 
+      "thomas_id": "01986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Runyan, Jon", 
+      "sponsored_at": "2012-04-17", 
+      "state": "NJ", 
+      "thomas_id": "02039", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2012-04-17", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Schilling, Robert T.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "IL", 
+      "thomas_id": "02016", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "sponsored_at": "2012-04-27", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2012-04-27", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2012-04-17", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2012-04-27", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2012-04-17", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Turner, Robert L.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "NY", 
+      "thomas_id": "02091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "West, Allen B.", 
+      "sponsored_at": "2012-04-27", 
+      "state": "FL", 
+      "thomas_id": "02005", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2012-04-27", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2012-04-27", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "sponsored_at": "2012-04-19", 
+      "state": "VA", 
+      "thomas_id": "01886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Young, Todd C.", 
+      "sponsored_at": "2012-04-17", 
+      "state": "IN", 
+      "thomas_id": "02019", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-05-30T19:07:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-03-16", 
+  "number": "4201", 
+  "official_title": "To amend the Servicemembers Civil Relief Act to provide for the protection of child custody arrangements for parents who are members of the Armed Forces.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Servicemember Family Protection Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Turner, Michael R.", 
+    "state": "OH", 
+    "thomas_id": "01741", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-05-30T19:07:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Judicial procedure and administration", 
+    "Military personnel and dependents", 
+    "Separation, divorce, custody, support"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-05-30", 
+    "text": "Servicemember Family Protection Act - Amends the Servicemembers Civil Relief Act to provide that if a court renders a temporary order for custodial responsibility for a child based solely on a deployment or anticipated deployment of a parent-servicemember, then the court shall require that upon the return of that servicemember from deployment the custody order that was in effect preceding such deployment shall be reinstated, unless the court finds that reinstatement in not in the child's best interest. Prohibits a servicemember's deployment or possible deployment from being considered in the determination of a child's best interest in a motion seeking a permanent order to modify custody. Provides that under a temporary custody order, if a state law provides a higher standard of protection to the deploying parent-servicemember, then the appropriate court shall apply the higher standard."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Servicemember Family Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Servicemember Family Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Servicemembers Civil Relief Act to provide for the protection of child custody arrangements for parents who are members of the Armed Forces.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:40:18-05:00"
+}

@@ -1,0 +1,263 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-13", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "references": [], 
+      "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7276", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7276", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-11-30T10:07:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30T11:26:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-12T14:32:00-05:00", 
+      "references": [], 
+      "text": "Mr. King (NY) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-12T14:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6728-6731", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-12T14:33:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 3542.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-12T14:51:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6728-6729", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-12T14:51:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-14", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-12-20", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-12-20", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "218", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-218.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s3286-112", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "3286"
+    }
+  ], 
+  "bill_id": "s3542-112", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2012-09-13", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2012-11-27", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John", 
+      "sponsored_at": "2012-11-15", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "218"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-12-20", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-12T14:51:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-11-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-09-13", 
+  "number": "3542", 
+  "official_title": "A bill to authorize the Assistant Secretary of Homeland Security (Transportation Security Administration) to modify screening requirements for checked baggage arriving from preclearance airports, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6028-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr6028-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "No-Hassle Flying Act of 2012", 
+  "sponsor": {
+    "district": null, 
+    "name": "Klobuchar, Amy", 
+    "state": "MN", 
+    "thomas_id": "01826", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-12-20", 
+  "subjects": [
+    "Aviation and airports", 
+    "Congressional oversight", 
+    "Firearms and explosives", 
+    "International law and treaties", 
+    "Transportation and public works", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-12-20", 
+    "text": "No-Hassle Flying Act of 2012 - Authorizes the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to determine whether checked baggage on a flight or flight segment originating at an airport outside the United States must be re-screened in the United States for explosives before it can continue on any additional flight or flight segment if the baggage has already been screened in the foreign airport in accordance with an aviation security preclearance agreement between the United States and the country in which the airport is located. Defines \"aviation security preclearance agreement\" to mean an agreement that delineates and implements security standards and protocols comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of U.S. airports. Directs the Assistant Secretary to report annually to Congress on the re-screening of baggage."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "No-Hassle Flying Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "No-Hassle Flying Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "No-Hassle Flying Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "No-Hassle Flying Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to authorize the Assistant Secretary of Homeland Security (Transportation Security Administration) to modify screening requirements for checked baggage arriving from preclearance airports, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:38:38-05:00"
+}

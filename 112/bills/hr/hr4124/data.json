@@ -1,0 +1,496 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-01", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-03-02", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:17:00-04:00", 
+      "references": [], 
+      "text": "Mr. Pitts moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6142-6144", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:17:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4124.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6142", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:27:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-20", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4124-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Braley, Bruce L.", 
+      "sponsored_at": "2012-07-24", 
+      "state": "IA", 
+      "thomas_id": "01845", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2012-07-10", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "sponsored_at": "2012-03-01", 
+      "state": "NC", 
+      "thomas_id": "01761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2012-03-01", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Chu, Judy", 
+      "sponsored_at": "2012-03-05", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2012-07-12", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2012-05-16", 
+      "state": "IN", 
+      "thomas_id": "01850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "sponsored_at": "2012-09-11", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2012-03-22", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gibson, Christopher P.", 
+      "sponsored_at": "2012-04-17", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Hanna, Richard L.", 
+      "sponsored_at": "2012-03-21", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2012-06-25", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2012-07-17", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2012-03-01", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan D.", 
+      "sponsored_at": "2012-03-01", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2012-05-08", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Latham, Tom", 
+      "sponsored_at": "2012-04-16", 
+      "state": "IA", 
+      "thomas_id": "00666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2012-04-24", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2012-05-15", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2012-04-17", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "sponsored_at": "2012-04-24", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2012-04-16", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Richardson, Laura", 
+      "sponsored_at": "2012-03-05", 
+      "state": "CA", 
+      "thomas_id": "01883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2012-03-26", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2012-07-09", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Schilling, Robert T.", 
+      "sponsored_at": "2012-03-01", 
+      "state": "IL", 
+      "thomas_id": "02016", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2012-03-01", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "sponsored_at": "2012-03-05", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Speier, Jackie", 
+      "sponsored_at": "2012-03-05", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2012-03-26", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "2012-09-12", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2012-03-01", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "West, Allen B.", 
+      "sponsored_at": "2012-03-05", 
+      "state": "FL", 
+      "thomas_id": "02005", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wittman, Robert J.", 
+      "sponsored_at": "2012-03-27", 
+      "state": "VA", 
+      "thomas_id": "01886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yoder, Kevin", 
+      "sponsored_at": "2012-04-25", 
+      "state": "KS", 
+      "thomas_id": "02021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-19T21:27:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-03-01", 
+  "number": "4124", 
+  "official_title": "To amend the Public Health Service Act to provide grants to States to streamline State requirements and procedures for veterans with military emergency medical training to become civilian emergency medical technicians.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veteran Emergency Medical Technician Support Act of 2012", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Kinzinger, Adam", 
+    "state": "IL", 
+    "thomas_id": "02014", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-09-19T21:27:00-04:00", 
+  "subjects": [
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Licensing and registrations", 
+    "Medical education", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-09-19", 
+    "text": "Veteran Emergency Medical Technician Support Act of 2012 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS) to establish a program consisting of awarding demonstration grants to states that demonstrate a shortage of emergency medical technicians (EMTs) to streamline state requirements and procedures in order to assist veterans who completed military EMT training while serving in the Armed Forces to meet state EMT certification, licensure, and other requirements. Requires $1 million of the amount authorized to carry out the area health education center program to be authorized to carry out this Act for FY2013-FY2017."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Veteran Emergency Medical Technician Support Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Veteran Emergency Medical Technician Support Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Public Health Service Act to provide grants to States to streamline State requirements and procedures for veterans with military emergency medical training to become civilian emergency medical technicians.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:39:19-05:00"
+}

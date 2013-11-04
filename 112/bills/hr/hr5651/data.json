@@ -1,0 +1,335 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-09", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-05-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-05-25T10:30:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 112-495.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-25T10:31:00-04:00", 
+      "calendar": "Union", 
+      "number": "348", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 348.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-05-30T16:32:00-04:00", 
+      "references": [], 
+      "text": "Mr. Upton moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T16:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3192-3230", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T16:32:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5651.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T17:11:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T18:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3248", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-30T19:00:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3192-3223", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "294", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 294).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-05-30T19:00:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-04", 
+      "calendar": "Senate Legislative", 
+      "number": "420", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 420.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5651-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2012-05-09", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2012-05-09", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2012-05-09", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2012-05-09", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2012-05-09", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-05-30T19:00:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-05-09", 
+  "number": "5651", 
+  "official_title": "To amend the Federal Food, Drug, and Cosmetic Act to revise and extend the user-fee programs for prescription drugs and for medical devices, to establish user-fee programs for generic drugs and biosimilars, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3988-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr4132-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr4274-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr4332-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5334-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2516-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s3187-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Food and Drug Administration Reform Act of 2012", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Upton, Fred", 
+    "state": "MI", 
+    "thomas_id": "01177", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-05-30T19:00:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Advisory bodies", 
+    "Business records", 
+    "Cancer", 
+    "Child health", 
+    "Congressional oversight", 
+    "Department of Health and Human Services", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Food and Drug Administration (FDA)", 
+    "Fraud offenses and financial crimes", 
+    "Genetics", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health care quality", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Health technology, devices, supplies", 
+    "Infectious and parasitic diseases", 
+    "Intellectual property", 
+    "Jurisdiction and venue", 
+    "Licensing and registrations", 
+    "Manufacturing", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Prescription drugs", 
+    "Product safety and quality", 
+    "Public-private cooperation", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Small business", 
+    "Trade agreements and negotiations", 
+    "Trade restrictions", 
+    "Trade secrets and economic espionage", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-05-30", 
+    "text": "Food and Drug Administration Reform Act of 2012 - Amends the Federal Food, Drug, and Cosmetic Act (FFDCA) to reauthorize and establish new Food and Drug Administration (FDA) prescription drug user-fee programs and to revise and impose new requirements relating to: (1) prescription, pediatric, and generic drugs; (2) medical devices; (3) biosimilar biological products; and (4) registration of drug manufacturers and reporting of drug shortages. Title I: Fees Relating to Drugs - Prescription Drug User Fee Amendments of 2012 - (Sec. 103) Extends through FY2017 the authority of the Secretary of Health and Human Services (HHS) to assess and collect human drug application and supplement fees, prescription drug establishment fees, and prescription drug product fees to support the FDA drug development process and the process for the review of human drug applications. Increases for FY2013-FY2017 the level of required prescription drug user fee revenues. Provides for an inflation adjustment and a workload adjustment for FY2013 and subsequent fiscal years for the required level of user fee revenue amounts. (Sec. 104) Requires the Secretary to submit to the House Committee on Energy and Commerce and the Senate Committee on Health, Education, Labor, and Pensions (the specified congressional committees) after the end of each fiscal year for which user fees are collected under this title (beginning with FY2013) a report on the progress of the FDA in achieving the goals identified in the letters sent by the Secretary to the Committees, the future plans of the FDA, and the progress of the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research in achieving such goals. (Sec. 105) Terminates: (1) the authority of the Secretary to assess and collect prescription drug user fees on October 1, 2017, and (2) reporting requirements on January 31, 2018. (Sec. 106) Provides that the amendments made by this title shall take effect on the later of October 1, 2012, or the enactment date of this Act, except that user fees shall be assessed for all human drug applications received on or after October 1, 2012, regardless of the enactment date of this Act. (Sec. 107) Limits the applicability of this title to human drug applications and supplements filed before the enactment of this title. Title II: Medical Device User Fee Amendments of 2012 - Medical Device User Fee Amendments of 2012 - (Sec. 203) Extends through FY2017 the authority of the Secretary to assess and collect fees for medical device applications and submissions. Increases for FY2013-FY2017 the level of required medical device user fee revenues. Provides for an inflation adjustment to such revenues in FY2014 and each subsequent fiscal year. Authorizes the Secretary to grant a waiver or reduction of medical device user fees in the interest of public health. (Sec. 204) Requires the Secretary to submit to specified congressional committees annual reports for each fiscal year for which medical device user fees are collected on the progress of the FDA in achieving goals identified in letters from the Secretary to such committees. Requires publication of such reports on the FDA website. (Sec. 205) Limits the effect of this title on medical device applications and supplements filed before the enactment of this title. (Sec. 206) Makes the amendments made by this title effective on the later of October 1, 2012, or the enactment date of this Act. (Sec. 207) Terminates the medical device user fee program on October 1, 2017, and the reporting requirements on January 31, 2018. (Sec. 208) Authorizes the Secretary to appoint employees to positions in the FDA to perform, administer, or support activities related to the review of medical device applications and to meet performance objectives, without regard to requirements governing appointments in the competitive service. Terminates this authority three years after enactment of this Act. Title III: Fees Relating to Generic Drugs - Generic Drug Use Fee Amendments of 2012 - (Sec. 302) Directs the Secretary, beginning in FY2013, to assess and collect the following fees related to generic drugs: (1) a one-time backlog fee for abbreviated new drug applications pending on October 1, 2012; (2) a drug master file fee; (3) an abbreviated new drug application and prior approval supplement filing fee, as well as an additional fee for certain active pharmaceutical ingredient information; and (4) a generic drug facility fee and active pharmaceutical ingredient facility fee. Provides that submission of an application for a positron emission tomography drug or active pharmaceutical ingredient for such a drug shall not require the payment of any fee. Terminates such authority on October 1, 2017. (Sec. 303) Requires the Secretary to submit to specified congressional committees annual reports for each fiscal year for which generic drug fees are collected on the progress of the FDA in achieving goals identified in letters from the Secretary to such committees and on the implementation of the authority for such fees and the use of such fees by the FDA in each fiscal year. Requires publication of such reports on the FDA website. (304) Terminates: (1) the authority to assess and collect generic drug user fees on October 1, 2012, and (2) the reporting requirements with respect to the generic drug user fee program on January 31, 2018. (Sec. 305) Makes the amendments made by this title effective on the later of October 1, 2012, or the enactment date of this title. (Sec. 306) Deems as misbranded a drug or active pharmaceutical ingredient manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid or for which identifying information has not been provided. (Sec. 307) Authorizes the Secretary to appoint employees to positions in the FDA to perform, administer, or support activities related to human generic drug activities, without regard to requirements governing appointments in the competitive service. Title IV: Fees Relating to Biosimilar Biological Products - Biosimilar User Fee Act of 2012 - (Sec. 402) Directs the Secretary, beginning FY2013, to assess and collect the following fees related to biosimilar biological products: (1) biosimilar program development fees, encompassing an initial biosimilar biological development fee, an annual biosimilar biological product development fee, and a reactivation fee; (2) a biosimilar biological product application and supplement fee; (3) a biosimilar biological product establishment fee; and (4) a biosimilar biological product fee. Waives such fees for the first biosimilar biological product application of a small business. Terminates such authority on October 1, 2017. (Sec. 403) Requires the Secretary to submit to specified congressional committees annual reports for each fiscal year for which biosimilar user fees are collected on the progress of the FDA in achieving goals identified in letters from the Secretary to such committees, the implementation of the authority for such fees, and the use of such fees by the FDA in each fiscal year. Requires publication of such reports on the FDA website. (Sec. 404) Terminates: (1) the authority to assess and collect biosimilar drug user fees on October 1, 2012, and (2) the reporting requirements with respect to the biosimilar drug user fee program on January 31, 2018. (Sec. 405) Makes the amendments made by this title effective on the later of October 1, 2012, or the enactment date of this title. Title V: Reauthorization of Best Pharmaceuticals for Children Act and Pediatric Research Equity Act - (Sec. 501) Makes permanent the: (1) the Best Pharmaceuticals for Children Act (BPCA) granting extended market exclusivity for new and already-marketed drugs for the pediatric population, and (2) the Pediatric Research Equity Act of 2003 (PREA) relating to research into pediatric uses for drugs and biological products. Provides that exclusivity for the completion of a pediatric study or studies shall be granted only for those that are the subject of a written request. Requires an applicant for approval of a pediatric drug to submit to the Secretary an initial pediatric study plan prior to the submission of drug safety assessments. Extends through FY2017 the authorization of appropriations for pediatric studies of drugs. Requires the Secretary to hold a public meeting not later than December 31, 2013, on the impact of pediatric research activities under BPCA and PREA on the development of new therapies for children with cancer. (Sec. 502) Requires the Secretary submit to specified congressional committees (and make publicly available on the FDA website) periodic reports on the implementation of pediatric studies of drugs and research into pediatric uses for drugs and biological products. (Sec. 503) Authorizes the FDA Internal Committee for the review of pediatric plans, assessments, deferrals, and waivers to review deferral extensions under PREA. Requires such Committee to include FDA employees with expertise in neonatology. (Sec. 504) Amends BPCA to require the staff of the FDA Office of Pediatric Therapeutics to include one or more additional individuals with expertise in pediatric epidemiology and neonatology. (Sec. 505) Amends BPCA to make permanent: (1) the Pediatric Advisory Committee, and (2) the Pediatric Subcommittee of the Oncologic Drug Advisory Committee. Title VI: Food and Drug Administration Administrative Reforms - (Sec. 601) Requires the Secretary to publish in the Federal Register at least 30 days' advance notice of the Secretary's intent to issue a draft guidance document that: (1) sets forth initial interpretations of a statute or regulation, (2) sets forth changes in interpretation or policy that are of more than a minor nature, (3) includes complex scientific issues, or (4) covers highly controversial issues. (Sec. 602) Revises requirements relating to the disclosure of conflicts of interest by individuals recruited to serve on FDA advisory committees. (Sec. 603) Requires electronic submission of drug, generic drug, biologic, and biosimilar applications beginning not earlier than 24 months after issuance of a final FDA guidance developed after a public notice and comment period. (Sec. 604) Prohibits the FDA from issuing any draft or final guidance on the regulation of laboratory-developed tests under FFDCA without, at least 60 days prior to such issuance: (1) notifying specified congressional committees of its intent to issue guidance, and (2) including in such notification the anticipated details of such action. Title VII: Medical Device Regulatory Improvements - Subtitle A: Premarket Predictability - (Sec. 701) Prohibits the Secretary from disapproving an application for approval of a medical device for investigational use on the basis that: (1) the investigation may not support a substantial equivalence or de novo classification determination or approval of the device; (2) the investigation may not meet a requirement, including a data requirement, relating to the approval or clearance of a device; or (3) an additional or different investigation may be necessary to support clearance or approval of the device. (Sec. 702) Defines \"necessary,\" for purposes of information required for the premarket approval regulatory process, as the minimum required information that would support a determination by the Secretary that a medical device application provides reasonable assurance of the effectiveness of the device (least burdensome standard). (Sec. 703) Requires the Secretary to provide a substantive summary of the scientific and regulatory rationale for any significant decision of the Center for Devices and Radiological Health regarding medical devices. Authorizes supervisory review of a significant decision. (Sec. 704) Requires the Secretary to regularly publish detailed decision summaries for each clearance of a premarket submission of a medical device intended for human use. (Sec. 705) Requires the Secretary to: (1) submit to specified congressional committees a report on when a premarket notification should be submitted for a modification or change to a legally marketed medical device, (2) withdraw certain draft guidance relating to changes to an existing device, (3) suspend issuance of any draft guidance or proposed regulation that addresses when to submit a premarket notification for changes and modifications made to a manufacturer's previously cleared device until receipt of the Secretary's report by the appropriate congressional committees, and (4) suspend any final guidance or regulation for one year after the receipt of such report. Subtitle B: Patients Come First -(Sec. 711) Requires the Secretary, not later than 90 days after the enactment of this Act, to establish a schedule for promulgation of regulations to require premarket approval of certain medical devices for which no final regulation has been promulgated requiring premarket approval. (Sec. 712) Requires the Secretary to: (1) establish a program to assess information relating to recalls of medical devices and to identify strategies for mitigating health risks presented by defective or unsafe devices, and (2) document the basis for termination by the FDA of a device recall. Subtitle C: Novel Device Regulatory Relief - (Sec. 721) Authorizes the Secretary to: (1) classify certain new medical devices without first issuing a determination that such devices are not substantially equivalent to existing devices; and (2) change the classification of a medical device, based upon new information about such device, by administrative order instead of by regulation Subtitle D: Keeping America Competitive Through Harmonization - (Sec. 731) Authorizes the Secretary, with respect to medical devices, to enter into arrangements with nations regarding methods and approaches to harmonizing regulatory requirements for activities, including inspections and common international labeling symbols. (Sec. 732) Authorizes the Secretary to participate in appropriate fora, including the International Medical Device Regulators Forum, and to provide guidance to such fora on strategies and other activities. Subtitle E: FDA Renewing Efficiency From Outside Reviewer Management - (Sec. 741) Extends until October 1, 2017, authority for programs for third-party review and inspection of medical devices Subtitle F: Humanitarian Device Reform - (Sec. 751) Extends the humanitarian device exemption until October 1, 2017. Subtitle G: Records and Reports on Devices - (Sec. 761) Requires the Secretary to: (1) issue proposed regulations establishing a unique medical identification system by December 31, 2012, and to finalize such proposed regulations within six months after the close of the comment period; and (2) implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than two years after the regulations are finalized, taking into account patient access to medical devices and therapies. (Sec. 762) Requires the Secretary to include medical devices in the postmarket risk identification and evaluation system (Sentinel) and to engage outside stakeholders in the development of the system. Subtitle H: Miscellaneous - (Sec. 771) Modifies the exemption from FFDCA performance standards and premarket approval requirements for custom devices created or modified to comply with the order of an individual physician or dentist for the treatment of a unique pathology or physiological condition. (Sec. 772) Reauthorizes through FY2017 the grant program for promoting pediatric medical device development by non-profit consortia. Requires the Secretary to issue: (1) a proposed rule to implement the requirement for including information on pediatric uses of medical devices in applications by December 31, 2012, and (2) a final rule implementing such requirement by December 31, 2013. (Sec. 773) Directs the Secretary, not later than 18 months after the enactment of this Act, to report to specified congressional committees on: (1) a strategy for coordinating the regulation of health information technology to avoid regulatory duplication; and (2) recommendations on an appropriate regulatory framework for health information technology, including a risk-based framework. Title VIII: Drug Regulatory Improvements - Subtitle A: Drug Supply Chain - Imposes new or expanded FDA registration and inspection requirements for domestic and foreign drug establishments. (Sec. 802) Authorizes the Secretary to inspect domestic and foreign drug establishments on a risk-based schedule based on multiple risk factors, including: (1) the compliance history of the establishment; (2) the inspection frequency and history of the establishment; (3) the record, history, and nature of recalls linked to the establishment; and (4) the inherent risk of the drug manufactured. Requires the Secretary to report to Congress not later than February 1 of each year on inspections of drug establishments. Requires such report to be made publicly available on the FDA website. (Sec. 803) Defines \"current good manufacturing practice\" to include the implementation of oversight and control over the manufacture of drugs to ensure quality, including managing the risk of, and establishing the safety of, raw materials, materials used in the manufacturing of drugs, and finished drug products. (Sec. 804) Deems a drug adulterated if the owner or operator of a factory, warehouse, or establishment in which such drug was manufactured, processed, packed, or held delays, denies, or limits inspection or refuses to permit entry or inspection. Requires the Secretary to issue guidance within one year after enactment of this Act on what constitutes delaying, denying, or limiting inspection. (Sec. 805) Authorizes the FDA to destroy counterfeit or adulterated imported drug products that have minor monetary value or that have a reasonable probability of causing serious adverse health consequences or death. Requires the FDA to issue regulations providing for notice and an opportunity to appear before the FDA to produce testimony prior to the destruction of a drug. (Sec. 806) Authorizes the FDA to detain, for a reasonable period, drugs found during inspection to be adulterated or misbranded. Requires the FDA to issue implementing regulations for such detention authority. (Sec. 807) Increases criminal penalties for trafficking in counterfeit drugs. (Sec. 808) Requires domestic and foreign drug establishments to have a unique facility identification number. (Sec. 809) Authorizes the Secretary to require the submission of documentation or other information for a drug that is imported or offered for import into the United States and to refuse admission of such of such drug unless all required information is submitted. (Sec. 810) Requires the registration of commercial drug importers with the FDA. Requires the Secretary to promulgate regulations to establish good importer practices that specify the measures an importer shall take to ensure that imported drugs are in compliance with this Act and the Public Health Service Act. (Sec. 811) Makes it a prohibited act under FFDCA to fail to notify the Secretary: (1) that the use of a drug may result in serious injury or death, (2) of a significant loss or known theft of such drug, or (3) that such drug has been or is being counterfeited. (Sec. 812) Exempts drug-related information obtained by the Secretary from disclosure under the Freedom of Information Act (FOIA) and other laws when such information has been provided by a federal, state, local, or foreign government agency that has requested that the information be kept confidential. (Sec. 813) Grants extraterritorial jurisdiction over any violation of FFDCA for any article regulated by such Act if such article was intended for import into the United States or if any act in furtherance of the violation was committed in the United States. (Sec. 814) Increases criminal penalties for knowingly and intentionally adulterating a drug if such adulteration creates a reasonable probability of causing serious adverse health consequences or death. (Sec. 815) Requires the owner or operator of an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug to provide the FDA with records or other information in advance of an inspection. Subtitle B: Medical Gas Safety - (Sec. 821) Provides for expanded FDA regulation of medical gases. Defines: (1) \"medical gas\" as a drug that is manufactured or stored in a liquefied, non liquefied, or cryogenic state and administered as a gas; and (2) \"designated medical gas\" as oxygen, nitrogen, nitrous oxide, carbon dioxide, helium, carbon monoxide, medical air, and other medical gas designated by the Secretary that meets specified standards. Allows any person to file with the Secretary a request for certification of a medical gas as a designated medical gas. (Sec. 822) Requires the Secretary, after obtaining input from medical gas manufacturers and the public, to: (1) determine whether any changes to federal drug regulations are necessary for medical gases; and (2) issue final regulations on medical gases, within 48 months after enactment of this Act, if changes are deemed necessary. Subtitle C: Generating Antibiotic Incentives Now - (Sec. 831) Extends by five years the exclusivity period for qualified infectious disease products. Defines \"qualified infectious disease product\" as an antibacterial or antifungal drug for human use that treats or prevents an infection caused by pathogens specified by this Act. (Sec. 832) Requires the Comptroller General (GAO) to study and report on the need for incentives to encourage research on and development and marketing of qualified infectious disease biological products. (Sec. 833) Requires the Secretary to review and, as appropriate, revise guidance documents for the conduct of clinical trials for antibacterial and antifungal drugs. Allows the sponsor of a qualified infectious disease product to request the Secretary to provide written recommendations for nonclinical and clinical investigations the Secretary deems necessary for obtaining approval of such products. (Sec. 834) Requires the Secretary to report to specified congressional committees within five years after enactment of this Act on qualified infectious disease products, including the number of initial designations of drugs as qualified infectious disease products, the number of approvals of such products, and whether such products address the need for antibacterial and antifungal drugs to treat serious and life-threatening infections. (Sec. 835) Requires the Secretary to publish draft guidance by June 30, 2013, and final guidance by December 31, 2014, that: (1) specifies how preclinical and clinical data can be utilized to inform an efficient and streamlined pathogen-focused antibacterial drug development program that meets FDA approval standards, and (2) provides advice on approaches for the development of antibacterial drugs that target a more limited spectrum of pathogens. Subtitle D: Accelerated Approval - (Sec. 841) Expresses the sense of Congress that the FDA should apply accelerated approval and fast track provisions to expedite the development and availability of treatments for serious or life-threatening diseases or conditions while maintaining safety and effectiveness standards for such treatments. Requires the Secretary, at the request of a sponsor of a drug, to: (1) expedite the development and review of a drug if the drug treats a serious or life-threatening disease or condition and the drug demonstrates substantial improvement over existing therapies (breakthrough therapies), and (2) issue draft guidance to implement such expedited review. (Sec. 843) Authorizes the Secretary to contract with an independent entity to evaluate the FDA's implementation of the expedited review of drugs that treat a serious or life-threatening disease or condition. Subtitle E: Critical Path Reauthorization - (Sec. 851) Extends through FY2017 the authorization of appropriations for Critical Path Public-Private Partnerships to implement the FDA's Critical Path Initiative. Subtitle F: Miscellaneous - (Sec. 861) Extends until October 1, 2017, the deadline for applications for elections relating to marketing exclusivity for certain drugs containing single enantiomers. (Sec. 862) Extends from 30 to 45 months, effective between the enactment date of this Act and September 30, 2013, the period during which a generic drug applicant may obtain tentative FDA approval without forfeiting its 180-day exclusivity period. Reduces such period each year until it is 36 months beginning on October 1, 2015, and ending on September 30, 2016. (Sec. 863) Revises rules relating to review of citizen petitions regarding generic and biosimilar applications. Reduces the period in which the FDA is required to act on such petitions from 180 to 150 days after submission. (Sec. 864) Requires the Secretary to issue a final, substantive determination on any petition filed by a generic drug applicant for determining whether a drug was withdrawn for a safety or effectiveness reason no later than 270 days after the filing of any such petition. (Sec. 865) Requires the Secretary to: (1) award priority review vouchers to sponsors of a rare pediatric disease product application, (2) establish a user fee program for financing priority review activities, (3) require rare pediatric disease product applications to include a plan for marketing such product in the United States, and (4) publish a notice in the Federal Register and on the FDA website after issuance of a priority review voucher or approval of a rare pediatric disease drug. Requires the Government Accountability Office to study and report on the effectiveness of awarding rare pediatric disease priority vouchers. (Sec. 866) Requires the Secretary to: (1) review current federal initiatives and identify gaps and opportunities with respect to ensuring the safe use of prescription drugs with the potential for abuse, (2) report to Congress on such review, and (3) promulgate guidance on the development of tamper-deterrent drug products. (Sec. 867) Revises the risk evaluation and mitigation strategy system. (Sec. 868) Requires the Secretary to develop and maintain a list of external experts for consultation with the FDA on rare disease issues. (Sec. 869) Requires the Secretary to expedite the development and review of a drug for the treatment of a serious or life-threatening disease or condition that demonstrates substantial improvement over existing therapies (breakthrough therapies). (Sec. 870) Extends through FY2017 the authorization of appropriations for grants and contracts for the development of drugs for rare diseases and conditions (orphan drugs). Title IX: Drug Shortages - (Sec. 901) Revises provisions requiring notification to the Secretary of a discontinuance of the manufacture of a drug or an interruption of the manufacture of a drug that is life-supporting, life-sustaining, and intended for use in the prevention or treatment of a debilitating disease. Requires notification to the Secretary of a discontinuance or interruption at least six months prior to the date of the discontinuance or interruption. (Sec. 902) Requires the Secretary to: (1) maintain an up-to-date list of drugs determined to be in shortage, including the name of each drug in shortage, the name of each manufacturer of a drug in shortage, the reason for the shortage, and the estimated duration of the shortage; and (2) make such list available to the public. (Sec. 903) Amends the Controlled Substances Act to require the Attorney General to review requests to increase quotas of controlled substances and make a determination within 30 days after receipt of a request if such request pertains to a drug in shortage. (Sec. 904) Requires the Secretary to expedite review of a supplemental application for a major manufacturing change if the manufacturer notifies the FDA that a drug product is subject to a discontinuance or interruption in manufacturing and the manufacturer certifies that the major manufacturing change may prevent or alleviate the discontinuance or interruption in the manufacturing of the drug. Requires the Secretary to complete review of the supplemental application within 60 days after receiving the manufacturer's certification. Denies expedited review to any manufacturer who makes a certification in bad faith. (Sec. 905) Requires the Comptroller General to study and report on the cause of drug shortages and formulate recommendations to prevent or alleviate such shortages. (Sec. 906) Requires the Secretary to report annually to specified congressional committees on drug shortages. (Sec. 907) Requires the Attorney General to submit an annual report to the House Committee on Energy and Commerce and the Senate Committee on the Judiciary on drug shortages that identifies requests by manufacturers pertaining to controlled substances in shortage, describes the coordination between the Drug Enforcement Administration (DEA) and the FDA on efforts to prevent or alleviate drug shortages, and identifies drugs containing a controlled substance determined by the Secretary to be in shortage. (Sec. 908) Allows a hospital that is owned and operated by the same entity and that shares access to databases with drug order information for its patients to repackage a drug in shortage (i.e., divide its volume into smaller amounts) and transfer it to another hospital within the same health system without incurring otherwise applicable FDA registration requirements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Food and Drug Administration Reform Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Biosimilar User Fee Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Generic Drug User Fee Amendments of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Medical Device User Fee Amendments of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Prescription Drug User Fee Amendments of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Food and Drug Administration Reform Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Biosimilar User Fee Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Generic Drug User Fee Amendments of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Medical Device User Fee Amendments of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Prescription Drug User Fee Amendments of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Federal Food, Drug, and Cosmetic Act to revise and extend the user-fee programs for prescription drugs and for medical devices, to establish user-fee programs for generic drugs and biosimilars, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:54:05-05:00"
+}

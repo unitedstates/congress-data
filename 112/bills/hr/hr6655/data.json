@@ -1,0 +1,421 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-13", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-19T15:12:00-05:00", 
+      "references": [], 
+      "text": "Mr. Camp moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T15:12:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7313-7317", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T15:12:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6655.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T15:31:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T16:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7327-7328", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19T17:03:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7313-7314", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "636", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 330 - 77 (Roll no. 636).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-19T17:03:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-02", 
+      "references": [
+        {
+          "reference": "CR S8666-8667", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-01-02", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-02", 
+      "references": [
+        {
+          "reference": "CR S8666-8667", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-01-02", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2013-01-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-01-03", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2013-01-14", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2013-01-14", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "275", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-275.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6655-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "33", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2012-12-19", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Berg, Rick", 
+      "sponsored_at": "2012-12-19", 
+      "state": "ND", 
+      "thomas_id": "02037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2012-12-13", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2012-12-13", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2012-12-13", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2012-12-19", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2012-12-13", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2012-12-13", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2012-12-19", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2012-12-13", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2012-12-19", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2012-12-19", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2012-12-13", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2012-12-19", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2012-12-13", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2012-12-19", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2012-12-19", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "275"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2013-01-14", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-19T17:03:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2013-01-02", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-12-13", 
+  "number": "6655", 
+  "official_title": "To establish a commission to develop a national strategy and recommendations for reducing fatalities resulting from child abuse and neglect.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3653-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1984-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s3705-112", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Protect Our Kids Act of 2012", 
+  "sponsor": {
+    "district": "25", 
+    "name": "Doggett, Lloyd", 
+    "state": "TX", 
+    "thomas_id": "00303", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2013-01-14", 
+  "subjects": [
+    "Advisory bodies", 
+    "Appropriations", 
+    "Child care and development", 
+    "Child health", 
+    "Child safety and welfare", 
+    "Domestic violence and child abuse", 
+    "Families", 
+    "Family relationships", 
+    "Government studies and investigations", 
+    "Health information and medical records", 
+    "Poverty and welfare assistance"
+  ], 
+  "subjects_top_term": "Families", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-12-19", 
+    "text": "Protect Our Kids Act of 2012 - Establishes the Commission to Eliminate Child Abuse and Neglect Fatalities to: (1) study the use of child protective services and child welfare services under titles IV and XX (Block Grants to States for Social Services) of the Social Security Act (SSA) to reduce fatalities from child abuse and neglect; (2) develop recommendations to reduce such fatalities for federal, state, and local agencies, and private sector and nonprofit organizations, including recommendations to implement a comprehensive national strategy for such purpose; and (3) develop guidelines for the type of information that should be tracked to improve interventions to prevent such fatalities. Requires any federal agency affected by a recommendation to report to Congress its response and plans to address it. Amends SSA title IV part A (Temporary Assistance for Needy Families) (TANF) to make an adjustment to the Contingency Fund for State Welfare Programs with respect to deposits for FY2013-FY2014, reserving a specified amount for Commission activities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Protect Our Kids Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Protect Our Kids Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Protect Our Kids Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish a commission to develop a national strategy and recommendations for reducing fatalities resulting from child abuse and neglect.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:02:31-05:00"
+}

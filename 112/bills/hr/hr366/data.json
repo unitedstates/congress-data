@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-01-20", 
+      "committee": "House Committee on Small Business", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-01-25T12:35:00-05:00", 
+      "references": [], 
+      "text": "Mr. Graves (MO) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-25T12:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H445-446", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-25T12:35:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 366.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-25T12:39:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H445", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-01-25T12:39:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-25", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-26", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S261", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2011-01-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-01-28", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2011-01-31", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2011-01-31", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "1", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-1.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr366-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "1"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2011-01-31", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-01-25T12:39:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2011-01-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-01-20", 
+  "number": "366", 
+  "official_title": "To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2608-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s990-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Graves, Sam", 
+    "state": "MO", 
+    "thomas_id": "01656", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2011-01-31", 
+  "subjects": [
+    "Business investment and capital", 
+    "Commerce", 
+    "Government lending and loan guarantees", 
+    "Minority and disadvantaged businesses", 
+    "Public contracts and procurement", 
+    "Securities", 
+    "Small business", 
+    "Women in business"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2011-01-31", 
+    "text": "Extends through May 31, 2011, under the same terms and conditions, the authorization for any program, authority, or provision, including any pilot program, that is currently authorized through January 31, 2011, under the Small Business Act or the Small Business Investment Act of 1958."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:54:53-05:00"
+}

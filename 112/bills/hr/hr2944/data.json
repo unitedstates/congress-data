@@ -1,0 +1,289 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-15", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-09-20T14:11:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T14:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6243-6244", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T14:11:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2944.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T14:17:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T18:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6255-6256", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T18:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6243", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "712", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 712).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-09-20T18:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-21", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06", 
+      "references": [
+        {
+          "reference": "CR S6351-6352", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2011-10-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-12T18:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6841", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Smith (TX) asked unanimous consent that the House agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-12T18:34:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H6841", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-10-12T18:34:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-13", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2011-10-21", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2011-10-21", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "44", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-44.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s736-112", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "736"
+    }
+  ], 
+  "bill_id": "hr2944-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2011-09-15", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2011-09-15", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2011-09-15", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "44"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2011-10-21", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-10-12T18:34:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2011-10-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-09-15", 
+  "number": "2944", 
+  "official_title": "To provide for the continued performance of the functions of the United States Parole Commission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "United States Parole Commission Extension Act of 2011", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2011-10-21", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Criminal procedure and sentencing", 
+    "Department of Justice", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2011-10-21", 
+    "text": "United States Parole Commission Extension Act of 2011 - Extends the United States Parole Commission for two years. Directs the Commission to report the following with regard to each type of case over which it has jurisdiction for FY2006-FY2011: (1) the number of offenders; (2) the number of hearings, record reviews, and National Appeals Board considerations conducted by the Commission; (3) the number of hearings conducted by the Commission by type of hearing; (4) the number of record reviews conducted by the Commission by type of consideration; (5) the number of warrants issued and executed compared to the number requested; (6) the number of revocation determinations by the Commission; (7) the distribution of initial offenses; (8) the distribution of subsequent offenses; (9) the percentage of offenders paroled or re-paroled compared with the percentage of offenders continued to expiration of sentence; (10) the percentage of cases in which the primary and secondary examiner disagreed on the appropriate disposition of the case, the release conditions to be imposed, or the reasons for the decision; (11) the percentage of revocation and non-revocation hearings in which the offender is accompanied by a representative; (12) the number of administrative appeals and the action of the National Appeals Board in relation to those appeals; and (13) the Commission's annual expenditures for offenders. Directs the Commission also to report on: (1) the percentage of decisions within, above, or below its decision guidelines for federal initial hearings and federal and D.C. Code revocation hearings; (2) the projected number of federal offenders that will be under its jurisdiction as of October 31, 2014; (3) an estimate of the date on which no federal offenders will remain under its jurisdiction; and (4) its annual expenditures, including travel expenses and the annual salaries of its members and staff for FY2006-FY2011."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "United States Parole Commission Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "United States Parole Commission Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "United States Parole Commission Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "United States Parole Commission Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for the continued performance of the functions of the United States Parole Commission, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:25:29-05:00"
+}

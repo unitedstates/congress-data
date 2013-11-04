@@ -1,0 +1,220 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-23", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-06-23", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-23", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-07-19T15:10:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 112-153.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-19T15:12:00-04:00", 
+      "calendar": "Union", 
+      "number": "99", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 99.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2011-08-01T12:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T12:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5821-5822", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T12:33:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1933.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T12:38:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T14:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5830-5831", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T14:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5821", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "685", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 17 (Roll no. 685).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-08-01T14:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1933-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2011-05-23", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2011-07-06", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2011-05-23", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2011-06-21", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-08-01T14:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-05-23", 
+  "number": "1933", 
+  "official_title": "To amend the Immigration and Nationality Act to modify the requirements for admission of nonimmigrant nurses in health professional shortage areas.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2011-08-01T14:53:00-04:00", 
+  "subjects": [
+    "Health care coverage and access", 
+    "Health personnel", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Nursing", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2011-08-01", 
+    "text": "Amends the Immigration and Nationality Act with respect to the admission of nonimmigrant nurses (H-1C visa) in health professional shortage areas to: (1) permit a one-time three-year extension of admission, and (2) reduce the maximum number of such visas per fiscal year to 300. Authorizes such nonimmigrant alien to accept new employment as a registered nurse at any facility which qualifies for the H-1C program upon a prospective employer's filing of a new petition. Continues employment authorization until adjudication of a new petition. Terminates such authorization if a petition is denied. Requires such nonimmigrant alien: (1) to have been lawfully admitted to the United States; (2) to have not been employed without authorization since admission; and (3) to have had a prospective employer file a petition for new employment before the date of expiration of the authorized period of stay, except that if the alien is terminated or laid off by his or her employer such new employment petition shall be filed during the ensuing 45-day period."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Immigration and Nationality Act to modify the requirements for admission of nonimmigrant nurses in health professional shortage areas.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:13:20-05:00"
+}

@@ -1,0 +1,273 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-19", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-07-20", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T20:50:00-04:00", 
+      "references": [], 
+      "text": "Mr. Upton moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T20:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6138-61340", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T20:51:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6163.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6138", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:05:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-20", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6163-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2012-09-13", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2012-07-19", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Castor, Kathy", 
+      "sponsored_at": "2012-09-14", 
+      "state": "FL", 
+      "thomas_id": "01839", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2012-07-19", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Harper, Gregg", 
+      "sponsored_at": "2012-07-19", 
+      "state": "MS", 
+      "thomas_id": "01933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2012-07-19", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2012-09-19", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2012-09-12", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Schwartz, Allyson Y.", 
+      "sponsored_at": "2012-09-19", 
+      "state": "PA", 
+      "thomas_id": "01798", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "2012-09-12", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-19T21:05:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-07-19", 
+  "number": "6163", 
+  "official_title": "To amend title IV of the Public Health Service Act to provide for a National Pediatric Research Network, including with respect to pediatric rare diseases or conditions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3461-112", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "National Pediatric Research Network Act of 2012", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McMorris Rodgers, Cathy", 
+    "state": "WA", 
+    "thomas_id": "01809", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-09-19T21:05:00-04:00", 
+  "subjects": [
+    "Birth defects", 
+    "Child health", 
+    "Government information and archives", 
+    "Health", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Hereditary and development disorders", 
+    "Medical education", 
+    "Medical research", 
+    "Research administration and funding"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-09-19", 
+    "text": "National Pediatric Research Network Act of 2012 - Amends the Public Health Service Act to authorize the Director of the National Institutes of Health (NIH), in carrying out the Pediatric Research Initiative, to act through the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development to provide for the establishment of a National Pediatric Research Network. Authorizes the Director of the Institute to award funding to public or private nonprofit entities for: (1) planning, establishing, or strengthening pediatric research consortia; and (2) providing basic operating support for such consortia, including to meet unmet needs for pediatric research and train researchers in pediatric research techniques. Authorizes the Director of NIH to make awards for not more than 20 pediatric research consortia, which are to be formed from a collaboration of cooperating institutions, coordinated by a lead institution, and meet requirements prescribed by the Director of NIH. Allows such support to be for a period of five years with additional extensions by the Director of NIH. Requires the Director of NIH to provide for the coordination of activities among the consortia and to require the periodic preparation and submission of reports on their activities. Requires the Director of NIH to ensure that an appropriate number of such awards are awarded to consortia that agree to: (1) focus primarily on pediatric rare diseases or conditions; (2) conduct or coordinate multi-site clinical trials of therapies for, or approaches to, the prevention, diagnosis, or treatment of pediatric rare diseases or conditions; and (3) rapidly and efficiently disseminate scientific findings from such trials. Requires the Director of NIH to establish a data coordinating center to: (1) distribute such findings; (2) provide assistance in the design and conduct of collaborative research projects and the management, analysis, and storage of data associated with such projects; (3) organize and conduct multi-site monitoring activities; and (4) provide assistance to the Centers for Disease Control and Prevention (CDC) in the establishment or expansion of patient registries and other surveillance systems. Requires the Director of NIH to: (1) require the data coordinating center to provide regular reports to the Director of NIH and the Commissioner of Food and Drugs (FDA) on research conducted by consortia, including information on enrollment in clinical trials and the allocation of resources with respect to such research; and (2) incorporate such information into NIH's biennial reports."
+  }, 
+  "titles": [
+    {
+      "as": "passed house", 
+      "title": "National Pediatric Research Network Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title IV of the Public Health Service Act to provide for a National Pediatric Research Network, including with respect to pediatric rare diseases or conditions.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:58:22-05:00"
+}

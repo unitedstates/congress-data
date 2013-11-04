@@ -1,0 +1,237 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-15", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-08-01", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-09-07T19:01:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 112-198.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-07T19:01:00-04:00", 
+      "calendar": "Union", 
+      "number": "127", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 127.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2011-09-20T14:18:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T14:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6244-6246", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T14:18:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2189.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T14:24:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T18:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6256-6257", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20T19:01:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6244-6245", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "713", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 18 (Roll no. 713).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-09-20T19:01:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-21", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-11-17", 
+      "in_committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee on the Judiciary. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-11-17", 
+      "committee": "the Judiciary", 
+      "references": [], 
+      "text": "Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2011-11-17", 
+      "calendar": "Senate Legislative", 
+      "number": "237", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2189-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2011-07-25", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-09-20T19:01:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-06-15", 
+  "number": "2189", 
+  "official_title": "To encourage States to report to the Attorney General certain information regarding the deaths of individuals in the custody of law enforcement agencies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Death in Custody Reporting Act of 2011", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "thomas_id": "01037", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2011-09-20T19:01:00-04:00", 
+  "subjects": [
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Detention of persons", 
+    "Government studies and investigations", 
+    "Law enforcement administration and funding"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2011-11-17", 
+    "text": "Death in Custody Reporting Act of 2011 - Requires states that receive certain criminal justice assistance grants to report to the Attorney General on a quarterly basis certain information regarding the death of any person who is detained, under arrest, in the process of being arrested, en route to incarceration, or incarcerated at a municipal or county jail, state prison, state-run or contracted boot camp prison, state or local contract facility, or other local or state correctional facility. Imposes penalties of up to a 10% reduction of federal Byrne Justice Assistance Grant funding, at the Attorney General's discretion, on states that fail to comply with such reporting requirements. Requires the head of each federal law enforcement agency to report to the Attorney General annually certain information regarding the death of any person who: (1) is detained, under arrest, or or in the process of being arrested by any officer of such agency (or by any state or local law enforcement officer for purposes of a federal law enforcement operation); or (2) is en route to be incarcerated or detained, or is incarcerated or detained, at any federal correctional or pre-trial detention facility located within the United States or any other facility pursuant to a contract with or used by such agency. Requires the Attorney General to study such information and report on means by which it can be used to reduce the number of such deaths."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Death in Custody Reporting Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Death in Custody Reporting Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Death in Custody Reporting Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Death in Custody Reporting Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To encourage States to report to the Attorney General certain information regarding the deaths of individuals in the custody of law enforcement agencies, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:16:48-05:00"
+}

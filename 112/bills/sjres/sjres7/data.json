@@ -1,0 +1,224 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-28", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-03-15", 
+      "references": [
+        {
+          "reference": "CR S1707", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Rules and Administration discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-15", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1707", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2011-03-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16T14:01:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-06-16T14:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16T14:02:00-04:00", 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16T14:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4314", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16T14:03:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H4314", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-06-16T14:03:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2011-06-24", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2011-06-24", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "19", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-19.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sjres7-112", 
+  "bill_type": "sjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "2011-02-28", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2011-02-28", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "19"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2011-06-24", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-06-16T14:03:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2011-03-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-02-28", 
+  "number": "7", 
+  "official_title": "A joint resolution providing for the reappointment of Shirley Ann Jackson as a citizen regent of the Board of Regents of the Smithsonian Institution.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres39-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2011-06-24", 
+  "subjects": [
+    "Federal officials", 
+    "Government operations and politics", 
+    "Museums, exhibitions, cultural centers", 
+    "Smithsonian Institution"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2011-06-24", 
+    "text": "Reappoints Shirley Ann Jackson as a citizen regent of the Board of Regents of the Smithsonian Institution."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A joint resolution providing for the reappointment of Shirley Ann Jackson as a citizen regent of the Board of Regents of the Smithsonian Institution.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:04:25-05:00"
+}

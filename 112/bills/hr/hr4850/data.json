@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-26", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-04-27", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Energy and Power", 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Whitfield moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3984-3985", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:48:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4850.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3984", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-06-26T14:54:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-27", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "references": [], 
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "references": [
+        {
+          "reference": "CR 9/21/2012 S6661-6664", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR 9/21/2012 S6661-6664", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with amendments by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-09-24", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2861-112", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2861"
+    }, 
+    {
+      "amendment_id": "s2862-112", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2862"
+    }
+  ], 
+  "bill_id": "hr4850-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-06-26T14:54:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-09-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-04-26", 
+  "number": "4850", 
+  "official_title": "To allow for innovations and alternative technologies that meet or exceed desired energy efficiency goals.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr482-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr3727-112", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "hr6582-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s156-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Enabling Energy Saving Innovations Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Aderholt, Robert B.", 
+    "state": "AL", 
+    "thomas_id": "01460", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2012-09-22", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Product safety and quality"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-06-26", 
+    "text": "Enabling Energy Saving Innovations Act - Amends the Energy Policy and Conservation Act (EPCA) to exempt a walk-in cooler or walk-in freezer component manufactured on or after January 1, 2009, from the requirement that it contain wall, ceiling, and door insulation of at least R-25 for coolers and R-32 for freezers, if the manufacturer has demonstrated to the Secretary of Energy (DOE) that such component reduces energy consumption at least as much as if such requirement were to apply."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Enabling Energy Saving Innovations Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Enabling Energy Saving Innovations Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To allow for innovations and alternative technologies that meet or exceed desired energy efficiency goals.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:47:22-05:00"
+}

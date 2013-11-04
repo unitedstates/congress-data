@@ -1,0 +1,213 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-01-27", 
+      "committee": "Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-01-27", 
+      "committee": "House Oversight and Government Reform", 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-01-27", 
+      "committee": "House House Administration", 
+      "references": [], 
+      "text": "Referred to House House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-02-01T12:32:00-05:00", 
+      "references": [], 
+      "text": "Mr. Ross (FL) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01T12:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H304-312", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01T12:32:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3835.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01T13:17:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01T19:05:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H354-355", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01T19:12:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H304", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "19", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 309 - 117 (Roll no. 19).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-02-01T19:12:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3835-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Amash, Justin", 
+      "sponsored_at": "2012-01-31", 
+      "state": "MI", 
+      "thomas_id": "02029", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2012-01-31", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2012-01-31", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2012-01-31", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-02-01T19:12:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-01-27", 
+  "number": "3835", 
+  "official_title": "To extend the pay limitation for Members of Congress and Federal employees.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2079-112", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "thomas_id": "02072", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-02-01T19:12:00-05:00", 
+  "subjects": [
+    "Congressional officers and employees", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Inflation and prices", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-02-01", 
+    "text": "Amends the Continuing Appropriations Act, 2011 (P.L. 111-242) to extend through December 31, 2013, the freeze on any cost-of-living adjustment (COLA) to the pay of certain federal civilian employees (thus extends such freeze from two to three calendar years). Extends through such date the prohibition against receipt by a senior executive or senior-level employee of any increase in the rate of basic pay absent a change of position that results in a substantial increase in responsibility or a promotion. Applies the pay limit freeze to Members of Congress. Declares that no statutory COLA for a legislative branch employee which would otherwise take effect during the period beginning on enactment of this Act and ending on December 31, 2013, shall be made."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To extend the pay limitation for Members of Congress and Federal employees.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:35:54-05:00"
+}

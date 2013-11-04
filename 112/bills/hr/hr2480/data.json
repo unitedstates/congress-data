@@ -1,0 +1,234 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-08", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-07-14", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-14", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-07-19T15:16:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 112-154.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-19T15:17:00-04:00", 
+      "calendar": "Union", 
+      "number": "100", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 100.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2011-08-01T12:39:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T12:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5822-5823", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T12:39:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2480.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T12:47:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T19:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5867-5868", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01T19:32:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5822", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "691", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 23 (Roll no. 691).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-08-01T19:32:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-02", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-09-22", 
+      "in_committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee on the Judiciary. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-09-22", 
+      "committee": "the Judiciary", 
+      "references": [], 
+      "text": "Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2011-09-22", 
+      "calendar": "Senate Legislative", 
+      "number": "180", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2480-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2011-07-08", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-08-01T19:32:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-07-08", 
+  "number": "2480", 
+  "official_title": "To amend title 5, United States Code, to authorize appropriations for the Administrative Conference of the United States for fiscal years 2012, 2013, and 2014, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Administrative Conference of the United States Reauthorization Act of 2011", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2011-08-01T19:32:00-04:00", 
+  "subjects": [
+    "Administrative Conference of the U.S.", 
+    "Executive agency funding and structure", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2011-09-22", 
+    "text": "Administrative Conference of the United States Reauthorization Act of 2011 - Authorizes appropriations for he Administrative Conference of the United States for FY2012-FY2014.\u00a0 Prohibits\u00a0more than $2,500 from being made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.\u00a0 Requires the Chairman of the Conference to: (1) submit an annual\u00a0report to the President and Congress on the progress and activities of the Conference, including a description of all current and proposed future projects; (2) provide for an annual\u00a0independent audit of the financial statements of the Conference, and (3) prepare and submit an annual\u00a0budget. Requires at least 35% of the funding for the\u00a0Conference to be made available in each fiscal year for such projects."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Administrative Conference of the United States Reauthorization Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Administrative Conference of the United States Reauthorization Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Administrative Conference of the United States Reauthorization Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Administrative Conference of the United States Reauthorization Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 5, United States Code, to authorize appropriations for the Administrative Conference of the United States for fiscal years 2012, 2013, and 2014, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:20:17-05:00"
+}

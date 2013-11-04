@@ -1,0 +1,230 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-04-08", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-04-14", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Referred to the Subcommittee Indian and Alaska Native Affairs.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-22", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Subcommittee Indian and Alaska Native Affairs Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-05", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-12-01T18:40:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 112-307.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01T18:40:00-05:00", 
+      "calendar": "Union", 
+      "number": "207", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 207.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-09-19T14:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6075-6076", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T14:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1461.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T14:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6075", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-19T14:20:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-20", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1461-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2011-07-28", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "sponsored_at": "2011-07-25", 
+      "state": "NM", 
+      "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-19T14:20:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-04-08", 
+  "number": "1461", 
+  "official_title": "To authorize the Mescalero Apache Tribe to lease adjudicated water rights.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s134-112", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s134-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Mescalero Apache Tribe Leasing Authorization Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "thomas_id": "01738", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-09-19T14:20:00-04:00", 
+  "subjects": [
+    "Indian lands and resources rights", 
+    "Native Americans", 
+    "New Mexico", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2012-09-19", 
+    "text": "Mescalero Apache Tribe Leasing Authorization Act - Authorizes the Mescalero Apache Tribe to lease or transfer water rights that were adjudicated to the Tribe in State v. Lewis, provided the lease or transfer is for no more than 99 years and complies with the laws of New Mexico. Makes this Act inapplicable to the lease or transfer of the adjudicated water rights for use on the Tribe's reservation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Mescalero Apache Tribe Leasing Authorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Mescalero Apache Tribe Leasing Authorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Mescalero Apache Tribe Leasing Authorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize the Mescalero Apache Tribe to lease adjudicated water rights.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:07:42-05:00"
+}

@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-24", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-05-31T16:46:00-04:00", 
+      "references": [], 
+      "text": "Mr. Camp moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-31T16:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3765-3775", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3765-3766", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-31T16:46:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1954.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-31T17:46:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-31T19:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3783-3784", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-31T19:10:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "379", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 97 - 318, 7 Present (Roll no. 379).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-05-31T19:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1954-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2011-05-31T19:10:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-05-24", 
+  "number": "1954", 
+  "official_title": "To implement the President's request to increase the statutory limit on the public debt.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2544-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr2663-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1326-112", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s1326-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Camp, Dave", 
+    "state": "MI", 
+    "thomas_id": "00166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2011-05-31T19:10:00-04:00", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Economics and public finance"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2011-05-24", 
+    "text": "Increases the statutory limit on the public debt from $14.294 trillion to $16.7 trillion."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To implement the President's request to increase the statutory limit on the public debt.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:13:31-05:00"
+}

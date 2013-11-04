@@ -1,0 +1,171 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-09", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-07-10", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-10", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-09-10T19:54:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 112-662.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-10T19:55:00-04:00", 
+      "calendar": "House", 
+      "number": "159", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 159.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-09-11T15:40:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-11T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5796-5814", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-11T15:40:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6080.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-11T15:44:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5796-5814", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-11T15:44:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-12", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6080-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2012-07-09", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-11T15:44:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-07-09", 
+  "number": "6080", 
+  "official_title": "To make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-09-11T15:44:00-04:00", 
+  "subjects": [
+    "Government operations and politics", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-09-11", 
+    "text": "Revises provisions in titles of the U.S. Code relating to public contracts to correspond to title 41 of such Code as enacted into positive law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:57:40-05:00"
+}

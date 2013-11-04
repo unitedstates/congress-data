@@ -1,0 +1,313 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-15", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-08-25", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Courts, Commercial and Administrative Law", 
+      "text": "Referred to the Subcommittee on Courts, Commercial and Administrative Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-09-21", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-21", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-10-18T11:33:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 112-256.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-18T11:33:00-04:00", 
+      "calendar": "Union", 
+      "number": "172", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 172.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2011-11-29T16:24:00-05:00", 
+      "references": [], 
+      "text": "Mr. Chaffetz moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29T16:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7906-7907", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29T16:25:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29T16:33:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29T18:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7917", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29T19:02:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7906", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "861", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 407 - 1 (Roll No. 861).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-11-29T19:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8158-8159", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2011-12-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-07", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2011-12-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2011-12-13", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "64", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-64.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2192-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Commercial and Administrative Law", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2011-06-24", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2011-06-15", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2011-06-15", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2011-06-15", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2011-06-15", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "64"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2011-12-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-11-29T19:02:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2011-12-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-06-15", 
+  "number": "2192", 
+  "official_title": "To exempt for an additional 4-year period, from the application of the means-test presumption of abuse under chapter 7, qualifying members of reserve components of the Armed Forces and members of the National Guard who, after September 11, 2001, are called to active duty or to perform a homeland defense activity for not less than 90 days.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Guard and Reservist Debt Relief Extension Act of 2011", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2011-12-13", 
+  "subjects": [
+    "Bankruptcy", 
+    "Consumer credit", 
+    "Finance and financial sector", 
+    "Homeland security", 
+    "Military personnel and dependents", 
+    "National Guard and reserves"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2011-12-13", 
+    "text": "National Guard and Reservist Debt Relief Extension Act of 2011 - Amends the National Guard and Reservists Debt Relief Act of 2008 to exempt for an additional four-year period qualifying Armed Forces reserve component and National Guard members (who, after September 11, 2001, are called to active duty or to perform a homeland defense activity for at least 90 days, and remain eligible for an exemption during the 540-day period following such active duty or homeland defense activity service) from the application of the means-test presumption of abuse under chapter 7 (Liquidation) of the Bankruptcy Code, as amended by the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "National Guard and Reservist Debt Relief Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "National Guard and Reservist Debt Relief Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "National Guard and Reservist Debt Relief Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "National Guard and Reservist Debt Relief Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "National Guard and Reservist Debt Relief Extension Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To exempt for an additional 4-year period, from the application of the means-test presumption of abuse under chapter 7, qualifying members of reserve components of the Armed Forces and members of the National Guard who, after September 11, 2001, are called to active duty or to perform a homeland defense activity for not less than 90 days.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:16:50-05:00"
+}

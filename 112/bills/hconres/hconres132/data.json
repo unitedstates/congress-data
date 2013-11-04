@@ -1,0 +1,160 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-17", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-07-19", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-19", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-09-10T17:07:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-10T17:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5744-5745", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-10T17:07:00-04:00", 
+      "bill_ids": [
+        "hcres132-112"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 132.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-10T17:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5744", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-10T17:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-11", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres132-112", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2012-07-17", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-10T17:13:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-07-17", 
+  "number": "132", 
+  "official_title": "Providing funding to ensure the printing and production of the authorized number of copies of the revised and updated version of the House document entitled \"Hispanic Americans in Congress\", and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Lungren, Daniel E.", 
+    "state": "CA", 
+    "thomas_id": "00717", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-09-10T17:13:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "Government information and archives", 
+    "House of Representatives", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-09-10", 
+    "text": "Provides additional funding for the printing as a House document of an updated version of House Document 103-299 (as revised by the Library of Congress) entitled \"Hispanic Americans in Congress.\" Requires the Public Printer, upon the request of the House Committee on House Administration, to publish and disseminate an electronic version of: (1) such House Document; (2) House Document 108-223, entitled \"Women in Congress, 1917-2006\"; and (3) House Document 108-224, entitled \"Black Americans in Congress, 1870-2007.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Providing funding to ensure the printing and production of the authorized number of copies of the revised and updated version of the House document entitled \"Hispanic Americans in Congress\", and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:04:14-05:00"
+}

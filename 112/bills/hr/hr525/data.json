@@ -1,0 +1,251 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-08", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-02-10", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2011-02-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-15", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-15", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2011-03-02T15:21:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 112-22.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-02T15:21:00-05:00", 
+      "calendar": "Union", 
+      "number": "10", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 10.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2011-03-08T16:23:00-05:00", 
+      "references": [], 
+      "text": "Mr. Burgess moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-08T16:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1600-1601", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-08T16:23:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 525.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-08T16:29:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-08T18:53:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1602-1603", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-08T19:01:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1600", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "164", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 138 (Roll no. 164).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2011-03-08T19:01:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-09", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr525-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Gingrey, Phil", 
+      "sponsored_at": "2011-02-11", 
+      "state": "GA", 
+      "thomas_id": "01720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2011-02-11", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2011-02-08", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2011-03-08T19:01:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2011-02-08", 
+  "number": "525", 
+  "official_title": "To amend the Public Health Service Act to enhance and increase the number of veterinarians trained in veterinary public health.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterinary Public Health Amendments Act of 2011", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Baldwin, Tammy", 
+    "state": "WI", 
+    "thomas_id": "01558", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2011-03-08T19:01:00-05:00", 
+  "subjects": [
+    "Animals", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Medical education", 
+    "Student aid and college costs", 
+    "Veterinary medicine and animal diseases"
+  ], 
+  "subjects_top_term": "Animals", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2011-03-08", 
+    "text": "Veterinary Public Health Amendments Act of 2011 - Amends the Public Health Service Act to revise a public health workforce grant program designed to increase the number of individuals in the public health workforce to include a health professions school or program of veterinary public health. Defines \"veterinary public health\" to include veterinarians engaged in one or more of the following areas to the extent such areas have an impact on human health: biodefense and emergency preparedness; emerging and reemerging infection diseases; environmental health; ecosystem health pre- and post-harvest food protection; regulatory medicine; diagnostic laboratory medicine; veterinary pathology; biomedical research; the practice of food animal medicine in rural areas; and government practice. Expands the public health workforce loan repayment program to make such veterinarians eligible for the program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Veterinary Public Health Amendments Act of 2011", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Public Health Service Act to enhance and increase the number of veterinarians trained in veterinary public health.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:56:52-05:00"
+}

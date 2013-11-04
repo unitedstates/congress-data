@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-11", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-21", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-11-28T13:22:00-05:00", 
+      "references": [], 
+      "text": "Mr. Miller (FL) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-28T13:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6477-6478", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-28T13:22:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6374.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-28T13:32:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6477", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-11-28T13:32:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "committee": "Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6374-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2012-09-12", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Broun, Paul C.", 
+      "sponsored_at": "2012-09-21", 
+      "state": "GA", 
+      "thomas_id": "01882", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "sponsored_at": "2012-09-11", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kingston, Jack", 
+      "sponsored_at": "2012-09-11", 
+      "state": "GA", 
+      "thomas_id": "00636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2012-09-11", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Price, Tom", 
+      "sponsored_at": "2012-09-12", 
+      "state": "GA", 
+      "thomas_id": "01778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2012-09-11", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2012-09-11", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-11-28T13:32:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-09-11", 
+  "number": "6374", 
+  "official_title": "To designate the facility of the Department of Veterans Affairs located at 180 Martin Drive in Carrollton, Georgia, as the \"Trinka Davis Veterans Village\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Gingrey, Phil", 
+    "state": "GA", 
+    "thomas_id": "01720", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-11-28T13:32:00-05:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional tributes", 
+    "Department of Veterans Affairs", 
+    "Georgia", 
+    "Government buildings, facilities, and property"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2012-09-11", 
+    "text": "Designates the facility of the Department of Veterans Affairs (VA) at 180 Martin Drive in Carrollton, Georgia as the \"Trinka Davis Veterans Village.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the facility of the Department of Veterans Affairs located at 180 Martin Drive in Carrollton, Georgia, as the \"Trinka Davis Veterans Village\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T23:00:10-05:00"
+}

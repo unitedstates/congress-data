@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-18", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-26", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "National Parks, Forests and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-06-28", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "National Parks, Forests and Public Lands", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-11", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Subcommittee on National Parks, Forests and Public Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-11", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-07-19T17:40:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 112-608.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-19T17:40:00-04:00", 
+      "calendar": "House", 
+      "number": "148", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 148.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-07-23T15:47:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hastings (WA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T15:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5086-5087", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T15:48:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5958.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-23T15:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5086", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-07-23T15:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-07-24", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5958-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests and Public Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2012-06-18", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2012-06-18", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Reed, Tom", 
+      "sponsored_at": "2012-06-19", 
+      "state": "NY", 
+      "thomas_id": "01982", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-07-23T15:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-06-18", 
+  "number": "5958", 
+  "official_title": "To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica Bay Wildlife Refuge unit of Gateway National Recreation Area in honor of James L. Buckley.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Turner, Robert L.", 
+    "state": "NY", 
+    "thomas_id": "02091", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2012-07-23T15:53:00-04:00", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Judges", 
+    "Members of Congress", 
+    "New York City", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Senate", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2012-07-23", 
+    "text": "Designates the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica Bay Wildlife Refuge unit of Gateway National Recreation Area in the state of New York as the \"James L. Buckley Visitor Contact Station.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica Bay Wildlife Refuge unit of Gateway National Recreation Area in honor of James L. Buckley.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:56:39-05:00"
+}

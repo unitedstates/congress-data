@@ -1,0 +1,366 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-20", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-03-26", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime, Terrorism, and Homeland Security", 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-03-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Crime, Terrorism, and Homeland Security", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-05", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, and Homeland Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2012-06-25T14:40:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 112-549.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-25T14:40:00-04:00", 
+      "calendar": "Union", 
+      "number": "393", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 393.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2012-06-26T15:08:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T15:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3991-3994", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T15:08:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4223.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-26T15:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3991-3992", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-06-26T15:20:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-27", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "references": [
+        {
+          "reference": "CR 9/21/2012 S6671", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-09-24", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-25", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-10-05", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-10-05", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "186", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-186.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4223-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2012-03-20", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "2012-03-20", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "sponsored_at": "2012-03-20", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pence, Mike", 
+      "sponsored_at": "2012-06-06", 
+      "state": "IN", 
+      "thomas_id": "01649", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pierluisi, Pedro R.", 
+      "sponsored_at": "2012-03-20", 
+      "state": "PR", 
+      "thomas_id": "01953", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2012-03-20", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "186"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-10-05", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-06-26T15:20:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-09-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-03-20", 
+  "number": "4223", 
+  "official_title": "To amend title 18, United States Code, to prohibit theft of medical products, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1002-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "SAFE DOSES Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-10-05", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Crime and law enforcement", 
+    "Crimes against property", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Fraud offenses and financial crimes", 
+    "Health technology, devices, supplies", 
+    "Organized crime", 
+    "Prescription drugs", 
+    "U.S. Sentencing Commission", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-10-05", 
+    "text": "Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012 or the SAFE DOSES Act - Amends the federal criminal code to prohibit, in or using any means or facility of interstate or foreign commerce: (1) embezzling, stealing, obtaining by fraud or deception, or knowingly and unlawfully taking, carrying away, or concealing a medical product that has not yet been made available for retail purchase by a consumer (pre-retail medical product); (2) knowingly and falsely making, altering, forging, or counterfeiting the labeling or documentation of such a product; (3) knowingly possessing, transporting, or trafficking in a product involved in such a violation; (4) buying or otherwise obtaining, or selling or distributing, with intent to defraud, such a product that has expired or been stolen; or (5) attempting or conspiring to commit such a violation. Makes such a violation an aggravated offense if: (1) the defendant is employed by, or is an agent of, an organization in the supply chain for the product; or (2) the violation involves the use of violence, force, a threat of violence or force, or the use of a deadly weapon, results in serious bodily injury or death, or is subsequent to a prior conviction for an offense under this Act. Prescribes criminal and civil penalties for violations, including a civil penalty of up to the greater of\u00a03 times the economic loss attributable to the violation or $1 million. Provides for civil forfeiture for any property which constitutes or is derived from proceeds traceable to such a violation. Requires the penalties under this Act to apply for the following offenses involving a pre-retail medical product: (1) interstate and foreign travel or transportation in aid of racketeering enterprises; (2) engaging in monetary transactions in property derived from specified unlawful activity; (3) breaking into or entering carrier facilities with intent to commit larceny; and (4) the transportation, sale, or receipt of stolen property. Directs the Attorney General to give increased priority to efforts to investigate and prosecute offenses involving pre-retail medical products. Extends provisions authorizing wiretapping and requiring victim restitution to offenses relating to theft of a pre-retail medical product. Directs the U.S. Sentencing Commission to review and, if appropriate, amend the sentencing guidelines and policy statements applicable to offenses related to pre-retail medical product theft or robberies and burglaries involving controlled substances to reflect congressional intent that penalties are sufficient to deter and punish such offenses and to appropriately account for actual harm to the public."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Safe Doses Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "SAFE DOSES Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "SAFE DOSES Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "SAFE DOSES Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "SAFE DOSES Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 18, United States Code, to prohibit theft of medical products, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:40:29-05:00"
+}

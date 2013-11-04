@@ -1,0 +1,520 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-22", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-23", 
+      "calendar": "Senate Legislative", 
+      "number": "410", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2012-05-24", 
+      "references": [
+        {
+          "reference": "CR S3612-3615", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-24", 
+      "references": [
+        {
+          "reference": "CR S3612", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3612", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-04", 
+      "references": [
+        {
+          "reference": "CR S3669", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-05", 
+      "references": [
+        {
+          "reference": "CR S3695-3713, S3713-3714", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-05", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S3713-3714", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3713-3714", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "115", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 115.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-06-05", 
+      "references": [
+        {
+          "reference": "CR S3714", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Roll Call Vote No. 115) entered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-05", 
+      "references": [
+        {
+          "reference": "CR S3714", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure withdrawn in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3220-112", 
+  "bill_type": "s", 
+  "committees": [], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "2012-06-04", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2012-05-22", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2012-05-22", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2012-05-22", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cantwell, Maria", 
+      "sponsored_at": "2012-05-22", 
+      "state": "WA", 
+      "thomas_id": "00172", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2012-05-22", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2012-05-22", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2012-05-22", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hagan, Kay", 
+      "sponsored_at": "2012-05-22", 
+      "state": "NC", 
+      "thomas_id": "01902", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2012-05-22", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inouye, Daniel K.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "HI", 
+      "thomas_id": "01369", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2012-05-22", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2012-05-22", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2012-05-22", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2012-05-22", 
+      "state": "MO", 
+      "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2012-06-06", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2012-05-22", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2012-05-22", 
+      "state": "WA", 
+      "thomas_id": "01409", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2012-05-22", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2012-05-22", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2012-05-22", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2012-06-04", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2012-05-22", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2012-06-05", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2012-06-04", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2012-05-22", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2012-05-22", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2012-06-04", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2012-06-05", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-05-22", 
+  "number": "3220", 
+  "official_title": "A bill to amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1519-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s797-112", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s3256-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Paycheck Fairness Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Mikulski, Barbara A.", 
+    "state": "MD", 
+    "thomas_id": "00802", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2012-06-05", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Employment discrimination and employee rights", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Labor and employment", 
+    "Public contracts and procurement", 
+    "Racial and ethnic relations", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Small business", 
+    "Wages and earnings", 
+    "Women's employment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2012-05-22", 
+    "text": "Paycheck Fairness Act - Amends the portion of the Fair Labor Standards Act of 1938 (FLSA) known as the Equal Pay Act to revise remedies for, enforcement of, and exceptions to prohibitions against sex discrimination in the payment of wages. Revises the exception to the prohibition for a wage rate differential based on any other factor other than sex. Limits such factors to bona fide factors, such as education, training, or experience. States that the bona fide factor defense shall apply only if the employer demonstrates that such factor: (1) is not based upon or derived from a sex-based differential in compensation, (2) is job-related with respect to the position in question, and (3) is consistent with business necessity. Makes such defense inapplicable where the employee demonstrates that: (1) an alternative employment practice exists that would serve the same business purpose without producing such differential, and (2) the employer has refused to adopt such alternative practice. Revises the prohibition against employer retaliation for employee complaints. Prohibits retaliation for inquiring about, discussing, or disclosing the wages of the employee or another employee in response to a complaint or charge, or in furtherance of a sex discrimination investigation, proceeding, hearing, or action, or an investigation conducted by the employer. Makes employers who violate sex discrimination prohibitions liable in a civil action for either compensatory or (except for the federal government) punitive damages. States that any action brought to enforce the prohibition against sex discrimination may be maintained as a class action in which individuals may be joined as party plaintiffs without their written consent. Authorizes the Secretary of Labor (Secretary) to seek additional compensatory or punitive damages in a sex discrimination action. Requires the Equal Employment Opportunity Commission (EEOC) and the Office of Federal Contract Compliance Programs to train EEOC employees and affected individuals and entities on matters involving wage discrimination. Authorizes the Secretary to make grants to eligible entities for negotiation skills training programs for girls and women. Directs the Secretary and the Secretary of Education to issue regulations or policy guidance to integrate such training into certain programs under their Departments. Directs the Secretary to conduct studies and provide information to employers, labor organizations, and the general public regarding the means available to eliminate pay disparities between men and women. Establishes the Secretary of Labor's National Award for Pay Equity in the Workplace for an employer who has made a substantial effort to eliminate pay disparities between men and women. Amends the Civil Rights Act of 1964 to require the EEOC to collect from employers pay information data regarding the sex, race, and national origin of employees for use in the enforcement of federal laws prohibiting pay discrimination. Directs: (1) the Commissioner of Labor Statistics to continue to collect data on women workers in the Current Employment Statistics survey, (2) the Office of Federal Contract Compliance Programs to use specified types of methods in investigating compensation discrimination and in enforcing pay equity, and (3) the Secretary to make accurate information on compensation discrimination readily available to the public. Directs the Secretary and the Commissioner [sic] of the EEOC jointly to develop technical assistance material to assist small businesses to comply with the requirements of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Paycheck Fairness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T21:34:47-05:00"
+}

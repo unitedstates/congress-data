@@ -1,0 +1,355 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-12", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-07-13", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-09-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:06:00-04:00", 
+      "references": [], 
+      "text": "Mr. Pitts moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6140-6142", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:06:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6118.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6140", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-09-19T21:17:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-20", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-14", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6827", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-11-15", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-28", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-12-04", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-12-04", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "202", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-202.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6118-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Austria, Steve", 
+      "sponsored_at": "2012-07-18", 
+      "state": "OH", 
+      "thomas_id": "01947", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2012-07-19", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "sponsored_at": "2012-09-11", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Griffin, Tim", 
+      "sponsored_at": "2012-09-10", 
+      "state": "AR", 
+      "thomas_id": "01990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2012-09-13", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "2012-09-10", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "sponsored_at": "2012-09-11", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2012-07-12", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2012-07-12", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2012-08-02", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2012-07-19", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2012-09-11", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Womack, Steve", 
+      "sponsored_at": "2012-07-12", 
+      "state": "AR", 
+      "thomas_id": "01991", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "202"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-12-04", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-09-19T21:17:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-11-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-07-12", 
+  "number": "6118", 
+  "official_title": "To amend section 353 of the Public Health Service Act with respect to suspension, revocation, and limitation of laboratory certification.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3391-112", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s3391-112", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Taking Essential Steps for Testing Act of 2012", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Grimm, Michael G.", 
+    "state": "NY", 
+    "thomas_id": "02041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-12-04", 
+  "subjects": [
+    "Health", 
+    "Health facilities and institutions", 
+    "Licensing and registrations", 
+    "Medical tests and diagnostic methods"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-12-04", 
+    "text": "Taking Essential Steps for Testing Act of 2012 - Amends the Public Health Service Act to revise sanctions for laboratories that intentionally refer proficiency testing samples required for certification to another laboratory for analysis by: (1) giving the Secretary of Health and Human Services (HHS) discretion to substitute intermediate sanctions for such violations instead of the two-year prohibition against ownership or operation which would otherwise apply, and (2) making the one-year certificate revocation for such a laboratory optional rather than mandatory."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Taking Essential Steps for Testing Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Taking Essential Steps for Testing Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Taking Essential Steps for Testing Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Taking Essential Steps for Testing Act of 2012", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend section 353 of the Public Health Service Act with respect to suspension, revocation, and limitation of laboratory certification.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T22:57:59-05:00"
+}
