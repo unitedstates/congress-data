@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-20", 
+      "references": [
+        {
+          "reference": "CR S1976, S1984", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1976", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 69 proposed by Senator Coburn to Amendment SA 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 39, 
+      "text": "Amendment SA 69, not having achieved 60 votes in the affirmative,  not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 39.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt69-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt26-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 26
+  }, 
+  "amends_bill": {
+    "bill_id": "hr933-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 933
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-03-13", 
+  "number": 69, 
+  "proposed_at": "2013-03-20", 
+  "purpose": "To prohibit Urban Area Security Initiative grant recipients from funding projects that do not improve homeland security.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2013-03-20", 
+  "updated_at": "2013-11-03T12:00:52-05:00"
+}

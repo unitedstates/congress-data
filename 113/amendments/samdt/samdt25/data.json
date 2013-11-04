@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-05", 
+      "references": [
+        {
+          "reference": "CR S1104", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1104", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 25 proposed by Senator Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-05", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 29, 
+      "text": "Amendment SA 25 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 29.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt25-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres64-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 64
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-03-04", 
+  "number": 25, 
+  "proposed_at": "2013-03-05", 
+  "purpose": "To strike supplemental staff funding available only to a limited number of Senators in a time of sequestration.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2013-03-05", 
+  "updated_at": "2013-11-03T12:00:30-05:00"
+}

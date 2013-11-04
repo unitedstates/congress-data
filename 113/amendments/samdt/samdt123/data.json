@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-14", 
+      "references": [
+        {
+          "reference": "CR S1843-1846", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1843", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 123 proposed by Senator Durbin to Amendment SA 115.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-18", 
+      "references": [
+        {
+          "reference": "CR S1874", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-19", 
+      "references": [
+        {
+          "reference": "CR S1914", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "references": [
+        {
+          "reference": "CR S1967", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "references": [], 
+      "text": "Proposed amendment SA 123 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt123-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt115-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 115
+  }, 
+  "amends_bill": {
+    "bill_id": "hr933-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 933
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-03-14", 
+  "number": 123, 
+  "proposed_at": "2013-03-14", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2013-03-20", 
+  "updated_at": "2013-11-03T12:01:19-05:00"
+}

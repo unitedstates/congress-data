@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-13", 
+      "references": [
+        {
+          "reference": "CR S1768-1773", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1769", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 33 proposed by Senator McCain to Amendment SA 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-13", 
+      "references": [
+        {
+          "reference": "CR S1773", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to table amendment SA 33 rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 35.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 33 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt33-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt26-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 26
+  }, 
+  "amends_bill": {
+    "bill_id": "hr933-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 933
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-03-13", 
+  "number": 33, 
+  "proposed_at": "2013-03-13", 
+  "purpose": "To strike certain authorities relating to the use for grants of funds of the Office of Economic Assistance of the Department of Defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-03-13", 
+  "updated_at": "2013-11-03T12:00:34-05:00"
+}

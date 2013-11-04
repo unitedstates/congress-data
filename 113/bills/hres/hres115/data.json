@@ -1,0 +1,207 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-13", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-03-18T18:41:00-04:00", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on House Administration. H. Rept. 113-20.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-18T18:42:00-04:00", 
+      "calendar": "House", 
+      "number": "11", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 11.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-03-18T21:19:00-04:00", 
+      "bill_ids": [
+        "hres122-113", 
+        "hcres25-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 122 Reported to House. Resolution provides for consideration of H. Con. Res. 25 and for H. Res. 115. For H. Con. Res. 25, the resolution makes in order 4 hours of general debate, equally divided and controlled. Specified amendments are in order. For H. Res. 115, the resolution provides one hour of debate with one motion to recommit, without instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-19T14:53:00-04:00", 
+      "bill_ids": [
+        "hres122-113"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 122 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-19T15:03:00-04:00", 
+      "bill_ids": [
+        "hres122-113"
+      ], 
+      "references": [
+        {
+          "reference": "CR H1591-1597", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 122.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-19T15:03:00-04:00", 
+      "bill_ids": [
+        "hcres25-113"
+      ], 
+      "references": [], 
+      "text": "Resolution provides for consideration of H. Con. Res. 25 and for H. Res. 115. For H. Con. Res. 25, the resolution makes in order 4 hours of general debate, equally divided and controlled. Specified amendments are in order. For H. Res. 115, the resolution provides one hour of debate with one motion to recommit, without instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-19T15:03:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 115.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-19T15:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1596", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-19T16:13:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1591", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "82", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 272 - 136 (Roll no. 82).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-03-19T16:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres115-113", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-03-18T18:41:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-03-19T16:13:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-03-13", 
+  "number": "115", 
+  "official_title": "Providing for the expenses of certain committees of the House of Representatives in the One Hundred Thirteenth Congress.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres122-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Miller, Candice S.", 
+    "state": "MI", 
+    "thomas_id": "01731", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2013-03-19T16:13:00-04:00", 
+  "subjects": [
+    "Budget deficits and national debt", 
+    "Congress", 
+    "Congressional committees", 
+    "House Committee on Agriculture", 
+    "House Committee on Armed Services", 
+    "House Committee on Education and the Workforce", 
+    "House Committee on Energy and Commerce", 
+    "House Committee on Ethics", 
+    "House Committee on Financial Services", 
+    "House Committee on Foreign Affairs", 
+    "House Committee on Homeland Security", 
+    "House Committee on House Administration", 
+    "House Committee on Natural Resources", 
+    "House Committee on Oversight and Government Reform", 
+    "House Committee on Rules", 
+    "House Committee on Science, Space, and Technology", 
+    "House Committee on Small Business", 
+    "House Committee on Transportation and Infrastructure", 
+    "House Committee on Veterans' Affairs", 
+    "House Committee on Ways and Means", 
+    "House Committee on the Budget", 
+    "House Committee on the Judiciary", 
+    "House Permanent Select Committee on Intelligence", 
+    "House of Representatives"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2013-03-19", 
+    "text": "Sets forth the levels of payment for 113th Congress expenses (including staff salaries) for the Committees on: (1) Agriculture; (2) Armed Services; (3) the Budget; (4) Education and the Workforce; (5) Energy and Commerce; (6) Ethics; (7) Financial Services; (8) Foreign Affairs; (9) Homeland Security; (10) House Administration; (11) Permanent Select Committee on Intelligence; (12) the Judiciary; (13) Natural Resources; (14) Oversight and Government Reform; (15) Rules; (16) Science, Space, and Technology; (17) Small Business; (18) Transportation and Infrastructure; (19) Veterans' Affairs; and (20) Ways and Means.Prescribes limitations to such expenses for the 1st and 2nd sessions of the 113th Congress. Establishes a reserve fund for unanticipated committee expenses for the 113th Congress. Authorizes the Committee on HouseAdministration to make adjustments to the committee expense accounts, if necessary to comply with a sequestration order by the President issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to enforce a specified budget goal or to conform to any change in appropriations for purposes in this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for the expenses of certain committees of the House of Representatives in the One Hundred Thirteenth Congress.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-11-03T11:01:36-05:00"
+}

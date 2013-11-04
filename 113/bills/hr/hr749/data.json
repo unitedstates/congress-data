@@ -1,0 +1,815 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-02-15", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-03-12T17:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Luetkemeyer moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-12T17:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1337-1339", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-12T17:02:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 749.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-12T17:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1337", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-03-12T17:12:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-13", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr749-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2013-03-11", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2013-03-07", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Black, Diane", 
+      "sponsored_at": "2013-03-12", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Bustos, Cheri", 
+      "sponsored_at": "2013-03-11", 
+      "state": "IL", 
+      "thomas_id": "02127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "sponsored_at": "2013-03-11", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2013-03-11", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2013-03-12", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2013-03-06", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "sponsored_at": "2013-03-12", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Enyart, William L.", 
+      "sponsored_at": "2013-03-06", 
+      "state": "IL", 
+      "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fincher, Stephen Lee", 
+      "sponsored_at": "2013-03-06", 
+      "state": "TN", 
+      "thomas_id": "02064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2013-03-11", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fleming, John", 
+      "sponsored_at": "2013-03-12", 
+      "state": "LA", 
+      "thomas_id": "01924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "sponsored_at": "2013-03-12", 
+      "state": "NE", 
+      "thomas_id": "01793", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "sponsored_at": "2013-03-11", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "sponsored_at": "2013-02-15", 
+      "state": "MO", 
+      "thomas_id": "01656", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Graves, Tom", 
+      "sponsored_at": "2013-02-28", 
+      "state": "GA", 
+      "thomas_id": "01979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hanabusa, Colleen W.", 
+      "sponsored_at": "2013-02-28", 
+      "state": "HI", 
+      "thomas_id": "02010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "sponsored_at": "2013-02-27", 
+      "state": "MO", 
+      "thomas_id": "02032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hastings, Doc", 
+      "sponsored_at": "2013-03-06", 
+      "state": "WA", 
+      "thomas_id": "00512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2013-02-15", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "sponsored_at": "2013-03-12", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Huizenga, Bill", 
+      "sponsored_at": "2013-02-15", 
+      "state": "MI", 
+      "thomas_id": "02028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "sponsored_at": "2013-03-12", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hurt, Robert", 
+      "sponsored_at": "2013-02-26", 
+      "state": "VA", 
+      "thomas_id": "02069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2013-03-05", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "sponsored_at": "2013-03-11", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "King, Steve", 
+      "sponsored_at": "2013-03-05", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2013-03-06", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "sponsored_at": "2013-03-07", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2013-03-11", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2013-02-26", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2013-03-05", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "sponsored_at": "2013-02-15", 
+      "state": "NM", 
+      "thomas_id": "01939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2013-03-11", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "sponsored_at": "2013-03-12", 
+      "state": "NY", 
+      "thomas_id": "02150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2013-02-15", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Michaud, Michael H.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "ME", 
+      "thomas_id": "01730", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2013-03-05", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2013-03-11", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2013-03-12", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2013-03-07", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2013-03-11", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2013-03-07", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2013-02-15", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nugent, Richard B.", 
+      "sponsored_at": "2013-03-06", 
+      "state": "FL", 
+      "thomas_id": "02001", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Owens, William L.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "NY", 
+      "thomas_id": "01974", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Paulsen, Erik", 
+      "sponsored_at": "2013-02-26", 
+      "state": "MN", 
+      "thomas_id": "01930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2013-02-27", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Peters, Gary C.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "MI", 
+      "thomas_id": "01929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "sponsored_at": "2013-02-26", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "sponsored_at": "2013-03-12", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2013-03-12", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ross, Dennis A.", 
+      "sponsored_at": "2013-02-28", 
+      "state": "FL", 
+      "thomas_id": "02003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Schock, Aaron", 
+      "sponsored_at": "2013-02-28", 
+      "state": "IL", 
+      "thomas_id": "01920", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Schrader, Kurt", 
+      "sponsored_at": "2013-03-12", 
+      "state": "OR", 
+      "thomas_id": "01950", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2013-02-28", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Shea-Porter, Carol", 
+      "sponsored_at": "2013-03-12", 
+      "state": "NH", 
+      "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2013-02-15", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "sponsored_at": "2013-02-15", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tsongas, Niki", 
+      "sponsored_at": "2013-03-05", 
+      "state": "MA", 
+      "thomas_id": "01884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2013-02-27", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2013-03-06", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2013-03-05", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2013-02-15", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2013-03-12", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2013-02-15", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2013-02-26", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-03-12T17:02:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-03-12T17:12:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-02-15", 
+  "number": "749", 
+  "official_title": "To amend the Gramm-Leach-Bliley Act to provide an exception to the annual privacy notice requirement.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s635-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Eliminate Privacy Notice Confusion Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Luetkemeyer, Blaine", 
+    "state": "MO", 
+    "thomas_id": "01931", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2013-03-12T17:12:00-04:00", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Consumer affairs", 
+    "Consumer credit", 
+    "Finance and financial sector", 
+    "Right of privacy"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2013-03-12", 
+    "text": "Eliminate Privacy Notice Confusion Act - Amends the Gramm-Leach-Bliley Act to exempt from its annual privacy policy notice requirement any financial institution which: (1) provides nonpublic personal information only in accordance with specified requirements, and (2) has not changed its policies and practices with regard to disclosing nonpublic personal information from those disclosed in the most recent disclosure sent to consumers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Eliminate Privacy Notice Confusion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Eliminate Privacy Notice Confusion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Gramm-Leach-Bliley Act to provide an exception to the annual privacy notice requirement.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-11-03T11:10:17-05:00"
+}

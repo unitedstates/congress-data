@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-20", 
+      "references": [
+        {
+          "reference": "CR S1985", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 98 proposed by Senator Mikulski to Amendment SA 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S1985", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 98 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt98-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt26-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 26
+  }, 
+  "amends_bill": {
+    "bill_id": "hr933-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 933
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-03-14", 
+  "number": 98, 
+  "proposed_at": "2013-03-20", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Mikulski, Barbara A.", 
+    "state": "MD", 
+    "thomas_id": "00802", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-03-20", 
+  "updated_at": "2013-11-03T12:01:06-05:00"
+}

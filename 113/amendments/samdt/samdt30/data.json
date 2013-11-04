@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-13", 
+      "references": [
+        {
+          "reference": "CR S1724-1741", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1724", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 30 proposed by Senator Cruz to Amendment SA 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 34, 
+      "text": "Amendment SA 30 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 34.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt30-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt26-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 26
+  }, 
+  "amends_bill": {
+    "bill_id": "hr933-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 933
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-03-12", 
+  "number": 30, 
+  "proposed_at": "2013-03-13", 
+  "purpose": "To prohibit the use of funds to carry out the Patient Protection and Affordable Care Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cruz, Ted", 
+    "state": "TX", 
+    "thomas_id": "02175", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2013-03-13", 
+  "updated_at": "2013-11-03T12:00:32-05:00"
+}

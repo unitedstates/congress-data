@@ -1,0 +1,571 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-17", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-06-07", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Middle East and North Africa.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-06-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-27", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-08-02T10:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Royce asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-08-02T10:33:00-04:00", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Affairs discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-08-02T10:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5361-5362", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5361", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-08-02T10:33:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-08-02T10:34:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt460-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "460"
+    }, 
+    {
+      "amendment_id": "hamdt461-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "461"
+    }
+  ], 
+  "bill_id": "hres222-113", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "discharged", 
+        "in committee"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Middle East and North Africa", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "sponsored_at": "2013-06-25", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Bentivolio, Kerry L.", 
+      "sponsored_at": "2013-06-14", 
+      "state": "MI", 
+      "thomas_id": "02135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "sponsored_at": "2013-06-27", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "sponsored_at": "2013-07-09", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2013-05-17", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Cotton, Tom", 
+      "sponsored_at": "2013-06-14", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2013-07-22", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2013-06-25", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ellison, Keith", 
+      "sponsored_at": "2013-07-09", 
+      "state": "MN", 
+      "thomas_id": "01857", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Enyart, William L.", 
+      "sponsored_at": "2013-07-09", 
+      "state": "IL", 
+      "thomas_id": "02125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F. H.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "sponsored_at": "2013-05-17", 
+      "state": "NE", 
+      "thomas_id": "01793", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "sponsored_at": "2013-06-14", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2013-06-25", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Grimm, Michael G.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "NY", 
+      "thomas_id": "02041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "sponsored_at": "2013-06-25", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2013-06-27", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "sponsored_at": "2013-06-25", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "sponsored_at": "2013-06-27", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2013-06-27", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "sponsored_at": "2013-06-27", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2013-06-25", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2013-06-27", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "sponsored_at": "2013-06-14", 
+      "state": "NC", 
+      "thomas_id": "02142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "sponsored_at": "2013-06-25", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Nunnelee, Alan", 
+      "sponsored_at": "2013-06-14", 
+      "state": "MS", 
+      "thomas_id": "02034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radel, Trey", 
+      "sponsored_at": "2013-06-14", 
+      "state": "FL", 
+      "thomas_id": "02118", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2013-07-09", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2013-07-30", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2013-06-27", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schneider, Bradley S.", 
+      "sponsored_at": "2013-06-25", 
+      "state": "IL", 
+      "thomas_id": "02124", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2013-06-25", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Stockman, Steve", 
+      "sponsored_at": "2013-07-09", 
+      "state": "TX", 
+      "thomas_id": "01114", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2013-06-25", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2013-07-09", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Weber, Randy K. Sr.", 
+      "sponsored_at": "2013-05-17", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "sponsored_at": "2013-06-27", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-06-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-08-02T10:33:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-17", 
+  "number": "222", 
+  "official_title": "Recognizing the long-term partnership and friendship between the United States and the Hashemite Kingdom of Jordan, working together towards peace and security in the Middle East.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Meeks, Gregory W.", 
+    "state": "NY", 
+    "thomas_id": "01506", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2013-08-02T10:33:00-04:00", 
+  "subjects": [
+    "Conflicts and wars", 
+    "Congressional tributes", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Jordan", 
+    "Middle East", 
+    "Refugees, asylum, displaced persons", 
+    "Syria"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2013-08-02", 
+    "text": "Commends: (1) the people and government of the Hashemite Kingdom of Jordan for their friendship with the United States and commitment to peace, security, and stability in the Middle East; and (2) Jordan for its response to the Syrian humanitarian crisis. Supports Jordan as it faces regional challenges and works toward a more peaceful Middle East."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing the long-term partnership and friendship between the United States and the Hashemite Kingdom of Jordan, working together towards peace and security in the Middle East.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-11-03T11:02:30-05:00"
+}

@@ -1,0 +1,247 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-13", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-05-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-05-20T14:54:00-04:00", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-83.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-20T14:54:00-04:00", 
+      "calendar": "Union", 
+      "number": "58", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 58.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-05-22T19:03:00-04:00", 
+      "references": [], 
+      "text": "Mr. Messer moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-22T19:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2895-2898", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-22T19:04:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1949.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-22T19:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2895-2896", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-05-22T19:19:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-05-23", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1949-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "sponsored_at": "2013-05-13", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Foxx, Virginia", 
+      "sponsored_at": "2013-05-13", 
+      "state": "NC", 
+      "thomas_id": "01791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2013-05-13", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2013-05-13", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2013-05-13", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2013-05-13", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-05-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-05-22T19:19:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-13", 
+  "number": "1949", 
+  "official_title": "To direct the Secretary of Education to convene the Advisory Committee on Improving Postsecondary Education Data to conduct a study on improvements to postsecondary education transparency at the Federal level.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Improving Postsecondary Education Data for Students Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Messer, Luke", 
+    "state": "IN", 
+    "thomas_id": "02130", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2013-05-22T19:19:00-04:00", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Education", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Higher education", 
+    "Right of privacy", 
+    "Student aid and college costs", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2013-05-20", 
+    "text": "Improving Postsecondary Education Data for Students Act - Directs the Secretary of Education to convene an Advisory Committee on Improving Postsecondary Education Data that: (1) is comprised of 15 members who represent economically, racially, and geographically diverse populations; and (2) includes higher education stakeholders, state officials, business representatives, college and career counselors at secondary schools, and experts in higher education policy, consumer choice, privacy, labor markets, and data policy, collection, and use. Requires the Committee to study: the types of information the federal government should collect and report on institutions of higher education (IHEs) to assist students and families in their search for an IHE, including information related to postsecondary education costs, financial assistance, student outcomes, and postgraduation earnings; how that information should be collected and reported, including how to disaggregate student outcome information by student subgroups; and ways in which the federal government could make that information more readily available to students and their families in an easily accessible and understandable format, and to states, local governments, secondary schools, IHEs, and private-sector entities. Requires the Committee, in conducting the study, to: (1) review relevant research concerning the types of information students and parents seek in searching for an IHE; (2) consider the utility of the information currently reported and whether additional information would be beneficial or confusing; and (3) consult with parents, students, and a broad range of parties interested in higher education. Directs the Committee to submit an interim and final report on the study to Congress and the Secretary. Requires the Committee, after consulting with the Commissioner of Education Statistics, to include in its final report recommendations for legislative, regulatory, and administrative actions to improve the information the federal government collects and reports on IHEs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Improving Postsecondary Education Data for Students Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Improving Postsecondary Education Data for Students Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Education to convene the Advisory Committee on Improving Postsecondary Education Data to conduct a study on improvements to postsecondary education transparency at the Federal level.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-11-03T11:20:19-05:00"
+}

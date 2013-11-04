@@ -1,0 +1,231 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-01-15", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-15", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to House Oversight and Government Reform", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-01-15", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Referred to House House Administration", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-12T14:50:00-04:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 113-38, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-12T14:51:00-04:00", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-12T14:51:00-04:00", 
+      "calendar": "Union", 
+      "number": "24", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 24.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-04-15T17:46:00-04:00", 
+      "references": [], 
+      "text": "Mr. Issa moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-15T17:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2004-2010", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2004-2005", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-15T17:46:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 249.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-15T18:19:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House resumed with debate on H.R. 249.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-15T18:32:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-15T19:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2012", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-04-15T19:16:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2012", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "105", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 250 - 159 (Roll no. 105).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr249-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-03-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2013-04-15T19:16:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-01-15", 
+  "number": "249", 
+  "official_title": "To amend title 5, United States Code, to provide that persons having seriously delinquent tax debts shall be ineligible for Federal employment.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1045-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Employee Tax Accountability Act of 2013", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2013-04-15T19:16:00-04:00", 
+  "subjects": [
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Right of privacy", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House without amendment, Part I", 
+    "date": "2013-04-12", 
+    "text": "Federal Employee Tax Accountability Act of 2013 - Makes any person who has a seriously delinquent tax debt ineligible for federal employment or to continue serving as a federal employee. Defines \"seriously delinquent tax debt\" as an outstanding tax debt for which a notice of lien has been filed in public records. Exempts a tax debt: (1) that is being paid in a timely manner under an approved installment payment agreement or an offer-in-compromise, (2) for which a collection due process hearing has been requested or pending, (3) for which a levy has been issued or agreed to by an applicant for employment, or (4) that is determined to be an economic hardship to the taxpayer. Requires each federal agency to: (1) ensure that applicants for employment certify that they do not have a seriously delinquent tax debt, (2) review public records to determine if a notice of lien has been filed against an employee or applicant, and (3) restrict access to and use of information obtained under this Act. Authorizes an agency, if a tax lien against a federal employee or applicant is discovered in any public record, to: (1) request such employee or applicant to execute and submit a form authorizing the Secretary of the Treasury to disclose to an agency head information describing whether the employee or applicant has a seriously delinquent tax debt, and (2) contact the Secretary to request tax information about a seriously delinquent tax debt of an employee or applicant. Requires the Office of Personnel Management (OPM) to promulgate regulations to carry out this Act that provide taxpayers with all due process rights and to report to Congress annually on the number of exemptions granted for financial hardship. Grants federal employees or applicants 180 days to demonstrate that their tax debts are exempt from classification as a seriously delinquent tax debt under this Act. Makes this Act effective nine months after its enactment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Employee Tax Accountability Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Federal Employee Tax Accountability Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 5, United States Code, to provide that persons having seriously delinquent tax debts shall be ineligible for Federal employment.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-11-03T11:06:06-05:00"
+}

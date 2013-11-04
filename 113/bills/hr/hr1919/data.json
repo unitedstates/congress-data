@@ -1,0 +1,382 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-05-09", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-05-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-06-03T15:58:00-04:00", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-93.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-03T15:58:00-04:00", 
+      "calendar": "Union", 
+      "number": "65", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 65.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2013-06-03T16:03:00-04:00", 
+      "references": [], 
+      "text": "Mr. Latta moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-03T16:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2968-2984", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-03T16:03:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1919.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-03T16:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2969-2978", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2013-06-03T16:34:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-06-04", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1919-113", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2013-05-09", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2013-05-09", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Cassidy, Bill", 
+      "sponsored_at": "2013-05-09", 
+      "state": "LA", 
+      "thomas_id": "01925", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2013-05-09", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Guthrie, Brett", 
+      "sponsored_at": "2013-05-09", 
+      "state": "KY", 
+      "thomas_id": "01922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "sponsored_at": "2013-05-09", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Latham, Tom", 
+      "sponsored_at": "2013-05-17", 
+      "state": "IA", 
+      "thomas_id": "00666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2013-05-17", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2013-05-09", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "sponsored_at": "2013-05-09", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "sponsored_at": "2013-05-17", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rogers, Mike J.", 
+      "sponsored_at": "2013-05-09", 
+      "state": "MI", 
+      "thomas_id": "01651", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2013-05-23", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schneider, Bradley S.", 
+      "sponsored_at": "2013-05-09", 
+      "state": "IL", 
+      "thomas_id": "02124", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2013-05-09", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2013-05-09", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Valadao, David G.", 
+      "sponsored_at": "2013-05-21", 
+      "state": "CA", 
+      "thomas_id": "02105", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2013-06-03", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Walberg, Tim", 
+      "sponsored_at": "2013-06-03", 
+      "state": "MI", 
+      "thomas_id": "01855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "sponsored_at": "2013-06-03", 
+      "state": "IN", 
+      "thomas_id": "02128", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-06-03T15:58:00-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2013-06-03T16:34:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-05-09", 
+  "number": "1919", 
+  "official_title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to the pharmaceutical distribution supply chain, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Safeguarding America's Pharmaceuticals Act of 2013", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Latta, Robert E.", 
+    "state": "OH", 
+    "thomas_id": "01885", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2013-06-03T16:34:00-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Department of Health and Human Services", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Federal preemption", 
+    "Food and Drug Administration (FDA)", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Health", 
+    "Licensing and registrations", 
+    "Manufacturing", 
+    "Prescription drugs", 
+    "Retail and wholesale trades", 
+    "Small business", 
+    "State and local government operations", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-05-09", 
+    "text": "Safeguarding America's Pharmaceuticals Act of 2013 - Amends the Federal Food, Drug, and Cosmetic Act to establish requirements to facilitate the tracing of drug products through the pharmaceutical supply distribution chain. Requires the Secretary of Health and Human Services (HHS) to establish standards for the exchange of transaction information. Requires the Secretary to establish processes to: (1) provide waivers of requirements for undue economic hardship or emergency medical reasons; (2) provide waivers of requirements relating to product identifiers for prescription drug products packaged without sufficient space to bear the information; and (3) determine other prescription drug products or transactions that should be exempt from the requirements of this Act. Establishes requirements for drug manufacturers, wholesalers, dispensers, and repackagers to ensure that all prior transaction information is provided at each transfer of ownership. Requires such entities to maintain such transaction information for three years. Sets forth exceptions, including for dispensing to a patient and returns. Requires a manufacturer, wholesale distributor, dispenser, repackager, in the event of a recall or for the purpose of investigating a suspect prescription drug product or an illegitimate prescription drug product, to provide within two business days the applicable transaction documentation upon request by the Secretary or other appropriate federal or state official. Requires a manufacturer or repackager to affix or imprint a prescription drug product identifier on each package and homogenous case of a prescription drug product. Requires a manufacturer, wholesale distributor, dispenser, repackager, or third party logistics provider to ensure that each of its trading partners is authorized. Requires a manufacturer, wholesale distributor, dispenser, repackager, and third party logistics provider to implement systems to: (1) investigate suspected illegitimate prescription drug products or, for a third party logistics provider, notify the owner of a need for such an investigation, and (2) handle illegitimate prescription drug products, including through quarantine, disposal, and appropriate notice to the Secretary and, as necessary, trading partners. Requires manufacturers, wholesale distributors, repackagers to verify returned products before further distribution. Requires the Secretary to establish projects and hold public meetings to enhance the safety and security of the pharmaceutical distribution supply chain. Requires the Secretary to issue additional proposed regulations in 2027 to prevent a suspect, illegitimate or counterfeit product, or a product otherwise unfit for distribution from entering into or being further distributed in the supply chain. Requires the Secretary to establish standards for the licensing of wholesale distributors and third party logistics providers. Requires third party logistics providers to be licensed by the state from which the drug is distributed or by the Secretary. Preempts state and local requirements related to tracing drugs through the distribution system, and licensure of wholesale distributors or third party logistics provider licensure. Allows certain prescription drug labeling to be provided solely by electronic means."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safeguarding America's Pharmaceuticals Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Safeguarding America's Pharmaceuticals Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to the pharmaceutical distribution supply chain, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-11-03T11:20:03-05:00"
+}

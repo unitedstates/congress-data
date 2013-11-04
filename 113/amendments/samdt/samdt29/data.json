@@ -1,0 +1,78 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-13", 
+      "references": [
+        {
+          "reference": "CR S1773-1782", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1774", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 29 proposed by Senator Inhofe to Amendment SA 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-14", 
+      "references": [
+        {
+          "reference": "CR S1829, S1837-1840", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-14", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1837", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 29 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt29-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt26-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 26
+  }, 
+  "amends_bill": {
+    "bill_id": "hr933-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 933
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-03-12", 
+  "number": 29, 
+  "proposed_at": "2013-03-13", 
+  "purpose": "To prohibit the expenditure of Federal funds to enforce the Spill Prevention, Control, and Countermeasure rule of the Environmental Protection Agency against farmers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-03-14", 
+  "updated_at": "2013-11-03T12:00:32-05:00"
+}
