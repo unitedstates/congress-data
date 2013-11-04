@@ -1,0 +1,257 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-10-03", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-10-05", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-10-24", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "Water and Power", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-15", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-15", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-12-11T12:21:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 110-484.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-11T12:21:00-05:00", 
+      "calendar": "Union", 
+      "number": "299", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 299.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2007-12-11T12:42:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Napolitano moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-11T12:42:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H15229-15230", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-11T12:42:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3739.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-11T12:44:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H15229", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-12-11T12:44:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12", 
+      "committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-14", 
+      "references": [
+        {
+          "reference": "CR S15706", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Indian Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-14", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-12-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-14", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-21", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-12-21", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "148", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-148.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3739-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "148"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-12-21", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-12-11T12:44:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-12-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-10-03", 
+  "number": "3739", 
+  "official_title": "To amend the Arizona Water Settlements Act to modify the requirements for the statement of findings.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "thomas_id": "01708", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-12-21", 
+  "subjects": [
+    "Arizona", 
+    "Government operations and politics", 
+    "Indian claims", 
+    "Indian water rights", 
+    "Law", 
+    "Minorities", 
+    "Native Americans", 
+    "State courts", 
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-12-21", 
+    "text": "Amends the Arizona Water Settlements Act to make the Southern Arizona Water Rights Settlement effective as of the date the Secretary of the Interior publishes in the Federal Register a statement of findings that specified conditions apply, including that the judgment and decree attached to the Tohono O'odham settlement agreement has been approved by the state court having jurisdiction over the Gila River adjudication proceedings. (Current law requires the judgment and decree to have become final and nonappealable.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Arizona Water Settlements Act to modify the requirements for the statement of findings.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:16-05:00"
+}

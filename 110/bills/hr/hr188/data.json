@@ -1,0 +1,228 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-04", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-01-16T14:50:00-05:00", 
+      "references": [], 
+      "text": "Mr. Scott (GA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-16T14:51:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H532-534", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-16T14:51:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 188.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-16T15:02:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H532", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-01-16T15:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-17", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-01-25", 
+      "references": [
+        {
+          "reference": "CR S1204", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-25", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-01-25", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-01-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-02-08", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-02-08", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "3", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-3.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr188-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2007-01-04", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "2007-01-04", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Sires, Albio", 
+      "sponsored_at": "2007-01-04", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "3"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-02-08", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-01-16T15:02:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-01-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-04", 
+  "number": "188", 
+  "official_title": "To provide a new effective date for the applicability of certain provisions of law to Public Law 105-331.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pallone, Frank, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "00887", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-02-08", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Auditing", 
+    "Coins and coinage", 
+    "Finance and financial sector", 
+    "Financial statements", 
+    "Fund raising", 
+    "Intellectual property", 
+    "Inventors", 
+    "Museums", 
+    "New Jersey"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-02-08", 
+    "text": "Revises the effective date for mandatory deposit in the Treasury as miscellaneous receipts of any amount derived from proceeds of the surcharge on the sale of the Thomas Alva Edison Commemorative Coin, under the Thomas Alva Edison Commemorative Coin Act, which remains unpaid to a designated recipient organization solely by reason of a specified matching fund requirement. Postpones the effective date of such requirement until July 1, 2007."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide a new effective date for the applicability of certain provisions of law to Public Law 105-331.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:18-05:00"
+}

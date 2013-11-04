@@ -1,0 +1,191 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-15", 
+      "committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-28", 
+      "in_committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-28", 
+      "in_committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-03-08T18:00:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Science and Technology. H. Rept. 110-40.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-08T18:01:00-05:00", 
+      "calendar": "Union", 
+      "number": "16", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 16.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2007-03-12T14:05:00-04:00", 
+      "references": [], 
+      "text": "Mr. Baird moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-12T14:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2406-2408", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-12T14:05:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1068.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-12T14:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2406-2407", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-03-12T14:19:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-13", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1068-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2007-02-15", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-03-12T14:19:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-02-15", 
+  "number": "1068", 
+  "official_title": "To amend the High-Performance Computing Act of 1991.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2272-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Baird, Brian", 
+    "state": "WA", 
+    "thomas_id": "01557", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-03-12T14:19:00-04:00", 
+  "subjects": [
+    "Computer networks", 
+    "Computer security measures", 
+    "Computer software", 
+    "Computers", 
+    "Congressional reporting requirements", 
+    "Education", 
+    "Engineering", 
+    "Federal advisory bodies", 
+    "Government operations and politics", 
+    "Higher education", 
+    "Infrastructure", 
+    "Mathematics", 
+    "Research", 
+    "Research and development", 
+    "Science, technology, communications", 
+    "Supercomputers", 
+    "Technical education"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2007-03-12", 
+    "text": "Amends the High-Performance Computing Act of 1991 to revise program requirements for the National High-Performance Computing Program. Requires the Director of the Office of Science and Technology Policy to: (1) establish the goals and priorities for federal high-performance computing research, development, networking, and other activities; (2) establish Program Component Areas that implement such goals and identify the Grand Challenges (i.e., fundamental problems in science or engineering, with broad economic and scientific impact, whose solutions will require the application of high-performance computing resources) that the Program should address; and (3) develop and maintain a research, development, and deployment road map for the provision of high-performance computing systems. Revises requirements for annual reports by requiring that such reports: (1) describe Program Component Areas, including any changes in the definition of or activities under such Areas and the reasons for such changes, and describe Grand Challenges supported under the Program; (2) describe the levels of Federal funding and the levels proposed for each Program Component Area; (3) describe the levels of Federal funding for each agency and department participating in the Program for each such Area; and (4) include an analysis of the extent to which the Program incorporates the recommendations of the advisory committee on high-performance computing. Eliminates the requirement for inclusion of reports on Department of Energy activities taken to carry out the National High-performance Computing Program. Requires the advisory committee on high-performance computing to conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program, and to report at least once every two fiscal years to specified congressional committees. Prohibits applying provisions for the termination, renewal, and continuation of federal advisory committees under the Federal Advisory Committee Act to such advisory committee."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the High-Performance Computing Act of 1991.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:47-05:00"
+}

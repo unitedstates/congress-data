@@ -1,0 +1,247 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-11-16", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [
+        {
+          "reference": "CR S14643", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-02-04", 
+      "references": [
+        {
+          "reference": "CR S609", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Rules and Administration discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-02-04", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S609", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2008-02-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-02-06T14:10:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-02-06", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:12:00-05:00", 
+      "references": [], 
+      "text": "Mr. Brady (PA) moved to suspend the rules and pass the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:12:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1248-1249", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:12:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 25.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:16:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1248", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:16:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-05", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-03-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-03-14", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2008-03-14", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "197", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-197.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sjres25-110", 
+  "bill_type": "sjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "2007-11-16", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dodd, Christopher J.", 
+      "sponsored_at": "2007-11-16", 
+      "state": "CT", 
+      "thomas_id": "00302", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2008-02-04", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "197"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2008-03-14", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-03-05T13:16:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2008-02-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-11-16", 
+  "number": "25", 
+  "official_title": "A joint resolution providing for the appointment of John W. McCarter as a citizen regent of the Board of Regents of the Smithsonian Institution.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres65-110", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2008-03-14", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "District of Columbia", 
+    "Federal officials", 
+    "Government operations and politics", 
+    "Law", 
+    "Museums", 
+    "Smithsonian Institution", 
+    "Trusts and trustees"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2008-03-14", 
+    "text": "Provides for the appointment of John W. McCarter as a citizen regent of the Board of Regents of the Smithsonian Institution."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A joint resolution providing for the appointment of John W. McCarter as a citizen regent of the Board of Regents of the Smithsonian Institution.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:56-05:00"
+}

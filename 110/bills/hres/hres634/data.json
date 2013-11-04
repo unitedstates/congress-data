@@ -1,0 +1,636 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-05", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-09-07", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "Fisheries, Wildlife, and Oceans", 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-09-24T14:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Rahall moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-24T14:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10701-10702", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-24T14:10:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 634.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-24T14:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10701", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-09-24T14:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres634-110", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, and Oceans", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2007-09-05", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Allen, Thomas H.", 
+      "sponsored_at": "2007-09-17", 
+      "state": "ME", 
+      "thomas_id": "01461", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Altmire, Jason", 
+      "sponsored_at": "2007-09-05", 
+      "state": "PA", 
+      "thomas_id": "01873", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Arcuri, Michael A.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "NY", 
+      "thomas_id": "01867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bachmann, Michele", 
+      "sponsored_at": "2007-09-18", 
+      "state": "MN", 
+      "thomas_id": "01858", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Barrow, John", 
+      "sponsored_at": "2007-09-05", 
+      "state": "GA", 
+      "thomas_id": "01780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boren, Dan", 
+      "sponsored_at": "2007-09-05", 
+      "state": "OK", 
+      "thomas_id": "01796", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boswell, Leonard L.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "IA", 
+      "thomas_id": "01466", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyd, Allen", 
+      "sponsored_at": "2007-09-05", 
+      "state": "FL", 
+      "thomas_id": "01467", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyda, Nancy E.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "KS", 
+      "thomas_id": "01852", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Braley, Bruce L.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "IA", 
+      "thomas_id": "01845", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Cardoza, Dennis A.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "CA", 
+      "thomas_id": "01709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carney, Christopher P.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "PA", 
+      "thomas_id": "01876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Chandler, Ben", 
+      "sponsored_at": "2007-09-05", 
+      "state": "KY", 
+      "thomas_id": "01759", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2007-09-05", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Geoff", 
+      "sponsored_at": "2007-09-05", 
+      "state": "KY", 
+      "thomas_id": "01784", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Lincoln", 
+      "sponsored_at": "2007-09-05", 
+      "state": "TN", 
+      "thomas_id": "01747", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2007-09-05", 
+      "state": "IN", 
+      "thomas_id": "01850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Drake, Thelma D.", 
+      "sponsored_at": "2007-09-06", 
+      "state": "VA", 
+      "thomas_id": "01808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Ellsworth, Brad", 
+      "sponsored_at": "2007-09-05", 
+      "state": "IN", 
+      "thomas_id": "01851", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Fallin, Mary", 
+      "sponsored_at": "2007-09-05", 
+      "state": "OK", 
+      "thomas_id": "01872", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2007-09-20", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2007-09-17", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2007-09-05", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Herseth Sandlin, Stephanie", 
+      "sponsored_at": "2007-09-05", 
+      "state": "SD", 
+      "thomas_id": "01760", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hill, Baron P.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "IN", 
+      "thomas_id": "01578", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hodes, Paul W.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "NH", 
+      "thomas_id": "01862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kagen, Steve", 
+      "sponsored_at": "2007-09-05", 
+      "state": "WI", 
+      "thomas_id": "01880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2007-09-20", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2007-09-20", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Lampson, Nick", 
+      "sponsored_at": "2007-09-17", 
+      "state": "TX", 
+      "thomas_id": "01500", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "2007-09-20", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Mahoney, Tim", 
+      "sponsored_at": "2007-09-05", 
+      "state": "FL", 
+      "thomas_id": "01841", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2007-09-05", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "sponsored_at": "2007-09-05", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Melancon, Charlie", 
+      "sponsored_at": "2007-09-05", 
+      "state": "LA", 
+      "thomas_id": "01786", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2007-09-05", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Murphy, Patrick J.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "PA", 
+      "thomas_id": "01875", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2007-09-05", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Rodriguez, Ciro D.", 
+      "sponsored_at": "2007-09-18", 
+      "state": "TX", 
+      "thomas_id": "01518", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2007-09-05", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Shuler, Heath", 
+      "sponsored_at": "2007-09-05", 
+      "state": "NC", 
+      "thomas_id": "01859", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2007-09-05", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "2007-09-17", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Tanner, John S.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "TN", 
+      "thomas_id": "01137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2007-09-05", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2007-09-05", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Welch, Peter", 
+      "sponsored_at": "2007-09-05", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Wilson, Charles A.", 
+      "sponsored_at": "2007-09-05", 
+      "state": "OH", 
+      "thomas_id": "01869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-09-24T14:12:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-09-05", 
+  "number": "634", 
+  "official_title": "Encouraging participation in hunting and fishing, and supporting the goals and ideals of National Hunting and Fishing Day and the efforts of hunters and fishermen toward the scientific management of wildlife and conservation of the natural environment.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "20", 
+    "name": "Gillibrand, Kirsten E.", 
+    "state": "NY", 
+    "thomas_id": "01866", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2007-09-24T14:12:00-04:00", 
+  "subjects": [
+    "Animals", 
+    "Commemorations", 
+    "Congressional tributes", 
+    "Environmental protection", 
+    "Fishing", 
+    "Hunting", 
+    "Nature conservation", 
+    "Public lands and natural resources", 
+    "Special days", 
+    "Sports and recreation", 
+    "Wildlife management"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2007-09-24", 
+    "text": "Declares that there should be a day known as National Hunting and Fishing Day and that the President should issue a proclamation calling on the people of the United States to observe such a day. Encourages participation in hunting and fishing. Commends the contributions of hunters and fishermen toward the scientific management of wildlife and conservation of the natural environment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Encouraging participation in hunting and fishing, and supporting the goals and ideals of National Hunting and Fishing Day and the efforts of hunters and fishermen toward the scientific management of wildlife and conservation of the natural environment.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:46-05:00"
+}

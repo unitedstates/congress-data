@@ -1,0 +1,236 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-21", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-09-25", 
+      "references": [
+        {
+          "reference": "CR S12076", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-25", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12076", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-09-27T10:03:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-11-08", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2085-110", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Coleman, Norm", 
+      "sponsored_at": "2007-09-25", 
+      "state": "MN", 
+      "thomas_id": "01697", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2007-09-26", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2007-09-25", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2007-09-24", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hutchison, Kay Bailey", 
+      "sponsored_at": "2007-09-25", 
+      "state": "TX", 
+      "thomas_id": "01368", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2007-09-24", 
+      "state": "WA", 
+      "thomas_id": "01409", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Voinovich, George V.", 
+      "sponsored_at": "2007-09-21", 
+      "state": "OH", 
+      "thomas_id": "01575", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-09-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-09-21", 
+  "number": "2085", 
+  "official_title": "A bill to delay for 6 months the requirement to use of tamper-resistant prescription pads under the Medicaid program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3090-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr3647-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2013-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Patient and Pharmacy Protection Act of 2007", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2007-09-25", 
+  "subjects": [
+    "Ambulatory care", 
+    "Crime and law enforcement", 
+    "Drug abuse", 
+    "Drug traffic", 
+    "Drugs", 
+    "Forgery", 
+    "Health", 
+    "Health care fraud", 
+    "Medicaid", 
+    "Security measures", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2007-09-25", 
+    "text": "Patient and Pharmacy Protection Act of 2007 - Amends the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 to delay for six months, from September 30, 2007, through March 31, 2008, the effective date of the requirement to use tamper-resistant prescription pads under title XIX (Medicaid) of the Social Security Act to prescribe covered outpatient drugs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Patient and Pharmacy Protection Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Patient and Pharmacy Protection Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to delay for 6 months the requirement to use of tamper-resistant prescription pads under the Medicaid program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:52-05:00"
+}

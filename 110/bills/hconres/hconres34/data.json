@@ -1,0 +1,318 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-18", 
+      "committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-01-24", 
+      "in_committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-24", 
+      "in_committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-01-29T18:05:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Science and Technology. H. Rept. 110-4.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-29T18:05:00-05:00", 
+      "calendar": "House", 
+      "number": "4", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 4.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2007-01-30T14:07:00-05:00", 
+      "references": [], 
+      "text": "Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-30T14:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1007-1009", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-30T14:07:00-05:00", 
+      "bill_ids": [
+        "hcres34-110"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 34.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-30T14:26:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-31T11:56:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1069-1070", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-31T12:07:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 1/30/2007 H1007", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "65", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 65).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-01-31T12:07:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-31", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1542", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-02-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres34-110", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2007-01-18", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2007-01-18", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2007-01-18", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2007-01-29", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2007-01-18", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2007-01-18", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2007-01-18", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2007-01-18", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2007-01-18", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2007-01-18", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2007-01-18", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2007-01-18", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-01-31T12:07:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-02-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-18", 
+  "number": "34", 
+  "official_title": "Honoring the life of Percy Lavon Julian, a pioneer in the field of organic chemistry research and development and the first and only African American chemist to be inducted into the National Academy of Sciences.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres5-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2007-02-01", 
+  "subjects": [
+    "Blacks", 
+    "Chemical research", 
+    "Chemistry", 
+    "Chemists", 
+    "Commemorations", 
+    "Congressional tributes", 
+    "Minorities", 
+    "Research and development", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2007-02-01", 
+    "text": "Honors the life of Percy Lavon Julian, a pioneer in the field of organic chemistry research and development, and the first and only African American chemist to be inducted into the National Academy of Sciences."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the life of Percy Lavon Julian, a pioneer in the field of organic chemistry research and development and the first and only African American chemist to be inducted into the National Academy of Sciences.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:42-05:00"
+}

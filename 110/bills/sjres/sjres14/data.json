@@ -1,0 +1,412 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-24", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-25", 
+      "calendar": "Senate Legislative", 
+      "number": "179", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2007-06-06", 
+      "references": [
+        {
+          "reference": "CR S7152", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-06", 
+      "references": [
+        {
+          "reference": "CR S7152", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7152", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-06", 
+      "references": [], 
+      "text": "Motion to proceed to consideration of measure withdrawn in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-11", 
+      "references": [
+        {
+          "reference": "CR S7432-7441", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-11", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S7441", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7441", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "207", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed not invoked in Senate by Yea-Nay Vote. 53 - 38. Record Vote Number: 207.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s1491-110", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1491"
+    }
+  ], 
+  "bill_id": "sjres14-110", 
+  "bill_type": "sjres", 
+  "committees": [], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Biden, Joseph R., Jr.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "DE", 
+      "thomas_id": "01284", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "2007-05-24", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2007-05-24", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2007-05-24", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Byrd, Robert C.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "WV", 
+      "thomas_id": "01299", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Clinton, Hillary Rodham", 
+      "sponsored_at": "2007-05-24", 
+      "state": "NY", 
+      "thomas_id": "01631", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Conrad, Kent", 
+      "sponsored_at": "2007-05-24", 
+      "state": "ND", 
+      "thomas_id": "01307", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dodd, Christopher J.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "CT", 
+      "thomas_id": "00302", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dorgan, Byron L.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "ND", 
+      "thomas_id": "00308", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2007-05-24", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2007-05-24", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2007-05-24", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inouye, Daniel K.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "HI", 
+      "thomas_id": "01369", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kennedy, Edward M.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "MA", 
+      "thomas_id": "01377", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2007-05-24", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "2007-06-05", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2007-05-24", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2007-05-24", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murray, Patty", 
+      "sponsored_at": "2007-05-24", 
+      "state": "WA", 
+      "thomas_id": "01409", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "2007-05-24", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Obama, Barack", 
+      "sponsored_at": "2007-05-24", 
+      "state": "IL", 
+      "thomas_id": "01763", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2007-05-24", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2007-05-24", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2007-05-24", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Webb, Jim", 
+      "sponsored_at": "2007-05-24", 
+      "state": "VA", 
+      "thomas_id": "01822", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2007-05-24", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2007-06-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-05-24", 
+  "number": "14", 
+  "official_title": "A joint resolution expressing the sense of the Senate that Attorney General Alberto Gonzales no longer holds the confidence of the Senate and of the American people.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres417-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2007-06-11", 
+  "subjects": [
+    "Attorneys general", 
+    "Bush (George W.) Administration", 
+    "Cabinet officers", 
+    "Congress", 
+    "Congressional-executive relations", 
+    "Department of Justice", 
+    "Government operations and politics", 
+    "Senate"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2007-05-24", 
+    "text": "Expresses the sense of the Senate that Attorney General Alberto Gonzales no longer holds the confidence of the Senate and of the American people."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A joint resolution expressing the sense of the Senate that Attorney General Alberto Gonzales no longer holds the confidence of the Senate and of the American people.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:55-05:00"
+}

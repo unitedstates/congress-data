@@ -1,0 +1,423 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-12-14", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S15701-15704", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S15701-15703", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-12-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-17T14:29:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-17", 
+      "committee": "House Committee on Oversight and Government Reform", 
+      "references": [], 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-18T17:03:00-05:00", 
+      "references": [], 
+      "text": "Mr. Clay moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-18T17:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H16788-16792", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-18T17:03:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 2488.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-18T17:18:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H16788-16790", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-12-18T17:18:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-18", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-31", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-12-31", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "175", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-175.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2488-110", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Alexander, Lamar", 
+      "sponsored_at": "2007-12-14", 
+      "state": "TN", 
+      "thomas_id": "01695", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2007-12-14", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2007-12-14", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2007-12-14", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coburn, Tom", 
+      "sponsored_at": "2007-12-14", 
+      "state": "OK", 
+      "thomas_id": "00212", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2007-12-14", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2007-12-14", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feingold, Russell D.", 
+      "sponsored_at": "2007-12-14", 
+      "state": "WI", 
+      "thomas_id": "01331", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2007-12-14", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "2007-12-14", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kyl, Jon", 
+      "sponsored_at": "2007-12-14", 
+      "state": "AZ", 
+      "thomas_id": "00655", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2007-12-14", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2007-12-14", 
+      "state": "MO", 
+      "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Obama, Barack", 
+      "sponsored_at": "2007-12-14", 
+      "state": "IL", 
+      "thomas_id": "01763", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2007-12-14", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Smith, Gordon H.", 
+      "sponsored_at": "2007-12-14", 
+      "state": "OR", 
+      "thomas_id": "01549", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Specter, Arlen", 
+      "sponsored_at": "2007-12-14", 
+      "state": "PA", 
+      "thomas_id": "01437", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "175"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-12-31", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-12-18T17:18:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-12-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-12-14", 
+  "number": "2488", 
+  "official_title": "A bill to promote accessibility, accountability, and openness in Government by strengthening section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1309-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1326-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s849-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s849-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2427-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "OPEN Government Act of 2007", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-12-31", 
+  "subjects": [
+    "Actions and defenses", 
+    "Administrative fees", 
+    "Civil rights and liberties, minority issues", 
+    "Congress", 
+    "Congressional investigations", 
+    "Congressional reporting requirements", 
+    "Consent decrees", 
+    "Disciplining of employees", 
+    "Economics and public finance", 
+    "Executive reorganization", 
+    "Federal employees", 
+    "Federal officials", 
+    "Freedom of information", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Government statistics", 
+    "Identification devices", 
+    "Journalism", 
+    "Law", 
+    "Legal fees", 
+    "Limitation of actions", 
+    "National Archives and Records Administration", 
+    "Ombudsman", 
+    "Personnel management", 
+    "Position classification", 
+    "Promotions", 
+    "Public records", 
+    "Rating of employees", 
+    "Reporters and reporting"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-12-31", 
+    "text": "Openness Promotes Effectiveness in our National Government Act of 2007 or the OPEN Government Act of 2007 - Amends the Freedom of Information Act (FOIA) to revise requirements for federal agency disclosures of information requested under that Act. (Sec. 3) Provides definitions of \"representative of the news media\" and \"news\" for purposes of request processing fees. Regards a freelance journalist as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity. (Sec. 4) Provides that, for purposes of awarding attorney fees and litigation costs, a FOIA complainant has substantially prevailed in a legal proceeding to compel disclosure if such complainant obtained relief through either: (1) a judicial order or an enforceable written agreement or consent decree; or (2) a voluntary or unilateral change in position by the agency if the complainant's claim is not insubstantial. Prohibits the Treasury's Claims and Judgment Fund from being used to pay reasonable attorney fees in cases where the complainant has substantially prevailed. Requires fees to be paid only from funds annually appropriated for authorized purposes for the federal agency against which a claim or judgment has been rendered.(Sec. 5) Directs the Attorney General to: (1) notify the Special Counsel of civil actions taken for arbitrary and capricious rejections of requests for agency records; and (2) submit annual reports to Congress on such civil actions. Directs the Special Counsel to submit an annual report on investigations of agency rejections of FOIA requests. (Sec. 6) Requires the 20-day period during which an agency must determine whether to comply with a FOIA request to begin on the date the request is received by the appropriate component of the agency, but no later than 10 days after the request is received by any component that is designated to receive FOIA requests in the agency's FOIA regulations. Prohibits the tolling of the 20-day period by the agency, except: (1) that the agency may make one request to the requester for information and toll the 20-day period while it is awaiting such information; or (2) if necessary to clarify with the requester issues regarding fee assessment. Ends the tolling period on the agency's receipt of the requester's response. Prohibits an agency from assessing search or duplication fees if it fails to comply with time limits, provided that no unusual or exceptional circumstances apply to the processing of the request. Requires each agency to make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency.(Sec. 7) Requires agencies to establish: (1) a system to assign an individualized tracking number for each FOIA request received that will take longer than 10 days to process; and (2) a telephone line or Internet service that provides information on the status of a request. (Sec. 8) Revises annual reporting requirements on agency compliance with FOIA to require information on: (1) FOIA denials based upon particular statutes; (2) response times; and (3) compliance by the agency and by each principal component thereof. Requires agencies to make the raw statistical data used in reports electronically available to the public upon request. (Sec. 9) Redefines \"record\" under FOIA to include any information maintained by an agency contractor. (Sec. 10) Establishes within the National Archives and Records Administration (NARA) an Office of Government Information Services to: (1) review compliance with FOIA policies; (2) recommend policy changes to Congress and the President; and (3) offer mediation services between FOIA requesters and administrative agencies as a non-exclusive alternative to litigation. Authorizes the Office to issue advisory opinions if mediation has not resolved the dispute. Requires each agency to designate a Chief FOIA Officer, who shall: (1) have responsibility for FOIA compliance; (2) monitor FOIA implementation; (3) recommend to the agency head adjustments to agency practices, policies, personnel, and funding to improve implementation of FOIA; and (4) facilitate public understanding of the purposes of FOIA's statutory exemptions. Requires agencies to designate at least one FOIA Public Liaison, who shall be appointed by the Chief FOIA Officer, to: (1) serve as an official to whom a FOIA requester can raise concerns about service from the FOIA Requester Center; and (2) be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.(Sec. 11) Requires the Office of Personnel Management (OPM) to report to Congress on personnel policies related to FOIA. (Sec. 12) Sets forth requirements to describe exemptions authorizing deletions of material provided under FOIA."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "OPEN Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Openness Promotes Effectiveness in our National Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "OPEN Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Openness Promotes Effectiveness in our National Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "OPEN Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Openness Promotes Effectiveness in our National Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "OPEN Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Openness Promotes Effectiveness in our National Government Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to promote accessibility, accountability, and openness in Government by strengthening section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:23-05:00"
+}

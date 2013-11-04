@@ -1,0 +1,255 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-12-06", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-11T20:34:00-05:00", 
+      "bill_ids": [
+        "hres862-110"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 862 Reported to House. Rule provides for consideration of H.R. 4299 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T13:10:00-05:00", 
+      "bill_ids": [
+        "hres862-110"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 862 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T14:58:00-05:00", 
+      "bill_ids": [
+        "hres862-110"
+      ], 
+      "references": [
+        {
+          "reference": "CR H15354-15368", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 862.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T14:58:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 4299 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T14:58:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 4299.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T16:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H15365", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T16:04:00-05:00", 
+      "references": [
+        {
+          "reference": "H15365-15367", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H15365", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Bachus moved to recommit with instructions to Financial Services.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T16:04:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the Bachus motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with following amendment striking sections 6 through 10.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T16:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H15366", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T16:38:00-05:00", 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 173 - 246 (Roll no. 1149).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12T16:47:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H15354-15356", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "1150", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 303 - 116 (Roll no. 1150).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-12-12T16:47:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-13", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4299-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-12-12T16:47:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-12-06", 
+  "number": "4299", 
+  "official_title": "To extend the Terrorism Insurance Program of the Department of the Treasury, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres862-110", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "hr2761-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2285-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Terrorism Risk Insurance Program Reauthorization Act of 2007", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Frank, Barney", 
+    "state": "MA", 
+    "thomas_id": "00407", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-12-12T16:47:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Biological warfare", 
+    "Casualty insurance", 
+    "Chemical warfare", 
+    "Coinsurance", 
+    "Commerce", 
+    "Compensation (Law)", 
+    "Congress", 
+    "Congressional investigations", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Consumer education", 
+    "Crime and law enforcement", 
+    "Department of the Treasury", 
+    "Emergency management", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Insurance companies", 
+    "Insurance premiums", 
+    "International affairs", 
+    "Law", 
+    "Life insurance", 
+    "Losses", 
+    "Nuclear terrorism", 
+    "Property insurance", 
+    "Reinsurance", 
+    "Terrorism", 
+    "Travel"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2007-12-12", 
+    "text": "Terrorism Risk Insurance Program Reauthorization Act of 2007 - (Sec. 2) Amends the Terrorism Risk Insurance Act to redefine an act of terrorism to eliminate the requirement that the individual or individuals committing a terrorist act be acting on behalf of any foreign person or foreign interest.(Sec. 3) Extends the Terrorism Risk Insurance Program through calendar 2014.(Sec. 4) States that no insurer may be required to make payment for insured losses in excess of its statutory deductible combined with its statutory share of insured losses. Requires the Secretary of the Treasury to: (1) notify Congress within 15 days of an act of terrorism on whether the Secretary estimates that aggregate insured losses will exceed $1 hundred billion; (2) promulgate final regulations for determining the pro rata share of insured losses which exceed $100 billion; and (3) report to Congress on the process used to determine the allocation of pro rata payments when insured losses exceed $100 billion. Requires insurers to disclose to policyholders the $100 billion cap on their liability.Modifies the federal surcharges imposed to recoup the mandatory recoupment amount. Establishes a timeline for the collection of terrorism loss risk-spreading premiums.Requires the Secretary to publish an annual updated estimate of aggregate insured losses to be used as the basis for determining whether mandatory recoupment will be required. (Sec. 5) Directs the Comptroller General to study and report to certain congressional committees on: (1) the availability and affordability of insurance coverage for losses caused by terrorist attacks involving nuclear, biological, chemical, or radiological terrorist events; and (2) whether there are specific markets in the United States where unique capacity constraints exist upon the amount of terrorism risk insurance available. (Sec. 6) Modifies the Act to include group life insurance coverage. Limits the federal share of such compensation.(Sec. 7) Provides for increased insurer deductibles based on the value of an insurer's direct earned premiums if aggregate industry insured losses resulting from a certified act of terrorism exceed $1 billion.(Sec. 8) Requires providers of life insurance to make such insurance available without regard to lawful foreign travel.(Sec. 9) Reduces from $100 million to $50 million the aggregated industry insured losses that will trigger federal compensation paid for Program Year 5."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Terrorism Risk Insurance Program Reauthorization Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Terrorism Risk Insurance Program Reauthorization Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To extend the Terrorism Insurance Program of the Department of the Treasury, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:31-05:00"
+}

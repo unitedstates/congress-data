@@ -1,0 +1,278 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-09-24", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-09-27", 
+      "references": [
+        {
+          "reference": "CR S9897-9899", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9898-9899", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2008-09-27T15:08:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27T18:23:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27T19:10:00-04:00", 
+      "references": [], 
+      "text": "Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27T19:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10270-10272", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27T19:10:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 3569.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27T19:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10270-10271", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-09-27T19:18:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-10-02", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-10-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2008-10-13", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "406", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-406.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3569-110", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2008-09-25", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2008-09-24", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sessions, Jeff", 
+      "sponsored_at": "2008-09-24", 
+      "state": "AL", 
+      "thomas_id": "01548", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Specter, Arlen", 
+      "sponsored_at": "2008-09-25", 
+      "state": "PA", 
+      "thomas_id": "01437", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "406"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2008-10-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-09-27T19:18:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2008-09-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-09-24", 
+  "number": "3569", 
+  "official_title": "A bill to make improvements in the operation and administration of the Federal courts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Judicial Administration and Technical Amendments Act of 2008", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2008-10-13", 
+  "subjects": [
+    "Administration of justice", 
+    "Appellate courts", 
+    "Bankruptcy courts", 
+    "Community service (Punishment)", 
+    "Conferences", 
+    "Crime and law enforcement", 
+    "District courts", 
+    "Economics and public finance", 
+    "Employee rights", 
+    "Employers' liability", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Fines (Penalties)", 
+    "Government operations and politics", 
+    "Government service contracts", 
+    "Investment of public funds", 
+    "Juries", 
+    "Labor and employment", 
+    "Law", 
+    "Legal fees", 
+    "Magistrates", 
+    "Minnesota", 
+    "Parole", 
+    "Pretrial procedure", 
+    "Probation", 
+    "Sentences (Criminal procedure)", 
+    "Tennessee", 
+    "U.S. Sentencing Commission"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2008-10-13", 
+    "text": "Judicial Administration and Technical Amendments Act of 2008 - (Sec. 2) Amends the federal judicial code to: (1) move Dyer County from the Western Division to the Eastern Division of the Western Judicial District of Tennessee; and (2) make Dyersburg a site where the Court for the Eastern Division shall be held. (Sec. 3) Reduces from 30 days to 10 days the minimum length of time a petit juror must serve on a trial before the court may pay a supplemental attendance fee. (Sec. 4) Changes from a requirement to discretionary the authority of the district court to order any person summoned for jury service who fails to appear as directed to appear forthwith and show cause for failure to comply with the summons. (Sec. 5) Requires the clerk or jury commission to post a general notice for public review in the clerk's office and on the court's website explaining the process by which names are periodically and randomly drawn from the master jury wheel. (Sec. 6) Revises the items for which a judge or clerk of any court of the United States may tax as costs to specify: (1) printed or electronically recorded transcripts (currently, stenographic transcripts); and (2) copies of any materials (currently, papers) where the copies are necessarily obtained for use in the case. (Sec. 7) Repeals obsolete provisions in the bankruptcy code relating to certain dollar amounts. (Sec. 8) Authorizes the Director of the Administrative Office of the United States Courts, or a designated clerk of court, to request the Secretary of the Treasury to invest court registry funds in interest-bearing public debt securities. (Sec. 9) Authorizes magistrate judge participation at circuit conferences. (Sec. 10) Amends the federal criminal code to repeal the requirement that a chief pretrial services officer be selected by a panel consisting of the chief judge of the circuit, the chief judge of the district, and a magistrate judge of the district or their designees. Requires, instead, that the chief pretrial services officer be appointed by the district court. (Sec. 11) Requires indexing, according to a specified formula, of the maximum amount of compensation payable to attorneys for representing defendants. (Sec. 12) Expands delegation authority for reviewing and approving Criminal Justice Act vouchers in excess of case compensation maximums for: (1) representation of defendants; (2) services other than counsel; or (3) service as counsel for financially unable defendants. Authorizes the chief judge of the circuit to delegate such approval authority to a senior circuit judge (as well as to an active circuit court judge, as under current law). (Sec. 13) Repeals obsolete cross-references to the Narcotic Addict Rehabilitation Act in speedy trial requirements. (Sec. 14) Makes technical and conforming amendments to the federal criminal code with respect to conditions of probation and supervised release after imprisonment. (Sec. 15) Includes among pretrial services functions contracting with any appropriate public or private agency or person, or expending funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required. (Sec. 16) Amends the federal judicial code to require at least (currently, not more than) three members of the United States Sentencing Commission to be federal judges. Thus allows more than three members of the Commission to be federal judges.) (Sec. 17) Increases from $100 to $1,000 the monetary penalty for failure to appear for a jury summons. Authorizes the court to order community service as a penalty as well. (Sec. 18) Requires court for the Sixth Division of the Minnesota Judicial District to be held at Bemidji (as well as at Fergus Falls, as under current law). (Sec. 19) Increases from $1,000 to $5,000 the monetary penalty for employers who retaliate against employees serving on jury duty. Authorizes the court to order community service as a penalty as well."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Judicial Administration and Technical Amendments Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Judicial Administration and Technical Amendments Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Judicial Administration and Technical Amendments Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Judicial Administration and Technical Amendments Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to make improvements in the operation and administration of the Federal courts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:25-05:00"
+}

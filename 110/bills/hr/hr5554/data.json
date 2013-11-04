@@ -1,0 +1,401 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-03-06", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-03-07", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-04-15", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-15", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Committee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-23", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-23", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-30", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-30", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2008-05-15T16:47:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-639.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-15T16:48:00-04:00", 
+      "calendar": "Union", 
+      "number": "400", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 400.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2008-05-20T13:55:00-04:00", 
+      "references": [], 
+      "text": "Mr. Filner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-20T13:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4193-4196", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-20T13:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5554.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-20T14:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4193-4194", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-05-20T14:12:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-21", 
+      "committee": "Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5554-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Allen, Thomas H.", 
+      "sponsored_at": "2008-03-06", 
+      "state": "ME", 
+      "thomas_id": "01461", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2008-04-22", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2008-03-06", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2008-03-31", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2008-03-06", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2008-04-30", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2008-03-06", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2008-03-06", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2008-04-24", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2008-04-03", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2008-04-23", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2008-03-31", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2008-03-06", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2008-04-30", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2008-03-06", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2008-04-14", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-05-20T14:12:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-03-06", 
+  "number": "5554", 
+  "official_title": "To amend title 38, United States Code, to expand and improve health care services available to veterans from the Department of Veterans Affairs for substance use disorders, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Justin Bailey Veterans Substance Use Disorders Prevention and Treatment Act of 2008", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Michaud, Michael H.", 
+    "state": "ME", 
+    "thomas_id": "01730", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2008-05-20T14:12:00-04:00", 
+  "subjects": [
+    "Afghanistan", 
+    "Ambulatory care", 
+    "Armed forces and national security", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Congressional tributes", 
+    "Continuum of care", 
+    "Counseling", 
+    "Drug abuse", 
+    "Drug abuse treatment", 
+    "Drug addiction", 
+    "Drug therapy", 
+    "Families", 
+    "Health", 
+    "Internet", 
+    "Iraq", 
+    "Iraq compilation", 
+    "Marriage counseling", 
+    "Medical screening", 
+    "Middle East and North Africa", 
+    "Military operations", 
+    "Post-traumatic stress disorder", 
+    "Science, technology, communications", 
+    "Social welfare", 
+    "South Asia", 
+    "Telemedicine", 
+    "Veterans' hospitals", 
+    "Veterans' medical care", 
+    "Web sites"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2008-05-20", 
+    "text": "Justin Bailey Veterans Substance Use Disorders Prevention and Treatment Act of 2008 - Requires each substance use disorder treatment plan developed by a Department of Veterans Affairs (VA) medical center to ensure that such center provides ready access to a full continuum of care for substance use disorders for veterans in need of such care. Includes under a full continuum of care: (1) screening for substance use disorder; (2) detoxification and stabilization; (3) intensive outpatient care; (4) relapse prevention; (5) outpatient counseling; (6) residential substance use disorder treatment; (7) pharmacological treatment to reduce cravings and opioid substitution therapy; (8) coordination with groups providing peer-to-peer counseling; (9) short-term, early interventions for substance use disorders; and (10) marital and family counseling. Requires the Secretary of Veterans Affairs to provide outreach to veterans of Operations Enduring Freedom or Iraqi Freedom to increase awareness of the availability of such care.Requires the Secretary to: (1) ensure that amounts made available to the VA for substance use disorder care, treatment, and services are allocated to ensure a full continuum of such care to veterans regardless of the location of their residence; and (2) include in annual budget reports a report on such care, treatment, and services. Requires: (1) each such report to be reviewed by the Committee on Care of Severely Chronically Mentally Ill Veterans; and (2) the Committee to provide an independent assessment of such care, treatment, and services furnished directly by the VA to veterans.Directs the Secretary to carry out a two-year pilot program to test the feasibility and advisability of providing veterans who seek treatment for substance use disorders with access to a computer-based self-assessment, education, and specific treatment program through a secure Internet website operated by the Secretary. Authorizes appropriations. Requires a pilot program report from the Secretary to Congress.Requires the Secretary to: (1) conduct a review of all residential mental health care facilities, including domiciliary facilities, of the Veterans Health Administration; and (2) report review results to the congressional veterans' committees.States that this Act is in tribute to Justin Bailey, who, after returning to the United States from service in Operation Iraqi Freedom, died in a VA domiciliary facility while receiving care for post-traumatic stress disorder (PTSD) and a substance use disorder."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Veterans Substance Use Disorders Prevention and Treatment Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Justin Bailey Veterans Substance Use Disorders Prevention and Treatment Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Justin Bailey Veterans Substance Use Disorders Prevention and Treatment Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 38, United States Code, to expand and improve health care services available to veterans from the Department of Veterans Affairs for substance use disorders, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:56-05:00"
+}

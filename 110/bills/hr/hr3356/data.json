@@ -1,0 +1,189 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-08-03", 
+      "committee": "Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-08-03", 
+      "committee": "House Judiciary", 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-08-03", 
+      "committee": "House Intelligence", 
+      "references": [
+        {
+          "reference": "Permanent Select", 
+          "type": null
+        }
+      ], 
+      "text": "Referred to House Intelligence", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-08-03T19:20:00-04:00", 
+      "references": [], 
+      "text": "Mr. Conyers moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-03T19:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9685-9695", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-03T19:20:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3356.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-08-03T20:57:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H9685-9686", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "821", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 218 - 207 (Roll no. 821).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3356-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2007-08-03", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2007-08-03", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2007-08-03", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2007-08-03T20:57:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-08-03", 
+  "number": "3356", 
+  "official_title": "To amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain electronic surveillance.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1927-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2011-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act of 2007", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Reyes, Silvestre", 
+    "state": "TX", 
+    "thomas_id": "01516", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2007-08-03T20:57:00-04:00", 
+  "subjects": [
+    "Aliens", 
+    "Armed forces and national security", 
+    "Business records", 
+    "Commerce", 
+    "Courts of special jurisdiction", 
+    "Criminal investigation", 
+    "Electronic surveillance", 
+    "Emergency management", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Judicial review", 
+    "Law", 
+    "Science, technology, communications", 
+    "Telecommunication industry"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2007-08-03", 
+    "text": "Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act of 2007 - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to provide that a court order is not required for the acquisition of communication between non-U.S. persons who are not located within the United States for collecting foreign intelligence information, whether or not the communication passes through the United States or the surveillance device is located within the United States. Allows the Attorney General (AG), upon authorization of the President, to apply to the Foreign Intelligence Surveillance Court (Court) for an order, or the extension of an order, authorizing for up to one year the acquisition of communications of persons outside the United States who are non-U.S. persons. Allows the AG to authorize such surveillance without a court order for up to 15 days if the AG determines that an emergency situation exists with respect to obtaining such information before an order authorizing the surveillance can be obtained. Authorizes the AG, in either case, to direct a communications service provider, custodian, or other person who has access to such information to furnish the AG with the required information and to maintain appropriate records concerning acquisition of the information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain electronic surveillance.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:06-05:00"
+}

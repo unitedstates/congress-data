@@ -1,0 +1,240 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-04", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-01-05", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Highways and Transit", 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-07", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-02-07T13:49:00-05:00", 
+      "references": [], 
+      "text": "Mr. Oberstar moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-07T13:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1300-1301", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-07T13:50:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 238.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-07T13:57:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1300-1301", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-02-07T13:57:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-08", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-03", 
+      "references": [], 
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-03", 
+      "references": [
+        {
+          "reference": "CR S14706", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-03", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-12-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-17", 
+      "bill_ids": [
+        "hr2764-110"
+      ], 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Provisions of Measure Incorporated into Division K, Title I, Section 169 of H.R. 2764 (Public Law 110-161).", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s3802-110", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "3802"
+    }
+  ], 
+  "bill_id": "hr238-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2007-02-07", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-02-07T13:57:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-12-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-04", 
+  "number": "238", 
+  "official_title": "To repeal a prohibition on the use of certain funds for tunneling in certain areas with respect to the Los Angeles to San Fernando Valley Metro Rail project, California.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s497-110", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s497-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "30", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2007-12-03", 
+  "subjects": [
+    "California", 
+    "Economics and public finance", 
+    "Federal aid to transportation", 
+    "Mass rapid transit", 
+    "Railroad engineering", 
+    "Subways", 
+    "Transportation and public works", 
+    "Tunnels", 
+    "Urban affairs", 
+    "Urban transportation"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2007-12-03", 
+    "text": "Amends the Department of Transportation and Related Agencies Appropriations Act, 1986 to repeal the prohibition against use of certain funds for any segment of the downtown Los Angeles to San Fernando Valley Metro Rail project unless the Southern California Rapid Transit District notifies the Urban Mass Transportation Administration that no part of the Metro Rail project will tunnel through any zone designated as a potential risk zone or high potential risk zone for methane gas. Amends federal transportation law to extend the special rule for the allocation of urbanized area formula grants through FY2009. Sets forth the maximum amounts to be allocated for such grants for FY2008 and FY2009."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To repeal a prohibition on the use of certain funds for tunneling in certain areas with respect to the Los Angeles to San Fernando Valley Metro Rail project, California.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:20-05:00"
+}

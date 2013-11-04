@@ -1,0 +1,280 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-10-09", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-10-10", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "Fisheries, Wildlife, and Oceans", 
+      "text": "Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-11-13T12:10:00-05:00", 
+      "references": [], 
+      "text": "Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-13T12:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H13527-13528", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-13T12:11:00-05:00", 
+      "bill_ids": [
+        "hcres229-110"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 229.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-13T12:15:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H13527-13528", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-11-13T12:15:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-11-14", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres229-110", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries, Wildlife, and Oceans", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Allen, Thomas H.", 
+      "sponsored_at": "2007-10-09", 
+      "state": "ME", 
+      "thomas_id": "01461", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2007-11-13", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brown, Henry E., Jr.", 
+      "sponsored_at": "2007-10-09", 
+      "state": "SC", 
+      "thomas_id": "01669", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2007-11-08", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Delahunt, William D.", 
+      "sponsored_at": "2007-11-13", 
+      "state": "MA", 
+      "thomas_id": "01480", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2007-10-09", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2007-10-09", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2007-11-08", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2007-10-18", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Inslee, Jay", 
+      "sponsored_at": "2007-11-13", 
+      "state": "WA", 
+      "thomas_id": "00584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2007-10-18", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "2007-10-09", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2007-11-13", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-11-13T12:15:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-10-09", 
+  "number": "229", 
+  "official_title": "Expressing the sense of the Congress that the United States should seek a review of compliance by all nations with the International Commission for the Conservation of Atlantic Tunas' conservation and management recommendations for Atlantic bluefin tuna and other species, and should pursue strengthened conservation and management measures to facilitate the recovery of the Atlantic bluefin tuna, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres368-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pallone, Frank, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "00887", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-11-13T12:15:00-05:00", 
+  "subjects": [
+    "Atlantic Ocean", 
+    "Europe", 
+    "Fishery management", 
+    "International affairs", 
+    "Marine and coastal resources, fisheries", 
+    "Overfishing", 
+    "Public lands and natural resources", 
+    "Sustainable fisheries", 
+    "Treaties", 
+    "Tuna"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2007-11-13", 
+    "text": "Declares that it is the sense of the Congress that the United States, through the International Commission for the Conservation of Atlantic Tunas, should: (1) pursue a review and assessment of compliance with conservation and management measures adopted by the Commission for the 2006 Eastern Atlantic and Mediterranean bluefin tuna fishery and other fisheries subject to Commission jurisdiction; (2) address noncompliance by nations through appropriate actions including, as appropriate, deducting a proportion of a future quota for a country to compensate for such country exceeding its quota in prior years; (3) pursue a meaningful discussion of the implementation and effectiveness of the Commission recommendation entitled \"Recommendation by ICCAT to Establish a Multi-Annual Recovery Plan for Bluefin Tuna in the Eastern Atlantic and Mediterranean\"; and (4) seek to strengthen conservation and management of Eastern Atlantic and Mediterranean bluefin tuna by making recommendations to halt the decline of the stock and begin to rebuild it."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the Congress that the United States should seek a review of compliance by all nations with the International Commission for the Conservation of Atlantic Tunas' conservation and management recommendations for Atlantic bluefin tuna and other species, and should pursue strengthened conservation and management measures to facilitate the recovery of the Atlantic bluefin tuna, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:48-05:00"
+}

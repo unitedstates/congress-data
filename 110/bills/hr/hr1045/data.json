@@ -1,0 +1,297 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-02-14", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-15", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-03-01", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-01", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-03-12T19:26:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation. H. Rept. 110-46.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-12T19:26:00-04:00", 
+      "calendar": "House", 
+      "number": "24", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 24.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2007-03-13T14:00:00-04:00", 
+      "references": [], 
+      "text": "Mr. Boswell moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-13T14:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2460-2461", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-13T14:00:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1045.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-13T14:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2460", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-03-13T14:06:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-14", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [
+        {
+          "reference": "CR S16055", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-20", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-20", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-26", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-12-26", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "158", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-158.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1045-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Braley, Bruce L.", 
+      "sponsored_at": "2007-02-28", 
+      "state": "IA", 
+      "thomas_id": "01845", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Latham, Tom", 
+      "sponsored_at": "2007-02-28", 
+      "state": "IA", 
+      "thomas_id": "00666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2007-02-28", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Regula, Ralph", 
+      "sponsored_at": "2007-02-14", 
+      "state": "OH", 
+      "thomas_id": "00951", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "158"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-12-26", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-03-13T14:06:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-12-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-02-14", 
+  "number": "1045", 
+  "official_title": "To designate the Federal building located at 210 Walnut Street in Des Moines, Iowa, as the \"Neal Smith Federal Building\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s862-110", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s862-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s862-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boswell, Leonard L.", 
+    "state": "IA", 
+    "thomas_id": "01466", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-12-26", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Ex-Members of Congress", 
+    "Federal office buildings", 
+    "House of Representatives", 
+    "Iowa", 
+    "Names"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-12-26", 
+    "text": "Designates the federal building located at 210 Walnut Street in Des Moines, Iowa, as the \"Neal Smith Federal Building.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the Federal building located at 210 Walnut Street in Des Moines, Iowa, as the \"Neal Smith Federal Building\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:47-05:00"
+}

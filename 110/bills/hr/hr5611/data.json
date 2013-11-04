@@ -1,0 +1,673 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-03-13", 
+      "committee": "House Committee on Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-07-09", 
+      "in_committee": "House Committee on Financial Services", 
+      "references": [], 
+      "subcommittee": "Capital Markets, Insurance and Government Sponsored Enterprises", 
+      "text": "Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-07-09", 
+      "in_committee": "House Committee on Financial Services", 
+      "in_subcommittee": "Capital Markets, Insurance and Government Sponsored Enterprises", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-09", 
+      "in_committee": "House Committee on Financial Services", 
+      "in_subcommittee": "Capital Markets, Insurance and Government Sponsored Enterprises", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-17T18:45:00-04:00", 
+      "references": [], 
+      "text": "Mr. Scott (GA) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-17T18:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8363-8368", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-17T18:46:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5611.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-17T19:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8363-8367", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-09-17T19:01:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-22", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-10-02", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5611-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Akin, W. Todd", 
+      "sponsored_at": "2008-04-15", 
+      "state": "MO", 
+      "thomas_id": "01655", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Barrett, J. Gresham", 
+      "sponsored_at": "2008-03-13", 
+      "state": "SC", 
+      "thomas_id": "01745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2008-06-05", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2008-07-09", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2008-04-29", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brown-Waite, Ginny", 
+      "sponsored_at": "2008-03-13", 
+      "state": "FL", 
+      "thomas_id": "01713", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2008-04-01", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Carnahan, Russ", 
+      "sponsored_at": "2008-04-10", 
+      "state": "MO", 
+      "thomas_id": "01789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2008-03-13", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2008-09-15", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Geoff", 
+      "sponsored_at": "2008-03-13", 
+      "state": "KY", 
+      "thomas_id": "01784", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Lincoln", 
+      "sponsored_at": "2008-03-13", 
+      "state": "TN", 
+      "thomas_id": "01747", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Donnelly, Joe", 
+      "sponsored_at": "2008-03-13", 
+      "state": "IN", 
+      "thomas_id": "01850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Foxx, Virginia", 
+      "sponsored_at": "2008-05-05", 
+      "state": "NC", 
+      "thomas_id": "01791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2008-09-16", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2008-03-13", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2008-04-29", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2008-07-09", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hodes, Paul W.", 
+      "sponsored_at": "2008-06-19", 
+      "state": "NH", 
+      "thomas_id": "01862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Holden, Tim", 
+      "sponsored_at": "2008-04-01", 
+      "state": "PA", 
+      "thomas_id": "00550", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2008-03-13", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2008-04-01", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Kuhl, John R. \"Randy\", Jr.", 
+      "sponsored_at": "2008-05-06", 
+      "state": "NY", 
+      "thomas_id": "01795", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "LaHood, Ray", 
+      "sponsored_at": "2008-04-08", 
+      "state": "IL", 
+      "thomas_id": "00659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "2008-04-03", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "2008-03-13", 
+      "state": "IL", 
+      "thomas_id": "00733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2008-05-19", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2008-06-09", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2008-03-13", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Melancon, Charlie", 
+      "sponsored_at": "2008-06-19", 
+      "state": "LA", 
+      "thomas_id": "01786", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Brad", 
+      "sponsored_at": "2008-04-03", 
+      "state": "NC", 
+      "thomas_id": "01735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2008-05-22", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2008-03-13", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2008-06-23", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2008-04-22", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2008-04-08", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "sponsored_at": "2008-03-13", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pence, Mike", 
+      "sponsored_at": "2008-06-09", 
+      "state": "IN", 
+      "thomas_id": "01649", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "sponsored_at": "2008-04-08", 
+      "state": "CO", 
+      "thomas_id": "01835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2008-04-15", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2008-07-22", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2008-04-17", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Putnam, Adam H.", 
+      "sponsored_at": "2008-07-09", 
+      "state": "FL", 
+      "thomas_id": "01645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2008-04-08", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2008-04-08", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2008-03-13", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2008-04-10", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2008-06-18", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2008-03-14", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2008-07-22", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Wilson, Charles A.", 
+      "sponsored_at": "2008-03-13", 
+      "state": "OH", 
+      "thomas_id": "01869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2008-04-10", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-09-17T19:01:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-03-13", 
+  "number": "5611", 
+  "official_title": "To reform the National Association of Registered Agents and Brokers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Association of Registered Agents and Brokers Reform Act of 2008", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Scott, David", 
+    "state": "GA", 
+    "thomas_id": "01722", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2008-09-17T19:01:00-04:00", 
+  "subjects": [
+    "Commerce", 
+    "Consumer complaints", 
+    "Consumer protection", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "Education", 
+    "Federal-state relations", 
+    "Finance and financial sector", 
+    "Fines (Penalties)", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Higher education", 
+    "Identification of criminals", 
+    "Insurance", 
+    "Insurance agents", 
+    "Judicial review", 
+    "Labor and employment", 
+    "Law", 
+    "Licenses", 
+    "Nonprofit organizations", 
+    "Restrictive trade practices", 
+    "Science, technology, communications", 
+    "Social welfare", 
+    "State laws", 
+    "Telephone", 
+    "Trade associations"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2008-09-17", 
+    "text": "National Association of Registered Agents and Brokers Reform Act of 2008 - Amends the Gramm-Leach-Bliley Act to reestablish the National Association of Registered Agents and Brokers as a nonprofit corporation whose purpose is to provide a mechanism through which licensing, continuing education, and other insurance producer qualification requirements and conditions can be adopted and applied on a multi-state basis, while preserving the right of states to: (1) license, supervise, and discipline insurance producers; and (2) prescribe and enforce laws and regulations regarding insurance-related consumer protection and unfair trade practices. Sets forth membership requirements, including a mandatory criminal background check applicable to state-licensed insurance producers. Sets limits upon permissible uses of such criminal background information, and imposes a criminal penalty for improper use. Requires the Association, in establishing membership criteria, to consider the National Association of Insurance Commissioners (NAIC) Producer Licensing Model Act and the highest levels of insurance producer qualifications established under state licensing laws. Authorizes the Association to deny membership to a state-licensed insurance producer on the basis of the criminal history information obtained. Establishes classes and categories of membership. Declares that membership authorizes an insurance producer to sell, solicit, negotiate, effect, procure, deliver, renew, continue, or bind insurance in any state for any line or lines of insurance specified in such producer's home state license, and exercise all such incidental powers, including claims adjustments and settlement, risk management, employee benefits advice, retirement planning, and any other insurance-related consulting activities. Authorizes the Association to deny membership to any state-licensed insurance producer for failure to meet membership criteria established by the Association. Preserves state consumer protection and market conduct regulation powers. Grants the Association membership probation, suspension and revocation powers.Requires the Association to establish an office of consumer complaints, including a toll-free telephone number.Creates a Board of Directors to govern and supervise the Association and its members.Preempts specified state actions.Permits judicial review over litigation involving the Association."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "National Association of Registered Agents and Brokers Reform Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "National Association of Registered Agents and Brokers Reform Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reform the National Association of Registered Agents and Brokers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:58-05:00"
+}

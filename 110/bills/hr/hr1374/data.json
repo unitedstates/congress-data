@@ -1,0 +1,202 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-07", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-03-20", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "subcommittee": "Department Operations, Oversight, Nutrition and Forestry", 
+      "text": "Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-12", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-12", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-12-17T12:21:00-05:00", 
+      "references": [], 
+      "text": "Mr. Peterson (MN) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-17T12:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H15475-15476", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-17T12:21:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1374.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-17T12:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H15475", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-12-17T12:28:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-18", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-01-22", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-04-22", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1374-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Department Operations, Oversight, Nutrition and Forestry", 
+      "subcommittee_id": "22"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Public Lands and Forests", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2007-03-07", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-12-17T12:28:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-03-07", 
+  "number": "1374", 
+  "official_title": "To amend the Florida National Forest Land Management Act of 2003 to authorize the conveyance of an additional tract of National Forest System land under that Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s934-110", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Boyd, Allen", 
+    "state": "FL", 
+    "thomas_id": "01467", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-12-17T12:28:00-05:00", 
+  "subjects": [
+    "Florida", 
+    "Forest management", 
+    "Land transfers", 
+    "National forests", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2007-12-17", 
+    "text": "Amends the Florida National Forest Land Management Act of 2003 to: (1) authorize the conveyance of an additional tract of federal land pursuant to the Act; and (2) provide for the disposition of the net proceeds derived from sales or exchanges under the Act to be available for expenditure by the Secretary of Agriculture for the acquisition, construction, or maintenance of administrative improvements for units of the National Forest System in Florida. Permits: (1) proceeds from the sale or exchange of such additional tract to be used exclusively for the purchase of inholdings in the Apalachicola National Forest; and (2) proceeds from any sale or exchange of land under this Act to be used for administrative improvements, as authorized above, only if the land generating the proceeds was improved with infrastructure."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Florida National Forest Land Management Act of 2003 to authorize the conveyance of an additional tract of National Forest System land under that Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:59-05:00"
+}

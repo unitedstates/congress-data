@@ -1,0 +1,300 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-04-29", 
+      "committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-04-30", 
+      "in_committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-30", 
+      "in_committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2008-05-12T17:14:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-626.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-12T17:14:00-04:00", 
+      "calendar": "Union", 
+      "number": "391", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 391.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2008-05-13T17:39:00-04:00", 
+      "references": [], 
+      "text": "Mr. Berman moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-13T17:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3735-3747", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-13T17:39:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5916.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-13T18:06:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Simpson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-15T15:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4047", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-15T15:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR 5/13/2008 H3735-3743", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-05-15T15:48:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-19", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5916-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2008-05-05", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "2008-04-29", 
+      "state": "IL", 
+      "thomas_id": "00733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2008-04-29", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2008-04-29", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-05-15T15:48:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-04-29", 
+  "number": "5916", 
+  "official_title": "To reform the administration of the Arms Export Control Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Security Assistance and Arms Export Control Reform Act of 2008", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Berman, Howard L.", 
+    "state": "CA", 
+    "thomas_id": "00082", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2008-05-15T15:48:00-04:00", 
+  "subjects": [
+    "Administrative fees", 
+    "Africa (Sub-Saharan)", 
+    "Armed forces and national security", 
+    "Armed forces reserves", 
+    "Arms control", 
+    "Arms control verification", 
+    "Arms sales", 
+    "Artificial satellites", 
+    "Australia", 
+    "Chile", 
+    "China", 
+    "Civil rights and liberties, minority issues", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Crime and law enforcement", 
+    "Diplomacy", 
+    "East Asia", 
+    "Economics and public finance", 
+    "Embargo", 
+    "Europe", 
+    "European Union", 
+    "Export controls", 
+    "Exports", 
+    "Foreign trade and international finance", 
+    "Genocide", 
+    "Government operations and politics", 
+    "Government trust funds", 
+    "Greece", 
+    "Human rights", 
+    "International affairs", 
+    "Israel", 
+    "Japan", 
+    "Latin America", 
+    "Law", 
+    "Licenses", 
+    "Middle East and North Africa", 
+    "Military and naval supplies", 
+    "Military assistance", 
+    "Military pay", 
+    "NATO countries", 
+    "New Zealand", 
+    "North Korea", 
+    "Nuclear nonproliferation", 
+    "Oceania", 
+    "Pakistan", 
+    "Peru", 
+    "President and foreign policy", 
+    "Sanctions (International law)", 
+    "Science, technology, communications", 
+    "South Asia", 
+    "South Korea", 
+    "Sudan", 
+    "Technology transfer", 
+    "Terrorism", 
+    "Warships"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2008-05-15", 
+    "text": "Security Assistance and Arms Export Control Reform Act of 2008 - Title I: Reform Of Arms Export Control Procedures - Subtitle A: Defense Trade Controls Performance Improvement Act of 2008 - Defense Trade Controls Performance Improvement Act of 2008 - (Sec. 103) Directs the President, not later than March 31, 2009, to conduct a comprehensive and systematic review and assessment of the U.S. arms export controls system. Requires such review and assessment to: (1) determine the system's overall effectiveness; (2) develop processes to ensure better coordination of arms export control activities; (3) ensure control over weapons-related nuclear technology and all items on the Missile Technology Control Regime Annex; (4) determine the overall effect of arms export controls on counterterrorism, law enforcement, and infrastructure protection missions of the Department of Homeland Security (DHS); (5) contain a summary of attempts by international arms traffickers, foreign intelligence agencies, and terrorist organizations to acquire items on the U.S. Munitions List; and (6) assess the extent to which export control policies and practices under the Arms Export Control Act promote the protection of basic human rights. Directs the President to: (1) provide briefings to appropriate congressional committees (i.e., the House Committee on Foreign Affairs and the Senate Committee on Foreign Relations on the progress of the review and assessment; and (2) report on such review and assessment to the appropriate congressional committees and the Armed Services Committees not later than 18 months after the enactment of this Act.(Sec. 104) Requires the Secretary of State, acting through the Directorate of Defense Trade Controls (DDTC), to set a 60-day goal for processing applications for licenses to export items on the U.S. Munitions List and for the review of such applications for a commodity jurisdiction determination. Limits the allowable amount of unprocessed applications to 7% of total applications submitted in the preceding calendar year. Requires applications not processed within 90 days of receipt to be reviewed by the Assistant Secretary of State for Political-Military Affairs. Sets forth goals for DDTC processing of applications for licenses to export defense articles to U.S. allies.Requires the Secretary, not later than December 31, 2010, and December 31, 2011, to report to the appropriate congressional committees on the average processing time of applications for export licenses.(Sec. 105) Requires the Secretary to ensure that DDTC has adequate staff and resources. Establishes the minimum required number of DDTC licensing officers for FY2010 and subsequent fiscal years and the minimum staff required to review applications for commodity jurisdiction determinations.(Sec. 106) Requires the Inspector General of the Department of State to conduct an audit by the end of FY2010 and FY2011 to determine the extent to which the Department is meeting the performance and staffing goals set by this title and to report to the appropriate congressional committees on the results. (Sec. 107) Amends the State Department Basic Authorities Act of 1956 to revise the purposes for which DDTC may use its registration fees for defense trade controls functions.(Sec. 108) Directs the Secretary to: (1) review the International Traffic in Arms Regulations and the U.S. Munitions List to determine those technologies and goods that warrant different or additional controls; and (2) report annually to the appropriate congressional committees and the House and Senate Committees on Armed Services on such review.(Sec. 109) Amends the Arms Export Control Act to allow a special licensing authorization for exports of spare and replacement parts in connection with defense items previously exported to NATO Member States, Australia, Japan, New Zealand, Israel, and South Korea.(Sec. 110) Amends the Arms Export Control Act to provide persons the ability to access electronically current information on the status of their pending export license applications.(Sec. 111) Expresses the sense of Congress with respect to advice provided to the Secretary by the Defense Trade Advisory Group.(Sec. 113) Authorizes appropriations for FY2009 and each subsequent fiscal year.Subtitle B: Miscellaneous Provisions - (Sec. 121) Directs the Secretary of State to report to the appropriate congressional committees on self-financing of the export licensing functions of DDTC. (Sec. 122) Amends the Arms Export Control Act to include South Korea and Israel as countries eligible for the expedited congressional review period (i.e., 15 days) for the export of U.S. defense items and services.(Sec. 123) Requires the President to make available to the appropriate congressional committees certain presidential directives on U.S. arms export policies, practices, and regulations.(Sec. 124) Amends the Arms Export Control Act to revise the criteria for notification to Congress of a proposed sale of defense articles or services under such Act.(Sec. 125) Expresses the sense of Congress that the President should redouble efforts to strengthen national and international arms export controls and report to the appropriate congressional committees on U.S. diplomatic efforts to do so. (Sec. 126) Amends the Foreign Assistance Act of 1961 to require that the President's annual military assistance report to Congress include information on defense articles exported without a license pursuant to an exemption under the International Traffic in Arms Regulations. (Sec. 127) Amends the Arms Export Control Act to require the President to provide to the appropriate congressional committees as part of the annual budget submission a detailed listing, by country and international organization, of the total dollar value of defense equipment and articles exported pursuant to licenses authorized by such Act.(Sec. 128) Directs the President to report to the appropriate congressional committees and the House and Senate Arms Services Committees on: (1) the extent to which current U.S. export controls on satellites and related items under the Arms Export Control Act are successfully preventing the transfer of military-sensitive technologies to countries of concern, especially China; (2) the extent to which comparable satellites and related items are available from foreign sources without comparable export controls; and (3) whether such export controls should be altered to discourage the exports of satellites and related items to China by any country.Title II: Security Assistance and Related Support for Israel - (Sec. 201) Requires the President to: (1) carry out an empirical and qualitative assessment on an ongoing basis of the extent to which Israel possesses a qualitative military edge over military threats; (2) use such assessment in reviewing applications to sell defense articles and services under the Arms Export Control Act; and (3) submit an initial report on such assessment to the appropriate congressional committees not later than 180 days after the enactment of this Act and then every four years thereafter. Amends the Arms Export Control Act to require any certification relating to a proposed sale or export of defense articles or services to a Middle Eastern country other than Israel to include a determination that such sale or export will not adversely affect Israel's qualitative military edge over military threats.(Sec. 202) Requires the President to: (1) report to the appropriate congressional committees within 30 days after the enactment of this Act on all U.S. assurances made to Israel regarding its security and the maintenance of its qualitative military edge and an analysis of the extent to which such assurances have been and will continue to be fulfilled; (2) submit subsequent reports to reflect new assurances or any revision of existing assurances; and (3) submit reports every five years on such security assurances and revisions to such assurances.(Sec. 203) Amends the Department of Defense Appropriations Act, 2005 to extend until August 5, 2010, the authority of the President to transfer certain surplus defense articles to Israel. Amends the Foreign Assistance Act of 1961 to extend through FY2010 the authority to stockpile certain Department of Defense (DOD) defense articles for foreign countries.(Sec. 204) Allocates funds in FY2009 to Israel under the Foreign Military Financing Program. Authorizes funding in FY2009 for the procurement of advanced weapons systems by Israel.(Sec. 205) Defines \"qualitative military edge\" for purposes of this title.Title III: Waiver Of Certain Sanctions To Facilitate Denuclearization Activities In North Korea - (Sec. 301) Grants the President authority to waive sanctions under the Arms Export Control Act with respect to North Korea to provide assistance for nuclear disarmament pursuant to the Joint Statement of September 19, 2005.(Sec. 302) Permits a waiver of sanctions with respect to certain exports under the Arms Export Control Act if the President certifies to Congress that all necessary steps will be taken to ensure that such assistance will not be used to improve the military capacity of North Korea and that the exercise of waiver authority is in the national security interests of the United States.(Sec. 303) Requires the President to: (1) notify the House Committees on Appropriations, Armed Services, and Foreign Affairs and the Senate Committees on Appropriations, Armed Services, and Foreign Relations before exercising any waiver authority under this title with respect to North Korea; and (2) report not later than 60 days after the enactment of this Act and annually thereafter to such committees on matters relating to North Korean nuclear disarmament.(Sec. 304) Requires the termination of any waiver under this title if the President determines that North Korea: (1) transferred to a non-nuclear state or received a nuclear explosive device on or after September 19, 2005; or (2) detonated a nuclear explosive device on or after October 10, 2006, or transferred nuclear technology to a non-nuclear weapon state or sought such technology for the purpose of developing or manufacturing a nuclear explosive device. Permits a continuation of a waiver if the President certifies to the appropriate congressional committees that such waiver is vital to national security interests. (Sec. 305) Terminates the waiver authority under this title four years after the enactment of this Act. Prohibits the exercise of any waiver authority under this title beginning three years after the enactment of this Act.(Sec. 306) Requires the continuation of restrictions against North Korea relating to its designation as a state sponsor of terrorism unless the President certifies to the appropriate congressional committees that North Korea: (1) is no longer involved in the transfer of nuclear technology; (2) has provided a complete and correct declaration of all its nuclear programs; and (3) has agreed to the participation of the International Atomic Energy Agency in monitoring and verifying the shutdown and sealing of the Yongbyon nuclear facility.(Sec. 307) Requires the Secretary to report to the appropriate congressional committees on verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement of February 13, 2007.Title IV: Miscellaneous Provisions - (Sec. 401) Authorizes the Secretary of State to conduct a program to provide assistance to the military forces of foreign countries to enable such countries to conduct counterterrorist operations or participate in or support military and stability operations in which the United States is a participant. Authorizes funding for such program from the Foreign Military Financing Program in FY2009-FY2010. Requires the Secretary to give notice of the countries assisted by such program to the House Committees on Appropriations and Foreign Affairs and the Senate Committees on Appropriations and Foreign Relations.(Sec. 402) Declares that it shall be the policy of the United States to oppose any diminution or termination of the arms embargo against China imposed by the European Union in 1989 for the Tiananmen Square massacre and to take diplomatic and other measures to convince Member States of the European Union to continue such embargo.Requires the President to report to Congress every six months until December 31, 2010, on efforts to support the continuation of such arms embargo.(Sec. 403) Amends the Foreign Assistance Act of 1961 to permit reimbursement under such Act of the full costs of salaries of members of the reserve components of the Armed Forces deployed for the purposes of such Act.(Sec. 404) Amends the Arms Export Control Act to: (1) rename the Special Defense Acquisition Fund as the Foreign Military Sales Stockpile Fund; (2) include building the capacity of recipient countries as a purpose of such Fund; and (3) include collections from leases made pursuant to such Act in such Fund.(Sec. 405) Expresses the sense of Congress that the United States should not provide security assistance or arms exports to nations contributing to massive, widespread, and systematic violations of human rights or acts of genocide, particularly with respect to Darfur, Sudan. Title V: Authority To Transfer Naval Vessels - Authorizes the President to transfer certain excess naval vessels on a grant basis under the Foreign Assistance Act of 1961 to Pakistan, Greece, Chile, and Peru. Terminates such authority two years after the enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Security Assistance and Arms Export Control Reform Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Defense Trade Controls Performance Improvement Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Security Assistance and Arms Export Control Reform Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Defense Trade Controls Performance Improvement Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Security Assistance and Arms Export Control Reform Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Defense Trade Controls Performance Improvement Act of 2008", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reform the administration of the Arms Export Control Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:07-05:00"
+}

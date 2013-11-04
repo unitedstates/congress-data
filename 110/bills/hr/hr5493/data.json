@@ -1,0 +1,235 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-02-26", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-04-02", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-02", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2008-04-14T19:12:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on House Administration. H. Rept. 110-588.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-14T19:12:00-04:00", 
+      "calendar": "Union", 
+      "number": "363", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 363.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2008-04-15T14:46:00-04:00", 
+      "references": [], 
+      "text": "Mr. Brady (PA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-15T14:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2297-2298", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-15T14:47:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5493.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-15T14:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2297", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-04-15T14:50:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-16", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-29", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-05-06", 
+      "references": [], 
+      "text": "Senate Committee on Rules and Administration discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-06", 
+      "references": [
+        {
+          "reference": "CR S3836-3837", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2008-05-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4712-110", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4712"
+    }
+  ], 
+  "bill_id": "hr5493-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2008-04-01", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2008-04-01", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-04-15T14:50:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2008-05-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-02-26", 
+  "number": "5493", 
+  "official_title": "To provide that the usual day for paying salaries in or under the House of Representatives may be established by regulations of the Committee on House Administration.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Brady, Robert A.", 
+    "state": "PA", 
+    "thomas_id": "01469", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2008-05-06", 
+  "subjects": [
+    "Accounting", 
+    "Congress", 
+    "Congressional committees (House)", 
+    "Congressional salaries", 
+    "Finance and financial sector", 
+    "House Administration", 
+    "House of Representatives", 
+    "House rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2008-05-06", 
+    "text": "Amends the Legislative Branch Appropriations Act, 2002 to authorize the Committee on House Administration, by regulation, to provide for the payment of salaries with respect to a month on a date other than the date provided under the Act as may be necessary to conform to generally accepted accounting practices. (Currently, the usual day for paying salaries in or under the House of Representatives is the last day of each month; except that if the last day of a month falls on a Saturday, Sunday, or a legal public holiday, the Chief Administrative Officer of the House pays such salaries on the first weekday which precedes the last day.) Makes technical amendments to the federal criminal code with respect to the one-year ban on lobbying contacts by certain former officers and staff of the Senate and personal, committee, and leadership staff of the House of Representatives. Changes from at least 60 days to more than two months during the one-year period before their service terminated their payment of a salary equal to or greater than 75% of the salary of the Member of the chamber in which he or she was employed. Makes the same change with respect to specified employees of other legislative offices. Amends Rule XXXVII (Conflict of Interest) of the Standing Rules of the Senate to make the same change with respect to its one-year ban on lobbying contacts by a former Senate officer or employee (with any Senator or Senate officer or employee)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide that the usual day for paying salaries in or under the House of Representatives may be established by regulations of the Committee on House Administration.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:55-05:00"
+}

@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-11", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-01-12", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Highways and Transit", 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-06", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-06", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "in_subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-06", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "in_subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-07", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-07", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-02-16T16:49:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation. H. Rept. 110-22.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-16T16:50:00-05:00", 
+      "calendar": "House", 
+      "number": "16", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 16.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2007-03-13T13:51:00-04:00", 
+      "references": [], 
+      "text": "Mr. Boswell moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-13T13:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2458-2459", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-13T13:52:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 429.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-13T13:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2458", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-03-13T13:55:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-14", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr429-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-03-13T13:55:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-11", 
+  "number": "429", 
+  "official_title": "To designate the United States courthouse located at 225 Cadman Plaza East, Brooklyn, New York, as the \"Hugh L. Carey United States Courthouse\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Towns, Edolphus", 
+    "state": "NY", 
+    "thomas_id": "01165", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-03-13T13:55:00-04:00", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Courthouses", 
+    "Ex-Members of Congress", 
+    "Government operations and politics", 
+    "Governors", 
+    "Law", 
+    "Names", 
+    "New York City", 
+    "New York State"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2007-03-13", 
+    "text": "Designates the U.S. courthouse located at 225 Cadman Plaza East, Brooklyn, New York, as the \"Hugh L. Carey United States Courthouse.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the United States courthouse located at 225 Cadman Plaza East, Brooklyn, New York, as the \"Hugh L. Carey United States Courthouse\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:25-05:00"
+}

@@ -1,0 +1,512 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-03-10", 
+      "committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-03-11T15:19:00-04:00", 
+      "references": [], 
+      "text": "Mr. Miller, George moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-11T15:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1468-1498", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1468-1494", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-11T15:19:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5563.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-11T15:52:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-12T14:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1560-1561", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-12T15:07:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "131", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 277 - 140 (Roll no. 131).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-03-12T15:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5563-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Altmire, Jason", 
+      "sponsored_at": "2008-03-11", 
+      "state": "PA", 
+      "thomas_id": "01873", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Timothy H.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "NY", 
+      "thomas_id": "01740", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Clarke, Yvette D.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "NY", 
+      "thomas_id": "01864", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Courtney, Joe", 
+      "sponsored_at": "2008-03-10", 
+      "state": "CT", 
+      "thomas_id": "01836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Hare, Phil", 
+      "sponsored_at": "2008-03-11", 
+      "state": "IL", 
+      "thomas_id": "01849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2008-03-11", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2008-03-10", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jefferson, William J.", 
+      "sponsored_at": "2008-03-10", 
+      "state": "LA", 
+      "thomas_id": "00592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Klein, Ron", 
+      "sponsored_at": "2008-03-10", 
+      "state": "FL", 
+      "thomas_id": "01842", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "sponsored_at": "2008-03-11", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Doris O.", 
+      "sponsored_at": "2008-03-10", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2008-03-10", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2008-03-10", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "MD", 
+      "thomas_id": "01854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sestak, Joe", 
+      "sponsored_at": "2008-03-10", 
+      "state": "PA", 
+      "thomas_id": "01874", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2008-03-10", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Shea-Porter, Carol", 
+      "sponsored_at": "2008-03-10", 
+      "state": "NH", 
+      "thomas_id": "01861", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2008-03-10", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "sponsored_at": "2008-03-11", 
+      "state": "KY", 
+      "thomas_id": "01853", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2008-03-12T15:07:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-03-10", 
+  "number": "5563", 
+  "official_title": "To reauthorize and reform the national service laws.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2857-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Generations Invigorating Volunteerism and Education Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCarthy, Carolyn", 
+    "state": "NY", 
+    "thomas_id": "01503", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2008-03-12T15:07:00-04:00", 
+  "subjects": [
+    "Administrative remedies", 
+    "Alaska", 
+    "Armed forces and national security", 
+    "Authorization", 
+    "Black colleges", 
+    "Child health", 
+    "Citizenship education", 
+    "Colleges", 
+    "Commerce", 
+    "Community and school", 
+    "Community development", 
+    "Compensatory education", 
+    "Computer literacy", 
+    "Conferences", 
+    "Congressional reporting requirements", 
+    "Corporation directors", 
+    "Corporation for National and Community Service", 
+    "Cost effectiveness", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Curricula", 
+    "Depressed areas", 
+    "Disaster relief", 
+    "Dropouts", 
+    "Drug abuse", 
+    "Drug abuse treatment", 
+    "Economics and public finance", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Educational accountability", 
+    "Educational innovations", 
+    "Elementary and secondary education", 
+    "Elementary education", 
+    "Emergency management", 
+    "Emergency medicine", 
+    "Energy", 
+    "Energy conservation", 
+    "Energy efficiency", 
+    "Engineering", 
+    "Environmental protection", 
+    "Evaluation research (Social action programs)", 
+    "Ex-offenders", 
+    "Executive reorganization", 
+    "Families", 
+    "Family services", 
+    "Federal advisory bodies", 
+    "Federal aid to education", 
+    "Federal-territorial relations", 
+    "Finance and financial sector", 
+    "Financial planning", 
+    "Financial services", 
+    "Foster home care", 
+    "Foundations", 
+    "Gifts", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Government service contracts", 
+    "Graduate education", 
+    "Grandparents", 
+    "Grievance procedures", 
+    "Health", 
+    "Higher education", 
+    "Hispanic Americans", 
+    "History", 
+    "Housing and community development", 
+    "Indian education", 
+    "Infrastructure", 
+    "Infrastructure (Economics)", 
+    "Inspectors general", 
+    "Juvenile delinquency", 
+    "Labor and employment", 
+    "Law", 
+    "Leadership", 
+    "Learning", 
+    "Literacy programs", 
+    "Mathematics", 
+    "Mental illness", 
+    "Mentoring", 
+    "Military base closures", 
+    "Minorities", 
+    "Minority education", 
+    "National service", 
+    "Native Americans", 
+    "Nonprofit organizations", 
+    "Northern Mariana Islands", 
+    "Older workers", 
+    "Parent and child", 
+    "Parents", 
+    "Performance measurement", 
+    "Personal budgets", 
+    "Policy sciences", 
+    "Public health", 
+    "Recidivists", 
+    "Rehabilitation of criminals", 
+    "Rural economic development", 
+    "Rural health", 
+    "Salaries", 
+    "Scholarships", 
+    "School-age child care", 
+    "Science, technology, communications", 
+    "Scientific education", 
+    "Secondary education", 
+    "Service learning", 
+    "Social welfare", 
+    "Student employment", 
+    "Student loan funds", 
+    "Summer employment", 
+    "Technical education", 
+    "Transportation and public works", 
+    "Transportation engineering", 
+    "Travel costs", 
+    "Urban affairs", 
+    "Urban economic development", 
+    "Veterans' benefits", 
+    "Volunteer workers", 
+    "Wages", 
+    "Youth services"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2008-03-10", 
+    "text": "Generations Invigorating Volunteerism and Education Act, or the GIVE Act - Amends the National and Community Service Act of 1990 (NSCA) and the Domestic Volunteer Service Act of 1973 (DVSA) to revise the programs under such Acts and reauthorize appropriations for such programs through FY2012. Revises under NSCA: (1) the School-Based and Community-Based Service-Learning programs and Higher Education Innovative Programs for Community Service (Learn and Serve programs); (2) National Service Trust programs (AmeriCorps); (3) the National Civilian Community Corps (NCCC); and (4) the Investment for Quality and Innovation program. Eliminates the current Community-Based Learn and Serve programs. Establishes a new Learn and Serve program, Innovative Service-Learning Programs and Research, providing matching grants to: (1) provide community service-learning opportunities to elementary and secondary, college, and graduate students, including summer of service programs; and (2) research and evaluate service-learning. Includes among eligible AmeriCorps programs: (1) an E-corp program increasing community access to technology; (2) a program engaging citizens in public safety, health, and emergency preparedness services; (3) a youth mentoring program; (4) a program to reduce recidivism by re-engaging court-involved youth; and (5) the Education Awards Only program. Establishes an AmeriCorp pilot grant program for state-approved, member-selected, national service positions. Increases National Service educational awards for AmeriCorps, NCCC, and Volunteers in Service to America (VISTA) participants. Includes among needs to be met under the NCCC program, disaster relief, infrastructure improvement, environmental and energy conservation, and urban and rural development. Requires states to develop comprehensive plans for volunteer and paid service by Baby Boomers and older adults. Establishes an Office of Outreach and Recruitment in the Corporation for National and Community Service (Corporation). Requires the Corporation to plan pilot service programs to better utilize and serve veterans and displaced workers. Authorizes the Corporation to provide grants to innovative and model service programs that include service programs for disadvantaged youth. Eliminates federal funding for the Points of Light Foundation. Establishes a new Energy Conservation Corps program awarding: (1) matching grants to states for projects providing youth and young adults with career training in support of energy conservation, infrastructure and transportation improvement, and emergency operations; (2) competitive grants for school-based green Learn and Serve programs; and (3) competitive grants to National Senior Service Corps (Senior Corps) programs involving seniors in energy efficient housing, infrastructure rehabilitation, and environmental and energy conservation education projects. Revises under DVSA: (1) the VISTA program; and (2) the Senior Corps, including the Retired and Senior Volunteer program (RSVP), the Foster Grandparent program, and the Senior Companion program. Gives priority in VISTA participant selection to disadvantaged youth and retired adults of any profession. Authorizes new VISTA grant programs of national significance that provide poor and rural communities with: (1) services reintegrating formerly incarcerated individuals into society; (2) financial literacy and planning; (3) before-school and after-school services; (4) community economic development initiatives; (5) assistance to veterans and their families; and (6) health and wellness services. Eliminates the VISTA Literacy Corps, University Year for VISTA, and Literacy Challenge Grant programs. Raises the minimum and maximum stipend provided to VISTA participants. Prioritizes RSVP projects in specified areas. Makes anyone 55 years of age or older eligible as Senior Corps volunteers. Provides, under the Senior Corps demonstration program, incentive matching grants to Senior Corps programs that exceed specified performance measures, enroll most of their volunteers in outcome-based service programs, and increase their enrollment of Baby Boomer volunteers. Expresses the sense of the Congress that the number of AmeriCorps, VISTA, and NCCC participants should reach 100,000 by 2012. Congressional Commission on Civic Service Act - Establishes a Congressional Commission on Civic Service to provide recommendations to Congress on improving opportunities for individuals to volunteer or perform national service. Expresses the sense of Congress that the Corporation should try to: (1) coordinate its service programs so that senior citizens and their grandchildren can share volunteer opportunities and/or be assigned to the same geographic area; and (2) work with the National Endowment for the Humanities to provide opportunities for young service participants to collect oral histories from senior citizens."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Generations Invigorating Volunteerism and Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "GIVE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Congressional Commission on Civic Service Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reauthorize and reform the national service laws.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:57-05:00"
+}

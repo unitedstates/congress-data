@@ -1,0 +1,335 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-05-24", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-05-31", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-07-24", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "Water and Power", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-12", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Subcommittee on Water and Power Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-12", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-12", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2008-03-31T12:07:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-555.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-31T12:08:00-04:00", 
+      "calendar": "Union", 
+      "number": "338", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 338.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2008-03-31T14:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Abercrombie moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-31T14:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1786", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-31T14:53:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2515.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-31T14:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1786", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-03-31T14:58:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-01", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-05-07", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2008-06-16", 
+      "committee": "Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-387.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2008-06-16", 
+      "calendar": "Senate Legislative", 
+      "number": "819", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 819.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2515-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2007-05-24", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2007-05-24", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2007-05-24", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Mitchell, Harry E.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "AZ", 
+      "thomas_id": "01830", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Porter, Jon C.", 
+      "sponsored_at": "2007-05-24", 
+      "state": "NV", 
+      "thomas_id": "01739", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2007-05-24", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Renzi, Rick", 
+      "sponsored_at": "2007-05-24", 
+      "state": "AZ", 
+      "thomas_id": "01706", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "2007-06-07", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-03-31T14:58:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-05-24", 
+  "number": "2515", 
+  "official_title": "To authorize appropriations for the Bureau of Reclamation to carry out the Lower Colorado River Multi-Species Conservation Program in the States of Arizona, California, and Nevada, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s300-110", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s300-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Lower Colorado River Multi-Species Conservation Program Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2008-03-31T14:58:00-04:00", 
+  "subjects": [
+    "Actions and defenses", 
+    "Animals", 
+    "Arizona", 
+    "California", 
+    "Colorado River development", 
+    "Environmental assessment", 
+    "Environmental protection", 
+    "Federal-state relations", 
+    "Government operations and politics", 
+    "Habitat conservation", 
+    "Law", 
+    "Legal fees", 
+    "Nevada", 
+    "Public lands and natural resources", 
+    "Reservoirs", 
+    "Restoration ecology", 
+    "Riparian ecology", 
+    "Water resources development", 
+    "Water use", 
+    "Watersheds", 
+    "Wildlife conservation"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Reported to Senate amended", 
+    "date": "2008-06-16", 
+    "text": "Lower Colorado River Multi-Species Conservation Program Act - Authorizes the Secretary of the Interior to: (1) manage and implement the Lower Colorado River Multi-Species Conservation Program; and (2) enter into an agreement with Arizona, California, and Nevada providing for the use of water from the Lower Colorado River for habitat creation and maintenance in accordance with the Habitat Conservation Plan, Biological Assessment and Biological and Conference Opinion, Environmental Impact Statement/Environmental Impact Report, Funding and Management Agreement, Implementing Agreement, and a specified permit issued and executed in connection with the Program. Authorizes appropriations.Allows any party to the Funding and Management Agreement or the Implementing Agreement and any permittee under the permit to commence a civil action in U.S. district court to adjudicate rights and obligations of the parties under the program documents. Permits the United States or any U.S. agency to be named as a defendant in such actions. Waives the sovereign immunity of the United States for purposes of such actions, except as to claims seeking money from the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Lower Colorado River Multi-Species Conservation Program Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Lower Colorado River Multi-Species Conservation Program Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Lower Colorado River Multi-Species Conservation Program Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize appropriations for the Bureau of Reclamation to carry out the Lower Colorado River Multi-Species Conservation Program in the States of Arizona, California, and Nevada, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:37-05:00"
+}

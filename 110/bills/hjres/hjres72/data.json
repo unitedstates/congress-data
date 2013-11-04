@@ -1,0 +1,217 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-12-18", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-19T14:41:00-05:00", 
+      "bill_ids": [
+        "hres893-110"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 893 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19T14:42:00-05:00", 
+      "bill_ids": [
+        "hres893-110"
+      ], 
+      "references": [
+        {
+          "reference": "CR H16889", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 893.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19T14:42:00-05:00", 
+      "bill_ids": [
+        "hr2764-110"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 2764 and H.J. Res. 72.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19T14:42:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 72.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19T14:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H16889", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19T14:44:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H16889", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-12-19T14:45:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S15980-15981", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-20", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-12-21", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-12-21", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "149", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-149.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres72-110", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "149"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-12-21", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-12-19T14:44:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-12-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-12-18", 
+  "number": "72", 
+  "official_title": "Making further continuing appropriations for the fiscal year 2008, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres893-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-12-21", 
+  "subjects": [
+    "Appropriations", 
+    "Armed forces and national security", 
+    "Biological warfare", 
+    "Cemeteries and funerals", 
+    "Chemical warfare", 
+    "Congressional pensions", 
+    "Continuing resolutions", 
+    "Economics and public finance", 
+    "Ex-Members of Congress", 
+    "Families", 
+    "Health", 
+    "Indiana", 
+    "Labor and employment", 
+    "Military research", 
+    "Science, technology, communications", 
+    "Survivors' benefits", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-12-21", 
+    "text": "Amends Public Law 110-92 to extend through December 31, 2007, specified continuing appropriations for FY2008. Makes specified appropriations for payment to the heirs at law of Julia Carson, a former Representative from Indiana. Continues in effect throughout FY2008 the authority of the Secretary of Veterans Affairs to provide hospital care, medical services, and nursing home care to any veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as \u0093Project Shipboard Hazard and Defense (SHAD)\u0094 and related land-based tests). Continues in effect throughout FY2008 the Secretary's authority to furnish, when requested, an appropriate government headstone or marker at U.S. expense for the grave of an individual eligible for burial in a national cemetery, or an individual who at the time of death was entitled to military retired pay, who is buried in a private cemetery."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Making further continuing appropriations for the fiscal year 2008, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:16-05:00"
+}

@@ -1,0 +1,236 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-05", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-07", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "National Parks, Forests and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks, Forests and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-03-05T14:21:00-05:00", 
+      "references": [], 
+      "text": "Mr. Grijalva moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-05T14:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2126-2128", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-05T14:22:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 276.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-05T14:25:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2126-2127", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-03-05T14:25:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-06", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-05-03", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-91.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-05-23", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-06-28", 
+      "committee": "Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-118.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2007-06-28", 
+      "calendar": "Senate Legislative", 
+      "number": "251", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 251.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2008-06-11", 
+      "references": [
+        {
+          "reference": "CR S5530", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Indefinitely postponed by Senate by Unanimous Consent.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr276-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests and Public Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Public Lands and Forests", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-03-05T14:25:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-05", 
+  "number": "276", 
+  "official_title": "To designate the Piedras Blancas Light Station and the surrounding public land as an Outstanding Natural Area to be administered as a part of the National Landscape Conservation System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2739-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2007", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-03-05T14:25:00-05:00", 
+  "subjects": [
+    "Archaeology", 
+    "California", 
+    "Coastal zone", 
+    "Commemorations", 
+    "Federal-Indian relations", 
+    "Historic sites", 
+    "History", 
+    "Indian lands", 
+    "Land transfers", 
+    "Land use", 
+    "Landscape protection", 
+    "Lighthouses and lightships", 
+    "Marine and coastal resources, fisheries", 
+    "Minorities", 
+    "Native Americans", 
+    "Natural areas", 
+    "Planning", 
+    "Public lands and natural resources", 
+    "Religion", 
+    "Research natural areas", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Reported to Senate without amendment", 
+    "date": "2007-06-28", 
+    "text": "Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2007 - Establishes the Piedras Blancas Historic Light Station Outstanding Natural Area (Outstanding Natural Area) in San Luis Obispo County, California. Directs the Secretary of the Interior to manage the Outstanding Natural Area as part of the National Landscape Conservation System.Directs the Secretary of the Interior to manage the Outstanding Natural Area as part of the National Landscape Conservation System and to allow only those uses that further the purposes for the establishment of the Area, the Federal Land Policy and Management Act of 1976, and other applicable laws. Withdraws the federal lands and interests in lands included within the Outstanding Natural Area from: (1) all forms of entry, appropriation, or disposal under the public land laws; (2) location, entry, and patent under the public land mining laws, and (3) operation of the mineral leasing and geothermal leasing laws and the mineral material laws. Requires the Secretary to: (1) manage the Outstanding Natural Area in a manner that conserves, protects, and enhances the unique and nationally important historical, natural, cultural, scientific, educational, scenic, and recreational values of that area, including an emphasis on preserving and restoring the Light Station facilities; and (2) complete a comprehensive management plan to provide long-term management guidance for the public lands within the Outstanding Natural Area and fulfill the purposes for which it is established. Authorizes the Secretary to enter into cooperative agreements with Federal, State, and local agencies to implement the management plan in the Outstanding Natural Area and to continue partnerships with local communities and the Hearst San Simeon State Historical Monument. Provides for the acquisition of State and privately held lands adjacent to the Outstanding Natural Area as additions to the Outstanding Natural Area.Prohibits restrictions on overflights and law enforcement activities in the Outstanding Natural Area. Directs the Secretary to ensure access to the Outstanding Natural Area by Indians and Indian tribes for cultural and religious purposes. Authorizes appropriations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To designate the Piedras Blancas Light Station and the surrounding public land as an Outstanding Natural Area to be administered as a part of the National Landscape Conservation System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:21-05:00"
+}

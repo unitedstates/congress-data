@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-26", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-03-28", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-04-16T15:20:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-84.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-16T15:20:00-04:00", 
+      "calendar": "Union", 
+      "number": "49", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 49.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2007-04-17T13:29:00-04:00", 
+      "references": [], 
+      "text": "Mr. Lewis (GA) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-17T13:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3417-3423", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-17T13:30:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1677.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-17T14:04:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-17T18:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3435-3436", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-17T18:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3417-3419", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "214", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 7 (Roll no. 214).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-04-17T18:31:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-04-18", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1677-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2007-03-26", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-04-17T18:31:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-03-26", 
+  "number": "1677", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to enhance taxpayer protections and outreach.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Taxpayer Protection Act of 2007", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-04-17T18:31:00-04:00", 
+  "subjects": [
+    "Actions and defenses", 
+    "Aliens", 
+    "Checks", 
+    "Civil rights and liberties, minority issues", 
+    "Commerce", 
+    "Congressional reporting requirements", 
+    "Crime and law enforcement", 
+    "Department of the Treasury", 
+    "Earned income tax credit", 
+    "Electronic government information", 
+    "Families", 
+    "Finance and financial sector", 
+    "Financial services", 
+    "Foreign corporations", 
+    "Foreign trade and international finance", 
+    "Fraud", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Identity theft", 
+    "Income tax", 
+    "Individual retirement accounts", 
+    "Inspectors general", 
+    "Interest", 
+    "Internet", 
+    "Joint ventures", 
+    "Labor and employment", 
+    "Law", 
+    "Limitation of actions", 
+    "Loans", 
+    "Married people", 
+    "Mass media", 
+    "Names", 
+    "Prisoners", 
+    "Property tax", 
+    "Right of privacy", 
+    "Right of property", 
+    "Science, technology, communications", 
+    "Self-employed", 
+    "Signs and symbols", 
+    "Social welfare", 
+    "Tax administration", 
+    "Tax evasion", 
+    "Tax exemption", 
+    "Tax liens", 
+    "Tax penalties", 
+    "Tax refunds", 
+    "Tax returns", 
+    "Taxation", 
+    "Taxpayers", 
+    "Usury", 
+    "Web sites", 
+    "Welfare eligibility", 
+    "Withholding tax"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2007-04-17", 
+    "text": "Taxpayer Protection Act of 2007 - Amends Internal Revenue Code provisions relating to tax administration and taxpayer protections. (Sec. 2) Allows married couples who file a joint tax return to elect to conduct their business activities as a qualified joint venture without being treated as a partnership. Defines \"qualified joint venture\" as a trade or business entity in which the only members are a husband and wife who materially participate in such venture. Allows participating spouses to conduct their individual business activities as sole proprietors and divides their items of income and expense in accordance with their respective interests in such venture. (Sec. 3) Requires the Secretary of the Treasury to notify a taxpayer of: (1) any unauthorized use of such taxpayer's identity (suspected identity theft) which the Secretary uncovers during an investigation of false statements or tax returns; and (2) any criminal charges brought against an individual who is using the identity of such taxpayer.(Sec. 4) Extends from nine months to two years the period in which the Internal Revenue Service (IRS) may return property that has been wrongfully levied and for bringing a civil action for wrongful levy. (Sec. 5) Allows taxpayers to recontribute to their individual retirement accounts (IRAs), without penalty or limitation, amounts that were wrongfully levied by the IRS. Requires the IRS to pay interest on IRA amounts that were wrongfully seized.(Sec. 6) Allows the IRS to use any means of mass communication (e.g., the Internet) to publish unclaimed refund amounts. (Sec. 7) Prohibits the Secretary from allowing the payment of taxpayer refunds to any refund anticipation loan business whose business practices are predatory. (Sec. 8) Expands the prohibitions against the misuse of Department of the Treasury names and symbols to the use of such names and symbols on an Internet domain address. (Sec. 9) Requires the Secretary to notify in writing certain taxpayers who may be eligible for the earned income credit of their eligibility for such credit. (Sec. 10) Sets forth an alternative procedure for furnishing a non-foreign affidavit in connection with the sale of a U.S. real property interest (USRPI) and the exemption from withholding of tax requirements. Allow a transferor of a USRPI to furnish a non-foreign affidavit to a qualified substitute (i.e., a person responsible for closing the transaction involving a USRPI or the transferee's agent). Denies an exemption from withholding of tax requirements if the qualified substitute or a transferee has actual knowledge that the non-foreign affidavit is false. (Sec. 11) Authorizes the Secretary to disclose to the head of the Federal Bureau of Prisons any return information of a federal inmate whom the Secretary has determined may have filed or facilitated the filing of a false tax return. Terminates the authority of the Secretary to make such disclosures after December 31, 2010. Requires the Inspector General for Tax Administration of the Department of the Treasury to report to Congress on the implementation of such disclosure authority.(Sec. 12) Increases the penalty for tendering a bad check or money order for payment of taxes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Taxpayer Protection Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Taxpayer Protection Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Taxpayer Protection Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Internal Revenue Code of 1986 to enhance taxpayer protections and outreach.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:11-05:00"
+}

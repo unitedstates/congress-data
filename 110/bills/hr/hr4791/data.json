@@ -1,0 +1,257 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-12-18", 
+      "committee": "House Committee on Oversight and Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-01-16", 
+      "in_committee": "House Committee on Oversight and Government Reform", 
+      "references": [], 
+      "subcommittee": "Information Policy, Census, and National Archives", 
+      "text": "Referred to the Subcommittee on Information Policy, Census, and National Archives.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-02-14", 
+      "in_committee": "House Committee on Oversight and Government Reform", 
+      "in_subcommittee": "Information Policy, Census, and National Archives", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-16", 
+      "in_committee": "House Committee on Oversight and Government Reform", 
+      "references": [], 
+      "text": "Subcommittee on Information Policy, Census, and National Archives Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-04-16", 
+      "in_committee": "House Committee on Oversight and Government Reform", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2008-05-21T17:50:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-664.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-05-21T17:50:00-04:00", 
+      "calendar": "Union", 
+      "number": "417", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 417.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2008-06-03T15:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. Clay moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-03T15:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4853-4856", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-03T15:56:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4791.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-03T16:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4853-4854", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-06-03T16:06:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-04", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4791-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Information Policy, Census, and National Archives", 
+      "subcommittee_id": "23"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2007-12-18", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2007-12-18", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-06-03T16:06:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-12-18", 
+  "number": "4791", 
+  "official_title": "To amend title 44, United States Code, to strengthen requirements for ensuring the effectiveness of information security controls over information resources that support Federal operations and assets, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Agency Data Protection Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clay, Wm. Lacy", 
+    "state": "MO", 
+    "thomas_id": "01654", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2008-06-03T16:06:00-04:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Authorization", 
+    "Civil rights and liberties, minority issues", 
+    "Computer networks", 
+    "Computer security measures", 
+    "Computers", 
+    "Credit insurance", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "Data banks", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Encryption", 
+    "Finance and financial sector", 
+    "Financial statements", 
+    "Fraud", 
+    "Government contractors", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government procurement", 
+    "Government property", 
+    "Government publicity", 
+    "Health", 
+    "Higher education", 
+    "Identification devices", 
+    "Identity theft", 
+    "Information services", 
+    "Labor and employment", 
+    "Law", 
+    "Medical records", 
+    "Office of Management and Budget", 
+    "Personnel records", 
+    "Public records", 
+    "Right of privacy", 
+    "Science, technology, communications", 
+    "Security measures", 
+    "Student records"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2008-06-03", 
+    "text": "Federal Agency Data Protection Act - (Sec. 3) Defines \"personally identifiable information\" as any information about an individual maintained by a federal agency, including information about the individual's education, finances, medical, criminal, or employment history, that can be used to distinguish or trace such individual's identity or that is otherwise linked or linkable to the individual. (Sec. 4) Includes within the information security duties of the Director of the Office of Management and Budget (OMB): (1) reviewing agency information security programs, including plans and schedules, developed on the basis of priorities for addressing levels of identified risk, for conducting testing and evaluation and remedial action to address deficiencies; (2) establishing minimum requirements for the protection of personally identifiable information maintained in or transmitted by mobile digital devices, including requirements for the use of technologies that efficiently and effectively render information unusable by unauthorized persons; (3) requiring agencies to comply with minimally acceptable system configuration requirements consistent with best practices, including checklists developed under the Cyber Security Research and Development Act by the Director of the National Institute of Standards and Technology, and minimally acceptable requirements for periodic testing and evaluation of the implementation of such configuration requirements; (4) ensuring that agency contracts for the provision of information technology products or services include requirements for contractors to meet such configuration requirements; and (5) ensuring the establishment of contract requirements to ensure compliance with this Act with regard to providing security for information and information systems used or operated by an agency contractor or other organization on the agency's behalf.(Sec. 5) Requires agencies to include in their information security programs: (1) policies and procedures that ensure compliance with minimally acceptable system configuration requirements as required by the Director (currently, the agency); (2) periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices as approved by the Director that include testing of systems operated by an agency contractor; and (3) plans and procedures for ensuring the adequacy of information security protections for systems maintaining or transmitting personally identifiable information, including requirements for maintaining a current inventory of such systems, implementing information security requirements for mobile digital devices maintaining or transmitting such information, and developing, implementing, and overseeing remediation plans to address vulnerabilities in information security protections. Allows testing requirements to be satisfied by independent testing, evaluation, or audits.(Sec. 6) Requires the Director to report to Congress on a summary of information security breaches reported by agencies to the Director and the federal information security incident center.Requires the Director to oversee the establishment of policies, procedures, and standards for agencies to follow in the event of a breach involving the disclosure of personally identifiable information, specifically including: (1) a requirement for timely notice to those individuals whose information could be compromised, except when the breach does not create a reasonable risk of identity theft, fraud, or other unlawful conduct or of other harm to the individual; (2) guidance regarding whether additional special actions are necessary and appropriate, including data breach analysis, fraud resolution services, identify theft insurance, and credit protection or monitoring services; and (3) a requirement for the timely reporting of such breaches to the Director and federal information security center.Requires agency heads to delegate to their Chief Information Officer the authority to ensure compliance and to enforce information security requirements, including developing and maintaining an inventory of personal computers laptops or hardware containing personally identifiable information.Requires agencies to include in their information security programs: (1) procedures for notifying individuals whose personally identifiable information may have been compromised or accessed following a breach; and (2) procedures for the timely reporting of breaches involving personally identifiable information.Includes among functions of Chief Human Capital Officers the prescription of policies and procedures for exit interviews of employees, including a full accounting of all federal personal property assigned. (Sec. 7) Requires agency heads to implement expeditiously and revise as necessary a plan to ensure the security and privacy of information collected or maintained by or on behalf of agencies from the risks posed by certain peer-to-peer file sharing programs. Requires the Comptroller General to review and report to specified congressional committees on the adequacy of such plans. (Sec. 8) Requires audits (currently, evaluations are required) of agency information programs and practices to determine whether information security controls are effective.(Sec. 9) Amends the E-Government Act of 2002 to require the Director to develop best practices for agencies to follow in conducting privacy impact assessments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Federal Agency Data Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Federal Agency Data Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Federal Agency Data Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 44, United States Code, to strengthen requirements for ensuring the effectiveness of information security controls over information resources that support Federal operations and assets, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:40-05:00"
+}

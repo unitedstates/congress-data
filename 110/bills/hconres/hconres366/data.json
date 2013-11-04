@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-06-03", 
+      "committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-06-04T13:08:00-04:00", 
+      "references": [], 
+      "text": "Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-04T13:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4911-4917", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-04T13:08:00-04:00", 
+      "bill_ids": [
+        "hcres366-110"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 366.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-04T13:15:00-04:00", 
+      "bill_ids": [
+        "hcres366-110"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House resumed debate on H. Con. Res. 366.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-04T13:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4912", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-06-04T13:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-05", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres366-110", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Chandler, Ben", 
+      "sponsored_at": "2008-06-03", 
+      "state": "KY", 
+      "thomas_id": "01759", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2008-06-03", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Hare, Phil", 
+      "sponsored_at": "2008-06-03", 
+      "state": "IL", 
+      "thomas_id": "01849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2008-06-03", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2008-06-03", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2008-06-03", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2008-06-03", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Sutton, Betty", 
+      "sponsored_at": "2008-06-03", 
+      "state": "OH", 
+      "thomas_id": "01870", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-06-04T13:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-06-03", 
+  "number": "366", 
+  "official_title": "Expressing the sense of Congress that increasing American capabilities in science, mathematics, and technology education should be a national priority.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "thomas_id": "00599", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2008-06-04T13:53:00-04:00", 
+  "subjects": [
+    "Curricula", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Federal aid to education", 
+    "Higher education", 
+    "Mathematics", 
+    "Minorities", 
+    "Minority education", 
+    "Scholarships", 
+    "Science, technology, communications", 
+    "Scientific education", 
+    "Student aid", 
+    "Student loan funds", 
+    "Technical education", 
+    "Women", 
+    "Women's education"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2008-06-04", 
+    "text": "Declares that it is the sense of Congress that: (1) this nation should dedicate its resources to the development of a broad pool of citizens who are functionally literate in science, mathematics, and technology; (2) a national science education policy in the coming decade should address specified crucial need areas; and (3) this national challenge can be met through strong leadership from the White House Office of Science and Technology Policy, other federal, state, and local governments, and with long-term commitments from the civic, business, and engineering communities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of Congress that increasing American capabilities in science, mathematics, and technology education should be a national priority.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:53-05:00"
+}

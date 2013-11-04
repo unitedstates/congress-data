@@ -1,0 +1,223 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-09-20", 
+      "committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-09-25T13:24:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sestak moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-25T13:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10789-10791", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-25T13:25:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3625.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-25T13:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10789", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-09-25T13:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-26", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12316", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-09-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-09-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-29", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-09-30", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-09-30", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "93", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-93.", 
+      "type": "enacted"
+    }, 
+    {
+      "acted_at": "2007-10-17", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "subcommittee": "Higher Education, Lifelong Learning, and Competitiveness", 
+      "text": "Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3625-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Higher Education, Lifelong Learning, and Competitiveness", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2007-09-20", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2007-09-20", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "93"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-10-17", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-09-25T13:39:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-09-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-09-20", 
+  "number": "3625", 
+  "official_title": "To make permanent the waiver authority of the Secretary of Education with respect to student financial assistance during a war or other military operation or national emergency.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Sestak, Joe", 
+    "state": "PA", 
+    "thomas_id": "01874", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-09-30", 
+  "subjects": [
+    "Armed forces and national security", 
+    "College costs", 
+    "Disaster relief", 
+    "Economics and public finance", 
+    "Education", 
+    "Emergency management", 
+    "Federal aid to education", 
+    "Higher education", 
+    "Iraq compilation", 
+    "Military operations", 
+    "Military personnel", 
+    "Student loan funds"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-09-30", 
+    "text": "Declares the sense of Congress that: (1) the Higher Education Relief Opportunities for Students Act of 2003 addresses the unique situations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their federal student loans; and (2) the provisions authorized by such Act should be made permanent, thereby allowing the Secretary of Education to continue providing assistance to active duty service members and other affected individuals and their families. Amends the Higher Education Relief Opportunities for Students Act of 2003 to repeal the termination date of such act, thereby making permanent the Secretary's authority to waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Higher Education Act of 1965 as deemed necessary in connection with a war or other military operation or national emergency."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To make permanent the waiver authority of the Secretary of Education with respect to student financial assistance during a war or other military operation or national emergency.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:13-05:00"
+}

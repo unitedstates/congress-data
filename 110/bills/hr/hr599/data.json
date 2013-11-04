@@ -1,0 +1,310 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-22", 
+      "committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-01-23T13:29:00-05:00", 
+      "references": [], 
+      "text": "Mr. Langevin moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-23T13:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H855-859", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-23T13:29:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 599.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-23T14:10:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H855", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "47", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 47).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-01-23T14:10:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-24", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr599-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2007-01-23", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carney, Christopher P.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "PA", 
+      "thomas_id": "01876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "sponsored_at": "2007-01-22", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, David", 
+      "sponsored_at": "2007-01-22", 
+      "state": "TN", 
+      "thomas_id": "01877", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dent, Charles W.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "PA", 
+      "thomas_id": "01799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Harman, Jane", 
+      "sponsored_at": "2007-01-22", 
+      "state": "CA", 
+      "thomas_id": "00502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2007-01-22", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lungren, Daniel E.", 
+      "sponsored_at": "2007-01-23", 
+      "state": "CA", 
+      "thomas_id": "00717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Kendrick B.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "FL", 
+      "thomas_id": "01715", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2007-01-22", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2007-01-22", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-01-23T14:10:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-22", 
+  "number": "599", 
+  "official_title": "To direct the Secretary of Homeland Security to streamline the SAFETY Act and anti-terrorism technology procurement processes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Langevin, James R.", 
+    "state": "RI", 
+    "thomas_id": "01668", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-01-23T14:10:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Cost effectiveness", 
+    "Crime and law enforcement", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Employee training", 
+    "Federal employees", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Government procurement", 
+    "Labor and employment", 
+    "Law", 
+    "Liability (Law)", 
+    "Recruiting of employees", 
+    "Risk", 
+    "Science, technology, communications", 
+    "Technological innovations", 
+    "Technology assessment", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2007-01-23", 
+    "text": "Directs the Secretary of Homeland Security to ensure that a sufficient number of full-time equivalent personnel, who are properly trained and qualified to apply legal, economic, and risk analyses, are involved in the review and prioritization of anti-terrorism technologies to determine whether such technologies may be designated or certified anti-terrorism technologies under the SAFETY Act. Requires the Secretary to: (1) establish a formal coordination process that includes the official of the Department of Homeland Security (DHS) with primary responsibility for the implementation of such Act, the Chief Procurement Officer of DHS, the Under Secretary for Science and Technology, the Under Secretary for Policy, and the General Counsel of DHS to ensure the maximum application of the litigation and risk management provisions of such Act to anti-terrorism technologies procured by DHS; (2) promote awareness and utilization of the litigation and risk management provisions of such Act in the procurement of anti-terrorism technologies; and (3) issue a departmental management directive providing for coordination between DHS procurement officials and any other DHS official responsible for implementing such Act in advance of any DHS procurement of an anti-terrorism technology."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To direct the Secretary of Homeland Security to streamline the SAFETY Act and anti-terrorism technology procurement processes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:31-05:00"
+}

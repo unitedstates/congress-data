@@ -1,0 +1,340 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-02-12", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-02-13", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-02-13T17:59:00-05:00", 
+      "references": [], 
+      "text": "Mr. Cohen moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-02-13T17:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H919-922", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-02-13T17:59:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 971.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-02-13T18:20:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H919", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-02-13T18:20:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres971-110", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Aderholt, Robert B.", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AL", 
+      "thomas_id": "01460", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berry, Marion", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AR", 
+      "thomas_id": "01462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boozman, John", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Chandler, Ben", 
+      "sponsored_at": "2008-02-12", 
+      "state": "KY", 
+      "thomas_id": "01759", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Artur", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AL", 
+      "thomas_id": "01705", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, David", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "01877", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Geoff", 
+      "sponsored_at": "2008-02-12", 
+      "state": "KY", 
+      "thomas_id": "01784", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Lincoln", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "01747", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Rogers, Harold", 
+      "sponsored_at": "2008-02-12", 
+      "state": "KY", 
+      "thomas_id": "00977", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snyder, Vic", 
+      "sponsored_at": "2008-02-12", 
+      "state": "AR", 
+      "thomas_id": "01530", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Tanner, John S.", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "01137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Taylor, Gene", 
+      "sponsored_at": "2008-02-12", 
+      "state": "MS", 
+      "thomas_id": "01142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2008-02-12", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2008-02-12", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-02-13T18:20:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-02-12", 
+  "number": "971", 
+  "official_title": "Expressing the sympathies and support of the House of Representatives for the individuals and institutions affected by the powerful tornados that struck communities in Alabama, Arkansas, Kentucky, Mississippi, and Tennessee on February 5th, 2008.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Gordon, Bart", 
+    "state": "TN", 
+    "thomas_id": "00448", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2008-02-13T18:20:00-05:00", 
+  "subjects": [
+    "Alabama", 
+    "Arkansas", 
+    "Commemorations", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Department of Homeland Security", 
+    "Disaster relief", 
+    "Emergency management", 
+    "Emergency medicine", 
+    "Federal Emergency Management Agency", 
+    "Federal employees", 
+    "Fire fighters", 
+    "Government operations and politics", 
+    "Kentucky", 
+    "Law enforcement officers", 
+    "Medical personnel", 
+    "Mississippi", 
+    "Paramedical personnel", 
+    "Police", 
+    "Tennessee", 
+    "Tornadoes"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2008-02-13", 
+    "text": "Expresses the deepest sympathies of the House of Representatives to the citizens of the states hit by the storms over the devastation caused by the powerful tornados that struck their communities on February 5, 2008.Expresses the appreciation of the House to the Federal Emergency Management Agency (FEMA), first responders, and the others involved in the relief effort for their valiant service to those affected by the storms.Expresses the support of the House as the citizens of these communities continue their efforts to rebuild their community and their lives."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sympathies and support of the House of Representatives for the individuals and institutions affected by the powerful tornados that struck communities in Alabama, Arkansas, Kentucky, Mississippi, and Tennessee on February 5th, 2008.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:56-05:00"
+}

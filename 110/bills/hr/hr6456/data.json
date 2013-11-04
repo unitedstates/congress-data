@@ -1,0 +1,234 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-07-10", 
+      "committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-07-30T10:38:00-04:00", 
+      "references": [], 
+      "text": "Mr. Berman moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-30T10:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7336", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-30T10:38:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6456.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-30T10:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7336", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-07-30T10:42:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-31", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-08-01", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-09-08", 
+      "references": [
+        {
+          "reference": "CR S8141", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-08", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2008-09-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-09-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-11", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-09-19", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2008-09-19", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "321", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-321.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6456-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2008-07-10", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "321"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2008-09-19", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-07-30T10:42:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2008-09-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-07-10", 
+  "number": "6456", 
+  "official_title": "To provide for extensions of certain authorities of the Department of State, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "28", 
+    "name": "Berman, Howard L.", 
+    "state": "CA", 
+    "thomas_id": "00082", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2008-09-19", 
+  "subjects": [
+    "Afghanistan", 
+    "Alien labor", 
+    "American Samoa", 
+    "Civil service retirement", 
+    "Department of State", 
+    "Federal employees", 
+    "Foreign service", 
+    "Government contractors", 
+    "Government operations and politics", 
+    "Government travel", 
+    "Guam", 
+    "Immigration", 
+    "International affairs", 
+    "International broadcasting", 
+    "Iraq", 
+    "Iraq compilation", 
+    "Labor and employment", 
+    "Leave of absence", 
+    "Middle East and North Africa", 
+    "Northern Mariana Islands", 
+    "Protection of officials", 
+    "Puerto Rico", 
+    "Radio broadcasting", 
+    "Salaries", 
+    "Science, technology, communications", 
+    "South Asia", 
+    "Virgin Islands", 
+    "Visas"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2008-09-19", 
+    "text": "(Sec. 1) Amends the Foreign Service Act of 1980 to extend for one year the Secretary of State's authority to waive Foreign Service annuitant salary and full-time employment pension restrictions respecting assignment to: (1) consular posts with a substantial visa application backlog; and (2) Iraq and Afghanistan. (Sec. 2) Amends the Foreign Service Act of 1980 to permit rest and recuperation travel for Foreign Service members and family members to U.S. territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands. Specifies that required leave based upon continuous service abroad may be taken in the United States or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands. (Current law refers to the United States, its territories and possessions, or the Commonwealth of Puerto Rico.) (Sec. 3) Amends the State Department Basic Authorities Act of 1956 to specify that the Secretary may pay the subsistence expenses of Department of State special agents on authorized protective missions at or away from their duty stations. (Sec. 4) Amends the United States International Broadcasting Act of 1994 to extend grant authority for Radio Free Asia for one year. (Sec. 5) Amends the Foreign Relations Authorization Act, Fiscal Year 2003 to extend for one year the International Broadcasting Bureau personal services contracting pilot program under which U.S. citizens or aliens are hired as personal services contractors, without regard to Civil Service and classification laws."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide for extensions of certain authorities of the Department of State, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:22-05:00"
+}

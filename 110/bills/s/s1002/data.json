@@ -1,0 +1,221 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3983-3984", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3984", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-03-27T20:37:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-27", 
+      "committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-03-28T17:12:00-04:00", 
+      "references": [], 
+      "text": "Committee on Education and Labor discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28T17:13:00-04:00", 
+      "references": [], 
+      "text": "Mr. Loebsack asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28T17:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3236-3237", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28T17:13:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H3236-3237", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-03-28T17:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-28", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-04-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-04-23", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-04-23", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "19", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-19.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1002-110", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2007-03-27", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "sponsored_at": "2007-03-27", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "19"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-04-23", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-03-28T17:13:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-03-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-03-27", 
+  "number": "1002", 
+  "official_title": "A bill to amend the Older Americans Act of 1965 to reinstate certain provisions relating to the nutrition services incentive program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Older Americans Reauthorization Technical Corrections Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kennedy, Edward M.", 
+    "state": "MA", 
+    "thomas_id": "01377", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-04-23", 
+  "subjects": [
+    "Agricultural surpluses", 
+    "Agriculture and food", 
+    "Federal-state relations", 
+    "Food relief", 
+    "Government operations and politics", 
+    "Nutrition", 
+    "Old age assistance", 
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-04-23", 
+    "text": "Older Americans Reauthorization Technical Corrections Act - Amends the Older Americans Act of 1965 with respect to incentives for effective performance by states and tribal organizations in the efficient delivery of nutritious meals to older individuals. Repeals certain provisions regarding state agency and tribal grantee commodity purchases, as added by the Older Americans Act Amendments of 2006. Restores former commodity purchase provisions, with revisions. Entitles each state agency and tribal grantee to use its allotments to obtain from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture (USDA) at the rates at which such commodities are valued for such program. (Currently, such purchases are not limited to commodities from USDA food programs, but may be any U.S. agricultural commodity and other foods.) Repeals the authority of a state agency or tribal grantee to opt to use part or all of the amounts it receives to pay a school food authority to obtain U.S. agricultural commodities for its nutrition projects. Prescribes requirements for Secretary of Agriculture determination of state agency and tribal grantee allotments. Requires the Secretary of Health and Human Services and the Secretary of Agriculture to agree on reimbursement amounts and procedures."
+  }, 
+  "titles": [
+    {
+      "as": "passed house", 
+      "title": "Older Americans Reauthorization Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Older Americans Reauthorization Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Older Americans Reauthorization Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Older Americans Act of 1965 to reinstate certain provisions relating to the nutrition services incentive program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:27-05:00"
+}

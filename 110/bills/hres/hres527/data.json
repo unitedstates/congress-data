@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-28", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-07-03", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Income Security and Family Support", 
+      "text": "Referred to the Subcommittee on Income Security and Family Support.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-07-11T16:32:00-04:00", 
+      "references": [], 
+      "text": "Mr. McDermott moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-11T16:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7566-7568", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-11T16:32:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 527.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-07-11T16:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7566", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-07-11T16:48:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres527-110", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Income Security and Family Support", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachmann, Michele", 
+      "sponsored_at": "2007-06-28", 
+      "state": "MN", 
+      "thomas_id": "01858", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2007-06-28", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2007-06-28", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2007-06-28", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2007-07-11", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Porter, Jon C.", 
+      "sponsored_at": "2007-06-28", 
+      "state": "NV", 
+      "thomas_id": "01739", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2007-06-28", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2007-06-28", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "sponsored_at": "2007-06-28", 
+      "state": "KY", 
+      "thomas_id": "01853", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-07-11T16:48:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-06-28", 
+  "number": "527", 
+  "official_title": "Recognizing the month of November as \"National Homeless Youth Awareness Month\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres226-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "sres693-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "McDermott, Jim", 
+    "state": "WA", 
+    "thomas_id": "00766", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2007-07-11T16:48:00-04:00", 
+  "subjects": [
+    "Aid to dependent children", 
+    "Cash welfare block grants", 
+    "Child welfare", 
+    "Commemorations", 
+    "Congressional tributes", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Families", 
+    "Foster home care", 
+    "Government operations and politics", 
+    "Homeless", 
+    "Housing and community development", 
+    "Secondary education", 
+    "Social welfare", 
+    "Special months", 
+    "Volunteer workers", 
+    "Youth"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2007-07-11", 
+    "text": "Supports helping vulnerable youth through current programs authorized under title IV (Temporary Assistance to Needy Families) (TANF) of the Social Security Act.Encourages the promotion through such programs of assistance for especially foster youth in staying off the streets, staying in school, and obtaining their high school diplomas and further education and training.Applauds the initiative of public and private organizations and individuals dedicated to helping these programs prevent homelessness among youth, and provide aid when prevention fails.Declares that the House of Representatives should recognize National Homeless Youth Awareness Month (November) to support and further encourage such efforts."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the month of November as \"National Homeless Youth Awareness Month\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:43-05:00"
+}

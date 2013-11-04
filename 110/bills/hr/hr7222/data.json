@@ -1,0 +1,294 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-09-29", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-09-29T14:52:00-04:00", 
+      "references": [], 
+      "text": "Ms. Moore (WI) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-29T14:52:00-04:00", 
+      "references": [], 
+      "text": "Committee on Ways and Means discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-29T14:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10629-10631", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-29T14:52:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H10630-10631", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-09-29T14:52:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-09-30", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-10-02", 
+      "references": [
+        {
+          "reference": "CR S10503-10504", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-10-02", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2008-10-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-10-03T10:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10710-10712", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Levin asked unanimous consent that the House agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-10-03T10:40:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H10710-10712", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-10-03T10:40:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-10-03", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-10-07", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-10-16", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2008-10-16", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "436", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-436.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s5695-110", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "5695"
+    }
+  ], 
+  "bill_id": "hr7222-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2008-09-29", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2008-09-29", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCrery, Jim", 
+      "sponsored_at": "2008-09-29", 
+      "state": "LA", 
+      "thomas_id": "00763", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "436"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2008-10-16", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-10-03T10:40:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2008-10-02", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-09-29", 
+  "number": "7222", 
+  "official_title": "To extend the Andean Trade Preference Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2008-10-16", 
+  "subjects": [
+    "Africa (Sub-Saharan)", 
+    "Bolivia", 
+    "Botswana", 
+    "Business records", 
+    "Clothing", 
+    "Colombia", 
+    "Commerce", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional investigations", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Corporation taxes", 
+    "Cotton", 
+    "Customs administration", 
+    "Customs unions", 
+    "Developing countries", 
+    "Dominican Republic", 
+    "Economics and public finance", 
+    "Ecuador", 
+    "Exports", 
+    "Foreign trade and international finance", 
+    "Free trade", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Governmental investigations", 
+    "Gross national product", 
+    "Imports", 
+    "Income tax", 
+    "International affairs", 
+    "Latin America", 
+    "Mauritius", 
+    "Namibia", 
+    "Peru", 
+    "President and foreign policy", 
+    "Tariff", 
+    "Tariff preferences", 
+    "Tax administration", 
+    "Taxation", 
+    "Textile fabrics", 
+    "Textile industry", 
+    "Trade agreements", 
+    "User charges"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2008-10-16", 
+    "text": "Amends the Andean Trade Preference Act (ATPA) to prohibit the extension of duty-free treatment or other preferential treatment to: (1) Colombia or Peru after December 31, 2009; (2) Ecuador after June 30, 2009, except that such preferential treatment shall remain in effect through December 31, 2009, unless the President reports to specified congressional committees on or before June 30, 2009, that Ecuador does not satisfy certain beneficiary country designation requirements; and (3) Bolivia after June 30, 2009, except that such preferential treatment shall remain in effect through December 31, 2009, only if the President reports to specified congressional committees on or before June 30, 2009, that Bolivia satisfies certain beneficiary country designation requirements.(Sec. 1) Extends through FY2010 preferential treatment for apparel articles assembled in one or more beneficiary countries from regional fabrics or regional components, and specified other type apparel (brassieres).(Sec. 2) Amends the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act to direct the Secretary of Commerce to establish a program to provide earned import allowance certificates to any producer or entity controlling production of eligible apparel articles in the Dominican Republic, based on specified elements.Declares that eligible apparel articles wholly assembled in the Dominican Republic and imported directly from the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric or yarns from which the articles are made, if such apparel articles are accompanied by an earned import allowance certificate reflecting the amount of credits equal to the total square meter equivalents of fabric in such apparel articles.Directs the United States International Trade Commission (ITC) to review and report annually to the appropriate congressional committees on the effectiveness of the earned import allowance program.(Sec. 3) Amends the African Growth and Opportunity Act to repeal certain special rules for fabrics and yarns in commercial quantities in Africa. Adds Mauritius as a lesser developed beneficiary sub-Saharan African country (LDC) for purposes of the application of preferential treatment to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more LDCs, regardless of the country of origin of the fabric or the yarn used to make such articles, that are imported into the United States.Directs the ITC to review, identify, and report to the appropriate congressional committees and the Comptroller General on yarns, fabrics, and other textile and apparel inputs that through new or increased investment or other measures can be produced competitively in beneficiary sub-Saharan African countries.Directs the Comptroller General to report to the appropriate congressional committees on recommendations for changes to U.S. trade preference programs, including changes to rules of origin, to provide incentives to increase investment and other measures to improve the competitiveness of beneficiary sub-Saharan African countries in the production of yarns, fabrics, and other textile and apparel inputs. (Sec. 4) Amends the Trade Act of 1974 to extend the Generalized System of Preferences program through December 31, 2009.(Sec. 5) Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend certain customs fees for the processing of merchandise entered into the United States.(Sec. 6) Amends the Tax Increase Prevention and Reconciliation Act of 2005 to increase by 2% the amount in effect on the date of enactment of this Act of any corporate estimated tax installment otherwise due by a corporation with assets of not less than $1 billion in July, August, or September 2013."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To extend the Andean Trade Preference Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:39-05:00"
+}

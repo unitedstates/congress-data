@@ -1,0 +1,237 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-16", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-01-19T10:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H764-768", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Consideration initiated by previous special order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-19T10:27:00-05:00", 
+      "references": [], 
+      "text": "Considered by previous special order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-19T10:28:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - Pursuant to a previous special order, the House proceeded with 30 minutes of debate on H.R. 475.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-19T10:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H768", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to a previous  order of the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-19T11:17:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H765", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "42", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 416 - 0 (Roll No. 42).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-01-19T11:17:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-22", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-23", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1000", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-01-23", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-01-24", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-25", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-02-02", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-02-02", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "2", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-2.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr475-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2007-01-16", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2007-01-17", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "2"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-02-02", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-01-19T11:17:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-01-23", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-16", 
+  "number": "475", 
+  "official_title": "To revise the composition of the House of Representatives Page Board to equalize the number of members representing the majority and minority parties and to include a member representing the parents of pages and a member representing former pages, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "House Page Board Revision Act of 2007", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Kildee, Dale E.", 
+    "state": "MI", 
+    "thomas_id": "00631", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-02-02", 
+  "subjects": [
+    "Congress", 
+    "Congressional agencies", 
+    "Congressional pages", 
+    "Congressional reorganization", 
+    "Congressional travel", 
+    "Families", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "Parents", 
+    "Transportation and public works", 
+    "Travel costs"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-02-02", 
+    "text": "House Page Board Revision Act of 2007 - Amends House Resolution 611, 97th Congress, agreed to November 30, 1982, as enacted into permanent law, to increase from one to two the number of Members of the House appointed to the House Page Board by the House minority leader. Requires the one-year (renewable) appointment to the Page Board, jointly by the Speaker and the minority leader, of: (1) one individual who, at any time during the five-year period ending on the date of his or her appointment, is or was a parent of a page participating in the program; and (2) one individual who is a former page of the House, but who is not a Member of the House or the parent of a page. Requires a vacancy in the position held by such Member to be filled in the same manner as the original appointment. Requires the individual appointed to fill a vacancy to serve for the remainder of the original term. Permits such individual to be reappointed in accordance with this Act. Authorizes per diem travel payments to such individuals for attending Board meetings away from home or business. Authorizes appropriations. Requires the Page Board to meet regularly, in accordance with a schedule established jointly by the Speaker and minority leader."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "House Page Board Revision Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "House Page Board Revision Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "House Page Board Revision Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "House Page Board Revision Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To revise the composition of the House of Representatives Page Board to equalize the number of members representing the majority and minority parties and to include a member representing the parents of pages and a member representing former pages, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:26-05:00"
+}

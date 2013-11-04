@@ -1,0 +1,466 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-06-11", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-06-13T10:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Conyers moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-13T10:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6339-6347", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-13T10:32:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2640.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-13T11:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6339-6342", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-06-13T11:15:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-06-14", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [
+        {
+          "reference": "CR S15970-15971", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-12-19T18:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H16923-16926", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mrs. McCarthy (NY) asked unanimous consent that the House agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19T18:04:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H16923-16926", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-12-19T18:04:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-12-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-01-04", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-01-08", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2008-01-08", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "180", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-180.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s3887-110", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "3887"
+    }
+  ], 
+  "bill_id": "hr2640-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bishop, Timothy H.", 
+      "sponsored_at": "2007-06-11", 
+      "state": "NY", 
+      "thomas_id": "01740", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "2007-06-11", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2007-06-11", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2007-06-11", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2007-06-13", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2007-06-11", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Emanuel, Rahm", 
+      "sponsored_at": "2007-06-11", 
+      "state": "IL", 
+      "thomas_id": "01725", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2007-06-11", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2007-06-11", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2007-06-11", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2007-06-11", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2007-06-13", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2007-06-11", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2007-06-11", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2007-06-12", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2007-06-11", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Wasserman Schultz, Debbie", 
+      "sponsored_at": "2007-06-11", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "180"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2008-01-08", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-12-19T18:04:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-12-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-06-11", 
+  "number": "2640", 
+  "official_title": "To improve the National Instant Criminal Background Check System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr297-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "NICS Improvement Amendments Act of 2007", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCarthy, Carolyn", 
+    "state": "NY", 
+    "thomas_id": "01503", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2008-01-08", 
+  "subjects": [
+    "Administrative procedure", 
+    "Administrative remedies", 
+    "Aliens", 
+    "Ammunition", 
+    "Armed forces and national security", 
+    "Arrest", 
+    "Auditing", 
+    "Automation", 
+    "Civil commitment", 
+    "Civil rights and liberties, minority issues", 
+    "Computer networks", 
+    "Confidential communications", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Court records", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "Criminal statistics", 
+    "Department of Justice", 
+    "Drug abuse", 
+    "Drug addiction", 
+    "Due process of law", 
+    "Economics and public finance", 
+    "Electronic data interchange", 
+    "Electronic government information", 
+    "Expatriation", 
+    "Families", 
+    "Family violence", 
+    "Federal aid to Indians", 
+    "Federal aid to law enforcement", 
+    "Federal-state relations", 
+    "Firearms", 
+    "Firearms control", 
+    "Fugitives from justice", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Health", 
+    "Identification of criminals", 
+    "Illegal aliens", 
+    "Immigration", 
+    "Intergovernmental fiscal relations", 
+    "Law", 
+    "Medical records", 
+    "Mental illness", 
+    "Military discharges", 
+    "Minorities", 
+    "Right of privacy", 
+    "Science, technology, communications", 
+    "State courts", 
+    "User charges"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2008-01-08", 
+    "text": "NICS Improvement Amendments Act of 2007 - Title I: Transmittal of Records - (Sec. 101) Amends the Brady Handgun Violence Prevention Act to: (1) authorize the Attorney General to obtain electronic versions of information from federal agencies on persons disqualified from receiving firearms; (2) require federal agencies to provide such information to the Attorney General, not less frequently than quarterly; and (3) require federal agencies to update, correct, modify, or remove obsolete records and notify the Attorney General of such actions to keep the National Instant Criminal Background Check System (NICS) up to date. Requires the Attorney General to submit annual reports to Congress on the compliance of federal agencies with such reporting requirements.Requires the Secretary of Homeland Security to provide the Attorney General, not less than quarterly, information for determining whether a person is disqualified under the federal criminal code from possessing or receiving a firearm for use in NICS background checks.Requires the Attorney General to: (1) ensure that all NICS information received from federal agencies is kept accurate and confidential; (2) provide for the removal and destruction of obsolete and erroneous names and information from the NICS; and (3) work with states to encourage the development of computer systems for notifying the Attorney General when a court order has been issued or removed or a person has been adjudicated as mentally defective or committed to a mental institution. Prohibits federal agencies from providing a person's mental health or commitment information to the Attorney General if: (1) such information has been set aside or expunged or the person involved has been fully released or discharged from all mandatory treatment, supervision, or monitoring; (2) the person has been found to no longer suffer from a mental health condition or has been found to be rehabilitated; or (3) the adjudication or commitment is based solely on a medical finding of disability without a hearing and there has been no adjudication under the federal criminal code of mental defectiveness.Requires all federal agencies that adjudicate the mental health of individuals or commit such individuals to a mental institution to: (1) establish a program to allow such individuals to apply for relief from the disabilities to firearms ownership resulting from such adjudications or commitments; and (2) provide oral and written notice to any such individuals of the effect of a mental health adjudication or commitment on their ability to purchase or transport a firearm and their right to apply for relief from disabilities.(Sec. 102) Grants states a two-year waiver of the matching fund requirement (10%) for criminal justice identification grants if such states provide at least 90% of the information required to be transmitted to the NICS under this Act. Requires states to provide reasonable estimates of the number of records transmitted to the NICS for purposes of granting such waiver.Requires states to make electronically available to the Attorney General records relating to persons: (1) disqualified from possessing or receiving a firearm; (2) convicted of misdemeanor crimes of domestic violence; and (3) adjudicated as mentally defective or committed to mental institutions. Requires states to update, correct, modify, or remove obsolete records in the NICS. Requires the Attorney General to: (1) establish regulations and protocols to protect the privacy of information in the NICS; and (2) report annually to the Judiciary Committees of Congress on the progress of states in automating criminal records databases and making such data electronically available to the Attorney General.(Sec. 103) Requires the Attorney General to make grants to states and Indian tribal governments to establish or upgrade information and identification technologies for firearms eligibility determinations. Allows up to 5% of grant funding for Indian tribal governments, including tribal judicial systems. Specifies allowable uses of grant funds. Authorizes appropriations for FY2009-FY2013.Prohibits the Federal Bureau of Investigation (FBI) from charging user fees for NICS background checks.(Sec. 104) Requires the Attorney General to submit to the Judiciary Committees of Congress an annual report on the progress of states in automating databases of information for transmittal to the NICS. Authorizes appropriations.Provides for discretionary and mandatory penalties for states that fail to provide information required by this Act. Allows a waiver of such penalties for states that provide substantial evidence of reasonable efforts to comply with requirements for providing information.(Sec. 105) Requires states, as a condition of grant eligibility, to establish procedures to allow persons with disabilities relating to mental health status or commitment to obtain relief from such disabilities for purposes of firearms eligibility. Requires states to allow de novo review in state courts of denials of relief.(Sec. 106) Requires that all records obtained by NICS denying firearms licenses to aliens illegally or unlawfully in the United States be made available to U.S. Immigration and Customs Enforcement. Grants the Attorney General discretion to promulgate guidelines as to what records relevant to such aliens shall be provided to U.S. Immigration and Customs Enforcement.Title II: Focusing Federal Assistance on the Improvement of Relevant Records - Requires the Director of the Bureau of Justice Statistics to: (1) study and evaluate the operations of the NICS; and (2) report to Congress annually on state estimates of records transmitted to the NICS and on best practices of states for handling information to be transmitted to the NICS.Authorizes appropriations for FY2009-FY2013.Title III: Grants to State Court Systems for the Improvement in Automation and Transmittal of Disposition Records - Requires the Attorney General to make grants to states and Indian tribal governments for use by state and tribal court systems to improve the automation and transmittal of criminal history dispositions and records and mental health adjudications or commitments to federal and state record repositories. Authorizes appropriations for FY2009-FY2013. Title IV: GAO Audit - Requires the Comptroller General to audit expenditures for criminal records improvement under the Brady Handgun Violence Prevention Act to determine if such expenditures were made in accordance with such Act and to report to Congress on the findings of such audit."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "NICS Improvement Amendments Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "NICS Improvement Amendments Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "NICS Improvement Amendments Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "NICS Improvement Amendments Act of 2007", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To improve the National Instant Criminal Background Check System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:21-05:00"
+}

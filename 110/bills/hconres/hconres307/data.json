@@ -1,0 +1,203 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-03-04", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:24:00-05:00", 
+      "references": [], 
+      "text": "Mr. Brady (PA) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1254-1255", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:24:00-05:00", 
+      "bill_ids": [
+        "hcres307-110"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 307.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1254", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-03-05T13:28:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-03-06", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-03-28", 
+      "in_committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "subcommittee": "Federal Financial Management, Government Information, Federal Services, and International Security", 
+      "text": "Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-04-10", 
+      "in_committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2008-04-22", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2008-04-22", 
+      "calendar": "Senate Legislative", 
+      "number": "705", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 705.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2008-06-20", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5947", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2008-06-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres307-110", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA", 
+      "subcommittee": "Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-03-05T13:28:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2008-06-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-03-04", 
+  "number": "307", 
+  "official_title": "Expressing the sense of Congress that Members' Congressional papers should be properly maintained and encouraging Members to take all necessary measures to manage and preserve these papers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Brady, Robert A.", 
+    "state": "PA", 
+    "thomas_id": "01469", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2008-06-20", 
+  "subjects": [
+    "Archives", 
+    "Arts, culture, religion", 
+    "Congress", 
+    "Congressional information resources", 
+    "Government operations and politics", 
+    "History", 
+    "Members of Congress", 
+    "Research centers"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2008-06-20", 
+    "text": "Declares that it is the sense of Congress that: (1) Members' congressional papers should be properly maintained; (2) each Member of Congress should take all necessary measures to manage and preserve the Member's own congressional papers; and (3) each Member of Congress should be encouraged to arrange for the deposit or donation of the Member's own noncurrent congressional papers with a research institution properly equipped to care for them, and to make these papers available for educational purposes at a time the Member considers appropriate."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of Congress that Members' Congressional papers should be properly maintained and encouraging Members to take all necessary measures to manage and preserve these papers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:51-05:00"
+}

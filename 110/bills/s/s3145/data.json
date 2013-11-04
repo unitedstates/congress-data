@@ -1,0 +1,268 @@
+{
+  "actions": [
+    {
+      "acted_at": "2008-06-18", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-06-24", 
+      "references": [], 
+      "text": "Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-24", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-06-24", 
+      "references": [
+        {
+          "reference": "CR S6080", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-24", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6080", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2008-06-25T10:22:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-25", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-06-25", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-06-26", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Highways and Transit", 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-07-15T11:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Higgins moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-15T11:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6487-6489", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-15T11:02:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 3145.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-15T11:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6487-6488", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2008-07-15T11:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2008-07-15", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-07-22", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2008-07-23", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2008-07-23", 
+      "congress": "110", 
+      "law": "public", 
+      "number": "282", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 110-282.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3145-110", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2008-06-18", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "110", 
+    "law_type": "public", 
+    "number": "282"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2008-07-23", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2008-07-15T11:10:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2008-06-24", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2008-06-18", 
+  "number": "3145", 
+  "official_title": "A bill to designate a portion of United States Route 20A, located in Orchard Park, New York, as the \"Timothy J. Russert Highway\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6318-110", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr6318-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Clinton, Hillary Rodham", 
+    "state": "NY", 
+    "thomas_id": "01631", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2008-07-23", 
+  "subjects": [
+    "Commemorations", 
+    "Congressional tributes", 
+    "Government operations and politics", 
+    "Names", 
+    "New York State", 
+    "Reporters and reporting", 
+    "Roads and highways", 
+    "Television news", 
+    "Television programs", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2008-07-15", 
+    "text": "Designates the portion of U.S. Route 20A located in Orchard Park, New York, between Abbot Road and California Road, as the \"Timothy J. Russert Highway.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to designate a portion of United States Route 20A, located in Orchard Park, New York, as the \"Timothy J. Russert Highway\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:15-05:00"
+}

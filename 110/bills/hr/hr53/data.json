@@ -1,0 +1,240 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-04", 
+      "committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-07", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "subcommittee": "Insular Affairs", 
+      "text": "Referred to the Subcommittee on Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-07-09", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "Insular Affairs", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-20", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "Insular Affairs", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-20", 
+      "in_committee": "House Committee on Natural Resources", 
+      "in_subcommittee": "Insular Affairs", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-10", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-10", 
+      "in_committee": "House Committee on Natural Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2007-10-22T13:35:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-399.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-22T13:36:00-04:00", 
+      "calendar": "Union", 
+      "number": "253", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 253.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2007-10-22T14:58:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Christensen moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-22T14:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11790-11791", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-22T14:58:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 53.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-22T15:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11790-11791", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-10-22T15:03:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-10-23", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2008-04-23", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr53-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Insular Affairs", 
+      "subcommittee_id": "22"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on National Parks", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-10-22T15:03:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-04", 
+  "number": "53", 
+  "official_title": "To authorize the Secretary of the Interior to enter into a long-term lease with the Government of the United States Virgin Islands to provide land on the island of Saint John, Virgin Islands, for the establishment of a school, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Virgin Islands National Park School Lease Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Christensen, Donna M.", 
+    "state": "VI", 
+    "thomas_id": "01474", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-10-22T15:03:00-04:00", 
+  "subjects": [
+    "Boundaries", 
+    "Education", 
+    "Educational facilities", 
+    "Elementary and secondary education", 
+    "Federal-territorial relations", 
+    "Government operations and politics", 
+    "Higher education", 
+    "Leases", 
+    "National parks", 
+    "Public lands and natural resources", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2007-10-22", 
+    "text": "Virgin Islands National Park School Lease Act of 2007 - Authorizes the Secretary of the Interior to lease certain Virgin Islands National Park land on the island of Saint John, U.S. Virgin Islands, to the Government of the U.S. Virgin Islands for the purpose of establishing a school on such island. Limits the lease authorized by this Act to a 99-year term. Allows the Secretary to require such additional terms and conditions in connection with the lease as the Secretary considers appropriate to protect U.S. interests."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Virgin Islands National Park School Lease Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Virgin Islands National Park School Lease Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize the Secretary of the Interior to enter into a long-term lease with the Government of the United States Virgin Islands to provide land on the island of Saint John, Virgin Islands, for the establishment of a school, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:15-05:00"
+}

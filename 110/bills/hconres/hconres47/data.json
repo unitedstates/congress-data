@@ -1,0 +1,262 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-01-30", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-26", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Military Personnel", 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-02-27T14:12:00-05:00", 
+      "references": [], 
+      "text": "Mr. Skelton moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-27T14:13:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1900-1903", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-27T14:13:00-05:00", 
+      "bill_ids": [
+        "hcres47-110"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 47.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-27T14:29:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-27T18:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1931", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-27T19:02:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1900", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "103", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 103).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-02-27T19:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-02-28", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-03-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2541", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2007-03-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres47-110", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2007-02-27", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "2007-02-27", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dicks, Norman D.", 
+      "sponsored_at": "2007-01-30", 
+      "state": "WA", 
+      "thomas_id": "00297", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2007-01-30", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hayes, Robin", 
+      "sponsored_at": "2007-02-27", 
+      "state": "NC", 
+      "thomas_id": "01600", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "2007-01-30", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Salazar, John T.", 
+      "sponsored_at": "2007-02-27", 
+      "state": "CO", 
+      "thomas_id": "01775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Young, C.W. Bill", 
+      "sponsored_at": "2007-02-05", 
+      "state": "FL", 
+      "thomas_id": "01255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-02-27T19:02:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2007-03-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-01-30", 
+  "number": "47", 
+  "official_title": "Supporting the goals and ideals of a National Medal of Honor Day to celebrate and honor the recipients of the Medal of Honor.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres12-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Skelton, Ike", 
+    "state": "MO", 
+    "thomas_id": "01064", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2007-03-01", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional Medal of Honor", 
+    "Special days"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2007-03-01", 
+    "text": "Recognizes the: (1) heroism and sacrifice of Medal of Honor recipients; and (2) educational opportunity that a National Medal of Honor Day would present to the American public. Supports the goals and ideals of such a Day to celebrate and honor the contributions of such recipients."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Supporting the goals and ideals of a National Medal of Honor Day to celebrate and honor the recipients of the Medal of Honor.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:43-05:00"
+}

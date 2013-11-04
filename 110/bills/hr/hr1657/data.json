@@ -1,0 +1,231 @@
+{
+  "actions": [
+    {
+      "acted_at": "2007-03-22", 
+      "committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-05-08", 
+      "in_committee": "House Committee on Science and Technology", 
+      "references": [], 
+      "subcommittee": "Energy and Environment", 
+      "text": "Referred to the Subcommittee on Energy and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2007-09-17T14:14:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hill moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-17T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10373-10375", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-17T14:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1657.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-17T14:19:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-17T18:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10407", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-17T19:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H10373-10374", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "868", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 360 - 16 (Roll no. 868).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2007-09-17T19:06:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-09-18", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1657-110", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Energy and Environment", 
+      "subcommittee_id": "20"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "110", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2007-07-12", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Arcuri, Michael A.", 
+      "sponsored_at": "2007-06-18", 
+      "state": "NY", 
+      "thomas_id": "01867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2007-09-17", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2007-06-22", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2007-07-12", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2007-09-17T19:06:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2007-03-22", 
+  "number": "1657", 
+  "official_title": "To establish a Science and Technology Scholarship Program to award scholarships to recruit and prepare students for careers in the National Weather Service and in National Oceanic and Atmospheric Administration marine research, atmospheric research, and satellite programs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2164-110", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "46", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2007-09-17T19:06:00-04:00", 
+  "subjects": [
+    "Atmosphere", 
+    "Department of Commerce", 
+    "Economics and public finance", 
+    "Education", 
+    "Federal aid to education", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "Higher education", 
+    "Labor and employment", 
+    "Marine and coastal resources, fisheries", 
+    "Meteorological satellites", 
+    "Meteorology", 
+    "Oceanography", 
+    "Recruiting of employees", 
+    "Scholarships", 
+    "Science, technology, communications", 
+    "Scientific education", 
+    "Weather forecasting"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2007-09-17", 
+    "text": "Authorizes the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to establish a Science and Technology Scholarship Program to award scholarships to students at institutions of higher education to recruit and prepare them for careers in the National Weather Service and in NOAA marine research, atmospheric research, and satellite programs. Requires individuals to be selected to receive scholarships under this Act through a competitive process primarily based on academic merit, with consideration given to financial need and to the goal of promoting the participation of women, minorities, and persons with disabilities as identified under provisions of the Science and Engineering Equal Opportunities Act. Requires the Administrator to enter into contractual agreements with selected individuals under which such individuals, in exchange for receiving a scholarship, agree to serve as full-time employees of NOAA, for a 24-month period of obligated service for each academic year for which a scholarship is provided in positions needed by NOAA in marine research, atmospheric research, and satellite programs. Instructs the Administrator to make publicly available a list of academic programs and fields of study for which scholarships may be utilized in marine research, atmospheric research, and satellite programs and to update such list as necessary. Prohibits: (1) an individual from receiving a scholarship for more than four academic years, unless the Administrator grants a waiver; and (2) the amount of a scholarship from exceeding the cost of attendance. Permits a scholarship to be used for tuition, fees, and other authorized uses as established by the Administrator by regulation. Allows the Administrator to enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which the scholarship is provided. Sets forth penalties for specified breaches of scholarship agreements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To establish a Science and Technology Scholarship Program to award scholarships to recruit and prepare students for careers in the National Weather Service and in National Oceanic and Atmospheric Administration marine research, atmospheric research, and satellite programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:10-05:00"
+}
