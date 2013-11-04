@@ -1,0 +1,379 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-25", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-09-19T18:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Kline moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-19T18:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6702-6704", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-19T18:33:00-04:00", 
+      "bill_ids": [
+        "hcres419-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 419.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-19T18:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6702-6703", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-09-19T18:38:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-20", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-12-06", 
+      "references": [
+        {
+          "reference": "CR 12/7/2006 S11385", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-12-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres419-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bishop, Timothy H.", 
+      "sponsored_at": "2006-05-25", 
+      "state": "NY", 
+      "thomas_id": "01740", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Boehlert, Sherwood", 
+      "sponsored_at": "2006-06-15", 
+      "state": "NY", 
+      "thomas_id": "00101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "2006-05-25", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Higgins, Brian", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2006-05-25", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2006-05-25", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2006-06-09", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Kuhl, John R. \"Randy\", Jr.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NY", 
+      "thomas_id": "01795", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2006-05-25", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2006-05-25", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "McHugh, John M.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NY", 
+      "thomas_id": "00773", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2006-06-08", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Reynolds, Thomas M.", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "01587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Sweeney, John E.", 
+      "sponsored_at": "2006-05-25", 
+      "state": "NY", 
+      "thomas_id": "01591", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2006-06-08", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Walsh, James T.", 
+      "sponsored_at": "2006-09-06", 
+      "state": "NY", 
+      "thomas_id": "01197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-09-19T18:38:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-12-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-05-25", 
+  "number": "419", 
+  "official_title": "Recognizing and supporting the efforts of the State of New York to develop the National Purple Heart Hall of Honor in New Windsor, New York, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Kelly, Sue W.", 
+    "state": "NY", 
+    "thomas_id": "00624", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2006-12-06", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Commemorations", 
+    "Congressional tributes", 
+    "Government operations and politics", 
+    "Historic sites", 
+    "History", 
+    "Military history", 
+    "Military medals, decorations, etc.", 
+    "Monuments and memorials", 
+    "New York State", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2006-12-06", 
+    "text": "Recognizes and supports the efforts of the state of New York to: (1) develop and maintain the National Purple Heart Hall of Honor in New Windsor, New York; (2) honor recipients of the Purple Heart; and (3) educate and inform the people of the United States about the history and importance of the Purple Heart.Encourages the people of the United States and federal departments and agencies to cooperate, assist, and participate in educating individuals about the history and importance of the Purple Heart and about the National Purple Heart Hall of Honor."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing and supporting the efforts of the State of New York to develop the National Purple Heart Hall of Honor in New Windsor, New York, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:14-05:00"
+}

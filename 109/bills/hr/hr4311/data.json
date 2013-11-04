@@ -1,0 +1,188 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-14", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-12-07T11:22:00-05:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T11:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11124-11127", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T11:23:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4311.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T11:39:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11125", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-12-07T11:39:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-12", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-01-27", 
+      "committee": "Committee on Homeland Security and Governmental Affairs", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-06-07", 
+      "references": [], 
+      "text": "Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-07", 
+      "references": [
+        {
+          "reference": "CR S5607-5608", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-07", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-06-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4193-109", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4193"
+    }
+  ], 
+  "bill_id": "hr4311-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-12-07T11:39:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-06-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-11-14", 
+  "number": "4311", 
+  "official_title": "To amend section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App).", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2006-06-07", 
+  "subjects": [
+    "Civil rights and liberties, minority issues", 
+    "Families", 
+    "Federal employees", 
+    "Financial disclosure", 
+    "Freedom of information", 
+    "Government ethics", 
+    "Government operations and politics", 
+    "Judges", 
+    "Judicial officers", 
+    "Law", 
+    "Protection of officials", 
+    "Supreme Court justices"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2006-06-07", 
+    "text": "Amends the Ethics in Government Act of 1978 to allow the redaction of a judicial employee's or judicial officer's statutorily required financial disclosure information if a finding is made by the Judicial Conference that the release of such information could endanger the judicial employee or judicial officer or a family member of that employee or officer. (Currently, redaction is allowed only if the employee or officer is endangered.) Extends the redaction provisions (retroactive to their last expiration) through 2007."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App).", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:04-05:00"
+}

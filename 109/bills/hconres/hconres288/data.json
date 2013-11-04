@@ -1,0 +1,486 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-02", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-15T15:09:00-05:00", 
+      "references": [], 
+      "text": "Mr. Castle moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15T15:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10182-10185", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15T15:10:00-05:00", 
+      "bill_ids": [
+        "hcres288-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 288.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15T15:32:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10182", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-11-15T15:32:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres288-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2005-11-07", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2005-11-02", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Boehner, John A.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "OH", 
+      "thomas_id": "00102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "English, Phil", 
+      "sponsored_at": "2005-11-02", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2005-11-09", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2005-11-02", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fortuno, Luis G.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "PR", 
+      "thomas_id": "01800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2005-11-02", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2005-11-02", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2005-11-02", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2005-11-02", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2005-11-02", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2005-11-02", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Reynolds, Thomas M.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NY", 
+      "thomas_id": "01587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2005-11-02", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2005-11-15", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2005-11-02", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2005-11-02", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2005-11-02", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2005-11-02", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2005-11-02", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-11-15T15:32:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-11-02", 
+  "number": "288", 
+  "official_title": "Recognizing the 30th anniversary of the enactment of the Education for All Handicapped Children Act of 1975 and reaffirming support for the Individuals with Disabilities Education Act so that all children with disabilities have access to a free appropriate public education in the least restrictive environment.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2005-11-15T15:32:00-05:00", 
+  "subjects": [
+    "Anniversaries", 
+    "Commemorations", 
+    "Congress", 
+    "Disabled", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Elementary education", 
+    "Families", 
+    "Legislation", 
+    "Parent-school relationships", 
+    "Secondary education", 
+    "Special education", 
+    "Teachers"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2005-11-15", 
+    "text": "Recognizes the 30th anniversary of the enactment of the Education for All Handicapped Children Act of 1975 (Public Law 94-142).Acknowledges the many and varied contributions of children with disabilities and their parents, teachers, related services providers, and other educators.Reaffirms the support of Congress for the Individuals with Disabilities Education Act so that all children with disabilities have access to a free appropriate public education."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the 30th anniversary of the enactment of the Education for All Handicapped Children Act of 1975 and reaffirming support for the Individuals with Disabilities Education Act so that all children with disabilities have access to a free appropriate public education in the least restrictive environment.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:10-05:00"
+}

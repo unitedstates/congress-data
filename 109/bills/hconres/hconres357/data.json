@@ -1,0 +1,535 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-14", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-03-17", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Subcommittee on Health Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2006-04-25T14:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. Stearns moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-25T14:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1695-1696", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-25T14:57:00-04:00", 
+      "bill_ids": [
+        "hcres357-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 357.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-25T15:11:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27T15:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1877", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27T15:42:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR 4/25/2006 H1695", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-04-27T15:42:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-01", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "references": [
+        {
+          "reference": "CR S5134", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-24", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-05-25", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres357-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Baird, Brian", 
+      "sponsored_at": "2006-03-16", 
+      "state": "WA", 
+      "thomas_id": "01557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2006-03-14", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "2006-03-14", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2006-03-29", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, Jo Ann", 
+      "sponsored_at": "2006-03-14", 
+      "state": "VA", 
+      "thomas_id": "01672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Delahunt, William D.", 
+      "sponsored_at": "2006-03-28", 
+      "state": "MA", 
+      "thomas_id": "01480", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dicks, Norman D.", 
+      "sponsored_at": "2006-03-16", 
+      "state": "WA", 
+      "thomas_id": "00297", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Drake, Thelma D.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "VA", 
+      "thomas_id": "01808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2006-03-16", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2006-03-28", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jefferson, William J.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "LA", 
+      "thomas_id": "00592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2006-03-14", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2006-03-28", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2006-03-14", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2006-04-25", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Oxley, Michael G.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "OH", 
+      "thomas_id": "00885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2006-03-30", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2006-03-14", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2006-03-14", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2006-03-14", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2006-03-14", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2006-03-14", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2006-03-14", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-04-27T15:42:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-05-24", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-03-14", 
+  "number": "357", 
+  "official_title": "Supporting the goals and ideals of National Cystic Fibrosis Awareness Month.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres115-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Stearns, Cliff", 
+    "state": "FL", 
+    "thomas_id": "01103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2006-05-24", 
+  "subjects": [
+    "Access to health care", 
+    "Commemorations", 
+    "Commerce", 
+    "Cystic fibrosis", 
+    "Government operations and politics", 
+    "Health", 
+    "Health education", 
+    "Medical research", 
+    "Medical tests", 
+    "Public-private partnerships", 
+    "Quality of care", 
+    "Quality of life", 
+    "Science, technology, communications", 
+    "Special months"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2006-05-24", 
+    "text": "Honors the goals and ideals of National Cystic Fibrosis Awareness Month. Expresses support for research to find a cure for cystic fibrosis by fostering an enhanced research program through a strong federal commitment and expanded public-private partnerships."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Supporting the goals and ideals of National Cystic Fibrosis Awareness Month.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:12-05:00"
+}

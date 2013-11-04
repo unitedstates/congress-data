@@ -1,0 +1,284 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-02", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-05-24", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-24", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported Adversely.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2005-05-26T16:55:00-04:00", 
+      "references": [], 
+      "text": "Reported adversely by the Committee on Ways and Means. H. Rept. 109-100.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-26T16:56:00-04:00", 
+      "calendar": "Union", 
+      "number": "54", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 54.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2005-06-07T19:43:00-04:00", 
+      "bill_ids": [
+        "hres304-109"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 304 Reported to House. Rule provides for consideration of H.J. Res. 27 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T11:23:00-04:00", 
+      "bill_ids": [
+        "hres304-109"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 304 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-09T10:22:00-04:00", 
+      "bill_ids": [
+        "hres304-109"
+      ], 
+      "references": [
+        {
+          "reference": "CR H4302-4318", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4302", 
+          "type": "text of measure as reported in House"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 304.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-09T10:22:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 27 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-09T10:22:00-04:00", 
+      "bill_ids": [
+        "hres304-109"
+      ], 
+      "references": [], 
+      "text": "GENERAL DEBATE - Pursuant to the provisions of H. Res. 304, the House proceeded with 2 hours of general debate on H.J. Res. 27.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-09T12:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4317", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-09T12:53:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "239", 
+      "status": "FAIL:ORIGINATING:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Failed by the Yeas and Nays: 86 - 338, 1 Present (Roll no. 239).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-06-09T12:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres27-109", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2005-03-17", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2005-04-12", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2005-04-05", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hostettler, John N.", 
+      "sponsored_at": "2005-04-12", 
+      "state": "IN", 
+      "thomas_id": "00562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2005-04-05", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2005-04-05", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "2005-03-02", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2005-04-13", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Stupak, Bart", 
+      "sponsored_at": "2005-04-12", 
+      "state": "MI", 
+      "thomas_id": "01123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2005-04-12", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2005-06-09T12:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-03-02", 
+  "number": "27", 
+  "official_title": "Withdrawing the approval of the United States from the Agreement establishing the World Trade Organization.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres304-109", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "FAIL:ORIGINATING:HOUSE", 
+  "status_at": "2005-06-09T12:53:00-04:00", 
+  "subjects": [
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional oversight", 
+    "Congressional veto", 
+    "Foreign trade and international finance", 
+    "Free trade", 
+    "International affairs", 
+    "International agencies", 
+    "Trade agreements"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2005-05-26", 
+    "text": "Declares that Congress withdraws its approval, provided under the Uruguay Round Agreements Act, establishing the World Trade Organization (WTO)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Withdrawing the approval of the United States from the Agreement establishing the World Trade Organization.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:34-05:00"
+}

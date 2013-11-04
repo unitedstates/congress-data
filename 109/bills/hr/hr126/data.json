@@ -1,0 +1,231 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-01-04", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-02-03", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks, Recreation and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks, Recreation and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:09:00-05:00", 
+      "references": [], 
+      "text": "Mr. Jones (NC) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:10:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1375", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:10:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 126.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:12:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1375", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:12:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-04-28", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Hearings held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-19", 
+      "committee": "Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-154.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2005-10-19", 
+      "calendar": "Senate Legislative", 
+      "number": "246", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S13056", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-11-28", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-12-01", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-12-01", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "117", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-117.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr126-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Recreation, and Public Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "117"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-12-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-03-14T14:12:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-11-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-01-04", 
+  "number": "126", 
+  "official_title": "To amend Public Law 89-366 to allow for an adjustment in the number of free roaming horses permitted in Cape Lookout National Seashore.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "thomas_id": "00612", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-12-01", 
+  "subjects": [
+    "Animals", 
+    "Horses", 
+    "Marine and coastal resources, fisheries", 
+    "National seashores", 
+    "North Carolina", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-12-01", 
+    "text": "Increases from 100 to a minimum of 110 the number of free roaming horses the Secretary of the Interior is required to permit in Cape Lookout National Seashore, North Carolina, with a target population of between 120 and 130. Prohibits the Secretary from removing, assisting in, or permitting the removal of any free roaming horses from Federal lands, within the boundaries of the seashore unless removal is carried out as part of a plan to maintain the viability of the herd. Prohibits anything in such law from being construed to require the Secretary to replace horses or otherwise increase the number of horses within such boundaries where the herd numbers fall below 110 (currently, 100) as a result of natural causes, including, but not limited to, disease or natural disasters."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend Public Law 89-366 to allow for an adjustment in the number of free roaming horses permitted in Cape Lookout National Seashore.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:08-05:00"
+}

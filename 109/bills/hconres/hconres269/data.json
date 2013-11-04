@@ -1,0 +1,724 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-20", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:39:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Schmidt moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9059-9061", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:39:00-04:00", 
+      "bill_ids": [
+        "hcres269-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 269.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:52:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T18:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9070", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T19:09:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H9059-9060", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "537", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 537).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-10-25T19:09:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12870", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres269-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2005-10-20", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Barrett, J. Gresham", 
+      "sponsored_at": "2005-10-24", 
+      "state": "SC", 
+      "thomas_id": "01745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2005-10-20", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Boehlert, Sherwood", 
+      "sponsored_at": "2005-10-20", 
+      "state": "NY", 
+      "thomas_id": "00101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "2005-10-20", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bordallo, Madeleine Z.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "GU", 
+      "thomas_id": "01723", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Boustany, Charles W., Jr.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "2005-10-20", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2005-10-20", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2005-10-20", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2005-10-20", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2005-10-24", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cubin, Barbara", 
+      "sponsored_at": "2005-10-20", 
+      "state": "WY", 
+      "thomas_id": "00254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "2005-10-20", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Edwards, Chet", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "00335", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2005-10-24", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "2005-10-24", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Foxx, Virginia", 
+      "sponsored_at": "2005-10-24", 
+      "state": "NC", 
+      "thomas_id": "01791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "sponsored_at": "2005-10-24", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Lewis, Jerry", 
+      "sponsored_at": "2005-10-20", 
+      "state": "CA", 
+      "thomas_id": "00687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2005-10-24", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "sponsored_at": "2005-10-20", 
+      "state": "PA", 
+      "thomas_id": "01744", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Otter, C. L. (Butch)", 
+      "sponsored_at": "2005-10-20", 
+      "state": "ID", 
+      "thomas_id": "01646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "2005-10-24", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2005-10-20", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2005-10-20", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2005-10-24", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "2005-10-20", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2005-10-24", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2005-10-20", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "2005-10-20", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sullivan, John", 
+      "sponsored_at": "2005-10-20", 
+      "state": "OK", 
+      "thomas_id": "01689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2005-10-20", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2005-10-20", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2005-10-20", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walden, Greg", 
+      "sponsored_at": "2005-10-20", 
+      "state": "OR", 
+      "thomas_id": "01596", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2005-10-20", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-10-25T19:09:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-11-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-10-20", 
+  "number": "269", 
+  "official_title": "Recognizing the 40th anniversary of the White House Fellows Program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres59-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2005-11-15", 
+  "subjects": [
+    "Anniversaries", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Education", 
+    "Government internships", 
+    "Government operations and politics", 
+    "Higher education", 
+    "Leadership"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2005-11-15", 
+    "text": "Recognizes the 40th anniversary of the White House Fellows program and commends the White House Fellows for their continuing lifetime commitment to public service."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the 40th anniversary of the White House Fellows Program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:10-05:00"
+}

@@ -1,0 +1,758 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-01-25", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-02-09T10:34:00-05:00", 
+      "references": [], 
+      "text": "Mr. Rogers (AL) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T10:34:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H422-430\r", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T10:34:00-05:00", 
+      "bill_ids": [
+        "hcres26-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T11:16:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T17:12:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H480-481", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T17:20:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H422", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "25", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 25).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-02-09T17:20:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-14", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-17", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-05-10", 
+      "references": [
+        {
+          "reference": "CR S4884", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-10", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-05-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres26-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Aderholt, Robert B.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "AL", 
+      "thomas_id": "01460", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2005-01-25", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Baird, Brian", 
+      "sponsored_at": "2005-02-08", 
+      "state": "WA", 
+      "thomas_id": "01557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Barrow, John", 
+      "sponsored_at": "2005-02-02", 
+      "state": "GA", 
+      "thomas_id": "01780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2005-02-01", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bonner, Jo", 
+      "sponsored_at": "2005-01-25", 
+      "state": "AL", 
+      "thomas_id": "01703", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2005-02-01", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2005-01-25", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "NC", 
+      "thomas_id": "01761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2005-01-25", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2005-02-01", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "sponsored_at": "2005-02-01", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2005-02-08", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2005-01-25", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "2005-01-25", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Artur", 
+      "sponsored_at": "2005-01-25", 
+      "state": "AL", 
+      "thomas_id": "01705", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Everett, Terry", 
+      "sponsored_at": "2005-01-25", 
+      "state": "AL", 
+      "thomas_id": "00364", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fortuno, Luis G.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "PR", 
+      "thomas_id": "01800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2005-02-01", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "2005-02-01", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jefferson, William J.", 
+      "sponsored_at": "2005-02-01", 
+      "state": "LA", 
+      "thomas_id": "00592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2005-02-02", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2005-02-08", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kingston, Jack", 
+      "sponsored_at": "2005-02-01", 
+      "state": "GA", 
+      "thomas_id": "00636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Knollenberg, Joe", 
+      "sponsored_at": "2005-02-08", 
+      "state": "MI", 
+      "thomas_id": "00642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2005-02-01", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2005-01-25", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2005-01-25", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2005-02-08", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2005-02-01", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2005-02-08", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Porter, Jon C.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "NV", 
+      "thomas_id": "01739", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2005-02-01", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Renzi, Rick", 
+      "sponsored_at": "2005-02-01", 
+      "state": "AZ", 
+      "thomas_id": "01706", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2005-02-01", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2005-02-08", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ruppersberger, C. A. Dutch", 
+      "sponsored_at": "2005-02-01", 
+      "state": "MD", 
+      "thomas_id": "01728", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Schwarz, John J.H. \"Joe\"", 
+      "sponsored_at": "2005-01-25", 
+      "state": "MI", 
+      "thomas_id": "01788", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Scott, David", 
+      "sponsored_at": "2005-01-25", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simmons, Rob", 
+      "sponsored_at": "2005-01-25", 
+      "state": "CT", 
+      "thomas_id": "01642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2005-02-08", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2005-02-08", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Watson, Diane E.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "CA", 
+      "thomas_id": "01682", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "2005-02-02", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2005-02-01", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2005-02-08", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-02-09T17:20:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-05-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-01-25", 
+  "number": "26", 
+  "official_title": "Honoring the Tuskegee Airmen for their bravery in fighting for our freedom in World War II, and for their contribution in creating an integrated United States Air Force.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres11-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Rogers, Mike D.", 
+    "state": "AL", 
+    "thomas_id": "01704", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2005-05-10", 
+  "subjects": [
+    "Air force", 
+    "Armed forces and national security", 
+    "Blacks", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "History", 
+    "Military history", 
+    "Minorities", 
+    "World War II"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2005-05-10", 
+    "text": "Declares the sense of Congress that the U.S. Air Force should continue to honor and learn from the example provided by the Tuskegee Airmen as it faces the challenges of the 21st century and the war on terror."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the Tuskegee Airmen for their bravery in fighting for our freedom in World War II, and for their contribution in creating an integrated United States Air Force.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:03-05:00"
+}

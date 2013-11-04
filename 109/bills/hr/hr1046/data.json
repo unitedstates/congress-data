@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-02", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-03-09", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-05-16T14:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Renzi moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-16T14:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3275", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-16T14:42:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1046.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-16T14:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3275", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-05-16T14:44:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-17", 
+      "calendar": "Senate Legislative", 
+      "number": "106", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9018-9052", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S9051-9052", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-07-27", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-08-02", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-08-02", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "48", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-48.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1046-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "48"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-08-02", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-05-16T14:43:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-07-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-03-02", 
+  "number": "1046", 
+  "official_title": "To authorize the Secretary of the Interior to contract with the city of Cheyenne, Wyoming, for the storage of the city's water in the Kendrick Project, Wyoming.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s99-109", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s99-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Cubin, Barbara", 
+    "state": "WY", 
+    "thomas_id": "00254", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-08-02", 
+  "subjects": [
+    "Agriculture and food", 
+    "Commerce", 
+    "Construction costs", 
+    "Dams", 
+    "Energy", 
+    "Environmental protection", 
+    "Federal-city relations", 
+    "Government operations and politics", 
+    "Hydroelectric power", 
+    "Infrastructure", 
+    "Irrigation", 
+    "Maintenance and repair", 
+    "Public lands and natural resources", 
+    "Reservoirs", 
+    "Water resources development", 
+    "Water storage", 
+    "Water supply", 
+    "Wyoming"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-08-02", 
+    "text": "Authorizes the Secretary of the Interior, acting through the Commissioner of Reclamation, to enter into one or more contracts with the City of Cheyenne, Wyoming, for the annual storage of the city's water for municipal and industrial use in the Seminoe Dam and Reservoir of the Kendrick Project on the North Platte River. Limits the term of such a contract to not more than 40 years and authorizes renewals. Requires: (1) operation and maintenance charges received under such a contract to be credited against applicable operation and maintenance costs of the Project; and (2) any other revenues received to be credited to the Reclamation Fund for Project construction costs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize the Secretary of the Interior to contract with the city of Cheyenne, Wyoming, for the storage of the city's water in the Kendrick Project, Wyoming.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:35-05:00"
+}

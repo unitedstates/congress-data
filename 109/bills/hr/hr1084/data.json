@@ -1,0 +1,239 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-03", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-03-15", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks", 
+      "text": "Referred to the Subcommittee on National Parks.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-05-12", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "National Parks", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-18", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-18", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2005-05-18", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Subcommittee on National Parks Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T19:05:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 109-111.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T19:05:00-04:00", 
+      "calendar": "Union", 
+      "number": "63", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 63.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2005-06-27T15:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Pearce moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-27T15:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5202", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-27T15:31:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1084.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-27T15:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5202", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-06-27T15:34:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-28", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-355.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1084-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Recreation, and Public Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on National Parks", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "2005-03-03", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-06-27T15:34:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-03-03", 
+  "number": "1084", 
+  "official_title": "To authorize the establishment at Antietam National Battlefield of a memorial to the officers and enlisted men of the Fifth, Sixth, and Ninth New Hampshire Volunteer Infantry Regiments and the First New Hampshire Light Artillery Battery who fought in the Battle of Antietam on September 17, 1862, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s748-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bradley, Jeb", 
+    "state": "NH", 
+    "thomas_id": "01736", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2005-06-27T15:34:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Civil war", 
+    "Commemorations", 
+    "Fund raising", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "History", 
+    "Infantry", 
+    "Maryland", 
+    "Military parks", 
+    "Military personnel", 
+    "Monuments and memorials", 
+    "New Hampshire", 
+    "Public lands and natural resources", 
+    "Volunteer forces"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2005-06-27", 
+    "text": "Directs the Secretary of the Interior to authorize the establishment, at a suitable location approved by the Secretary within the boundaries of Antietam National Battlefield, Maryland, of a memorial to the officers and enlisted men of the Fifth, Sixth, and Ninth New Hampshire Volunteer Infantry Regiments and the First New Hampshire Light Artillery Battery who fought in the Battle of Antietam on September 17, 1862. Requires the Secretary to select the persons who will be permitted to establish the memorial. Makes the size, design, and inscriptions of the memorial subject to the approval of the Secretary. Prohibits the expenditure of any federal funds to design, acquire, prepare the site selected for, or install, the memorial. Requires the selected persons, until the memorial is installed, to submit to the Secretary annual reports of the operations related to fundraising efforts for the memorial and progress on the establishment of such memorial. Requires the Secretary to assume responsibility for the maintenance of the memorial upon installation. Allows the Secretary to accept contributions for maintaining the memorial from the selected persons and from other persons. Requires that accepted amounts be merged with other funds available to the Secretary for the maintenance of the memorial and credited to a separate account with the National Park Service."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize the establishment at Antietam National Battlefield of a memorial to the officers and enlisted men of the Fifth, Sixth, and Ninth New Hampshire Volunteer Infantry Regiments and the First New Hampshire Light Artillery Battery who fought in the Battle of Antietam on September 17, 1862, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:36-05:00"
+}

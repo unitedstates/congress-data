@@ -1,0 +1,228 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30", 
+      "committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-12-07T10:43:00-05:00", 
+      "references": [], 
+      "text": "Mr. Pearce moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T10:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11118-11120", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T10:44:00-05:00", 
+      "bill_ids": [
+        "hcres196-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 196.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T10:59:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:11:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11118", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:21:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:21:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H11118", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "614", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 614).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-12-12", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "references": [], 
+      "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S14408", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres196-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2005-06-30", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2005-06-30", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lungren, Daniel E.", 
+      "sponsored_at": "2005-06-30", 
+      "state": "CA", 
+      "thomas_id": "00717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2005-06-30", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-12-07T14:21:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-12-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-06-30", 
+  "number": "196", 
+  "official_title": "Honoring the pilots of United States commercial air carriers who volunteer to participate in the Federal flight deck officer program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Mica, John L.", 
+    "state": "FL", 
+    "thomas_id": "00800", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2005-12-22", 
+  "subjects": [
+    "Aircraft pilots", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Federal law enforcement officers", 
+    "Firearms", 
+    "Government operations and politics", 
+    "Labor and employment", 
+    "Social welfare", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Volunteer workers"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2005-12-22", 
+    "text": "Recognizes that volunteer pilots in the federal flight deck officer program are consummate quiet professionals that embody what is best in our national character. Applauds them for taking a stand against those who seek to harm the United States through acts of terrorism in the air. Expresses appreciation to such pilots on behalf of all U.S. citizens for their ongoing contribution to the security of the Nation and its air transportation system."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the pilots of United States commercial air carriers who volunteer to participate in the Federal flight deck officer program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:08-05:00"
+}

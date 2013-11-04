@@ -1,0 +1,223 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-01-31", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-02-08T16:02:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Drake moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-08T16:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H180-185", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-08T16:03:00-05:00", 
+      "bill_ids": [
+        "hcres331-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 331.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-08T16:38:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H180", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-02-08T16:38:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-08T16:38:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-09", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1044", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-02-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres331-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Boehner, John A.", 
+      "sponsored_at": "2006-01-03", 
+      "state": "OH", 
+      "thomas_id": "00102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2006-01-03", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Mollohan, Alan B.", 
+      "sponsored_at": "2006-01-03", 
+      "state": "WV", 
+      "thomas_id": "00824", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "sponsored_at": "2006-02-07", 
+      "state": "PA", 
+      "thomas_id": "01744", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2006-02-07", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2006-01-03", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-02-08T16:38:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-02-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-01-31", 
+  "number": "331", 
+  "official_title": "Honoring the sacrifice and courage of the 16 coal miners killed in various mine disasters in West Virginia, and recognizing the rescue crews for their outstanding efforts in the aftermath of the tragedies.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres370-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Capito, Shelley Moore", 
+    "state": "WV", 
+    "thomas_id": "01676", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2006-02-09", 
+  "subjects": [
+    "Coal", 
+    "Commemorations", 
+    "Commerce", 
+    "Congress", 
+    "Congressional tributes", 
+    "Emergency management", 
+    "Energy", 
+    "Industrial accidents", 
+    "Miners", 
+    "Rescue work", 
+    "Social welfare", 
+    "Volunteer workers", 
+    "West Virginia"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2006-02-09", 
+    "text": "Recognizes: (1) Thomas Anderson, Alva Martin Bennett, Jim Bennett, Jerry Groves, George Hamner Jr., Terry Helms, David Lewis, Martin Toler, Fred Ware Jr., Jack Weaver, Jesse Jones, and Marshall Winans for their sacrifice in the Sago, West Virginia, coal mine; and (2) Randal McCloy for his stamina and courage that enabled him to survive in severe conditions for over 40 hours; (3) the crews that rescued McCloy; and (4) the volunteers who provided support for the miners' families during the rescue operations. Recognizes: (1) Don Israel Bragg and Ellery \"Elvis\" Hatfield for their sacrifice in the Aracoma Alma, West Virginia coal mine; and (2) Edmund Vance and Paul Moss for their sacrifice in the Boone County, West Virginia, coal mines. Extends the deepest condolences of the nation to the families of these men."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the sacrifice and courage of the 12 coal miners killed and the stamina and courage of the one who survived the mine disaster in Sago, West Virginia, and the sacrifice and courage of the two coal miners killed in the Aracoma Alma mine disaster, and recognizing the rescue crews for their outstanding efforts in the aftermath of the tragedies.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "Honoring the sacrifice and courage of the 16 coal miners killed in various mine disasters in West Virginia, and recognizing the rescue crews for their outstanding efforts in the aftermath of the tragedies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:12-05:00"
+}

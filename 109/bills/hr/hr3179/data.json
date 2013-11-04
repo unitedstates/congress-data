@@ -1,0 +1,262 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-11", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Fisheries and Oceans", 
+      "text": "Referred to the Subcommittee on Fisheries and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Fisheries and Oceans", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-19T06:13:00-05:00", 
+      "references": [], 
+      "text": "Committee on Resources discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-19T06:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12224, H12277-12278", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-19T06:14:00-05:00", 
+      "references": [], 
+      "text": "Mr. Pombo asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-19T06:14:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H12278", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-12-19T06:14:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-19", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S14417", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-01-03", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-01-10", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2006-01-10", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "166", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-166.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3179-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries Conservation, Wildlife, and Oceans", 
+      "subcommittee_id": "15"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "166"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2006-01-10", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-12-19T06:14:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-12-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-06-30", 
+  "number": "3179", 
+  "official_title": "To reauthorize and amend the Junior Duck Stamp Conservation and Design Program Act of 1994.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1339-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1339-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Junior Duck Stamp Reauthorization Amendments Act of 2005", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Ortiz, Solomon P.", 
+    "state": "TX", 
+    "thomas_id": "00880", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2006-01-10", 
+  "subjects": [
+    "Animals", 
+    "Art", 
+    "Arts, culture, religion", 
+    "Authorization", 
+    "Awards, medals, prizes", 
+    "Building construction", 
+    "Commemorations", 
+    "Department of the Interior", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational facilities", 
+    "Elementary and secondary education", 
+    "Elementary education", 
+    "Environmental education", 
+    "Environmental protection", 
+    "Federal aid to education", 
+    "Federal office buildings", 
+    "Gifts", 
+    "Government operations and politics", 
+    "Government publicity", 
+    "Law", 
+    "Licenses", 
+    "Migratory bird conservation", 
+    "Pennsylvania", 
+    "Reference books", 
+    "Scholarships", 
+    "Secondary education", 
+    "Student activities", 
+    "Teaching materials", 
+    "Travel costs", 
+    "Wildlife refuges"
+  ], 
+  "subjects_top_term": "Animals", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2006-01-10", 
+    "text": "Junior Duck Stamp Reathorization Amendments Act of 2005 - Amends the Junior Duck Stamp Conservation and Design Program act of 1994 to, among other things: (1) remove the requirement prohibiting the use of proceeds received from the licensing and marketing of Junior Duck Stamps for administrative expenses of the Junior Duck Stamp Conservation and Design Program; (2) increase the amount that is authorized to be appropriated for administrative expenses of the Program; and (3) extend such Program through FY2010. Sets separate limits on the amount that may be used for administration of the Junior Duck Stamp Conservation and Design Program and that may be distributed to state and regional coordinators to implement competitions under the Program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Junior Duck Stamp Reauthorization Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Junior Duck Stamp Reauthorization Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Junior Duck Stamp Reauthorization Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Junior Duck Stamp Reauthorization Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reauthorize and amend the Junior Duck Stamp Conservation and Design Program Act of 1994.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:35-05:00"
+}

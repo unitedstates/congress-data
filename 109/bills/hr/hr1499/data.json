@@ -1,0 +1,721 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-06", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-05-23T15:03:00-04:00", 
+      "references": [], 
+      "text": "Mr. Johnson, Sam moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-23T15:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3712-3714", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-23T15:03:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1499.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-23T15:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3712", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-05-23T15:17:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-23T15:17:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-05-24", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "references": [], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "references": [
+        {
+          "reference": "CR S12871", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-15", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-09T19:01:00-04:00", 
+      "bill_ids": [
+        "hres803-109"
+      ], 
+      "references": [], 
+      "text": "House agreed to Senate amendment with amendment pursuant to H. Res. 803.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-10", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S4815-4816", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4815-4816", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Senate agreed to House amendment to Senate amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-05-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-05-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-05-23", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-05-29", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2006-05-29", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "227", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-227.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2580-109", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2580"
+    }
+  ], 
+  "bill_id": "hr1499-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Barrett, J. Gresham", 
+      "sponsored_at": "2005-05-03", 
+      "state": "SC", 
+      "thomas_id": "01745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bartlett, Roscoe G.", 
+      "sponsored_at": "2005-04-27", 
+      "state": "MD", 
+      "thomas_id": "00060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2005-05-18", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2005-04-27", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brown-Waite, Ginny", 
+      "sponsored_at": "2005-05-03", 
+      "state": "FL", 
+      "thomas_id": "01713", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2005-04-27", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2005-04-27", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2005-05-19", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "sponsored_at": "2005-04-27", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2005-05-17", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2005-05-03", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "sponsored_at": "2005-05-18", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "sponsored_at": "2005-05-18", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Feeney, Tom", 
+      "sponsored_at": "2005-04-27", 
+      "state": "FL", 
+      "thomas_id": "01716", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2005-05-19", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2005-05-17", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "2005-05-18", 
+      "state": "NV", 
+      "thomas_id": "01485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2005-05-18", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "sponsored_at": "2005-04-27", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "2005-05-03", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Harris, Katherine", 
+      "sponsored_at": "2005-05-04", 
+      "state": "FL", 
+      "thomas_id": "01714", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hayes, Robin", 
+      "sponsored_at": "2005-05-19", 
+      "state": "NC", 
+      "thomas_id": "01600", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2005-05-03", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2005-05-18", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hostettler, John N.", 
+      "sponsored_at": "2005-04-27", 
+      "state": "IN", 
+      "thomas_id": "00562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "2005-04-27", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Jindal, Bobby", 
+      "sponsored_at": "2005-04-27", 
+      "state": "LA", 
+      "thomas_id": "01785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2005-04-27", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Kuhl, John R. \"Randy\", Jr.", 
+      "sponsored_at": "2005-04-27", 
+      "state": "NY", 
+      "thomas_id": "01795", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "2005-05-18", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2005-04-27", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "sponsored_at": "2005-04-27", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McHenry, Patrick T.", 
+      "sponsored_at": "2005-05-18", 
+      "state": "NC", 
+      "thomas_id": "01792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "sponsored_at": "2005-05-12", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Miller, Candice S.", 
+      "sponsored_at": "2005-05-12", 
+      "state": "MI", 
+      "thomas_id": "01731", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2005-05-12", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2005-05-03", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2005-05-18", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Price, Tom", 
+      "sponsored_at": "2005-04-27", 
+      "state": "GA", 
+      "thomas_id": "01778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2005-04-27", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "sponsored_at": "2005-05-12", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Schwarz, John J.H. \"Joe\"", 
+      "sponsored_at": "2005-05-17", 
+      "state": "MI", 
+      "thomas_id": "01788", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2005-05-12", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2005-05-11", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "2005-05-04", 
+      "state": "FL", 
+      "thomas_id": "01215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2005-05-10", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2005-04-27", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "227"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2006-05-29", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-05-23T15:17:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-05-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-04-06", 
+  "number": "1499", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to allow members of the Armed\rForces serving in a combat zone to make contributions to their individual retirement plans even if the compensation on which such contribution is based is excluded from gross income.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres803-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hres803-109", 
+      "reason": "unknown"
+    }, 
+    {
+      "bill_id": "s601-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Heroes Earned Retirement Opportunities Act", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Foxx, Virginia", 
+    "state": "NC", 
+    "thomas_id": "01791", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2006-05-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Income tax", 
+    "Individual retirement accounts", 
+    "Iraq compilation", 
+    "Labor and employment", 
+    "Military pay", 
+    "Military personnel", 
+    "Tax deductions", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2006-05-29", 
+    "text": "Heroes Earned Retirement Opportunities Act - Amends the Internal Revenue Code to allow members of the Armed Forces to include their combat zone compensation (otherwise excludable from gross income) in their earned income for purposes of determining their allowable tax deduction for contributions to retirement savings plans. Makes such provisions applicable to: (1) taxable years beginning after December 31, 2003; and (2) retirement savings contributions made for any taxable year beginning after such date and ending before enactment of this Act. Waives any limitation period otherwise applicable to refund claims relating to contributions made in years prior to enactment if such claims are made before one year after such a contribution is made. Allows a three-year period after a contribution is made for the assessment of any tax deficiency relating to such contribution."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Heroes Earned Retirement Opportunities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Heroes Earned Retirement Opportunities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Heroes Earned Retirement Opportunities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Heroes Earned Retirement Opportunities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Internal Revenue Code of 1986 to allow a deduction to members of the Armed Forces serving in a combat zone for contributions to their individual retirement plans even if the compensation on which such contribution is based is excluded from gross income, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "To amend the Internal Revenue Code of 1986 to allow members of the Armed\rForces serving in a combat zone to make contributions to their individual retirement plans even if the compensation on which such contribution is based is excluded from gross income.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:49-05:00"
+}

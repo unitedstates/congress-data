@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-20", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S3099-3103", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3103", 
+          "type": "text as passed Senate"
+        }, 
+        {
+          "reference": "CR S3105", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-03-20", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-20T21:02:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-20T21:02:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-20T21:02:00-05:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-20T21:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1700-1723, CR 3/21/2005 H1723-1728", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-20T21:03:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - Pursuant to a previous special order, the House proceeded with 3 hours of debate on the motion to suspend the rules and pass S. 686.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-21T00:41:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 3/20/2005 H1700-1701", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "90", 
+      "status": "PASSED:BILL", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 203 - 58 (Roll no. 90).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-03-21T00:41:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-21T00:45:00-05:00", 
+      "bill_ids": [
+        "hres182-109"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 182 Reported to House. Rule provides for consideration of S. 686 with 10 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-21", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-03-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-03-21", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-03-21", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "3", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-3.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s686-109", 
+  "bill_type": "s", 
+  "committees": [], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Martinez, Mel", 
+      "sponsored_at": "2005-03-20", 
+      "state": "FL", 
+      "thomas_id": "01769", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Santorum, Rick", 
+      "sponsored_at": "2005-03-20", 
+      "state": "PA", 
+      "thomas_id": "01015", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "3"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-03-21", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-03-21T00:41:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-03-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-03-20", 
+  "number": "686", 
+  "official_title": "A bill to provide for the relief of the parents of Theresa Marie Schiavo.", 
+  "popular_title": "Terri Schiavo Incapacitated Protection bill", 
+  "related_bills": [
+    {
+      "bill_id": "hres182-109", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "hr1151-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1332-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1334-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1452-109", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s539-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s653-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-03-21", 
+  "subjects": [
+    "Actions and defenses", 
+    "Civil rights and liberties, minority issues", 
+    "Congress", 
+    "Constitutional law", 
+    "District courts", 
+    "Families", 
+    "Florida", 
+    "Government operations and politics", 
+    "Health", 
+    "Injunctions", 
+    "Jurisdiction", 
+    "Law", 
+    "Legislation", 
+    "Limitation of actions", 
+    "Living wills", 
+    "Parents", 
+    "Parties to actions", 
+    "Right to die", 
+    "State courts", 
+    "Terminal care"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-03-21", 
+    "text": "Grants jurisdiction to the U.S. District Court for the Middle District of Florida to hear, determine, and render judgment on a suit or claim by or on behalf of Theresa Marie Schiavo (Ms. Schiavo) for the alleged violation of any right of hers under the U.S. Constitution or laws relating to the withholding or withdrawal of food, fluids, or medical treatment necessary to sustain her life. Grants standing to any parent of Ms. Schiavo to bring a suit under this Act. Allows suit to be brought against any other person who: (1) was a party to State court proceedings relating to the withholding or withdrawal of food, fluids, or medical treatment necessary to sustain Ms. Schiavo's life; or (2) may act pursuant to a State court order authorizing or directing the withholding or withdrawal of food, fluids, or medical treatment necessary to sustain her life. Declares that in such a suit the District Court shall determine de novo any claim of a violation of any right of Ms. Schiavo's within the scope of this Act, notwithstanding any prior State court determination and regardless of whether such a claim has previously been raised, considered, or decided in State court proceedings. Directs the District Court to entertain and determine the suit without any delay or abstention in favor of State court proceedings, and regardless of whether remedies available in the State courts have been exhausted. Declares that, notwithstanding any other time limitation, any suit or claim under this Act shall be timely if filed within 30 days after its date of enactment. Declares that nothing in this Act shall be construed to: (1) create substantive rights not otherwise secured by the Constitution and laws of the United States or of the several States; (2) confer additional jurisdiction on any court to consider any claim related to assisting suicide, or a State law regarding assisting suicide; or (3) constitute a precedent with respect to future legislation. States that nothing in this Act shall affect the rights of any person under the Patient Self-Determination Act of 1990. Declares the sense of Congress that the 109th Congress should consider policies regarding the status and legal rights of incapacitated individuals who are incapable of making decisions concerning the provision, withholding, or withdrawal of foods, fluid, or medical care."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Terri Schiavo Incapacitated Protection bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to provide for the relief of the parents of Theresa Marie Schiavo.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:37:22-05:00"
+}

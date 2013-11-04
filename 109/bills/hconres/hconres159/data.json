@@ -1,0 +1,171 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-19", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-06-08T10:24:00-04:00", 
+      "references": [], 
+      "text": "Mr. Jones (NC) moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T10:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4194-4197", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T10:25:00-04:00", 
+      "bill_ids": [
+        "hcres159-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 159.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-08T10:47:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4194", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-06-08T10:47:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-06-09", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6342", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-06-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres159-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2005-06-07", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Herseth, Stephanie", 
+      "sponsored_at": "2005-05-19", 
+      "state": "SD", 
+      "thomas_id": "01760", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-06-08T10:47:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-06-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-05-19", 
+  "number": "159", 
+  "official_title": "Recognizing the sacrifices being made by the families of members of the Armed Forces and supporting the designation of a week as National Military Families Week.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres41-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Boozman, John", 
+    "state": "AR", 
+    "thomas_id": "01687", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2005-06-09", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Families", 
+    "Iraq compilation", 
+    "Military dependents", 
+    "Special weeks"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2005-06-09", 
+    "text": "Recognizes the sacrifices of military families and the support they provide for their loved ones serving as members of the Armed Forces. Supports the designation of a week as National Military Families Week."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the sacrifices being made by the families of members of the Armed Forces and supporting the designation of a week as National Military Families Week.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:07-05:00"
+}

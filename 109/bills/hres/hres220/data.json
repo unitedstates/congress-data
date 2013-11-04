@@ -1,0 +1,916 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-19", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-05-13", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Subcommittee on Health Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bass moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9055-9056", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:12:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 220.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9055", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-10-25T14:18:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres220-109", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2005-05-17", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Alexander, Rodney", 
+      "sponsored_at": "2005-07-20", 
+      "state": "LA", 
+      "thomas_id": "01727", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Baker, Richard H.", 
+      "sponsored_at": "2005-05-11", 
+      "state": "LA", 
+      "thomas_id": "00047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2005-06-09", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Barrett, J. Gresham", 
+      "sponsored_at": "2005-09-15", 
+      "state": "SC", 
+      "thomas_id": "01745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2005-04-19", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyd, Allen", 
+      "sponsored_at": "2005-04-19", 
+      "state": "FL", 
+      "thomas_id": "01467", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2005-04-26", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brown, Henry E., Jr.", 
+      "sponsored_at": "2005-07-13", 
+      "state": "SC", 
+      "thomas_id": "01669", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2005-06-09", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brown-Waite, Ginny", 
+      "sponsored_at": "2005-05-17", 
+      "state": "FL", 
+      "thomas_id": "01713", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2005-04-26", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2005-07-28", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Case, Ed", 
+      "sponsored_at": "2005-06-16", 
+      "state": "HI", 
+      "thomas_id": "01693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2005-06-24", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Costa, Jim", 
+      "sponsored_at": "2005-06-16", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2005-05-17", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2005-06-16", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2005-07-20", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2005-05-25", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2005-07-20", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2005-07-28", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Emanuel, Rahm", 
+      "sponsored_at": "2005-06-09", 
+      "state": "IL", 
+      "thomas_id": "01725", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2005-06-29", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2005-04-19", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2005-09-15", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Garrett, Scott", 
+      "sponsored_at": "2005-05-17", 
+      "state": "NJ", 
+      "thomas_id": "01737", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "2005-07-28", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Green, Al", 
+      "sponsored_at": "2005-06-29", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2005-04-26", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2005-04-19", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Holden, Tim", 
+      "sponsored_at": "2005-05-11", 
+      "state": "PA", 
+      "thomas_id": "00550", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Inglis, Bob", 
+      "sponsored_at": "2005-07-13", 
+      "state": "SC", 
+      "thomas_id": "00582", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Istook, Ernest J., Jr.", 
+      "sponsored_at": "2005-07-13", 
+      "state": "OK", 
+      "thomas_id": "00586", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jefferson, William J.", 
+      "sponsored_at": "2005-07-13", 
+      "state": "LA", 
+      "thomas_id": "00592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Jindal, Bobby", 
+      "sponsored_at": "2005-07-13", 
+      "state": "LA", 
+      "thomas_id": "01785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Johnson, Timothy V.", 
+      "sponsored_at": "2005-06-16", 
+      "state": "IL", 
+      "thomas_id": "01648", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2005-06-09", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "2005-06-09", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2005-04-19", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "King, Steve", 
+      "sponsored_at": "2005-09-28", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Kuhl, John R. \"Randy\", Jr.", 
+      "sponsored_at": "2005-04-26", 
+      "state": "NY", 
+      "thomas_id": "01795", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "LaHood, Ray", 
+      "sponsored_at": "2005-05-25", 
+      "state": "IL", 
+      "thomas_id": "00659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Leach, James A.", 
+      "sponsored_at": "2005-09-15", 
+      "state": "IA", 
+      "thomas_id": "00672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2005-06-09", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "2005-06-24", 
+      "state": "IL", 
+      "thomas_id": "00733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "sponsored_at": "2005-07-20", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2005-05-11", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "sponsored_at": "2005-05-25", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2005-04-26", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Melancon, Charlie", 
+      "sponsored_at": "2005-06-09", 
+      "state": "LA", 
+      "thomas_id": "01786", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2005-04-28", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2005-04-26", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "sponsored_at": "2005-06-24", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2005-07-13", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Nunes, Devin", 
+      "sponsored_at": "2005-06-24", 
+      "state": "CA", 
+      "thomas_id": "01710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Nussle, Jim", 
+      "sponsored_at": "2005-07-13", 
+      "state": "IA", 
+      "thomas_id": "00871", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Otter, C. L. (Butch)", 
+      "sponsored_at": "2005-06-16", 
+      "state": "ID", 
+      "thomas_id": "01646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2005-04-26", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2005-05-11", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2005-09-15", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2005-05-17", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2005-06-16", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "sponsored_at": "2005-05-11", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2005-07-13", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Price, Tom", 
+      "sponsored_at": "2005-04-28", 
+      "state": "GA", 
+      "thomas_id": "01778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2005-04-19", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2005-07-20", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "2005-05-11", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2005-07-13", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sabo, Martin Olav", 
+      "sponsored_at": "2005-09-28", 
+      "state": "MN", 
+      "thomas_id": "01007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2005-07-28", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2005-06-24", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2005-05-17", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "2005-06-29", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sullivan, John", 
+      "sponsored_at": "2005-07-20", 
+      "state": "OK", 
+      "thomas_id": "01689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2005-05-17", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2005-04-19", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2005-04-26", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2005-05-17", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2005-06-24", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wilson, Heather", 
+      "sponsored_at": "2005-07-20", 
+      "state": "NM", 
+      "thomas_id": "01539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2005-04-28", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Young, C.W. Bill", 
+      "sponsored_at": "2005-04-19", 
+      "state": "FL", 
+      "thomas_id": "01255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-10-25T14:18:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-04-19", 
+  "number": "220", 
+  "official_title": "Recognizing America's Blood Centers and its member organizations for their commitment to providing over half the Nation with a safe and adequate volunteer donor blood supply, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Boustany, Charles W., Jr.", 
+    "state": "LA", 
+    "thomas_id": "01787", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2005-10-25T14:18:00-04:00", 
+  "subjects": [
+    "Blood banks", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Donation of organs, tissues, etc.", 
+    "Health"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2005-10-25", 
+    "text": "Recognizes America's Blood Centers and its members for providing blood to patients, ensuring the safety of the blood supply, and promoting blood donor initiatives. Acknowledges the efforts made by member community blood centers and other blood organizations to promote and protect the safety and adequacy of blood components provided to patients. Recognizes the need to promote a stable blood supply and increase volunteer participation of blood donors."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing America's Blood Centers and its member organizations for their commitment to providing over half the Nation with a safe and adequate volunteer donor blood supply, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:38:40-05:00"
+}

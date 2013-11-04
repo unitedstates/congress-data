@@ -1,0 +1,291 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-15", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "references": [
+        {
+          "reference": "CR S10257-10258", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10257-10258", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-09-21T18:53:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21T18:59:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26T18:38:00-04:00", 
+      "references": [], 
+      "text": "Mr. Rohrabacher moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26T18:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9240-9246", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26T18:39:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 1713.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26T19:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9240-9241", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-10-26T19:18:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-26T19:18:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-27", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendments to Senate bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12550-12551", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12550-12551", 
+          "type": "text as Senate agreed to House amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Senate agreed to House amendment and title amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-11-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-17", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-11-22", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-11-22", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "112", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-112.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1713-109", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "112"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-11-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-10-26T19:18:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-11-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-09-15", 
+  "number": "1713", 
+  "official_title": "An act to make amendments to the Iran Nonproliferation Act to 2000 related to International Space Station payments, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4003-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Iran Nonproliferation Amendments Act of 2005", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lugar, Richard G.", 
+    "state": "IN", 
+    "thomas_id": "01387", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-11-22", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Arms sales", 
+    "Ballistic missiles", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional reporting requirements", 
+    "Crime and law enforcement", 
+    "Cruise missiles", 
+    "Executive orders", 
+    "Foreign trade and international finance", 
+    "Government operations and politics", 
+    "International affairs", 
+    "International cooperation in astronautics", 
+    "Iran", 
+    "Middle East and North Africa", 
+    "Nuclear nonproliferation", 
+    "Russia", 
+    "Science, technology, communications", 
+    "Space activities", 
+    "Space agreements", 
+    "Space stations", 
+    "State-sponsored terrorism", 
+    "Syria", 
+    "Technology transfer", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-11-22", 
+    "text": "Iran Nonproliferation Amendments Act of 2005 - Amends the Iran Nonproliferation Act of 2000 to state that the definition of \"extraordinary payments in connection with the International Space Station\" does not mean payments in cash or in kind made or to be made by the U.S. government prior to January 1, 2012, for work to be performed or services to be rendered prior to that date necessary to meet U.S. obligations under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto. (Under such Act the United States is prohibited from making such payments to the Russian Aviation and Space Agency unless specified determinations are made with respect to Russian cooperation in preventing proliferation to Iran, or to a foreign person identified as contributing to proliferation to Iran.) Prohibits any U.S. agency from making extraordinary payments and any other payments (currently, such prohibition is limited to extraordinary payments) in connection with the International Space Station to a foreign person subject to specified measures under such Act or Executive Order No. 12938. Directs the President to submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report that identifies each Russian entity or person to whom the United States has, since the date of enactment of this Act, made a cash or in-kind payment under the Agreement. Requires such report to include: (1) the purpose of each payment; and (2) with respect to each such payment, an assessment that the payment was not prejudicial to preventing the proliferation of ballistic or cruise missile systems in Iran and other countries that have supported acts of international terrorism. Applies the provisions of such Act to: (1) Syria with respect to transfers on or after January 1, 2005; and (2) transfers to or from such countries (currently, limited to transfers to Iran). Redefines \"foreign person\" or \"person\" to include any foreign government or government entity (currently, any governmental entity operating as a business enterprise). Retitles the Iran Nonproliferation Act of 2002 as the Iran and Syria Nonproliferation Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Iran Nonproliferation Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Iran Nonproliferation Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Iran Nonproliferation Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Iran Nonproliferation Amendments Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to make amendments to the Iran Nonproliferation Act of 2000 related to International Space Station payments.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "An Act to make amendments to the Iran Nonproliferation Act of 2000 related to International Space Station payments, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by senate", 
+      "title": "An act to make amendments to the Iran Nonproliferation Act to 2000 related to International Space Station payments, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:37:46-05:00"
+}

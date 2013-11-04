@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-06-30", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-20T10:45:00-04:00", 
+      "references": [], 
+      "text": "Mr. Mica moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20T10:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6115-6117", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20T10:45:00-04:00", 
+      "bill_ids": [
+        "hcres202-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 202.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20T11:14:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6115", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-07-20T11:14:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8712", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-07-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres202-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2005-06-30", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2005-07-19", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2005-06-30", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2005-07-20", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "2005-06-30", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2005-07-20", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "2005-07-19", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Watson, Diane E.", 
+      "sponsored_at": "2005-07-19", 
+      "state": "CA", 
+      "thomas_id": "01682", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-07-20T11:14:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-07-21", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-06-30", 
+  "number": "202", 
+  "official_title": "Permitting the use of the rotunda of the Capitol for a ceremony to honor Constantino Brumidi on the 200th anniversary of his birth.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres44-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "01510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2005-07-21", 
+  "subjects": [
+    "Anniversaries", 
+    "Art", 
+    "Artists", 
+    "Arts, culture, religion", 
+    "Capitol (Washington, D.C.)", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "History"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2005-07-21", 
+    "text": "Authorizes the use of the rotunda of the Capitol on July 26, 2005, for a ceremony to honor Constantino Brumidi on the 200th anniversary of his birth."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Permitting the use of the rotunda of the Capitol for a ceremony to honor Constantino Brumidi on the 200th anniversary of his birth.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:08-05:00"
+}

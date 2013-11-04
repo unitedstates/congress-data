@@ -1,0 +1,337 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-09-13", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-13", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2006-09-29T21:02:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on International Relations. H. Rept. 109-706.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-29T21:02:00-04:00", 
+      "calendar": "Union", 
+      "number": "425", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 425.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2006-12-08T23:24:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-08T23:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9188-9191", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-08T23:25:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6060.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-08T23:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9188-9190", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-12-08T23:34:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-09", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-09", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR 12/8/2006 S11830", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-12-09", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-12-11", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2007-01-03", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2007-01-11", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2007-01-11", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "472", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-472.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6060-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2006-09-13", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2006-09-13", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "472"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2007-01-11", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-12-08T23:34:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-12-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-09-13", 
+  "number": "6060", 
+  "official_title": "To authorize certain activities by the Department of State, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3925-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Department of State Authorities Act of 2006", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2007-01-11", 
+  "subjects": [
+    "Accidents", 
+    "Administrative fees", 
+    "Africa", 
+    "Africa (Sub-Saharan)", 
+    "Airlines", 
+    "Airports", 
+    "Americans in foreign countries", 
+    "Autism", 
+    "Aviation agreements", 
+    "Belarus", 
+    "Border patrols", 
+    "Child health", 
+    "Civil rights and liberties, minority issues", 
+    "Commerce", 
+    "Commercial blacklisting", 
+    "Congressional reporting requirements", 
+    "Crime and law enforcement", 
+    "Department of State", 
+    "Diplomats", 
+    "East Asia", 
+    "Economic assistance", 
+    "Economic impact statements", 
+    "Economic research", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Emergency management", 
+    "Environmental protection", 
+    "Europe", 
+    "Families", 
+    "Federal employees", 
+    "Federal office buildings", 
+    "Fines (Penalties)", 
+    "Foreign service", 
+    "Foreign trade and international finance", 
+    "Fraud", 
+    "Government contractors", 
+    "Government operations and politics", 
+    "Government service contracts", 
+    "Government travel", 
+    "Governmental investigations", 
+    "Health", 
+    "Higher education", 
+    "Human rights", 
+    "Immigration", 
+    "Infrastructure", 
+    "International affairs", 
+    "International agencies", 
+    "International banking", 
+    "International broadcasting", 
+    "International cooperation", 
+    "International propaganda", 
+    "Ireland", 
+    "Law", 
+    "Libya", 
+    "Maternal health services", 
+    "Medical tests", 
+    "Middle East and North Africa", 
+    "Minorities", 
+    "North Korea", 
+    "Occupational therapy", 
+    "Passports", 
+    "Pay equity", 
+    "Performance measurement", 
+    "Physical examinations", 
+    "Privileges and immunities", 
+    "Protection of officials", 
+    "Racial discrimination", 
+    "Racial violence", 
+    "Radioactive pollution", 
+    "Refugees", 
+    "Religion", 
+    "Salaries", 
+    "School health programs", 
+    "Secondary education", 
+    "Teaching materials", 
+    "Textbooks", 
+    "Transportation and public works", 
+    "Travel costs", 
+    "Turkey", 
+    "Ukraine", 
+    "United Nations", 
+    "User charges", 
+    "Vatican", 
+    "Visas", 
+    "Women"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2007-01-11", 
+    "text": "(This measure has not been amended since it was passed by the Senate on December 9, 2006. The summary of that version is repeated here.) Department of State Authorities Act of 2006 - (Sec. 2) Amends the Immigration and Nationality Act to permit the use of H-1, H-2, and L-visa fraud prevention fees for other visa fraud prevention in addition to being used primarily for H-1, H-2, and L-visa fraud prevention. (Sec. 3) Amends civil service law to grant an allowance for an employee's dependents for travel expenses to and from a secondary or post-secondary educational institution, except for the 12 months following the dependent's arrival at the educational institution. Authorizes as part of such allowance a limited payment or reimbursement for the dependent's baggage storage costs incurred during one trip per year between the school and the employee's duty station. (Sec. 4) Amends federal criminal law to provide that any person who knowingly and willfully obstructs, resists, or interferes with a federal law enforcement agent engaged, within the United States or the special maritime territorial jurisdiction of the United States, in the performance of specified protective functions shall be fined and/or imprisoned for up to one year. (Sec. 5) Permits passport fee waiver for an individual returning from abroad for humanitarian or law enforcement purposes. (Sec. 6) Authorizes, as of FY2007, the Secretary of State to administratively amend consular service surcharges related to border security that are in addition to passport and immigrant visa fees in effect as of January 1, 2004. Sets forth surcharge requirements. (Sec. 7) Amends the International Organizations Immunities Act to authorize the President to extend privileges and immunities to the African Union Mission to the United States of America and to the Permanent Observer Mission of the Holy See to the United Nations in New York. (Sec. 8) Amends the Omnibus Diplomatic Security and Antiterrorism Act of 1986 to repeal the provision making persons doing business with Libya ineligible for contracts awarded under such Act. (Sec. 9) Amends the Foreign Relations Authorization Act, Fiscal Year 2003 with respect to the International Broadcasting Bureau personal services contracting pilot program to: (1) extend the program through December 31, 2007; and (2) include broadcasting specialists in the program. (Sec. 10) Amends the Foreign Service Assistance Act of 1961 to authorize the President to provide assistance to friendly foreign countries for (nuclear, chemical, biological, and conventional) proliferation detection and interdiction activities and for developing complementary capabilities. Directs the President to report to the House Committee on International Relations and the Senate Committee on Foreign Relations (Committees) respecting proliferation and interdiction assistance. Authorizes the President to conclude agreements, including reciprocal maritime agreements, with other countries to prevent the transportation of proliferation-related items to non-state actors and states of proliferation concern. Directs the Secretary to notify the Committees within 30 days after making a determination that any friendly country is eligible for priority assistance. (Sec. 11) Authorizes the Secretary to secure, remove, or eliminate stocks of man-portable air defense systems (MANPADS), small arms and light weapons, stockpiled munitions, abandoned ordnance, and other conventional weapons (including tactical missile systems and related equipment and facilities) located outside the United States that pose a proliferation threat. States that nothing in this section shall be construed to affect the authorities of the Secretary of Defense. (Sec. 12) Declares that it should be U.S. policy to hold foreign governments accountable for knowingly transferring MANPADS to state-sponsors of terrorism or terrorist organizations. States that if the President determines that a foreign government knowingly transfers MANPADS to a foreign government that has repeatedly supported terrorism or to a terrorist organization the President shall: (1) report to the Committees; and (2) impose foreign assistance (other than humanitarian assistance), munitions list export, and defense article and military financing sanctions on the transferring foreign government. Authorizes sanctions waiver for national security purposes. (Sec. 13) Amends the Department of Defense Appropriations Act, 2005 to extend authority to transfer to Israel certain war reserves that are stockpiled in Israel for an additional two years (effective on August 5, 2006). Amends the Foreign Assistance Act of 1961 to increase through FY2008 the fiscal year value of additional defense articles that may be stockpiled in foreign countries, including Israel. Amends the Emergency Wartime Supplemental Appropriations Act, 2003 to extend loan guarantee authority for Israel through September 30, 2011."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Department of State Authorities Act of 2006", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Department of State Authorities Act of 2006", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Department of State Authorities Act of 2006", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Department of State Authorities Act of 2006", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize certain activities by the Department of State, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:53-05:00"
+}

@@ -1,0 +1,436 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12026-12027", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S12027", 
+          "type": "text as passed Senate"
+        }, 
+        {
+          "reference": "CR S12018", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-10-28T09:03:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-28", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-10-28T12:06:00-04:00", 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-28T12:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9398-9407", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Ehlers asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-28T12:06:00-04:00", 
+      "references": [], 
+      "text": "RESERVATION OF OBJECTION - The House proceeded under a reservation of objection raised by Ms. Millender-McDonald.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-28T12:36:00-04:00", 
+      "references": [], 
+      "text": "The House continued under Ms. Millender-McDonald's reservation of objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-28T13:16:00-04:00", 
+      "bill_ids": [
+        "scres61-109"
+      ], 
+      "references": [], 
+      "text": "REMOVAL OF RESERVATION OF OBJECTION - Subsequently, Ms. Millender-McDonald withdrew her reservation of objection to the committee discharge and consideration of S. Con. Res. 61.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-28T13:16:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H9407", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-10-28T13:16:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres61-109", 
+  "bill_type": "sconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Allen, George", 
+      "sponsored_at": "2005-10-27", 
+      "state": "VA", 
+      "thomas_id": "00013", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bayh, Evan", 
+      "sponsored_at": "2005-10-27", 
+      "state": "IN", 
+      "thomas_id": "01572", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Biden, Joseph R., Jr.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "DE", 
+      "thomas_id": "01284", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2005-10-27", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brownback, Sam", 
+      "sponsored_at": "2005-10-27", 
+      "state": "KS", 
+      "thomas_id": "00137", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Clinton, Hillary Rodham", 
+      "sponsored_at": "2005-10-27", 
+      "state": "NY", 
+      "thomas_id": "01631", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Corzine, Jon S.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "NJ", 
+      "thomas_id": "01630", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "DeWine, Mike", 
+      "sponsored_at": "2005-10-27", 
+      "state": "OH", 
+      "thomas_id": "00293", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dodd, Christopher J.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "CT", 
+      "thomas_id": "00302", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dorgan, Byron L.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "ND", 
+      "thomas_id": "00308", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2005-10-27", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feingold, Russell D.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "WI", 
+      "thomas_id": "01331", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2005-10-27", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kennedy, Edward M.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "MA", 
+      "thomas_id": "01377", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2005-10-27", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lieberman, Joseph I.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "CT", 
+      "thomas_id": "01385", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Obama, Barack", 
+      "sponsored_at": "2005-10-27", 
+      "state": "IL", 
+      "thomas_id": "01763", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, Mark L.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "AR", 
+      "thomas_id": "01701", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2005-10-27", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2005-10-27", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Santorum, Rick", 
+      "sponsored_at": "2005-10-27", 
+      "state": "PA", 
+      "thomas_id": "01015", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2005-10-27", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2005-10-27", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Talent, Jim", 
+      "sponsored_at": "2005-10-27", 
+      "state": "MO", 
+      "thomas_id": "01135", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-10-28T13:16:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-10-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-10-27", 
+  "number": "61", 
+  "official_title": "A concurrent resolution authorizing the remains of Rosa Parks to lie in honor in the rotunda of the Capitol.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres286-109", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "sconres62-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2005-10-28T13:16:00-04:00", 
+  "subjects": [
+    "Blacks", 
+    "Capitol (Washington, D.C.)", 
+    "Cemeteries and funerals", 
+    "Civil rights and liberties, minority issues", 
+    "Civil rights workers", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Minorities"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2005-10-28", 
+    "text": "Provides that, in recognition of the historic contributions of Rosa Parks, her remains be permitted to lie in honor in the rotunda of the Capitol from October 30-October 31, 2005, so that U.S. citizens may pay their last respects to this great American."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution authorizing the remains of Rosa Parks to lie in honor in the rotunda of the Capitol.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:32-05:00"
+}

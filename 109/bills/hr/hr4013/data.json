@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-10-07", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-10-14", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-02-08", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Water and Power", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Subcommittee on Water and Power Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-29", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2006-04-27T16:53:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 109-443.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-04-27T16:53:00-04:00", 
+      "calendar": "Union", 
+      "number": "247", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 247.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2006-06-12T14:08:00-04:00", 
+      "references": [], 
+      "text": "Mr. Renzi moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-12T14:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3726-3727", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-12T14:08:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4013.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-12T14:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3726", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-06-12T14:11:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-13", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4013-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "sponsored_at": "2006-03-08", 
+      "state": "UT", 
+      "thomas_id": "01753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2005-11-16", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-06-12T14:11:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-10-07", 
+  "number": "4013", 
+  "official_title": "To amend the Reclamation Projects Authorization and Adjustment Act of 1992 to provide for conjunctive use of surface and groundwater in Juab County, Utah.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1812-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cannon, Chris", 
+    "state": "UT", 
+    "thomas_id": "01470", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2006-06-12T14:11:00-04:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "Central Valley Reclamation Project (California)", 
+    "Economics and public finance", 
+    "Federal aid to water resources development", 
+    "Groundwater", 
+    "Infrastructure", 
+    "Irrigation", 
+    "Utah", 
+    "Water resources development", 
+    "Water use"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2006-06-12", 
+    "text": "Amends the Reclamation Projects Authorization and Adjustment Act of 1992 to include Juab County among those Utah counties for which Bonneville Unit of the Central Utah Project funds may be provided for a Utah Division of Water Resources feasibility study and development of systems to allow ground water recharge, management, and the conjunctive use of surface water resources with ground water resources."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Reclamation Projects Authorization and Adjustment Act of 1992 to provide for conjunctive use of surface and groundwater in Juab County, Utah.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:56-05:00"
+}

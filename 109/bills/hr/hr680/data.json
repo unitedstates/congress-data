@@ -1,0 +1,219 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-09", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:19:00-05:00", 
+      "references": [], 
+      "text": "Mr. Jones (NC) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1377-1378", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:19:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 680.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:24:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1377", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-03-14T14:24:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-15", 
+      "committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-06-29", 
+      "in_committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2005-11-07", 
+      "committee": "Indian Affairs", 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-175.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2005-11-07", 
+      "calendar": "Senate Legislative", 
+      "number": "282", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S13413", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-11-28", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-12-07", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-12-07", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "126", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-126.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr680-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "126"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-12-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-03-14T14:24:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-11-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-02-09", 
+  "number": "680", 
+  "official_title": "To direct the Secretary of Interior to convey certain land held in trust for the Paiute Indian Tribe of Utah to the City of Richfield, Utah, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s623-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cannon, Chris", 
+    "state": "UT", 
+    "thomas_id": "01470", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-12-07", 
+  "subjects": [
+    "Indian lands", 
+    "Land transfers", 
+    "Minorities", 
+    "Native Americans", 
+    "Public lands and natural resources", 
+    "Utah"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-12-07", 
+    "text": "Directs the Secretary of the Interior to convey specified land held by the United States in trust for the Paiute Indian tribe of Utah to the city of Richfield, Utah. Specifies that the conveyance shall be subject to the following conditions: (1) the Secretary shall ensure that the terms of the sale have been approved by a tribal resolution; (2) consideration given by the city for such property shall be not less than the property's appraised fair market value; (3) the city shall pay all costs related to the conveyance; and (4) proceeds from the conveyance shall be given immediately to the tribe. Makes land acquired in trust for the tribe after February 17, 1984, part of the tribe's reservation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To direct the Secretary of Interior to convey certain land held in trust for the Paiute Indian Tribe of Utah to the City of Richfield, Utah, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:24-05:00"
+}

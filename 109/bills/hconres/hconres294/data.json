@@ -1,0 +1,559 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2005-12-14T22:19:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (NJ) moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-14T22:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11624-11629", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-14T22:20:00-05:00", 
+      "bill_ids": [
+        "hcres294-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 294.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-14T22:32:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-16T12:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11904-11905", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-16T12:45:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 12/14/2005 H11624", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "647", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 647).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-12-16T12:45:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-16", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-01-27", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres294-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2005-11-09", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Cardoza, Dennis A.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "CA", 
+      "thomas_id": "01709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2005-11-15", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "2005-11-18", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Drake, Thelma D.", 
+      "sponsored_at": "2005-11-18", 
+      "state": "VA", 
+      "thomas_id": "01808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2005-11-18", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2005-11-15", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Gingrey, Phil", 
+      "sponsored_at": "2005-11-15", 
+      "state": "GA", 
+      "thomas_id": "01720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Inglis, Bob", 
+      "sponsored_at": "2005-11-09", 
+      "state": "SC", 
+      "thomas_id": "00582", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2005-11-09", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lungren, Daniel E.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "CA", 
+      "thomas_id": "00717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "2005-11-09", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "2005-11-18", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2005-11-09", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2005-11-15", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Ryan, Tim", 
+      "sponsored_at": "2005-11-15", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Sanchez, Linda T.", 
+      "sponsored_at": "2005-11-18", 
+      "state": "CA", 
+      "thomas_id": "01757", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "2005-11-15", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2005-11-09", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2005-11-09", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2005-11-09", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sullivan, John", 
+      "sponsored_at": "2005-11-15", 
+      "state": "OK", 
+      "thomas_id": "01689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2005-11-15", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2005-11-15", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Watson, Diane E.", 
+      "sponsored_at": "2005-11-18", 
+      "state": "CA", 
+      "thomas_id": "01682", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2005-11-18", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-12-16T12:45:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-11-09", 
+  "number": "294", 
+  "official_title": "Calling on the international community to condemn the Laogai, the system of forced labor prison camps in the People's Republic of China, as a tool for suppression maintained by the Chinese Government.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Wolf, Frank R.", 
+    "state": "VA", 
+    "thomas_id": "01238", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2005-12-16T12:45:00-05:00", 
+  "subjects": [
+    "Capital punishment", 
+    "China", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "East Asia", 
+    "Forced labor", 
+    "Foreign trade and international finance", 
+    "Governmental investigations", 
+    "Health", 
+    "Human rights", 
+    "Import restrictions", 
+    "International affairs", 
+    "International agencies", 
+    "Labor and employment", 
+    "Prisoners", 
+    "Prisons", 
+    "Trade agreements", 
+    "Transplantation of organs, tissues, etc.", 
+    "United Nations"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2005-12-16", 
+    "text": "Calls on the international community to condemn the Laogai, the system of forced labor prison camps in the People's Republic of China (PRC). Calls on the U.S. government to: (1) fully implement U.S. laws prohibiting the importation of forced labor products made in the Laogai; and (2) review implementation of the Memorandum of Understanding on Prison Labor in 1992 and the Statement of Cooperation in 1994 with respect to the Laogai. Calls on the government of the PRC to release information about the Laogai, including information about: (1) the number and location of camps and prisoners; (2) the types of business production activities; (3) the number of executions at the camps; and (4) the extent of the harvesting and transplantation of organs of executed prisoners. Urges the government of the PRC to allow unrestricted visits by international human rights inspectors to Laogai camps. Urges the Congressional-Executive Commission on China to investigate the Laogai system and to make U.S. policy recommendations to help protect human rights for Chinese citizens. States that Congress will undertake efforts to join with the European Parliament to urge the introduction of a resolution at the United Nations Human Rights Commission condemning the Laogai and the human rights situation in China."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Calling on the international community to condemn the Laogai, the system of forced labor prison camps in the People's Republic of China, as a tool for suppression maintained by the Chinese Government.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:11-05:00"
+}

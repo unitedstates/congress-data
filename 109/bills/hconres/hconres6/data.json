@@ -1,0 +1,525 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-01-04", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-01-27", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Military Personnel", 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-02-09T10:21:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hefley moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T10:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H419-422", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T10:23:00-05:00", 
+      "bill_ids": [
+        "hcres6-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 6.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T10:33:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T16:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H479-480", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-09T17:11:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H419", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "24", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 24).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-02-09T17:11:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-14", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-02-17", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres6-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Barrett, J. Gresham", 
+      "sponsored_at": "2005-02-08", 
+      "state": "SC", 
+      "thomas_id": "01745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bartlett, Roscoe G.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "MD", 
+      "thomas_id": "00060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boozman, John", 
+      "sponsored_at": "2005-02-01", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "2005-01-20", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2005-01-20", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Chocola, Chris", 
+      "sponsored_at": "2005-01-20", 
+      "state": "IN", 
+      "thomas_id": "01726", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2005-01-20", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Feeney, Tom", 
+      "sponsored_at": "2005-01-20", 
+      "state": "FL", 
+      "thomas_id": "01716", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2005-02-08", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2005-01-20", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "2005-01-20", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gutknecht, Gil", 
+      "sponsored_at": "2005-01-20", 
+      "state": "MN", 
+      "thomas_id": "00479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "2005-01-20", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Lewis, Jerry", 
+      "sponsored_at": "2005-02-08", 
+      "state": "CA", 
+      "thomas_id": "00687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2005-02-08", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2005-01-20", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Murtha, John P.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "PA", 
+      "thomas_id": "00844", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2005-01-20", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Otter, C. L. (Butch)", 
+      "sponsored_at": "2005-01-20", 
+      "state": "ID", 
+      "thomas_id": "01646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "2005-01-20", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2005-01-20", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2005-01-20", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "2005-01-20", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "2005-01-20", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snyder, Vic", 
+      "sponsored_at": "2005-01-20", 
+      "state": "AR", 
+      "thomas_id": "01530", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2005-02-01", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2005-01-20", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Taylor, Gene", 
+      "sponsored_at": "2005-01-20", 
+      "state": "MS", 
+      "thomas_id": "01142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2005-02-09", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2005-01-20", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2005-02-01", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-02-09T17:11:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-01-04", 
+  "number": "6", 
+  "official_title": "Expressing the sense of the Congress that the Department of Defense should continue to exercise its statutory authority to support the activities of the Boy Scouts of America, in particular the periodic national and world Boy Scout Jamborees.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres4-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hefley, Joel", 
+    "state": "CO", 
+    "thomas_id": "00524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2005-02-09T17:11:00-05:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Boy Scouts", 
+    "Civil-military relations", 
+    "Department of Defense", 
+    "Families", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2005-02-09", 
+    "text": "Expresses the sense of Congress that the Department of Defense should continue to exercise its long-standing statutory authority to support activities of the Boy Scouts of America, particularly the periodic national and world Boy Scout Jamborees."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the Congress that the Department of Defense should continue to exercise its statutory authority to support the activities of the Boy Scouts of America, in particular the periodic national and world Boy Scout Jamborees.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:02-05:00"
+}

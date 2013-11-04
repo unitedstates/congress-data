@@ -1,0 +1,549 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-14", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-02-14", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "subcommittee": "Europe and Emerging Threats", 
+      "text": "Referred to the Subcommittee on Europe and Emerging Threats.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-02-14", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Europe and Emerging Threats", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-14", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Europe and Emerging Threats", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T12:39:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (NJ) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T12:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H699-702", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T12:39:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 673.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T12:59:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T16:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H738", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T16:11:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H699-700", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "25", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 419 - 1, 2 Present (Roll no. 25).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-03-08T16:11:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres673-109", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Europe and Emerging Threats", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Barrett, J. Gresham", 
+      "sponsored_at": "2006-02-28", 
+      "state": "SC", 
+      "thomas_id": "01745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bean, Melissa L.", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IL", 
+      "thomas_id": "01782", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boozman, John", 
+      "sponsored_at": "2006-02-28", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2006-02-28", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "sponsored_at": "2006-02-28", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2006-03-07", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2006-02-28", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2006-02-28", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Geoff", 
+      "sponsored_at": "2006-02-28", 
+      "state": "KY", 
+      "thomas_id": "01784", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "2006-02-28", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "sponsored_at": "2006-03-01", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Doolittle, John T.", 
+      "sponsored_at": "2006-03-01", 
+      "state": "CA", 
+      "thomas_id": "00307", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2006-03-08", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "English, Phil", 
+      "sponsored_at": "2006-03-07", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2006-03-01", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "2006-02-14", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2006-03-07", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hulshof, Kenny C.", 
+      "sponsored_at": "2006-02-28", 
+      "state": "MO", 
+      "thomas_id": "01492", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2006-02-15", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "LaHood, Ray", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IL", 
+      "thomas_id": "00659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2006-02-28", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "McCotter, Thaddeus G.", 
+      "sponsored_at": "2006-02-15", 
+      "state": "MI", 
+      "thomas_id": "01732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2006-02-28", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rogers, Mike J.", 
+      "sponsored_at": "2006-02-15", 
+      "state": "MI", 
+      "thomas_id": "01651", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2006-02-28", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2006-02-28", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2006-02-28", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sullivan, John", 
+      "sponsored_at": "2006-02-28", 
+      "state": "OK", 
+      "thomas_id": "01689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2006-02-28", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2006-03-01", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "sponsored_at": "2006-03-07", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2006-03-07", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2006-02-28", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-03-08T16:11:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-02-14", 
+  "number": "673", 
+  "official_title": "Expressing support for the efforts of the people of the Republic of Belarus to establish a full democracy, the rule of law, and respect for human rights and urging the Government of Belarus to conduct a free and fair presidential election on March 19, 2006.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Shimkus, John", 
+    "state": "IL", 
+    "thomas_id": "01527", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2006-03-08T16:11:00-05:00", 
+  "subjects": [
+    "Actions and defenses", 
+    "Belarus", 
+    "Civil rights and liberties, minority issues", 
+    "Commerce", 
+    "Crime and law enforcement", 
+    "Democracy", 
+    "Denmark", 
+    "Economic assistance", 
+    "Election administration", 
+    "Election candidates", 
+    "Estonia", 
+    "Europe", 
+    "Finland", 
+    "Free enterprise", 
+    "Freedom of association", 
+    "Freedom of the press", 
+    "Government operations and politics", 
+    "Human rights", 
+    "International affairs", 
+    "International agencies", 
+    "Latvia", 
+    "Law", 
+    "Libel and slander", 
+    "Licenses", 
+    "Lithuania", 
+    "Mass media", 
+    "Nongovernmental organizations", 
+    "Norway", 
+    "Opposition (Political science)", 
+    "Political advertising", 
+    "Political participation", 
+    "Political parties", 
+    "Political persecution", 
+    "Press and politics", 
+    "Prosecution", 
+    "Right of assembly", 
+    "Rule of law", 
+    "Science, technology, communications", 
+    "Sweden", 
+    "Tax auditing", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2006-03-08", 
+    "text": "States that a precondition for the integration of Belarus into the Western community of nations is its establishment of a genuinely democratic political system. Expresses support for the efforts of the Belarusian people to establish a full democracy, the rule of law, and respect for human rights in Belarus. Urges the government of Belarus to: (1) guarantee freedom of association and assembly, and (2) meet its Organization for Security and Cooperation in Europe (OSCE) standards and commitments on democratic elections. Urges the Belarusian authorities to ensure: (1) transparency procedures for the 2006 presidential election; (2) election monitor access; (3) multiparty representation on all election commissions; (4) media access by all parties and candidates; (5) freedom of candidates, members of opposition parties, and independent media organizations from government harassment; and (6) prosecution of election law violators. Encourages the international community to continue efforts to support democracy in Belarus and urges countries such as Lithuania and other Baltic countries and Nordic countries to continue to provide assistance to nongovernmental organizations and other Belarusian organizations involved in promoting democracy and fair elections. Pledges support to the Belarusian people, their commitment to a democratic system and creation of a free market economy, and their country's assumption of its place as a full and equal member of the Western community of democracies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing support for the efforts of the people of the Republic of Belarus to establish a full democracy, the rule of law, and respect for human rights and urging the Government of Belarus to conduct a free and fair presidential election on March 19, 2006.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:38:52-05:00"
+}

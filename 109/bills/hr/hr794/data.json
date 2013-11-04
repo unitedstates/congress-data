@@ -1,0 +1,310 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-14", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-04-12T14:44:00-04:00", 
+      "references": [], 
+      "text": "Mr. Duncan moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-12T14:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1865-1867", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-12T14:44:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 794.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-12T14:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1865-1866", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-04-12T14:50:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-04-13", 
+      "committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [
+        {
+          "reference": "CR S9055-9056", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Indian Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-07-27", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-08-02", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-08-02", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "47", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-47.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr794-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "43", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2005-02-14", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2005-02-14", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2005-02-14", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "2005-02-14", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2005-02-14", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "2005-02-14", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Renzi, Rick", 
+      "sponsored_at": "2005-02-14", 
+      "state": "AZ", 
+      "thomas_id": "01706", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "47"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-08-02", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-04-12T14:50:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-07-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-02-14", 
+  "number": "794", 
+  "official_title": "To correct the south boundary of the Colorado River Indian Reservation in Arizona, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Colorado River Indian Reservation Boundary Correction Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "thomas_id": "01708", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-08-02", 
+  "subjects": [
+    "Agriculture and food", 
+    "Animals", 
+    "Arizona", 
+    "Boundaries", 
+    "Colorado", 
+    "Colorado River development", 
+    "Easements", 
+    "Economics and public finance", 
+    "Fees", 
+    "Gambling", 
+    "Government operations and politics", 
+    "Hunting", 
+    "Indian lands", 
+    "Irrigation", 
+    "Land transfers", 
+    "Leases", 
+    "Maps", 
+    "Mining claims", 
+    "Mining leases", 
+    "Minorities", 
+    "Native Americans", 
+    "Outdoor recreation", 
+    "Public lands and natural resources", 
+    "Rent", 
+    "Right-of-way", 
+    "Sports and recreation", 
+    "Surveying", 
+    "Transportation and public works", 
+    "User charges", 
+    "Water resources development", 
+    "Water rights"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-08-02", 
+    "text": "Colorado River Indian Reservation Boundary Correction Act - Declares that the boundaries of the Colorado River Indian Reservation are the boundaries delineated by the Robbins Survey of 1875 and affirmed by the Harrington Resurvey of 1912 (which include 16,000 acres known as the La Paz lands). Restores to the Reservation all right, title, and interest of the United States to those lands within such boundaries that were excluded from the Reservation pursuant to Executive Order No. 2273 (November 22, 1915), which shall be held in trust by the United States on behalf of the Colorado River Indian Tribes. (Excludes from such restored lands specified Arizona State Lands.) Declares that land taken into trust under this Act shall neither be considered to have been taken into trust for gaming nor be used for gaming."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Colorado River Indian Reservation Boundary Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Colorado River Indian Reservation Boundary Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Colorado River Indian Reservation Boundary Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Colorado River Indian Reservation Boundary Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Colorado River Reservation Boundary Correction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To correct the south boundary of the Colorado River Indian Reservation in Arizona, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:27-05:00"
+}

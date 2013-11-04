@@ -1,0 +1,400 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-05-22", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-05-23", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Aviation", 
+      "text": "Referred to the Subcommittee on Aviation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-06-06", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-06", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2006-06-06T21:05:00-04:00", 
+      "references": [], 
+      "text": "Mr. LaTourette moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-06T21:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3394-3402", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-06T21:05:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5449.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-06T21:49:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-07T18:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3479-3480", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-07T19:07:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 6/06/2006 H3394", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "233", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 271 - 148 (Roll no. 233).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5449-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Aviation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2006-06-06", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2006-06-06", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Case, Ed", 
+      "sponsored_at": "2006-06-06", 
+      "state": "HI", 
+      "thomas_id": "01693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Doggett, Lloyd", 
+      "sponsored_at": "2006-06-06", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2006-06-06", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Harman, Jane", 
+      "sponsored_at": "2006-06-06", 
+      "state": "CA", 
+      "thomas_id": "00502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2006-06-06", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Johnson, Timothy V.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "IL", 
+      "thomas_id": "01648", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "McHugh, John M.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NY", 
+      "thomas_id": "00773", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Pombo, Richard W.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "CA", 
+      "thomas_id": "00921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2006-06-06", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2006-06-06", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2006-06-06", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2006-06-06", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "2006-06-06", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2006-06-07T19:07:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-05-22", 
+  "number": "5449", 
+  "official_title": "To amend title 49, United States Code, to modify bargaining requirements for proposed changes to the personnel management system of the Federal Aviation Administration.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3763-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "14", 
+    "name": "LaTourette, Steven C.", 
+    "state": "OH", 
+    "thomas_id": "00667", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2006-06-07T19:07:00-04:00", 
+  "subjects": [
+    "Air traffic", 
+    "Congress", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Department of Transportation", 
+    "Employee-management relations in government", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "Labor and employment", 
+    "Personnel management", 
+    "Transportation and public works", 
+    "Transportation workers"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2006-05-22", 
+    "text": "Amends federal transportation law to repeal, as of April 1, 2006, provisions prohibiting the Administrator of the Federal Aviation Administration (FAA) from implementing any proposed change to the FAA personnel management system, in cases where the services of the Federal Mediation and Conciliation Service do not lead to an agreement between the Administrator and FAA employees, until 60 days after the Administrator has transmitted the proposed change (along with the objections of the exclusive bargaining representatives to the change, including the reasons for such objections) to Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend title 49, United States Code, to modify bargaining requirements for proposed changes to the personnel management system of the Federal Aviation Administration.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:37-05:00"
+}

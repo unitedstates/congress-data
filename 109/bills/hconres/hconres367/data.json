@@ -1,0 +1,247 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-03-29", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-06-20T12:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T12:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4233-4234", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T12:31:00-04:00", 
+      "bill_ids": [
+        "hcres367-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 367.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T12:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4233", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-06-20T12:31:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-26", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6495", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6495", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-06-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres367-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2006-04-06", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2006-05-10", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, Jo Ann", 
+      "sponsored_at": "2006-05-10", 
+      "state": "VA", 
+      "thomas_id": "01672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2006-05-10", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2006-04-27", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Brad", 
+      "sponsored_at": "2006-03-29", 
+      "state": "NC", 
+      "thomas_id": "01735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "2006-06-08", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "2006-03-29", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "2006-05-03", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-06-20T12:31:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-06-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-03-29", 
+  "number": "367", 
+  "official_title": "Honoring and praising the National Society of the Sons of the American Revolution on the 100th anniversary of being granted its Congressional Charter.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres89-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coble, Howard", 
+    "state": "NC", 
+    "thomas_id": "00211", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2006-06-26", 
+  "subjects": [
+    "American Revolution", 
+    "Anniversaries", 
+    "Commemorations", 
+    "Commerce", 
+    "Congressional tributes", 
+    "Families", 
+    "Federal incorporation", 
+    "Fraternal organizations", 
+    "Government operations and politics", 
+    "History", 
+    "Youth"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2006-06-26", 
+    "text": "Recognizes the 100th anniversary of the historic congressional charter of the National Society of the Sons of the American Revolution (SAR). Honors SAR for its work to perpetuate and honor the memory of the men who fought to gain our freedom during the Revolutionary War and for its devotion to our nation's youth."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring and praising the National Society of the Sons of the American Revolution on the 100th anniversary of being granted its Congressional Charter.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:13-05:00"
+}

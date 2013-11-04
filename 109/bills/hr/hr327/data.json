@@ -1,0 +1,200 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-01-25", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:21:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hayworth moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11149-11150", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:21:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 327.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:25:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11149", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-12-07T14:25:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-12", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-14", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S13594", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-12-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-14", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-12-17", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-12-22", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "147", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-147.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr327-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2005-01-25", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "147"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-12-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-12-07T14:25:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-12-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-01-25", 
+  "number": "327", 
+  "official_title": "To allow binding arbitration clauses to be included in all contracts affecting land within the Gila River Indian Community Reservation.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1482-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "thomas_id": "01708", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-12-22", 
+  "subjects": [
+    "Arizona", 
+    "Commerce", 
+    "Commercial arbitration", 
+    "Contracts", 
+    "Federal-Indian relations", 
+    "Indian lands", 
+    "Law", 
+    "Leases", 
+    "Minorities", 
+    "Native Americans"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-12-22", 
+    "text": "Amends specified federal law to allow binding arbitration clauses to be included in all contracts, including leases (as under current law), affecting the land within the Gila River Indian Community Reservation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To allow binding arbitration clauses to be included in all contracts affecting land within the Gila River Indian Community Reservation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:14-05:00"
+}

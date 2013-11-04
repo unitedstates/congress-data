@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-05-05", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-05-20", 
+      "in_committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "subcommittee": "21st Century Competitiveness", 
+      "text": "Referred to the Subcommittee on 21st Century Competitiveness.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-09-20T14:39:00-04:00", 
+      "references": [], 
+      "text": "Mr. Kline moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20T14:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8111-8112", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20T14:39:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2132.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-20T14:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8111", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-09-20T14:54:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-21", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-09-27", 
+      "references": [
+        {
+          "reference": "CR S10520", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-27", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-09-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-09-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-29", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-09-30", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-09-30", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "78", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-78.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2132-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on 21st Century Competitiveness", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Boehner, John A.", 
+      "sponsored_at": "2005-05-05", 
+      "state": "OH", 
+      "thomas_id": "00102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2005-05-05", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2005-05-05", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2005-05-05", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "78"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-09-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-09-20T14:54:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-09-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-05-05", 
+  "number": "2132", 
+  "official_title": "To extend the waiver authority of the Secretary of Education with respect to student financial assistance during a war or other military operation or national emergency.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Kline, John", 
+    "state": "MN", 
+    "thomas_id": "01733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-09-30", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Armed forces reserves", 
+    "College costs", 
+    "Crime and law enforcement", 
+    "Economics and public finance", 
+    "Education", 
+    "Federal aid to education", 
+    "Higher education", 
+    "International affairs", 
+    "Iraq compilation", 
+    "Military operations", 
+    "National Guard", 
+    "Student aid", 
+    "Student loan funds", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Higher education", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-09-30", 
+    "text": "Amends the Higher Education Relief Opportunities for Students Act of 2003 (P.L. 108-76) to extend through September 30, 2007, the waiver authority of the Secretary of Education with respect to student financial assistance during a war or other military operation or national emergency."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To extend the waiver authority of the Secretary of Education with respect to student financial assistance during a war or other military operation or national emergency.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:06-05:00"
+}

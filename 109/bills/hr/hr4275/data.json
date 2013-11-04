@@ -1,0 +1,220 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-09", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks", 
+      "text": "Referred to the Subcommittee on National Parks.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-05-25", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "National Parks", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Subcommittee on National Parks Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2006-07-10T18:54:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 109-548.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-10T18:54:00-04:00", 
+      "calendar": "Union", 
+      "number": "308", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 308.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2006-09-25T14:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Pearce moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-25T14:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6946-6948", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-25T14:54:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-25T14:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6946-6947", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-09-25T15:00:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-09-26", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-11-13", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4275-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Recreation, and Public Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Fortuno, Luis G.", 
+      "sponsored_at": "2006-05-25", 
+      "state": "PR", 
+      "thomas_id": "01800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-09-25T14:59:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-11-09", 
+  "number": "4275", 
+  "official_title": "To amend Public Law 106-348 to extend the authorization for establishing a memorial in the District of Columbia or its environs to honor veterans who became disabled while serving in the Armed Forces of the United States.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2236-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Kelly, Sue W.", 
+    "state": "NY", 
+    "thomas_id": "00624", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2006-09-25T14:59:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Commemorations", 
+    "Disabled", 
+    "District of Columbia", 
+    "Monuments and memorials", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2006-09-25", 
+    "text": "Extends through October 24, 2015, the authority of the Disabled Veterans' LIFE Memorial Foundation to establish in the District of Columbia or its environs a memorial to honor veterans who became disabled while serving in the Armed Forces."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend Public Law 106-348 to extend the authorization for establishing a memorial in the District of Columbia or its environs to honor veterans who became disabled while serving in the Armed Forces of the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:03-05:00"
+}

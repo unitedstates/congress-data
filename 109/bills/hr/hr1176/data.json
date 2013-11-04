@@ -1,0 +1,348 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-08", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-03-02", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-02", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2006-03-15T23:09:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 109-393.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15T23:09:00-05:00", 
+      "calendar": "Union", 
+      "number": "213", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 213.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2006-12-05T11:23:00-05:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-05T11:24:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8686-8692", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8686-8687", 
+          "type": "text of measure as reported in House"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-05T11:24:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1176.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-05T11:58:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-05T14:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8702-8703", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-12-05T14:45:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "525", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 219 - 187, 1 Present (Roll no. 525).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1176-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Akin, W. Todd", 
+      "sponsored_at": "2005-10-07", 
+      "state": "MO", 
+      "thomas_id": "01655", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2005-05-25", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bradley, Jeb", 
+      "sponsored_at": "2005-06-15", 
+      "state": "NH", 
+      "thomas_id": "01736", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brown-Waite, Ginny", 
+      "sponsored_at": "2005-06-15", 
+      "state": "FL", 
+      "thomas_id": "01713", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2005-06-30", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2005-03-08", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2005-04-12", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "sponsored_at": "2005-05-25", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Drake, Thelma D.", 
+      "sponsored_at": "2005-09-29", 
+      "state": "VA", 
+      "thomas_id": "01808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Green, Mark", 
+      "sponsored_at": "2005-06-30", 
+      "state": "WI", 
+      "thomas_id": "01559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hastings, Doc", 
+      "sponsored_at": "2005-04-12", 
+      "state": "WA", 
+      "thomas_id": "00512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2005-11-08", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Kuhl, John R. \"Randy\", Jr.", 
+      "sponsored_at": "2005-06-15", 
+      "state": "NY", 
+      "thomas_id": "01795", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Musgrave, Marilyn N.", 
+      "sponsored_at": "2005-04-12", 
+      "state": "CO", 
+      "thomas_id": "01711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Osborne, Tom", 
+      "sponsored_at": "2005-04-12", 
+      "state": "NE", 
+      "thomas_id": "01658", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2005-04-12", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2005-04-12", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "2005-04-12", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2006-12-05T14:45:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-03-08", 
+  "number": "1176", 
+  "official_title": "To provide immunity for nonprofit athletic organizations in lawsuits arising from claims of ordinary negligence relating to the passage, adoption, or failure to adopt rules of play for athletic competitions and practices.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s567-109", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Nonprofit Athletic Organization Protection Act of 2006", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Souder, Mark E.", 
+    "state": "IN", 
+    "thomas_id": "01089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2006-12-05T14:45:00-05:00", 
+  "subjects": [
+    "Actions and defenses", 
+    "Athletics", 
+    "Employee training", 
+    "Federal preemption", 
+    "Government operations and politics", 
+    "Labor and employment", 
+    "Law", 
+    "Liability (Law)", 
+    "Licenses", 
+    "Negligence", 
+    "Nonprofit organizations", 
+    "Privileges and immunities", 
+    "Social welfare", 
+    "Sports and recreation", 
+    "State laws"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2006-03-15", 
+    "text": "Nonprofit Athletic Organization Protection Act of 2006 - Exempts a nonprofit athletic organization from liability for harm caused by an act or omission in the adoption of rules of play for sanctioned or approved athletic competitions or practices if: (1) the organization was acting within the scope of its duties; (2) the organization was properly licensed, certified, or authorized for the competition or practice; and (3) the harm was not caused by the organization's willful or criminal misconduct, gross negligence, or reckless misconduct. Makes exceptions where state law: (1) requires such an organization to adhere to risk management procedures, including mandatory training; (2) makes the organization liable for the acts or omissions of its employees, agents, and volunteers to the same extent as an employer is liable for its employees; and (3) makes a limitation of liability inapplicable if the civil action was brought by an officer of a state or local government. ."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Nonprofit Athletic Organization Protection Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Nonprofit Athletic Organization Protection Act of 2006", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide immunity for nonprofit athletic organizations in lawsuits arising from claims of ordinary negligence relating to the passage, adoption, or failure to adopt rules of play for athletic competitions and practices.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:39-05:00"
+}

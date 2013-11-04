@@ -1,0 +1,354 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-02-17", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-03-02T10:21:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (NJ) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02T10:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H854-859", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02T10:21:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 912.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02T10:54:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02T15:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H867-868", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02T15:54:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-02T15:54:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H854", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "43", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0, 1 Present (Roll no. 43).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-03-03", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr912-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2005-03-01", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2005-02-17", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2005-03-01", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Cardoza, Dennis A.", 
+      "sponsored_at": "2005-02-17", 
+      "state": "CA", 
+      "thomas_id": "01709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "2005-02-17", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2005-02-17", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "English, Phil", 
+      "sponsored_at": "2005-03-01", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2005-02-17", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Harris, Katherine", 
+      "sponsored_at": "2005-03-01", 
+      "state": "FL", 
+      "thomas_id": "01714", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "2005-03-01", 
+      "state": "IL", 
+      "thomas_id": "00580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "2005-02-17", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Kuhl, John R. \"Randy\", Jr.", 
+      "sponsored_at": "2005-03-01", 
+      "state": "NY", 
+      "thomas_id": "01795", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2005-02-17", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2005-02-17", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2005-02-17", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Porter, Jon C.", 
+      "sponsored_at": "2005-02-17", 
+      "state": "NV", 
+      "thomas_id": "01739", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2005-02-17", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2005-02-17", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2005-02-17", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-03-02T15:54:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-02-17", 
+  "number": "912", 
+  "official_title": "To ensure the protection of beneficiaries of United States humanitarian assistance.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Humanitarian Assistance Code of Conduct Act of 2005", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Delahunt, William D.", 
+    "state": "MA", 
+    "thomas_id": "01480", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2005-03-02T15:54:00-05:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "Charities", 
+    "Child sexual abuse", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Crime and law enforcement", 
+    "Disaster relief", 
+    "Disciplining of employees", 
+    "Dismissal of employees", 
+    "Economic assistance", 
+    "Emergency management", 
+    "Employee crimes", 
+    "Ethics", 
+    "Families", 
+    "Food relief", 
+    "Immigration", 
+    "International affairs", 
+    "International relief", 
+    "Labor and employment", 
+    "Nongovernmental organizations", 
+    "Prostitution", 
+    "Refugees", 
+    "Sex crimes", 
+    "Sexual harassment", 
+    "Social welfare", 
+    "Whistle blowing", 
+    "Women"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2005-03-02", 
+    "text": "Humanitarian Assistance Code of Conduct Act of 2005 - Prohibits the obligation of specified funds for foreign operations, export financing, and related programs to an organization that fails to adopt a code of conduct that provides for the protection of beneficiaries of assistance from sexual exploitation and abuse in humanitarian relief operations. Requires the code of conduct, to the maximum extent practicable, to be consistent with the following six core principles of the United Nations (UN) Inter-Agency Standing Committee Task Force on Protection From Sexual Exploitation and Abuse in Humanitarian Crises: (1) sexual exploitation and abuse by humanitarian workers constitute acts of gross misconduct and are therefore grounds for termination of employment; (2) sexual activity with children (persons under the age of 18) is prohibited regardless of the local age of majority or consent; (3) exchange of money, employment, goods, or services for sex, including sexual favors or other forms of humiliating or exploitative behavior, is prohibited; (4) sexual relationships between humanitarian workers and beneficiaries are strongly discouraged; (5) where a humanitarian worker develops concerns or suspicions regarding sexual abuse or exploitation by a fellow worker he or she must report such concerns via established agency reporting mechanisms; and (6) humanitarian agencies are obliged to maintain an environment which prevents sexual exploitation and abuse and promotes the implementation of their code of conduct."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Humanitarian Assistance Code of Conduct Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Humanitarian Assistance Code of Conduct Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To ensure the protection of beneficiaries of United States humanitarian assistance.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:31-05:00"
+}

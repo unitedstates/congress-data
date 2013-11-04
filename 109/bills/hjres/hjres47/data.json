@@ -1,0 +1,183 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-04-28T23:59:00-04:00", 
+      "bill_ids": [
+        "hcres95-109"
+      ], 
+      "how": "by special rule", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "text": "Passed House pursuant to rule XXVII and H. Con. Res. 95", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-05-09", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "references": [], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-15", 
+      "references": [
+        {
+          "reference": "CR S2184-2195", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "references": [
+        {
+          "reference": "CR S2236-2241", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "54", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 54.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-16", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-03-17", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-03-20", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2006-03-20", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "182", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-182.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s3131-109", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "3131"
+    }
+  ], 
+  "bill_id": "hjres47-109", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "182"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2006-03-20", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-04-28T23:59:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-03-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-05-02", 
+  "number": "47", 
+  "official_title": "Increasing the statutory limit on the public debt.", 
+  "popular_title": "Debt Limit Increase resolution", 
+  "related_bills": [
+    {
+      "bill_id": "hconres95-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hconres95-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": null, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2006-03-20", 
+  "subjects": [
+    "Debt limit", 
+    "Economics and public finance", 
+    "Public debt"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2006-03-20", 
+    "text": "Amends federal law to increase the statutory limit on the public debt from $8.184 trillion to $8.965 trillion."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Debt Limit Increase resolution", 
+      "type": "popular"
+    }, 
+    {
+      "as": null, 
+      "title": "Increased Public Debt resolution", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Increasing the statutory limit on the public debt.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:35-05:00"
+}

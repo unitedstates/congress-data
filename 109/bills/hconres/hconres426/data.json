@@ -1,0 +1,234 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-06-12", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-06-15", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-15", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2006-06-20T16:47:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 109-511.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-20T16:47:00-04:00", 
+      "calendar": "House", 
+      "number": "197", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 197.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2006-06-21T11:58:00-04:00", 
+      "references": [], 
+      "text": "Mr. Deal (GA) moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21T11:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4357-4359", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21T11:58:00-04:00", 
+      "bill_ids": [
+        "hcres426-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 426.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-21T12:14:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4357", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-06-21T12:14:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-22", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-06-23", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-06-29", 
+      "references": [], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-06-29", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7180-7181", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-06-29", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres426-109", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "15", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2006-06-12", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-06-21T12:14:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-06-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-06-12", 
+  "number": "426", 
+  "official_title": "Recognizing the Food and Drug Administration of the Department of Health and Human Services on the occasion of the 100th anniversary of the passage of the Food and Drugs Act for the important service it provides to the Nation.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2006-06-29", 
+  "subjects": [
+    "Agriculture and food", 
+    "Anniversaries", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Department of Health and Human Services", 
+    "Drug approvals", 
+    "Federal employees", 
+    "Food and Drug Administration (FDA)", 
+    "Food safety", 
+    "Government operations and politics", 
+    "Health", 
+    "Health promotion", 
+    "Legislation", 
+    "Public health"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2006-06-29", 
+    "text": "Recognizes the Food and Drug Administration (FDA) for: (1) 100 years of service in working to ensure the safety of food and medical products; (2) providing leadership to the world in the regulatory sciences; and (3) its hard work and extraordinary dedication to the protection and promotion of the nation's public health."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the Food and Drug Administration of the Department of Health and Human Services on the occasion of the 100th anniversary of the passage of the Food and Drugs Act for the important service it provides to the Nation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:15-05:00"
+}

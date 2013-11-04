@@ -1,0 +1,268 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-07-24", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-07-25T10:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Herger moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-25T10:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5694-5696", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-25T10:41:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5865.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-25T10:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5694", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-07-25T10:57:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-25", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-26", 
+      "references": [
+        {
+          "reference": "CR S8216-8217", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-26", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-07-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-26T17:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Herger asked unanimous consent that the House agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-26T17:29:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H5902", 
+          "type": "text as House agreed to Senate amendment"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-07-26T17:29:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-07-26", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-07-27", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2006-07-27", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2006-07-27", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "250", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-250.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4695-109", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4695"
+    }
+  ], 
+  "bill_id": "hr5865-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "250"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2006-07-27", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-07-26T17:29:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-07-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-07-24", 
+  "number": "5865", 
+  "official_title": "To amend section 1113 of the Social Security Act to temporarily increase funding for the program of temporary assistance for United States citizens returned from foreign countries, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5869-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Returned Americans Protection Act of 2006", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2006-07-27", 
+  "subjects": [
+    "Agriculture and food", 
+    "Americans in foreign countries", 
+    "Arab-Israeli conflict", 
+    "Armed forces and national security", 
+    "Child support", 
+    "Congressional reporting requirements", 
+    "Cost accounting", 
+    "Directories", 
+    "Economics and public finance", 
+    "Emergency housing", 
+    "Emergency management", 
+    "Employee selection", 
+    "Evacuation of civilians", 
+    "Families", 
+    "Federal-state relations", 
+    "Food stamps", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Governmental investigations", 
+    "Housing and community development", 
+    "Immigration", 
+    "International affairs", 
+    "Labor and employment", 
+    "Lebanon", 
+    "Middle East and North Africa", 
+    "Paternity", 
+    "Repatriation", 
+    "Social security numbers", 
+    "Social welfare", 
+    "Transportation and public works", 
+    "Travel costs"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2006-07-27", 
+    "text": "(This measure has not been amended since it was passed by the Senate on July 26, 2006. The summary of that version is repeated here.) Amends title XI of the Social Security Act (SSA) with respect to the authority of the Secretary of Health and Human Services to provide temporary assistance to U.S. citizens and their dependents if they: (1) are identified by the Department of State as having returned, or been brought, from a foreign country to the United States because of the citizen's destitution or the citizen's or a dependent's illness, or because of war, threat of war, invasion, or similar crisis; and (2) are without available resources. Increases from $1 million to $6 million the maximum total amount of such temporary assistance provided during FY2006. Amends SSA title IV part D (Child Support and Establishment of Paternity) to provide that if a state agency responsible for administration of the food stamp program under the Food Stamp Act of 1977 transmits to the Secretary of Health and Human Services the names and Social Security account numbers of individuals, the Secretary shall disclose to the state agency information on them and their employers maintained in the National Directory of New Hires. Requires the Secretary to make such a disclosure only to the extent that it would not interfere with the effective operation of the child support and establishment of paternity program. Prohibits a state agency from disclosing information provided under this Act except for purposes for administering a food stamp program. Prescribes data security and control policies and establishes a penalty for misuse of information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Returned Americans Protection Act of 2006", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Returned Americans Protection Act of 2006", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend section 1113 of the Social Security Act to temporarily increase funding for the program of temporary assistance for United States citizens returned from foreign countries, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:48-05:00"
+}

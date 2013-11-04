@@ -1,0 +1,258 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-09", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-03-16", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-03", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Water and Power", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Subcommittee on Water and Power Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2005-12-06T15:48:00-05:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Resources. H. Rept. 109-321.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-12-06T15:48:00-05:00", 
+      "calendar": "Union", 
+      "number": "175", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 175.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2006-03-08T10:30:00-05:00", 
+      "references": [], 
+      "text": "Mr. Gohmert moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T10:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H651-652", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T10:31:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1190.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-08T10:33:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H652", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-03-08T10:33:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-03-09", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1190-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "50", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "2005-10-07", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2005-09-28", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2005-10-18", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-03-08T10:33:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-03-09", 
+  "number": "1190", 
+  "official_title": "To direct the Secretary of the Interior to conduct a feasibility study to design and construct a four reservoir intertie system for the purposes of improving the water storage opportunities, water supply reliability, and water yield of San Vicente, El Capitan, Murray, and Loveland Reservoirs in San Diego County, California in consultation and cooperation with the City of San Diego and the Sweetwater Authority, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "San Diego Water Storage and Efficiency Act of 2005", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Hunter, Duncan", 
+    "state": "CA", 
+    "thomas_id": "00575", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2006-03-08T10:33:00-05:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "California", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Construction costs", 
+    "Economic impact statements", 
+    "Economics and public finance", 
+    "Environmental assessment", 
+    "Environmental protection", 
+    "Federal aid to water resources development", 
+    "Federal-local relations", 
+    "Government operations and politics", 
+    "Governmental investigations", 
+    "Hydraulic engineering", 
+    "Infrastructure", 
+    "Intergovernmental fiscal relations", 
+    "Irrigation", 
+    "Maintenance and repair", 
+    "Reservoirs", 
+    "Water resources development", 
+    "Water storage", 
+    "Water supply"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2006-03-08", 
+    "text": "San Diego Water Storage and Efficiency Act of 2005 - Authorizes the Secretary of the Interior, in cooperation with the City of San Diego and the Sweetwater Authority, to undertake a study to determine the feasibility of constructing a four reservoir intertie system to improve water storage opportunities, water supply reliability, and water yield of the existing non-federal water storage system. Directs that the feasibility study: (1) document the Secretary's engineering, environmental, and economic investigation of the proposed reservoir and intertie project, taking into consideration the needs of and potential benefits to the area; and (2) indicate whether the proposed project is recommended. Limits the federal cost share and total federal costs. Directs the Secretary to: (1) consult and cooperate with appropriate state, regional, and local authorities; and (2) submit to Congress a feasibility report and seek specific authority to develop and construct any recommended project. Requires such report to include: (1) good faith letters of intent by the City, the Authority, and its nonfederal partners to indicate that they have committed to share allocated costs; and (2) a schedule identifying the annual operation, maintenance, and replacement costs that should be allocated to the City and the Authority, as well as the current and expected financial capability to pay operation, maintenance, and replacement costs. Terminates the Secretary's authority to carry out this Act 10 years after its enactment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "San Diego Water Storage and Efficiency Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "San Diego Water Storage and Efficiency Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "San Diego Water Storage and Efficiency Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To direct the Secretary of the Interior to conduct a feasibility study to design and construct a four reservoir intertie system for the purposes of improving the water storage opportunities, water supply reliability, and water yield of San Vicente, El Capitan, Murray, and Loveland Reservoirs in San Diego County, California in consultation and cooperation with the City of San Diego and the Sweetwater Authority, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:39-05:00"
+}

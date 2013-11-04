@@ -1,0 +1,300 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-03-16", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-03-16T21:43:00-05:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16T21:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1599-1604", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16T21:43:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1332.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-16T22:29:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1599", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-03-16T22:29:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-17", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-03-20", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1332-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2005-03-16", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cannon, Chris", 
+      "sponsored_at": "2005-03-16", 
+      "state": "UT", 
+      "thomas_id": "01470", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2005-03-16", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2005-03-16", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Feeney, Tom", 
+      "sponsored_at": "2005-03-16", 
+      "state": "FL", 
+      "thomas_id": "01716", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Franks, Trent", 
+      "sponsored_at": "2005-03-16", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hostettler, John N.", 
+      "sponsored_at": "2005-03-16", 
+      "state": "IN", 
+      "thomas_id": "00562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Jenkins, William L.", 
+      "sponsored_at": "2005-03-16", 
+      "state": "TN", 
+      "thomas_id": "01494", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Keller, Ric", 
+      "sponsored_at": "2005-03-16", 
+      "state": "FL", 
+      "thomas_id": "01644", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "King, Steve", 
+      "sponsored_at": "2005-03-16", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lungren, Daniel E.", 
+      "sponsored_at": "2005-03-16", 
+      "state": "CA", 
+      "thomas_id": "00717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pence, Mike", 
+      "sponsored_at": "2005-03-16", 
+      "state": "IN", 
+      "thomas_id": "01649", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "2005-03-16", 
+      "state": "FL", 
+      "thomas_id": "01215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-03-16T22:29:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-03-16", 
+  "number": "1332", 
+  "official_title": "To amend title 28, United States Code, to provide for the removal to Federal court of certain State court cases involving the rights of incapacitated persons, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1151-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1334-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr1334-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s539-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s539-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s653-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s686-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Protection of Incapacitated Persons Act of 2005", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2005-03-16T22:29:00-05:00", 
+  "subjects": [
+    "Actions and defenses", 
+    "Civil rights and liberties, minority issues", 
+    "Constitutional law", 
+    "District courts", 
+    "Families", 
+    "Government operations and politics", 
+    "Health", 
+    "Jurisdiction", 
+    "Law", 
+    "Living wills", 
+    "Parents", 
+    "Parties to actions", 
+    "Right to die", 
+    "State courts", 
+    "Terminal care"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2005-03-16", 
+    "text": "Protection of Incapacitated Persons Act of 2005 - Amends the Federal judicial code to authorize an incapacitated person (person), or the person's next friend, to remove to the U.S. district court, for the district in which it arose or was heard, within 30 days after available State remedies have been exhausted, any claim or cause of action in which the State court authorizes or directs the withholding or withdrawal of food or fluids or medical treatment necessary to sustain the person's life. Defines: (1) incapacitated person as a born individual presently incapable of making relevant decisions concerning the provision, withholding, or withdrawal of food, fluids or medical treatment under applicable law; and (2) next friend as an individual who has some significant relationship with the real party in interest, including a parent. Exempts from such removal authority any claim or cause of action in which no party disputes, and the court finds, that the incapacitated person, while having capacity, had executed a written advance directive valid under applicable law that clearly authorized the withholding or withdrawal of food or fluids or medical treatment in the applicable circumstances. Requires the U.S. district court, in hearing and determining such a claim or cause of action removed under this Act, to consider only whether authorizing or directing the withholding or withdrawal of food or fluids or medical treatment necessary to sustain the person's life constitutes a deprivation of any right, privilege, or immunity secured by the Constitution or laws of the United States. Declares that: (1) the court shall determine any such claim or cause of action de novo; and (2) no bar or limitation based on abstention, res judicata, collateral estoppel, procedural default, or any other doctrine of issue or claim preclusion shall apply."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Protection of Incapacitated Persons Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 28, United States Code, to provide for the removal to Federal court of certain State court cases involving the rights of incapacitated persons, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:44-05:00"
+}

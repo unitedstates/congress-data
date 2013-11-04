@@ -1,0 +1,300 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-12", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-14", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-20", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2005-07-27T10:02:00-04:00", 
+      "calendar": "Union", 
+      "number": "116", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 116.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2005-07-27T10:02:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-192.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-27T11:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-27T11:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6668-6671", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-27T11:49:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3204.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-27T12:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6668-6669", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-07-27T12:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-28", 
+      "calendar": "Senate Legislative", 
+      "number": "181", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2005-10-19", 
+      "references": [
+        {
+          "reference": "CR S11597-11598", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-10-19", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-10-20", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2142-109", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2142"
+    }
+  ], 
+  "bill_id": "hr3204-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Jindal, Bobby", 
+      "sponsored_at": "2005-07-19", 
+      "state": "LA", 
+      "thomas_id": "01785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2005-07-12", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-07-27T12:07:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-10-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-07-12", 
+  "number": "3204", 
+  "official_title": "To amend title XXVII of the Public Health Service Act to extend Federal funding for the establishment and operation of State high risk health insurance pools.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4519-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s288-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s288-109", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s288-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "State High Risk Pool Funding Extension Act of 2005", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Shadegg, John B.", 
+    "state": "AZ", 
+    "thomas_id": "01043", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2005-10-19", 
+  "subjects": [
+    "Appropriations", 
+    "Authorization", 
+    "Case management", 
+    "Coinsurance", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Department of Health and Human Services", 
+    "Economics and public finance", 
+    "Finance and financial sector", 
+    "Government insurance", 
+    "Government operations and politics", 
+    "Grants-in-aid", 
+    "Health", 
+    "Health insurance", 
+    "Insurance premiums", 
+    "Losses", 
+    "Medically uninsured", 
+    "Standards", 
+    "Subsidies"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2005-10-19", 
+    "text": "State High Risk Pool Funding Extension Act of 2005 - (Sec. 2) Amends the Public Health Service Act to reauthorize funds for grants to each state that has not created a qualified high risk pool for the state's cost to create and initially operate such a pool. Increases the maximum allowable premium charged under a qualified high risk pool to 200% of the premium for applicable standard risk rates. Defines \"standard risk rate\" as a rate that: (1) is determined under the state high risk pool by considering the premiums charged by other health insurers in the same market; (2) is established using reasonable actuarial techniques; and (3) reflects anticipated claims experience and expenses. Permits grants awarded by the Secretary of Health and Human Services to states with existing qualified high risk pools to cover operating losses to be made to entities that operate such a pool under applicable state law. Changes the allocation of such grants to give 40% to eligible states equally, 30% based on the number of uninsured individuals in a state relative to all states, and 30% based on the number of enrollees in a state's qualified high risk pool relative to all states. (Currently, all funds are allotted based solely on the number of uninsured individuals in the state.) Requires a state which charges premiums that exceed 150% of the premium for applicable standard risk to use at least 50% of the grant amount to reduce premiums for enrollees. Limits the maximum grant amount allotted to territories. Requires the Secretary to award grants to states with qualified high risk pools for the provision of supplemental consumer benefits, which must include one or more of the following: (1) low-income premium subsidies; (2) a reduction in premium trends, actual premiums, or other cost-sharing requirements; (3) an expansion or broadening of the pool of individuals eligible for coverage; (4) less stringent rules or additional waiver authority with respect to coverage of preexisting conditions; (5) increased benefits; or (6) establishment of disease management programs. Limits to 10% of appropriated funds the amount that any state may be allotted. Authorizes appropriations for FY2006-FY2010 and appropriates funds for FY 2006. Sets forth reporting requirements. Revises the definition of \"qualified high risk pool\" to allow a state to elect to meet the requirement to provide all eligible individuals with health insurance coverage by utilizing an acceptable alternative mechanism that includes a high risk pool as a component."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "State High Risk Pool Funding Extension Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "State High Risk Pool Funding Extension Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "State High Risk Pool Funding Extension Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "State High Risk Pool Funding Extension Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title XXVII of the Public Health Service Act to extend Federal funding for the establishment and operation of State high risk health insurance pools.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:36-05:00"
+}

@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "2006-02-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S459", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S459", 
+          "type": "text as passed Senate"
+        }, 
+        {
+          "reference": "CR S454", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2006-02-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-07T14:02:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-07", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2006-02-15T10:20:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hyde moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-15T10:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H280-288", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-15T10:21:00-05:00", 
+      "bill_ids": [
+        "scres79-109"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 79.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-15T10:54:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-15T17:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H297-298", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2006-02-15T18:10:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H280", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "10", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 10).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2006-02-15T18:10:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres79-109", 
+  "bill_type": "sconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Brownback, Sam", 
+      "sponsored_at": "2006-02-01", 
+      "state": "KS", 
+      "thomas_id": "00137", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2006-02-01", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2006-03-01", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "2006-02-01", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lieberman, Joseph I.", 
+      "sponsored_at": "2006-02-01", 
+      "state": "CT", 
+      "thomas_id": "01385", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Talent, Jim", 
+      "sponsored_at": "2006-02-01", 
+      "state": "MO", 
+      "thomas_id": "01135", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Voinovich, George V.", 
+      "sponsored_at": "2006-02-01", 
+      "state": "OH", 
+      "thomas_id": "01575", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2006-02-15T18:10:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2006-02-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2006-02-01", 
+  "number": "79", 
+  "official_title": "A concurrent resolution expressing the sense of Congress that no United States assistance should be provided directly to the Palestinian Authority if any representative political party holding a majority of parliamentary seats within the Palestinian Authority maintains a position calling for the destruction of Israel.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2006-02-15T18:10:00-05:00", 
+  "subjects": [
+    "Economic assistance", 
+    "Government operations and politics", 
+    "International affairs", 
+    "Israel", 
+    "Legislative bodies", 
+    "Legislators", 
+    "Middle East and North Africa", 
+    "Palestinians", 
+    "Parliamentary government", 
+    "Political parties", 
+    "Sovereignty"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2006-02-15", 
+    "text": "Expresses the sense of Congress that no U.S. assistance should be provided directly to the Palestinian Authority (PA) if any representative political party holding a majority of parliamentary seats within the PA maintains a position calling for the destruction of Israel."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution expressing the sense of Congress that no United States assistance should be provided directly to the Palestinian Authority if any representative political party holding a majority of parliamentary seats within the Palestinian Authority maintains a position calling for the destruction of Israel.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:32-05:00"
+}

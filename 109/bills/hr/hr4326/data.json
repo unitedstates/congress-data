@@ -1,0 +1,232 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-11-15", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-11-16T13:25:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Davis, Jo Ann moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16T13:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10330-10332", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16T13:26:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4326.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16T13:39:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10330-10331", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-11-16T13:39:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-16", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR 11/17/2005 S13282", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-11-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-11-19", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-11-19", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "104", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-104.", 
+      "type": "enacted"
+    }, 
+    {
+      "acted_at": "2005-11-30", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Projection Forces", 
+      "text": "Referred to the Subcommittee on Projection Forces.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4326-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Projection Forces", 
+      "subcommittee_id": "30"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Drake, Thelma D.", 
+      "sponsored_at": "2005-11-16", 
+      "state": "VA", 
+      "thomas_id": "01808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2005-11-16", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2005-11-15", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "104"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-11-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-11-16T13:39:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-11-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-11-15", 
+  "number": "4326", 
+  "official_title": "To authorize the Secretary of the Navy to enter into a contract for the nuclear refueling and complex overhaul of the U.S.S. Carl Vinson (CVN-70).", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Davis, Jo Ann", 
+    "state": "VA", 
+    "thomas_id": "01672", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-11-19", 
+  "subjects": [
+    "Appropriations", 
+    "Armed forces and national security", 
+    "Defense budgets", 
+    "Defense contracts", 
+    "Defense procurement", 
+    "Economics and public finance", 
+    "Energy", 
+    "Government operations and politics", 
+    "Navy", 
+    "Nuclear fuels", 
+    "Shipbuilding", 
+    "Warships"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-11-19", 
+    "text": "Authorizes the Secretary of the Navy to enter into a contract for the nuclear refueling and complex overhaul of the U.S.S. Carl Vinson. Places a limit of $89 million on FY2006 funds that may be so used. Allows additional amounts to be obligated for such work for FY2006 only to the extent authority is expressly provided by law, and funds are appropriated by law, for such obligations. Provides conditions on subsequent contract payments. Allows such contract without regard to new spending prohibitions contained in P.L. 109-77 (making continuing appropriations for FY2006)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize the Secretary of the Navy to enter into a contract for the nuclear refueling and complex overhaul of the U.S.S. Carl Vinson (CVN-70).", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:05-05:00"
+}

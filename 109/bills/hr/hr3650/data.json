@@ -1,0 +1,262 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-09-06", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-09-07T16:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-07T16:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7689-7692", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-07T16:31:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3650.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-07T16:43:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-07T17:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7695-7696", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-07T17:31:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7689-7690", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "456", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 456).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-09-07T17:31:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9774-9776", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-09-08", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-09-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-09-08", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-09-09", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-09-09", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "63", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-63.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3650-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "28", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2005-09-06", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2005-09-06", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "sponsored_at": "2005-09-06", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2005-09-06", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "63"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-09-09", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-09-07T17:31:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-09-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-09-06", 
+  "number": "3650", 
+  "official_title": "To allow United States courts to conduct business during emergency conditions, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1634-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Federal Judiciary Emergency Special Sessions Act of 2005", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-09-09", 
+  "subjects": [
+    "Administration of justice", 
+    "Appellate courts", 
+    "Bankruptcy courts", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "District courts", 
+    "Emergency management", 
+    "Finance and financial sector", 
+    "Hurricane aftermath legislation", 
+    "Judicial districts", 
+    "Juries", 
+    "Law", 
+    "Magistrates"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-09-09", 
+    "text": "Federal Judiciary Emergency Special Sessions Act of 2005 - Allows federal circuit courts of appeals, district courts, bankruptcy courts, and magistrate judges to hold special sessions outside their circuits or districts upon a finding by a chief judge or judicial council that, because of emergency conditions, no location within the courts' regular circuits or districts is reasonably available. Authorizes such courts to transact any business, except certain district court criminal proceedings, at a special session outside their circuits or districts which they might transact at a regular session. Requires special session courts, through the Administrative Office of the U.S. Courts, to notify the Judiciary Committees of Congress of any order issued in a special session. Requires the Administrative Office to report to such congressional committees describing the reasons for the issuance of a special session order, the duration of such order, the impact of such order on litigants, and the costs to the judiciary resulting from such order. Requires special session courts to provide reasonable notice to the U.S. Marshals Service before the commencement of any special session. Prohibits a criminal trial from being conducted at a special session outside the state in which the crime was committed unless the defendant consents to trial outside the state. Restricts criminal jury pools to the district in which a crime was committed unless the defendant consents to be tried by jurors from the district in which the trial court is holding a special session."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Federal Judiciary Emergency Special Sessions Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Federal Judiciary Emergency Special Sessions Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Federal Judiciary Emergency Special Sessions Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Federal Judiciary Emergency Special Sessions Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To allow United States courts to conduct business during emergency conditions, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:46-05:00"
+}

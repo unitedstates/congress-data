@@ -1,0 +1,328 @@
+{
+  "actions": [
+    {
+      "acted_at": "2005-07-25", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-26T18:41:00-04:00", 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26T18:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6510-6511", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26T18:42:00-04:00", 
+      "references": [], 
+      "text": "Mr. Deal (GA) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-26T18:46:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H6510-6511", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2005-07-26T18:46:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9196-9197", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2005-07-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-07-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2005-07-29", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2005-08-01", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2005-08-01", 
+      "congress": "109", 
+      "law": "public", 
+      "number": "43", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 109-43.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3423-109", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "109", 
+  "cosponsors": [
+    {
+      "district": "45", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "2005-07-25", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2005-07-25", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2005-07-25", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Ferguson, Mike", 
+      "sponsored_at": "2005-07-25", 
+      "state": "NJ", 
+      "thomas_id": "01659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Inslee, Jay", 
+      "sponsored_at": "2005-07-26", 
+      "state": "WA", 
+      "thomas_id": "00584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "2005-07-25", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2005-07-25", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Strickland, Ted", 
+      "sponsored_at": "2005-07-25", 
+      "state": "OH", 
+      "thomas_id": "01118", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2005-07-25", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2005-07-25", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "109", 
+    "law_type": "public", 
+    "number": "43"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2005-08-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2005-07-26T18:46:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2005-07-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2005-07-25", 
+  "number": "3423", 
+  "official_title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to medical device user fees.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1420-109", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1420-109", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Medical Device User Fee Stabilization Act of 2005", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Pitts, Joseph R.", 
+    "state": "PA", 
+    "thomas_id": "01514", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2005-08-01", 
+  "subjects": [
+    "Administrative procedure", 
+    "Appropriations", 
+    "Biomedical engineering", 
+    "Collection of accounts", 
+    "Commerce", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Department of Health and Human Services", 
+    "Economics and public finance", 
+    "Food and Drug Administration (FDA)", 
+    "Government operations and politics", 
+    "Government publicity", 
+    "Health", 
+    "Identification devices", 
+    "Labeling", 
+    "Law", 
+    "Medical supplies", 
+    "Medical technology", 
+    "Science, technology, communications", 
+    "Small business", 
+    "User charges"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2005-08-01", 
+    "text": "Medical Device User Fee Stabilization Act of 2005 - Amends the Federal Food, Drug, and Cosmetic Act to adjust medical device user fees (e.g., premarket application, premarket report, supplement, and submission fees). Repeals the fee revenue target amounts for FY2006 and FY2007. Eliminates the inflation, workload, compensating, and final year adjustments of revenues used for setting fees. Sets the premarket application fee for devices for FY2006 and FY2007. Allows the Secretary of Health and Human Services to use unobligated carryover balances from fees collected in previous fiscal years with notice to the appropriate congressional committees. Increases the annual gross receipts or sales threshold below which businesses are eligible for reduced fees or a waiver of fees by the Secretary. Removes the prohibition against the Secretary assessing fees unless certain cumulative fee revenues were met for FY2003 through 2006. Requires the Secretary to include in annual reports to Congress: (1) information on the number and total amount of fees paid for each different type of application or notification from small businesses; and (2) a certification that the amounts obligated for the performance of functions other than the review of device applications is not less than such amount for FY2002 multiplied by the adjustment factor. Deems as branded any reprocessed single use device unless it identifies the manufacturer, but allows such information to be provided by a detachable label intended to be affixed to the medical record of a patient."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Medical Device User Fee Stabilization Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Medical Device User Fee Stabilization Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Medical Device User Fee Stabilization Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Medical Device User Fee Stabilization Act of 2005", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Federal Food, Drug, and Cosmetic Act with respect to medical device user fees.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:41-05:00"
+}
