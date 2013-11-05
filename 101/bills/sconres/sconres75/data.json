@@ -1,0 +1,223 @@
+{
+  "actions": [
+    {
+      "acted_at": "1989-10-05", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1989-10-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-10-10T14:43:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-10-10", 
+      "committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "text": "Referred to the House Committee on Post Office and Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-10-11", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "subcommittee": "Census and Population", 
+      "text": "Referred to the Subcommittee on Census and Population.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-10-11T12:45:00-04:00", 
+      "references": [], 
+      "text": "Committee on Post Office and Civil Service discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-10-11T19:26:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sawyer asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-10-11T19:26:00-04:00", 
+      "references": [], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-10-11T19:32:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1989-10-11T19:32:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres75-101", 
+  "bill_type": "sconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO", 
+      "subcommittee": "Subcommittee on Census and Population", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Biden, Joseph R., Jr.", 
+      "sponsored_at": "1989-10-05", 
+      "state": "DE", 
+      "thomas_id": "01284", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durenberger, Dave", 
+      "sponsored_at": "1989-10-05", 
+      "state": "MN", 
+      "thomas_id": "01321", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Helms, Jesse", 
+      "sponsored_at": "1989-10-05", 
+      "state": "NC", 
+      "thomas_id": "01359", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moynihan, Daniel Patrick", 
+      "sponsored_at": "1989-10-05", 
+      "state": "NY", 
+      "thomas_id": "01407", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pressler, Larry", 
+      "sponsored_at": "1989-10-05", 
+      "state": "SD", 
+      "thomas_id": "00927", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanford, Terry", 
+      "sponsored_at": "1989-10-05", 
+      "state": "NC", 
+      "thomas_id": "01427", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sarbanes, Paul S.", 
+      "sponsored_at": "1989-10-05", 
+      "state": "MD", 
+      "thomas_id": "01017", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Simon, Paul", 
+      "sponsored_at": "1989-10-05", 
+      "state": "IL", 
+      "thomas_id": "01059", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1989-10-11T19:32:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1989-10-05", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1989-10-05", 
+  "number": "75", 
+  "official_title": "A concurrent resolution to congratulate His Holiness the XIV Dalai Lama of Tibet for being awarded the 1989 Nobel Peace Prize.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Pell, Claiborne", 
+    "state": "RI", 
+    "thomas_id": "01417", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1989-10-11T19:32:00-04:00", 
+  "subjects": [
+    "Awards, medals, prizes", 
+    "Clergy", 
+    "Congressional tributes", 
+    "International affairs", 
+    "Peace", 
+    "Tibet"
+  ], 
+  "subjects_top_term": "Congressional tributes", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1989-10-05", 
+    "text": "Congratulates the Dalai Lama of Tibet for being awarded the 1989 Nobel Peace Prize."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution to congratulate His Holiness the XIV Dalai Lama of Tibet for being awarded the 1989 Nobel Peace Prize.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:09:52-05:00"
+}

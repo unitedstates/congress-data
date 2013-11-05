@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "1990-03-08", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-03-08", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-03-13", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Human Resources", 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-03-21", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health and the Environment", 
+      "text": "Referred to the Subcommittee on Health and the Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-04-04", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Human Resources", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-04-05", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Human Resources", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-11-05", 
+      "bill_ids": [
+        "hr5835-101"
+      ], 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "See H.R.5835.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4229-101", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health and Environment", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": "25", 
+      "name": "Andrews, Michael", 
+      "sponsored_at": "1990-03-08", 
+      "state": "TX", 
+      "thomas_id": "00020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Coyne, William J.", 
+      "sponsored_at": "1990-03-08", 
+      "state": "PA", 
+      "thomas_id": "00245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E.", 
+      "sponsored_at": "1990-03-08", 
+      "state": "TN", 
+      "thomas_id": "00400", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennelly, Barbara B.", 
+      "sponsored_at": "1990-03-08", 
+      "state": "CT", 
+      "thomas_id": "00628", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "1990-03-08", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Pease, Donald J.", 
+      "sponsored_at": "1990-03-08", 
+      "state": "OH", 
+      "thomas_id": "00904", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pickett, Owen B.", 
+      "sponsored_at": "1990-07-26", 
+      "state": "VA", 
+      "thomas_id": "00916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "1990-06-20", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1990-03-08", 
+  "number": "4229", 
+  "official_title": "To make miscellaneous amendments to certain human resources programs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5835-101", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Miscellaneous Human Resource Amendments of 1990", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Downey, Thomas J.", 
+    "state": "NY", 
+    "thomas_id": "00314", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1990-03-08", 
+  "subjects": [
+    "Aid to dependent children", 
+    "Child support", 
+    "Compensation for victims of crime", 
+    "Congressional reporting requirements", 
+    "Disability evaluation", 
+    "Disabled", 
+    "Foster home care", 
+    "Government trust funds", 
+    "Health", 
+    "Income tax", 
+    "Information services", 
+    "Maternal and infant welfare", 
+    "Medicaid", 
+    "Old age, survivors and disability insurance", 
+    "Public assistance programs", 
+    "School personnel", 
+    "Social security eligibility", 
+    "Social welfare", 
+    "Supplemental security income program", 
+    "Tax refunds", 
+    "Unemployment insurance"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1990-03-08", 
+    "text": "Miscellaneous Human Resource Amendments of 1990 - Title I: Child Welfare and Foster Care Provisions - Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to require the Secretary of Health and Human Services to annually provide specified information to the Congress and the public concerning the Foster Care and Adoption Assistance program and the Child Welfare Services program (part B of title IV of the Social Security Act). Prohibits the Secretary from penalizing States under such programs before FY 1992 by reason of a determination made in connection with any triennial review of State compliance with foster care protections. Title II: Supplemental Security Income Provisions - Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to increase SSI benefits. Directs the Secretary to annually notify all elderly individuals and disabled individuals who are recipients of benefits under title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act and may be or could become eligible for SSI benefits of the availability of SSI benefits and provide such notice to individuals when they attain age 65, apply for OASDI disability benefits before attaining age 65, and are notified of their eligibility for benefits under part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act. Establishes a presumption that a child under age four with a genetic or congenital impairment is disabled or blind for SSI purposes if it is probable that when the child is older the application of clinical and laboratory techniques will prove such to be the case. Directs the Secretary to prescribe final regulations by January 1, 1991, concerning revisions to specified listings of childhood mental and emotional disorders. Requires the Secretary to: (1) consider age-appropriate medical and functional criteria developed by experts in childhood disability in reviewing and revising medical criteria for the evaluation of impairments of children; and (2) publish revised listings of impairments of children and explain deviations from the recommendations of experts within 24 months of this Act's enactment. Preserves the Medicaid (title XIX of the Social Security Act) eligibility of certain individuals rendered ineligible for SSI or State supplementary payments due to their receipt of weekly or biweekly income. Reduces the SSI benefits of a person who is living in another person's household and receiving support and maintenance in kind from such person by the lesser of 33 1/3 percent or the amount of such in-kind income. Excludes amounts received from a State fund to aid victims of crime from an individual's income and resources for SSI purposes. Prohibits the denial of SSI benefits to individuals by reason of their rejection of amounts offered as compensation for a crime. Title III: Child Support Enforcement Provisions - Amends part D (Child Support and Establishment of Paternity) of title IV of the Social Security Act to extend the authority of States to request the withholding of Federal tax refunds from persons owing past-due child support from January 1, 1991, to January 10, 1996. Makes the collection of past-due support from Federal tax refunds applicable to past-due support owed to anyone who was determined to be disabled under the OASDI or SSI programs when he or she was a minor. Extends, from four to 12 months, the period of continuing Medicaid coverage provided to a family which loses eligibility under part A (Aid to Families with Dependent Children) of title IV of the Social Security Act due to the collection or increased collection of child support under part D. Title IV: Unemployment Provisions - Amends the Internal Revenue Code to institute discretionary denial of unemployment benefits between academic terms to employees serving educational institutions in nonprofessional positions. (Under current law denial is mandatory.) Amends title IX (Employment Security) of the Social Security Act to make permanent a limitation on State use of Unemployment Trust Fund amounts for administrative purposes. Title V: Technical Corrections to 1989 Reconciliation Act - Makes technical corrections to the Omnibus Budget Reconciliation Act of 1989 and the Social Security Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Miscellaneous Human Resource Amendments of 1990", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To make miscellaneous amendments to certain human resources programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:08:33-05:00"
+}

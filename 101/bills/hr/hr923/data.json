@@ -1,0 +1,232 @@
+{
+  "actions": [
+    {
+      "acted_at": "1989-02-07", 
+      "committee": "House Committee on Public Works + Transportation", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Public Works + Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-02-21", 
+      "in_committee": "House Committee on Public Works + Transportation", 
+      "references": [], 
+      "subcommittee": "Water Resources", 
+      "text": "Referred to the Subcommittee on Water Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-05-11T12:30:00-04:00", 
+      "references": [], 
+      "text": "Committee on Public Works + Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-05-11T13:32:00-04:00", 
+      "references": [], 
+      "text": "Mr. Anderson asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-05-11T13:34:00-04:00", 
+      "references": [], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-05-11T13:34:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1989-05-11T13:34:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-05-16", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-06-23", 
+      "references": [], 
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-06-23", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1989-06-23", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1989-06-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-06-28", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-06-28", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1989-07-06", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1989-07-06", 
+      "congress": "101", 
+      "law": "public", 
+      "number": "51", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 101-51.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr923-101", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Public Works and Transportation", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Public Works and Transportation", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Brooks, Jack B.", 
+      "sponsored_at": "1989-05-02", 
+      "state": "TX", 
+      "thomas_id": "00127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hayes, James A.", 
+      "sponsored_at": "1989-04-12", 
+      "state": "LA", 
+      "thomas_id": "00517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "101", 
+    "law_type": "public", 
+    "number": "51"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1989-07-06", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1989-05-11T13:34:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1989-06-23", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1989-02-07", 
+  "number": "923", 
+  "official_title": "To redesignate the Federal hydropower generating facilities located at Dam B on the Neches River at Town Bluff, Texas, as the \"Robert Douglas Willis Hydropower Project\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s757-101", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s757-101", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wilson, Charles", 
+    "state": "TX", 
+    "thomas_id": "01232", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1989-07-06", 
+  "subjects": [
+    "Dams", 
+    "Energy", 
+    "Hydroelectric power", 
+    "Names", 
+    "Texas"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1989-02-07", 
+    "text": "Redesignates the Federal hydropower generating facilities located at Dam B on the Neches River at Town Bluff, Texas, as the Robert Douglas Willis Hydropower Project."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To redesignate the Federal hydropower generating facilities located at Dam B on the Neches River at Town Bluff, Texas, as the \"Robert Douglas Willis Hydropower Project\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:06:56-05:00"
+}

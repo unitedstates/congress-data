@@ -1,0 +1,640 @@
+{
+  "actions": [
+    {
+      "acted_at": "1990-04-02", 
+      "committee": "Committee on Banking", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-05-02", 
+      "in_committee": "Committee on Banking", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Banking. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1990-05-08", 
+      "references": [], 
+      "text": "Committee on Banking. Reported to Senate by Senator Riegle with an amendment in the nature of a substitute and an amendment to the title. Without written report.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-05-08", 
+      "calendar": "Senate Legislative", 
+      "number": "537", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1990-05-22", 
+      "references": [], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-05-22", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment and an amendment to the Title by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1990-05-24T10:10:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-05-24T10:11:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-05-24", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s1682-101", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1682"
+    }
+  ], 
+  "bill_id": "s2388-101", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Adams, Brock", 
+      "sponsored_at": "1990-04-26", 
+      "state": "WA", 
+      "thomas_id": "00005", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bentsen, Lloyd M.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "TX", 
+      "thomas_id": "01282", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bond, Christopher S.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "MO", 
+      "thomas_id": "01286", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bradley, Bill", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NJ", 
+      "thomas_id": "01289", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bryan, Richard H.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NV", 
+      "thomas_id": "01293", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bumpers, Dale", 
+      "sponsored_at": "1990-04-26", 
+      "state": "AR", 
+      "thomas_id": "01295", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burdick, Quentin N.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "ND", 
+      "thomas_id": "01297", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burns, Conrad R.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "MT", 
+      "thomas_id": "01298", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Conrad, Kent", 
+      "sponsored_at": "1990-04-26", 
+      "state": "ND", 
+      "thomas_id": "01307", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "D'Amato, Alfonse", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NY", 
+      "thomas_id": "01313", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daschle, Thomas A.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "SD", 
+      "thomas_id": "00267", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "DeConcini, Dennis", 
+      "sponsored_at": "1990-04-26", 
+      "state": "AZ", 
+      "thomas_id": "01315", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dixon, Alan J.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "IL", 
+      "thomas_id": "01317", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dodd, Christopher J.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "CT", 
+      "thomas_id": "00302", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durenberger, Dave", 
+      "sponsored_at": "1990-04-26", 
+      "state": "MN", 
+      "thomas_id": "01321", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Exon, J. James", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NE", 
+      "thomas_id": "01328", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Ford, Wendell H.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "KY", 
+      "thomas_id": "01334", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fowler, Wyche, Jr.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "GA", 
+      "thomas_id": "00405", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Garn, E. J. (Jake)", 
+      "sponsored_at": "1990-04-26", 
+      "state": "UT", 
+      "thomas_id": "01338", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Glenn, John H., Jr.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "OH", 
+      "thomas_id": "01339", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Graham, Bob", 
+      "sponsored_at": "1990-04-26", 
+      "state": "FL", 
+      "thomas_id": "01342", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gramm, Phil", 
+      "sponsored_at": "1990-04-26", 
+      "state": "TX", 
+      "thomas_id": "00453", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "1990-04-26", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinz, John", 
+      "sponsored_at": "1990-04-26", 
+      "state": "PA", 
+      "thomas_id": "00528", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hollings, Ernest F.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "SC", 
+      "thomas_id": "01361", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnston, J. Bennett", 
+      "sponsored_at": "1990-04-26", 
+      "state": "LA", 
+      "thomas_id": "01373", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kassebaum, Nancy Landon", 
+      "sponsored_at": "1990-04-26", 
+      "state": "KS", 
+      "thomas_id": "01375", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kennedy, Edward M.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "MA", 
+      "thomas_id": "01377", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "1990-04-27", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kohl, Herb", 
+      "sponsored_at": "1990-04-26", 
+      "state": "WI", 
+      "thomas_id": "01380", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lieberman, Joseph I.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "CT", 
+      "thomas_id": "01385", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lott, Trent", 
+      "sponsored_at": "1990-04-26", 
+      "state": "MS", 
+      "thomas_id": "00707", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mack, Connie, III", 
+      "sponsored_at": "1990-04-26", 
+      "state": "FL", 
+      "thomas_id": "00721", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Metzenbaum, Howard M.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "OH", 
+      "thomas_id": "01400", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pell, Claiborne", 
+      "sponsored_at": "1990-04-26", 
+      "state": "RI", 
+      "thomas_id": "01417", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, David H.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "AR", 
+      "thomas_id": "01420", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Riegle, Donald W., Jr.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "MI", 
+      "thomas_id": "00961", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Robb, Charles S.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "VA", 
+      "thomas_id": "01423", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Roth Jr., William V.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "DE", 
+      "thomas_id": "01425", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanford, Terry", 
+      "sponsored_at": "1990-04-26", 
+      "state": "NC", 
+      "thomas_id": "01427", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sarbanes, Paul S.", 
+      "sponsored_at": "1990-04-27", 
+      "state": "MD", 
+      "thomas_id": "01017", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shelby, Richard C.", 
+      "sponsored_at": "1990-04-26", 
+      "state": "AL", 
+      "thomas_id": "01049", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Simon, Paul", 
+      "sponsored_at": "1990-04-27", 
+      "state": "IL", 
+      "thomas_id": "01059", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Specter, Arlen", 
+      "sponsored_at": "1990-04-26", 
+      "state": "PA", 
+      "thomas_id": "01437", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wilson, Pete", 
+      "sponsored_at": "1990-04-25", 
+      "state": "CA", 
+      "thomas_id": "01456", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wirth, Timothy", 
+      "sponsored_at": "1990-04-26", 
+      "state": "CO", 
+      "thomas_id": "01236", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1990-05-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1990-04-02", 
+  "number": "2388", 
+  "official_title": "A bill to provide for the striking of medals in commemoration of the Centennial of Yosemite National Park.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3182-101", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Coin Act of 1990", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cranston, Alan", 
+    "state": "CA", 
+    "thomas_id": "01311", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "1990-05-22", 
+  "subjects": [
+    "Anniversaries", 
+    "Bicentennial of the Constitution", 
+    "California", 
+    "Coins and coinage", 
+    "Government procurement", 
+    "Law", 
+    "Money", 
+    "National parks", 
+    "Public debt", 
+    "Silver", 
+    "Trails", 
+    "Trees"
+  ], 
+  "subjects_top_term": "Money", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1990-05-22", 
+    "text": "Coin Act of 1990 - Title I: Yosemite Centennial Medals - Yosemite National Park Centennial Medal Act - Directs the Secretary of the Treasury to strike and sell medals in commemoration of the centennial of Yosemite National Park, California, in 1990. Requires that all sales of such medals include a surcharge of $2 each. Requires that all surcharges be paid to an endowment fund for the benefit of the Park to be administered by the National Park Foundation. Requires that the net income from the fund be paid to the Secretary of the Interior to fund special supplemental projects relating to back country trail development and rehabilitation and the preservation of Sequoia groves within the boundaries of the Park. Requires the Secretaries to enter into a memorandum of agreement to allow: (1) the Secretary of the Treasury to deliver medals to the Secretary of the Interior; and (2) the Secretary of the Interior to provide for the sale of the medals in National Park facilities. Grants the Comptroller General the right to examine all records of the National Park Foundation which are related to such medals. Title II: General Provisions - Amends Federal law to: (1) change the design on the reverse side of certain coins; (2) authorize the redesign of one or more coins at one time (requires the first designated coin to have a design commemorating the two hundredth anniversary of the United States Constitution for a two-year period, after which such coin shall be redesigned again); and (3) require the design on the obverse side of such coins to contain the likenesses of those currently displayed, although these shall also be considered for redesign. Directs the Secretary of the Treasury in selecting the new design to consider thematic representations of certain defined constitutional concepts. Amends Federal law to require the Secretary to deposit in the general fund of the Treasury any profits received from the sale of uncirculated and proof sets of coins for reduction of the national debt. Title III: Silver Proof Sets - Silver Coin Proof Sets - Amends Federal law to require the Secretary to mint and sell silver coin proof sets to the public. Declares such coins legal tender. Waives application of procurement and public contract law (except equal employment opportunity law) to procurement of goods and services to carry out this title."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Yosemite National Park Centennial Medal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Coin Act of 1990", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Yosemite National Park Centennial Medal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Coin Act of 1990", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Silver Coin Proof Sets", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Yosemite National Park Centennial Medal Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to provide for the striking of medals in commemoration of the Centennial of Yosemite National Park.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:05:58-05:00"
+}

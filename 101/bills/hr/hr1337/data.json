@@ -1,0 +1,789 @@
+{
+  "actions": [
+    {
+      "acted_at": "1989-03-09", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-03-14", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Executive Comment Requested from DOD.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-03-14", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Research and Development", 
+      "text": "Referred to the Subcommittee on Research and Development.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1337-101", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Research and Development", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "1989-05-18", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "1989-05-31", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Atkins, Chester G.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "MA", 
+      "thomas_id": "00034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bates, Jim", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CA", 
+      "thomas_id": "00065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "1989-07-18", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Brooks, Jack B.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "TX", 
+      "thomas_id": "00127", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Brown, George E., Jr.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "CA", 
+      "thomas_id": "00134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Bryant, John W.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "TX", 
+      "thomas_id": "00142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, William (Bill)", 
+      "sponsored_at": "1989-03-23", 
+      "state": "MO", 
+      "thomas_id": "00203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clement, Bob", 
+      "sponsored_at": "1989-05-18", 
+      "state": "TN", 
+      "thomas_id": "00205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Collins, Cardiss", 
+      "sponsored_at": "1989-03-23", 
+      "state": "IL", 
+      "thomas_id": "00220", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dellums, Ronald V.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CA", 
+      "thomas_id": "00284", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dorgan, Byron L.", 
+      "sponsored_at": "1989-05-31", 
+      "state": "ND", 
+      "thomas_id": "00308", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Downey, Thomas J.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "NY", 
+      "thomas_id": "00314", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "1989-03-23", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Eckart, Dennis E.", 
+      "sponsored_at": "1989-05-31", 
+      "state": "OH", 
+      "thomas_id": "00331", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "1989-05-03", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fauntroy, Walter E.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "DC", 
+      "thomas_id": "00372", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ford, William D.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "MI", 
+      "thomas_id": "00401", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1989-03-23", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Frenzel, Bill", 
+      "sponsored_at": "1989-03-23", 
+      "state": "MN", 
+      "thomas_id": "00415", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Garcia, Robert", 
+      "sponsored_at": "1989-04-26", 
+      "state": "NY", 
+      "thomas_id": "00429", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "1989-05-18", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Green, S. William", 
+      "sponsored_at": "1989-03-23", 
+      "state": "NY", 
+      "thomas_id": "00463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Hawkins, Augustus F.", 
+      "sponsored_at": "1989-06-07", 
+      "state": "CA", 
+      "thomas_id": "00515", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Henry, Paul B.", 
+      "sponsored_at": "1989-06-07", 
+      "state": "MI", 
+      "thomas_id": "00532", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hopkins, Larry J.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "KY", 
+      "thomas_id": "00557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Jacobs, Andrew, Jr.", 
+      "sponsored_at": "1989-05-09", 
+      "state": "IN", 
+      "thomas_id": "00589", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Johnston, Harry", 
+      "sponsored_at": "1989-04-26", 
+      "state": "FL", 
+      "thomas_id": "00606", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Jontz, Jim", 
+      "sponsored_at": "1989-06-15", 
+      "state": "IN", 
+      "thomas_id": "00613", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kennedy, Joseph P., II", 
+      "sponsored_at": "1989-04-26", 
+      "state": "MA", 
+      "thomas_id": "00626", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "1989-04-26", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "1989-05-03", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Machtley, Ronald K.", 
+      "sponsored_at": "1989-05-03", 
+      "state": "RI", 
+      "thomas_id": "00720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "1989-07-17", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "1989-04-26", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "1989-05-18", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Mineta, Norman Y.", 
+      "sponsored_at": "1989-05-18", 
+      "state": "CA", 
+      "thomas_id": "00812", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Moody, Jim", 
+      "sponsored_at": "1989-03-23", 
+      "state": "WI", 
+      "thomas_id": "00828", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Morrison, Bruce A.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CT", 
+      "thomas_id": "00835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mrazek, Robert J.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "NY", 
+      "thomas_id": "00840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Owens, Wayne", 
+      "sponsored_at": "1989-03-23", 
+      "state": "UT", 
+      "thomas_id": "00884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Patterson, Elizabeth", 
+      "sponsored_at": "1989-05-18", 
+      "state": "SC", 
+      "thomas_id": "00897", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "1989-05-18", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Penny, Timothy J.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "MN", 
+      "thomas_id": "00906", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Porter, John Edward", 
+      "sponsored_at": "1989-04-26", 
+      "state": "IL", 
+      "thomas_id": "00923", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "1989-06-22", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "1989-05-31", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ravenel, Arthur, Jr.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "SC", 
+      "thomas_id": "00947", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Ridge, Thomas J.", 
+      "sponsored_at": "1989-05-18", 
+      "state": "PA", 
+      "thomas_id": "00960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Sangmeister, George E.", 
+      "sponsored_at": "1989-06-07", 
+      "state": "IL", 
+      "thomas_id": "01013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Schneider, Claudine", 
+      "sponsored_at": "1989-05-09", 
+      "state": "RI", 
+      "thomas_id": "01032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Skaggs, David E.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CO", 
+      "thomas_id": "01062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1989-03-23", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Studds, Gerry E.", 
+      "sponsored_at": "1989-06-15", 
+      "state": "MA", 
+      "thomas_id": "01121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Synar, Mike", 
+      "sponsored_at": "1989-06-15", 
+      "state": "OK", 
+      "thomas_id": "01133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Torres, Estaban Edward", 
+      "sponsored_at": "1989-03-23", 
+      "state": "CA", 
+      "thomas_id": "01162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1989-04-26", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Morris K.", 
+      "sponsored_at": "1989-03-23", 
+      "state": "AZ", 
+      "thomas_id": "01173", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1989-04-26", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Walgren, Doug", 
+      "sponsored_at": "1989-05-09", 
+      "state": "PA", 
+      "thomas_id": "01195", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "1989-05-09", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Weiss, Ted", 
+      "sponsored_at": "1989-04-26", 
+      "state": "NY", 
+      "thomas_id": "01213", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Williams, Pat", 
+      "sponsored_at": "1989-05-18", 
+      "state": "MT", 
+      "thomas_id": "01231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1989-03-09", 
+  "number": "1337", 
+  "official_title": "To provide for a calendar and detailed schedule of events in the B-2 Advanced Technology Bomber program for the purpose of advising Congress in a timely fashion of pertinent unclassified data about the program, consistent with the national security of the United States.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Bennett, Charles E.", 
+    "state": "FL", 
+    "thomas_id": "00077", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1989-03-09", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Bomber aircraft", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Defense budgets", 
+    "Stealth aircraft"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1989-03-09", 
+    "text": "Prohibits the obligation of funds for the B-2 Advanced Technology Bomber Program until the Secretary of Defense reports to the Congress on the following information with respect to the program: (1) total cost, including cost estimates and budget requests for future fiscal years; (2) production schedules; (3) test programs; and (4) the Secretary's views regarding the missions and purposes of such aircraft."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide for a calendar and detailed schedule of events in the B-2 Advanced Technology Bomber program for the purpose of advising Congress in a timely fashion of pertinent unclassified data about the program, consistent with the national security of the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:07:09-05:00"
+}

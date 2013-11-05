@@ -1,0 +1,216 @@
+{
+  "actions": [
+    {
+      "acted_at": "1989-05-16", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-05-17", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "subcommittee": "Libraries and Memorials", 
+      "text": "Referred to the Subcommittee on Libraries and Memorials.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1989-05-17", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Libraries and Memorials", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-05-17", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Libraries and Memorials", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-06-07", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-06-07", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1989-07-12T17:28:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on House Administration. H. Rept. 101-134.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-07-12T17:28:00-04:00", 
+      "calendar": "Union", 
+      "number": "91", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 91.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1989-09-12T13:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Clay moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-09-12T13:49:00-04:00", 
+      "references": [], 
+      "text": "The chair announced that a second on the motion to suspend the rules is not required.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-09-12T13:49:00-04:00", 
+      "references": [], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-09-12T13:49:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-09-12T13:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1989-09-12T13:54:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1989-09-12T13:56:00-04:00", 
+      "bill_ids": [
+        "s1075-101"
+      ], 
+      "references": [], 
+      "text": "Laid on the table. See S. 1075 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2346-101", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA", 
+      "subcommittee": "Subcommittee on Libraries and Memorials", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1989-05-16", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "1989-05-16", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1989-09-12T13:54:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1989-05-16", 
+  "number": "2346", 
+  "official_title": "To authorize appropriations for the American Folklife Center for fiscal years 1990, 1991, and 1992.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1075-101", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clay, William (Bill)", 
+    "state": "MO", 
+    "thomas_id": "00203", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1989-09-12T13:54:00-04:00", 
+  "subjects": [
+    "American studies", 
+    "Arts, culture, religion", 
+    "Authorization", 
+    "Congressional agencies", 
+    "Cultural centers", 
+    "Libraries", 
+    "Research centers", 
+    "Social life and customs"
+  ], 
+  "subjects_top_term": "Arts, culture, religion", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1989-05-16", 
+    "text": "Amends the American Folklife Preservation Act to authorize appropriations for the American Folklife Center in the Library of Congress for FY 1990 through 1992."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize appropriations for the American Folklife Center for fiscal years 1990, 1991, and 1992.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:07:36-05:00"
+}

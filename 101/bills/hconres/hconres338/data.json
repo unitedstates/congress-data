@@ -1,0 +1,184 @@
+{
+  "actions": [
+    {
+      "acted_at": "1990-06-05", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-06-12", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "subcommittee": "Procurement and Printing", 
+      "text": "Referred to the Subcommittee on Procurement and Printing.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-06-13", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Procurement and Printing", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-06-13", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Procurement and Printing", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-08-04T02:30:00-04:00", 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-08-04T02:44:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1990-08-04T02:44:00-04:00", 
+      "references": [], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-08-04T02:44:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bates asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-08-04T02:44:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-08-04", 
+      "committee": "Committee on Rules", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Rules.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-09-18", 
+      "references": [], 
+      "text": "Senate Committee on Rules discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-09-18", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1990-09-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres338-101", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA", 
+      "subcommittee": "Subcommittee on Procurement and Printing", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1990-08-04T02:44:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1990-09-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1990-06-05", 
+  "number": "338", 
+  "official_title": "Authorizing the printing of the proceedings of the bicentennial research conference entitled \"Understanding Congress\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Boggs, Corinne C. (Lindy)", 
+    "state": "LA", 
+    "thomas_id": "00103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1990-09-18", 
+  "subjects": [
+    "Conferences", 
+    "Congress", 
+    "Congressional agencies", 
+    "Congressional publications", 
+    "House of Representatives", 
+    "Research"
+  ], 
+  "subjects_top_term": "House of Representatives", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1990-06-05", 
+    "text": "Directs that the proceedings of the bicentennial research conference entitled \"Understanding Congress\" (prepared by the Congressional Research Service of the Library of Congress) be printed as a House document."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the printing of the proceedings of the bicentennial research conference entitled \"Understanding Congress\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:09:29-05:00"
+}

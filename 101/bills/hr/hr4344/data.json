@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "1990-03-21", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-03-21", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-03-26", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-04-18", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health and the Environment", 
+      "text": "Referred to the Subcommittee on Health and the Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-04-18", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Commerce, Consumer Protection and Competitiveness", 
+      "text": "Referred to the Subcommittee on Commerce, Consumer Protection and Competitiveness.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-06-07", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health and the Environment", 
+      "references": [], 
+      "text": "Joint Hearings Held by the Subcommittee on Health and the Environment and by the Subcommittee on Commerce, Consumer Protection, and Competitiveness.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-06-07", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Commerce, Consumer Protection and Competitiveness", 
+      "references": [], 
+      "text": "Joint Hearings Held by the Subcommittee on Commerce, Consumer Protection, and Competitiveness and by the Subcommittee on Health and the Environment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-11-05", 
+      "bill_ids": [
+        "hr5835-101"
+      ], 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "See H.R.5835.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1990-11-05", 
+      "bill_ids": [
+        "hr5835-101"
+      ], 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "For Further Action See H.R.5835.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4344-101", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health and Environment", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Consumer Protection, and Competitiveness", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1990-09-12", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hayes, Charles A.", 
+      "sponsored_at": "1990-05-08", 
+      "state": "IL", 
+      "thomas_id": "00516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Machtley, Ronald K.", 
+      "sponsored_at": "1990-09-26", 
+      "state": "RI", 
+      "thomas_id": "00720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1990-03-21", 
+  "number": "4344", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide increased protection against fraud and abuse with respect to the marketing and selling of medicare supplemental policies, to establish a grant program for establishing toll-free hotlines to provide individuals with information concerning medicare supplemental insurance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5835-101", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Medigap Fraud and Abuse Prevention Act of 1990", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Oakar, Mary Rose", 
+    "state": "OH", 
+    "thomas_id": "00875", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1990-03-21", 
+  "subjects": [
+    "Congressional reporting requirements", 
+    "Consumer education", 
+    "Crime and law enforcement", 
+    "Deceptive advertising", 
+    "Fines (Penalties)", 
+    "Grants-in-aid", 
+    "Health", 
+    "Health insurance", 
+    "Information services", 
+    "Insurance premiums", 
+    "Medicaid", 
+    "Medicare", 
+    "Medicare fraud", 
+    "Public assistance programs", 
+    "Sales promotion", 
+    "Social welfare", 
+    "Standards", 
+    "Telephone"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1990-03-21", 
+    "text": "Medigap Fraud and Abuse Prevention Act of 1990 - Amends title XVIII (Medicare) of the Social Security Act to increase: (1) the maximum civil penalty which may be imposed on agents who use fraudulent and deceptive practices to sell Medicare supplemental insurance policies; and (2) the percentage of premiums which must be returned to policyholders as benefits. Forbids agents from knowingly selling policies that duplicate a beneficiary's current coverage in any way. Requires States to establish a process for approving or disapproving proposed policy premium increases. Requires that Medicare supplemental insurance policies submit, at least annually, premium and benefit information to the State in which they are issued. Directs the Secretary of Health and Human Services to provide matching grants to States which: (1) meet specified requirements for the establishment of a toll-free telephone hotlines providing individuals with Medicare supplemental insurance information; and (2) disseminate an educational brochure which summarizes the hotline's features."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Medigap Fraud and Abuse Prevention Act of 1990", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title XVIII of the Social Security Act to provide increased protection against fraud and abuse with respect to the marketing and selling of medicare supplemental policies, to establish a grant program for establishing toll-free hotlines to provide individuals with information concerning medicare supplemental insurance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:08:36-05:00"
+}

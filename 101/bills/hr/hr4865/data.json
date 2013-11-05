@@ -1,0 +1,681 @@
+{
+  "actions": [
+    {
+      "acted_at": "1990-05-17", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-05-17", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-05-22", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1990-05-29", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health and the Environment", 
+      "text": "Referred to the Subcommittee on Health and the Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4865-101", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health and Environment", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "101", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Bentley, Helen Delich", 
+      "sponsored_at": "1990-06-28", 
+      "state": "MD", 
+      "thomas_id": "00078", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "1990-09-06", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1990-09-06", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "1990-05-17", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Bruce, Terry L.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "IL", 
+      "thomas_id": "00140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Conte, Silvio O.", 
+      "sponsored_at": "1990-09-06", 
+      "state": "MA", 
+      "thomas_id": "00228", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Crockett, George W., Jr.", 
+      "sponsored_at": "1990-09-06", 
+      "state": "MI", 
+      "thomas_id": "00252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Donnelly, Brian J.", 
+      "sponsored_at": "1990-05-17", 
+      "state": "MA", 
+      "thomas_id": "00304", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Downey, Thomas J.", 
+      "sponsored_at": "1990-05-17", 
+      "state": "NY", 
+      "thomas_id": "00314", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dwyer, Bernard J.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "NJ", 
+      "thomas_id": "00327", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Dyson, Roy", 
+      "sponsored_at": "1990-10-10", 
+      "state": "MD", 
+      "thomas_id": "00329", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Bill", 
+      "sponsored_at": "1990-07-20", 
+      "state": "MO", 
+      "thomas_id": "00342", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "1990-10-18", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Fascell, Dante B.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "FL", 
+      "thomas_id": "00370", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Fish, Hamilton, Jr.", 
+      "sponsored_at": "1990-09-21", 
+      "state": "NY", 
+      "thomas_id": "00384", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1990-09-06", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E.", 
+      "sponsored_at": "1990-09-21", 
+      "state": "TN", 
+      "thomas_id": "00400", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1990-06-28", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1990-06-28", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Green, S. William", 
+      "sponsored_at": "1990-06-28", 
+      "state": "NY", 
+      "thomas_id": "00463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hochbrueckner, George J.", 
+      "sponsored_at": "1990-07-20", 
+      "state": "NY", 
+      "thomas_id": "00546", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Horton, Frank J.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "NY", 
+      "thomas_id": "00560", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "James, Craig T.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "FL", 
+      "thomas_id": "00590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "1990-05-24", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kolter, Joseph P.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "PA", 
+      "thomas_id": "00646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lewis, Thomas F.", 
+      "sponsored_at": "1990-07-20", 
+      "state": "FL", 
+      "thomas_id": "00690", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lloyd, Marilyn", 
+      "sponsored_at": "1990-05-17", 
+      "state": "TN", 
+      "thomas_id": "00698", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Long, Jill L.", 
+      "sponsored_at": "1990-05-17", 
+      "state": "IN", 
+      "thomas_id": "00705", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Machtley, Ronald K.", 
+      "sponsored_at": "1990-09-28", 
+      "state": "RI", 
+      "thomas_id": "00720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1990-09-06", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Martin, Lynn M.", 
+      "sponsored_at": "1990-05-24", 
+      "state": "IL", 
+      "thomas_id": "00742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "1990-05-24", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "1990-09-21", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Meyers, Jan", 
+      "sponsored_at": "1990-09-06", 
+      "state": "KS", 
+      "thomas_id": "00794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "1990-09-06", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Morrison, Bruce A.", 
+      "sponsored_at": "1990-09-28", 
+      "state": "CT", 
+      "thomas_id": "00835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Oakar, Mary Rose", 
+      "sponsored_at": "1990-05-17", 
+      "state": "OH", 
+      "thomas_id": "00875", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Owens, Wayne", 
+      "sponsored_at": "1990-06-28", 
+      "state": "UT", 
+      "thomas_id": "00884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Panetta, Leon", 
+      "sponsored_at": "1990-07-20", 
+      "state": "CA", 
+      "thomas_id": "00888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "1990-05-17", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "1990-05-24", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Penny, Timothy J.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "MN", 
+      "thomas_id": "00906", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "1990-06-28", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "1990-05-24", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ravenel, Arthur, Jr.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "SC", 
+      "thomas_id": "00947", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rinaldo, Matthew J.", 
+      "sponsored_at": "1990-05-17", 
+      "state": "NJ", 
+      "thomas_id": "00963", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Roe, Robert A.", 
+      "sponsored_at": "1990-09-06", 
+      "state": "NJ", 
+      "thomas_id": "00974", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Roybal, Edward R.", 
+      "sponsored_at": "1990-05-24", 
+      "state": "CA", 
+      "thomas_id": "00996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Saiki, Patricia", 
+      "sponsored_at": "1990-05-17", 
+      "state": "HI", 
+      "thomas_id": "01008", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Schneider, Claudine", 
+      "sponsored_at": "1990-07-20", 
+      "state": "RI", 
+      "thomas_id": "01032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schroeder, Patricia", 
+      "sponsored_at": "1990-05-17", 
+      "state": "CO", 
+      "thomas_id": "01033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "1990-05-24", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "1990-09-21", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1990-06-28", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Smith, Peter", 
+      "sponsored_at": "1990-09-06", 
+      "state": "VT", 
+      "thomas_id": "01081", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Solarz, Stephen J.", 
+      "sponsored_at": "1990-06-28", 
+      "state": "NY", 
+      "thomas_id": "01087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Staggers, Harley O., Jr.", 
+      "sponsored_at": "1990-05-17", 
+      "state": "WV", 
+      "thomas_id": "01095", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Tauke, Thomas Joseph", 
+      "sponsored_at": "1990-07-20", 
+      "state": "IA", 
+      "thomas_id": "01139", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Unsoeld, Jolene", 
+      "sponsored_at": "1990-05-17", 
+      "state": "WA", 
+      "thomas_id": "01176", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Vucanovich, Barbara F.", 
+      "sponsored_at": "1990-05-17", 
+      "state": "NV", 
+      "thomas_id": "01190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Whittaker, Bob", 
+      "sponsored_at": "1990-06-28", 
+      "state": "KS", 
+      "thomas_id": "01224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1990-05-17", 
+  "number": "4865", 
+  "official_title": "To amend title XVIII of the Social Security Act to provide for coverage of bone mass measurements for certain individuals under part B of the medicare program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2619-101", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Medicare Bone Mass Measurement Coverage Act of 1990", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Snowe, Olympia J.", 
+    "state": "ME", 
+    "thomas_id": "01085", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1990-05-17", 
+  "subjects": [
+    "Bone diseases", 
+    "Health", 
+    "Medical tests", 
+    "Medicare", 
+    "Osteoporosis", 
+    "Social welfare", 
+    "X-rays"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1990-05-17", 
+    "text": "Medicare Bone Mass Measurement Coverage Act of 1990 - Amends title XVIII (Medicare) of the Social Security Act to provide Medicare coverage of bone mass measurements."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Medicare Bone Mass Measurement Coverage Act of 1990", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title XVIII of the Social Security Act to provide for coverage of bone mass measurements for certain individuals under part B of the medicare program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:08:50-05:00"
+}
