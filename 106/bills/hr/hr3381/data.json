@@ -1,0 +1,261 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-16", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-17T12:41:00-05:00", 
+      "references": [], 
+      "text": "Mr. Gilman moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T12:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12146-12147", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T12:41:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3381.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T12:49:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H12146", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-11-17T12:49:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S14923", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-12-09", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-12-09", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "158", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-158.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3381-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "1999-11-16", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1999-11-16", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "1999-11-16", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "158"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-12-09", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-11-17T12:49:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-11-16", 
+  "number": "3381", 
+  "official_title": "To reauthorize the Overseas Private Investment Corporation and the Trade and Development Agency, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1993-106", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s688-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Export Enhancement Act of 1999", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Manzullo, Donald A.", 
+    "state": "IL", 
+    "thomas_id": "00733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-12-09", 
+  "subjects": [
+    "American economic assistance", 
+    "American investments", 
+    "Authorization", 
+    "Automobile industry", 
+    "Commerce", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Developing countries", 
+    "Economics and public finance", 
+    "Energy", 
+    "Energy industries", 
+    "Environmental assessment", 
+    "Environmental auditing", 
+    "Environmental protection", 
+    "Executive reorganization", 
+    "Federal officials", 
+    "Federal-state relations", 
+    "Finance and financial sector", 
+    "Foreign trade and international finance", 
+    "Foreign trade promotion", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "International affairs", 
+    "Investment guaranty insurance", 
+    "Marketing research", 
+    "Nongovernmental organizations", 
+    "Overseas Private Investment Corporation", 
+    "Presidential appointments", 
+    "Public meetings of administrative bodies", 
+    "Public-private partnerships", 
+    "Science, technology, communications", 
+    "Strategic planning", 
+    "Telecommunication industry", 
+    "Trade and Development Agency", 
+    "Trade fairs", 
+    "Transportation and public works", 
+    "Waste in government spending"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-11-16", 
+    "text": "Export Enhancement Act of 1999 - Amends the Foreign Assistance Act of 1961 to extend through FY 2003 the Overseas Private Investment Corporation's (OPIC) authority to issue investment insurance and guarantees.(Sec. 3) Revises certain OPIC requirements to prohibit the OPIC Board of Directors from voting in favor of any proposed action likely to have significant adverse environmental impacts that are sensitive, diverse, or unprecedented, unless: (1) an environmental impact assessment or initial environmental audit has been completed by the project applicant and made available to the Board of Directors; and (2) such assessment or audit has been made available to the U.S. public, locally affected groups in the host country, and host country nongovernmental organizations. Requires OPIC in conjunction with each Board of Directors' meeting to hold a public hearing in order to afford an opportunity for any person to present views regarding OPIC activities.(Sec. 4) Revises the composition of the OPIC Board of Directors.(Sec. 5) Revises the purposes of the Trade and Development Agency to include, with respect to the promotion of U.S. private sector participation in development projects in developing and middle-income countries, special emphasis on economic sectors with significant U.S. export potential, such as energy, transportation, telecommunications, and environment. Directs the Agency to require corporations and other entities to: (1) share the costs of feasibility studies and other project planning services; and (2) reimburse the Agency those funds it has provided, if the corporation or entity concerned succeeds in project implementation. Authorizes appropriations.(Sec. 6) Requires the Trade Promotion Coordinating Committee (TPCC) to: (1) report on actions taken to eliminate the areas of overlap and duplication identified among Federal export promotion activities; (2) coordinate efforts to sponsor or promote any trade show or trade fair; (3) work with all relevant State and national organizations, including the National Governors' Association, that have established trade promotion offices; and (4) report to Congress on actions taken to promote better coordination among State, Federal, and private sector export promotion activities.(Sec. 7) Amends the Export Enhancement Act of 1988 to change the deadline for TPCC annual reports from September 30 to March 30."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Export Enhancement Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Export Enhancement Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reauthorize the Overseas Private Investment Corporation and the Trade and Development Agency, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:36-05:00"
+}

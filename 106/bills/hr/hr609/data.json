@@ -1,0 +1,315 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-02-04", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-02-05", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "text": "Executive Comment Requested from USDA.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-02-09", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "text": "Favorable Executive Comment Received from USDA.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-02-10", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-02-10", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-03-02T12:49:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Agriculture. H. Rept. 106-36.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-02T12:50:00-05:00", 
+      "calendar": "Union", 
+      "number": "21", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 21.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-03-02T13:27:00-05:00", 
+      "references": [], 
+      "text": "Mr. Combest moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-02T13:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H845-846, H856", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-02T13:27:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 609.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-02T13:33:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-02T15:08:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H845", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "30", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 30).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-03-02T15:08:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-03", 
+      "committee": "Committee on Banking", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Banking.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-03", 
+      "references": [
+        {
+          "reference": "CR S13867", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Banking discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-03", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-03", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-05", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-12", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-11-12", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "96", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-96.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr609-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "19", 
+      "name": "Combest, Larry", 
+      "sponsored_at": "1999-02-12", 
+      "state": "TX", 
+      "thomas_id": "00224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hastings, Doc", 
+      "sponsored_at": "1999-02-12", 
+      "state": "WA", 
+      "thomas_id": "00512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Nethercutt, George R., Jr.", 
+      "sponsored_at": "1999-03-02", 
+      "state": "WA", 
+      "thomas_id": "00860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "1999-02-12", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "1999-02-12", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "96"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-11-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-03-02T15:08:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-02-04", 
+  "number": "609", 
+  "official_title": "To amend the Export Apple and Pear Act to limit the applicability of the Act to apples.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s530-106", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s530-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Export Apple Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "thomas_id": "01596", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-11-12", 
+  "subjects": [
+    "Agriculture and food", 
+    "Agriculture in foreign trade", 
+    "Apples", 
+    "Commerce", 
+    "Congress", 
+    "Exports", 
+    "Foreign trade and international finance", 
+    "Fruit", 
+    "Fruit trade", 
+    "Legislation", 
+    "Names", 
+    "Standards"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-02-04", 
+    "text": "Renames the Export Apple and Pear Act as the Export Apple Act. Eliminates references to pears from such Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Export Apple Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Export Apple and Pear Act to limit the applicability of the Act to apples.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:08-05:00"
+}

@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-03", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-04T12:17:00-05:00", 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-04T12:17:00-05:00", 
+      "references": [], 
+      "text": "Mr. Kolbe asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-04T12:18:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H978-986", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-04T12:18:00-05:00", 
+      "bill_ids": [
+        "hcres40-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Con. Res. 40.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-04T13:27:00-05:00", 
+      "references": [], 
+      "text": "The previous question was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-04T13:27:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-03-04T13:27:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-04", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2434", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-03-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres40-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "1999-03-03", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "1999-03-03", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "1999-03-03", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "1999-03-03", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "1999-03-03", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "1999-03-03", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Udall, Tom", 
+      "sponsored_at": "1999-03-03", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-03-04T13:27:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-03-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-03-03", 
+  "number": "40", 
+  "official_title": "Honoring Morris King Udall, former United States Representative from Arizona, and extending the condolences of the Congress on his death.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres15-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Kolbe, Jim", 
+    "state": "AZ", 
+    "thomas_id": "00645", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1999-03-08", 
+  "subjects": [
+    "Arizona", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Ex-Members of Congress", 
+    "Legislation", 
+    "Members of Congress (House)"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-03-03", 
+    "text": "Expresses the condolences of the House of Representatives on the death of the Honorable Morris King Udall, a former Representative from the State of Arizona."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring Morris King Udall, former United States Representative from Arizona, and extending the condolences of the Congress on his death.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:41-05:00"
+}

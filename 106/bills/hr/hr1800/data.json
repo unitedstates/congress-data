@@ -1,0 +1,241 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-13", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-05-21", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime", 
+      "text": "Referred to the Subcommittee on Crime.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-07-24T15:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hutchinson moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-24T15:10:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6736-6737", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-24T15:10:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1800.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-24T15:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H6736", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-07-24T15:19:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-25", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "references": [
+        {
+          "reference": "CR S9769-9770", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-05", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-10-13", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "297", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-297.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1800-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "1999-05-13", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "297"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-10-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-07-24T15:19:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-05-13", 
+  "number": "1800", 
+  "official_title": "To amend the Violent Crime Control and Law Enforcement Act of 1994 to ensure that certain information regarding prisoners is reported to the Attorney General.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Death in Custody Reporting Act of 2000", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Hutchinson, Asa", 
+    "state": "AR", 
+    "thomas_id": "01493", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-10-13", 
+  "subjects": [
+    "Arrest", 
+    "Correctional institutions", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "Death", 
+    "Economics and public finance", 
+    "Federal aid to law enforcement", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Health", 
+    "Interstate compacts", 
+    "Prisoners", 
+    "Sentences (Criminal procedure)", 
+    "Vital statistics"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-07-24", 
+    "text": "Death in Custody Reporting Act of 2000 - Amends the Violent Crime Control and Law Enforcement Act of 1994 to provide that in order for a State to be eligible to receive a Truth-in- Sentencing incentive grant, its grant application must include assurances that the State will follow the guidelines established by the Attorney General in reporting, on a quarterly basis, information regarding the death of any person who is in the process of arrest, is en route to be incarcerated, or is incarcerated at any municipal or county jail, State prison, or other local or State correctional facility (including any juvenile facility), including: (1) the name, gender, race, ethnicity, and age of the deceased; (2) the date, time, and location of death; and (3) a brief description of the circumstances surrounding the death."
+  }, 
+  "titles": [
+    {
+      "as": "passed house", 
+      "title": "Death in Custody Reporting Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Death in Custody Reporting Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Violent Crime Control and Law Enforcement Act of 1994 to ensure that certain information regarding prisoners is reported to the Attorney General.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:49-05:00"
+}

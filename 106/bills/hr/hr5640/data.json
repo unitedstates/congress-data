@@ -1,0 +1,404 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-12-05", 
+      "committee": "House Committee on Banking and Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Banking and Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-12-05T10:42:00-05:00", 
+      "references": [], 
+      "text": "Mr. Leach moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-05T10:42:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11960-11996", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-05T10:42:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5640.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-05T11:25:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11960-11985", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-12-05T11:25:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-05", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-07", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11680-11681", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-12-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-07", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-27", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-12-27", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "569", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-569.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5640-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Banking and Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "29", 
+      "name": "LaFalce, John J.", 
+      "sponsored_at": "2000-12-05", 
+      "state": "NY", 
+      "thomas_id": "00657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "569"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-12-27", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-12-05T11:25:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-12-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-12-05", 
+  "number": "5640", 
+  "official_title": "To expand homeownership in the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1776-106", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s3274-106", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "American Homeownership and Economic Opportunity Act of 2000", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Leach, James A.", 
+    "state": "IA", 
+    "thomas_id": "00672", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-12-27", 
+  "subjects": [
+    "Accounting", 
+    "Actions and defenses", 
+    "Administrative fees", 
+    "Administrative procedure", 
+    "Administrative remedies", 
+    "Affordable housing", 
+    "Agricultural labor", 
+    "Agriculture and food", 
+    "Apartment houses", 
+    "Auditing", 
+    "Authorization", 
+    "Bank directors", 
+    "Bank holding companies", 
+    "Bank loans", 
+    "Bank mergers", 
+    "Bank reserves", 
+    "Block grants", 
+    "Building construction", 
+    "Building laws", 
+    "Citizenship", 
+    "Civil rights and liberties, minority issues", 
+    "Civil rights enforcement", 
+    "Commerce", 
+    "Congregate housing", 
+    "Congress", 
+    "Congressional hearings", 
+    "Congressional investigations", 
+    "Congressional reporting requirements", 
+    "Congressional witnesses", 
+    "Construction industries", 
+    "Construction workers", 
+    "Consumer education", 
+    "Contracts", 
+    "Cooperative housing", 
+    "Counseling", 
+    "Crime and law enforcement", 
+    "Crimes against the elderly", 
+    "Criminal investigation", 
+    "Damages", 
+    "Department of Housing and Urban Development", 
+    "Deposit insurance", 
+    "Disabled", 
+    "Economics and public finance", 
+    "Electronic mail systems", 
+    "Environmental assessment", 
+    "Environmental protection", 
+    "Export credit", 
+    "Export finance", 
+    "Federal Reserve System", 
+    "Federal advisory bodies", 
+    "Federal aid to Indians", 
+    "Federal aid to housing", 
+    "Federal office buildings", 
+    "Federal officials", 
+    "Federally-assisted loans", 
+    "Federally-guaranteed loans", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Fines (Penalties)", 
+    "Foreclosure", 
+    "Foreign trade and international finance", 
+    "Fraud", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Government trust funds", 
+    "Governmental investigations", 
+    "Hawaii", 
+    "Hawaiians", 
+    "Health", 
+    "Home equity conversion", 
+    "Home ownership", 
+    "Home repair and improvement", 
+    "Homeless", 
+    "Homestead law", 
+    "Housing and community development", 
+    "Housing authorities", 
+    "Housing discrimination", 
+    "Housing for the aged", 
+    "Housing for the disabled", 
+    "Housing subsidies", 
+    "Immigration", 
+    "Indian housing", 
+    "Injunctions", 
+    "Insurance premiums", 
+    "Interest", 
+    "Interest rates", 
+    "Internet", 
+    "Investments", 
+    "Labor and employment", 
+    "Landlord and tenant", 
+    "Law", 
+    "Long-term care insurance", 
+    "Low-income housing", 
+    "Migrant labor", 
+    "Minimum wages", 
+    "Minorities", 
+    "Mobile homes", 
+    "Monetary policy", 
+    "Mortgage guaranty insurance", 
+    "Mortgage loans", 
+    "Mortgages", 
+    "Nonbank banks", 
+    "Nonprofit organizations", 
+    "Open market operations", 
+    "Partnerships", 
+    "Product safety", 
+    "Prosecution", 
+    "Public housing", 
+    "Public-private partnerships", 
+    "Real estate appraisal", 
+    "Rent", 
+    "Rent subsidies", 
+    "Rental housing", 
+    "Residential rehabilitation", 
+    "Rural housing", 
+    "Salaries", 
+    "Savings and loan associations", 
+    "Science, technology, communications", 
+    "Secondary mortgage market", 
+    "Sentences (Criminal procedure)", 
+    "Shelters for the homeless", 
+    "Social welfare", 
+    "Standards", 
+    "Stocks", 
+    "Subsidiary corporations", 
+    "Telemarketing", 
+    "Variable rate mortgage loans", 
+    "Wages", 
+    "Web sites"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-12-05", 
+    "text": "TABLE OF CONTENTS: Title I: Removal of Barriers to Housing Affordability Title II: Homeownership for Working Families Title III: Section 8 Homeownership Option Title IV: Private Mortgage Insurance Cancellation and Termination Title V: Native American Homeownership Subtitle A: Native American Housing Subtitle B: Native Hawaiian Housing Title VI: Manufactured Housing Improvement Title VII: Rural Housing Homeownership Title VIII: Housing for Elderly and Disabled Families Subtitle A: Refinancing for Section 202 Supportive Housing for the Elderly Subtitle B: Authorization of Appropriations for Supportive Housing for the Elderly and Persons With Disabilities Subtitle C: Expanding Housing Opportunities for the Elderly and Persons With Disabilities Part 1: Housing for the Elderly Part 2: Housing for Persons With Disabilities Part 3: Other Provisions Subtitle D: Preservation of Affordable Housing Stock Title IX: Other Related Housing Provisions Title X: Federal Reserve Board Provisions Title XI: Banking and Housing Agency Reports Title XII: Financial Regulatory Relief Subtitle A: Improving Monetary Policy and Financial Institution Management Practices Subtitle B: Streamlining Activities of Institutions Subtitle C: Streamlining Agency Actions Subtitle D: Technical Corrections American Homeownership and Economic Opportunity Act of 2000 - Title I: Removal of Barriers to Housing Affordability - Housing Affordability Barrier Removal Act of 2000 - Amends the Housing and Community Development Act of 1992 to authorize FY 2001 through 2005 appropriations for (consolidated) State and local grants for regulatory barrier removal. Makes consortia of local governments eligible grantees. Requires grant use in coordination with the local comprehensive Afford ability strategy under the Cranston-Gonzalez National Affordable Housing Act.(Sec. 103) Amends the Housing and Community Development Act of 1992 to state that the regulatory barriers clearinghouse shall be established within the Office of Policy Development of the Department of Housing and Urban Development under the direction of the Assistant Secretary for Policy Development and Research.Title II: Homeownership for Working Families - Authorizes the Secretary to insure refinancing of home equity conversions for elderly home owners. Provides for: (1) specified transaction disclosures; (2) waiver of counseling under specified conditions; (3) fee limitations; (4) single premium reduction; and (5) an actuarial study to determine insurance premium adequacy.Includes housing cooperatives in the demonstration program of insurance of home equity conversion mortgages for elderly home owners. Directs the Secretary to waive up-front premiums for mortgages used for costs of long-term care insurance or health care.(Sec. 202) Amends the Housing Opportunity Program Extension Act of 1996 to authorize FY 2001 appropriations for self-help housing providers. Makes certain nongrant fund advances by an organization eligible for reimbursement. Revises fund recapture provisions.Title III: Section 8 Homeownership Option - Amends the United States Housing Act of 1937 to provide a single grant home ownership downpayment option (in lieu of monthly payments) under the section 8 housing assistance program.(Sec. 302) Authorizes a public housing agency providing tenant-based section 8 housing assistance to provide assistance for a qualifying disabled family that purchases a home which will be owned and occupied by one or more members of such family. Sets forth program provisions.(Sec. 303) Authorizes FY 2001 appropriations (with a 50 percent matching requirement) for home ownership programs under the section 8 home ownership demonstration program.Title IV: Private Mortgage Insurance Cancellation and Termination - Private Mortgage Insurance Technical Corrections and Clarification Act - Amends the Homeowners Protection Act of 1998 with respect to the definition of \"cancellation date\" to replace \"amortization schedules\" with, and define, \"amortization schedule then in effect\" for purposes of adjustable rate mortgages.Includes balloon mortgages within the definition of \"adjustable rate mortgages.\"States that if a residential mortgage loan is modified (with mortgagor-mortgagee agreement) the cancellation date, termination date, or final agreement shall be recalculated to reflect such modifications.(Sec. 404) Extends mortgage insurance cancellation rights beyond the cancellation date for a qualifying borrower who is current on required payments.(Sec. 405) Revises the automatic termination date with respect to a mortgagor who is not current on payments as of the mortgage termination date.States that the cancellation or termination of private mortgage insurance shall not affect the rights of any mortgagee, servicer, or insurer to enforce any accrued obligation for premium payments.(Sec. 406) Revises and defines specified terms.Title V: Native American Homeownership - Subtitle A: Native American Housing - Establishes the Lands Title Report Commission to facilitate home loan mortgages on Indian trust lands. Terminates the Commission one year after its initial meeting. Authorizes appropriations.(Sec. 502) Amends the Housing and Community Development Act of 1992 to make permanent the Indian housing loan guarantee authority.(Sec. 503) Amends the Native American Housing Assistance and Self-Determination Act of 1996 to: (1) restrict the Secretary's authority to waive housing plan requirements to not more than 90 days; (2) permit the Secretary to waive local cooperation requirements upon a good faith showing and agreement to make certain payments in lieu of taxes; (3) permit assistance to Indian families that are not low-income upon a showing of need; (4) eliminate separate housing plan requirements for small tribes; (5) permit the Secretary to waive certain environmental review requirements under specified conditions; (6) permit reservation housing assistance for specified full-time Federal, State, county, or tribal law enforcement officers; (7) revise audit, review, and hearing provisions; (8) prescribe a funding formula for housing authorities operating fewer than 250 units based on an average of FY 1992 through 1997 allocations; and (9) repeal the requirement regarding the certification of compliance with subsidy layering requirements.Subtitle B: Native Hawaiian Housing - Hawaiian Homelands Homeownership Act of 2000 - Amends the Native American Housing Assistance and Self-Determination Act of 1996 to add a new Title VIII, Housing Assistance for Native Hawaiians. Directs the Secretary to make block grants to carry out affordable housing activities for Native Hawaiian families on or near Hawaiian Home Lands. Authorizes the Secretary to make grants to the Department of Hawaiian Home Lands (defined as the agency or department of Hawaii responsible for administration of the Hawaiian Homes Commission Act, 1920) only if the Director of the Department has submitted a housing plan that meets requirements under this Act, unless otherwise waived by the Secretary. Sets forth plan terms, conditions, and requirements, including a condition that, to the extent practicable, the Department use private nonprofit organizations in the planning and development of such housing. Provides for plan review by the Secretary.Sets forth provisions regarding the treatment of program income, project labor standards, and environmental review under the National Environmental Policy Act of 1969.Limits assistance for affordable housing activities under the program to low-income Native Hawaiian families, with specified exceptions for: (1) certain home ownership activities; and (2) assistance to non-Native Hawaiians if the presence of the family in the housing involved is essential to the well-being of Native Hawaiian families and the housing need cannot be met without assistance.Describes eligible affordable housing activities. Sets forth program requirements, including the development of policies governing rents, home buyer payments, eligibility, management, leases, and tenant selection. Sets the maximum monthly rent or home buyer payment at 30 percent of the monthly adjusted family income.Directs the Secretary, in instances of substantial Department noncompliance, to terminate, reduce, or limit payments. Authorizes the Secretary, in addition to such actions, to refer the matter to the Attorney General for civil action.Sets forth review, auditing, and reporting requirements for the Secretary and the Director. Provides for discretionary audits by the Comptroller General. Authorizes appropriations through FY 2005.(Sec. 514) Amends the Housing and Community Development Act of 1992 to authorize the Secretary to guarantee up to $100 million in loans from approved lenders in each of FY 2001 through 2005 to provide access to sources of private financing to Native Hawaiian families who could otherwise not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets. Authorizes loan guarantees of up to 100 percent of unpaid interest and principal. Provides that a loan will be used to construct, acquire, or rehabilitate not more than four-family dwellings that are standard housing and located on Hawaiian Home Lands for which an approved housing plan to provide affordable home ownership housing applies.Sets forth eligible lender categories.Limits loans to 30-year terms. Permits the Secretary to guarantee a loan only upon determining that there is a reasonable prospect of repayment. Establishes a loan guarantee fee. Authorizes loan transfer and assumption, subject to governmental supervision.Provides for lender disqualification for specified violations, and civil monetary penalties for intentional violations. Establishes a Hawaiian Housing Guarantee Fund for the purpose of providing loan guarantees under this Act. Authorizes appropriations through FY 2005.Directs the Secretary to establish safety and quality standards for housing financed under these provisions.Title VI: Manufactured Housing Improvement - Manufactured Housing Improvement Act of 2000 - Amends the National Manufactured Housing Construction and Safety Standards Act of 1974 to define specified terms.(Sec. 604) Directs the Secretary to establish manufactured home construction and safety standards in accordance with the consensus standards development process (provided for by this Act).Directs the Secretary to contract with: (1) a temporary administering organization to appoint the initial members of the consensus committee and administer the consensus standards development and related procedural and enforcement processes; and (2) a subsequent administering organization for the development of Federal standards and related procedural and enforcement regulations.Establishes the consensus committee which shall provide the Secretary with periodic recommendations respecting Federal manufactured housing construction and safety standards and related procedural and enforcement regulations. States that committee members shall represent producer, consumer, and general interest and public official interests. Sets forth related administrative provisions.(Sec. 605) Eliminates the National Manufactured Home Advisory Council.Requires manufacturers to provide approved design and installation instructions with each manufactured home.Requires, within specified deadlines: (1) the consensus committee to develop and submit to the Secretary proposed model manufactured home installation standards; and (2) the Secretary to develop model standards. Requires an opportunity for public comment prior to such standards' issuance. Prohibits a State or manufacturer, during the five-year period beginning with the enactment of this Act, from establishing manufactured home installation standards that provide less protection than existing standards. Directs the Secretary, not later than the expiration of such five-year period, to implement in a State that has not adopted a similar program a program which provides for: (1) installation standards and designs and instructions that meet or exceed model standards; (2) installer training and licensing; and (3) installation inspection.(Sec. 606) Directs the Secretary to submit cost information to the consensus committee.(Sec. 607) Includes among research and testing activities: (1) encouraging government-sponsored housing entities to implement secondary market securitization programs for manufactured home loans; and (2) reviewing the programs for Federal Housing Administration manufactured home loans.(Sec. 608) Makes it a prohibited act to fail to comply with the Secretary's installation standards in any State that has not adopted a State installation program.(Sec.609) Authorizes the Secretary to collect manufacturer fees, and sets forth their permitted and prohibited uses. Establishes in the Treasury a Manufactured Housing Fees Trust Fund.Requires inspection and monitoring work to be carried out by independent contractors..Requires the Secretary to continue funding States with approved plans at levels not less than those existing immediately prior to enactment of this Act.(Sec. 610) Directs the Secretary to establish a dispute resolution program within five years of the enactment of this Act.(Sec. 611) Eliminates the manufactured housing annual reporting requirement.(Sec. 612) Sets forth effective date provisions.(Sec. 613) Sets forth savings provisions, including certain contract duration provisions.Title VII: Rural Housing Ownership - Amends the Housing Act of 1949 to direct the Secretary to provide guarantees for rural housing loan refinancing.(Sec. 702) Increases from $2,500 to $7,500 the amount of a rural housing repair loan that needs to be evidenced only by a promissory note.(Sec. 703) Makes limited partnerships eligible for farm labor housing loans.(Sec. 704) Sets forth project accounting and recordkeeping requirements.(Sec. 705) Extends the rural designation of certain areas until the 2010 census.(Sec. 707) Makes Indian tribes (as defined by this Act) eligible for the multifamily rental housing loan guarantee program.(Sec. 708) Establishes civil and criminal penalties for rural housing program equity skimming. Authorizes the Secretary to impose civil monetary penalties and prohibit renewal or extension of loan or assistance agreements for program violations.(Sec. 709) Amends Federal criminal law to include such equity skimming under money laundering provisions.Title VIII: Housing for Elderly and Disabled Families - Affordable Housing for Seniors and Families Act - Subtitle A: Refinancing for Section 202 Supportive Housing for the Elderly - Directs the Secretary: (1) to approve prepayment of indebtedness, including refinancing under specified conditions, provided the project sponsor continues to operate the project on terms at least as advantageous to tenants as required under the original agreement; and (2) upon refinancing, to use at least 50 percent of the resultant savings in a manner that is advantageous to the tenants.Subtitle B: Authorization of Appropriations for Supportive Housing for the Elderly and Persons With Disabilities - Amends the Housing Act of 1959 to authorize FY 2001 through 2003 appropriations for supportive housing for the elderly.(Sec. 822) Amends the Cranston-Gonzalez National Affordable Housing Act to authorize FY 2001 through 2003 appropriations for supportive housing for persons with disabilities.(Sec. 823) Authorizes FY 2001 through 2003 appropriations for: (1) grants for service coordinators for elderly and disabled residents of certain federally assisted multifamily housing; and (2) contracts for congregate services for certain federally assisted housing.Subtitle C: Expanding Public Housing Opportunities for the Elderly and Persons with Disabilities - Part 1: Housing for the Elderly - Amends the Housing Act of 1959, with respect to supportive services for the elderly, to make for-profit limited partnerships eligible program participants.(Sec. 832) Permits owners to use mixed funding sources for amenities and other design features.(Sec. 833) Expands acquisition authority.(Sec. 834) Authorizes project reserves to be used to reduce the number of dwelling units by retrofitting unmarketable units.(Sec. 835) States that no provision of law shall be construed to prohibit commercial operations in a project location that benefits project residents.Part 2: Housing for Persons with Disabilities - Amends the Housing Act of 1959 to make certain for-profit limited partnerships eligible recipients under the supportive housing for persons with disabilities program.(Sec. 842) Amends the Cranston-Gonzalez National Affordable Housing Act with respect to the supportive housing for persons with disabilities program to permit owners to use mixed funding sources for amenities and other design features.(Sec. 843) Provides that tenant-based assistance may be provided through a qualifying public housing agency or a private nonprofit organization. Limits tenant-based assistance to 25 percent of fiscal year program assistance.(Sec. 844) Authorizes project reserves to be used to reduce the number of dwelling units by retrofitting unmarketable units.(Sec. 845) States that no provision of law shall be construed to prohibit commercial operations in a project location that benefits project residents.Part 3: Other Provisions - Amends the Housing and Community Development Act of 1992 to permit service coordinator services to be provided to low-income or elderly persons living in the vicinity of specified federally assisted housing.Includes telemarketing fraud protection among the services provided to elderly residents of federally assisted housing and under the supportive housing program. Directs the Secretary, in coordination with the Secretary of Health and Human Services, to establish related service coordinator guidelines.Subtitle D: Preservation of Affordable Stock - Amends the National Housing Act, as amended by the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2001, respecting rental and cooperative housing for lower- income families, to eliminate certain restrictions on owner retention of excess charges, including retention and use of certain previously collected excess charges.Title IX: Other Related Housing Provisions - Amends the National Housing Act to extend the insurance-eligible loan term for manufactured home lots to 20 years and 32 days.(Sec. 902) Amends the United States Housing Act of 1937, as amended by the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2001, respecting enhanced section 8 voucher assistance, to: (1) include within the definition of \"eligibility event\" any termination or expiration of a contract for rental assistance during any fiscal year after 1994; and (2) provide that a maximum payment adversely affecting assisted families shall not be considered reasonable.(Sec. 904) Permits section 8 assistance to \"grand-families.\"Title X: Federal Reserve Board Provisions - Amends the Federal Reserve Act to authorize the Board to acquire sites or property.(Sec. 1002) Revises the positions of Board members on the Executive Schedule (increasing their salary levels).(Sec. 1003) Revises Federal Reserve System semi-annual reporting requirements.Title XI: Banking and Housing Agency Reports - Federal Reporting Act of 2000 - Makes a specified provision of the Federal Reports Elimination and Sunset Act of 1995 (reporting requirements included on a list prepared by the Clerk of the House of Representatives for the first session of the 103rd Congress) inapplicable to certain monetary policy, banking, and housing reporting requirements under specified Acts (Sec. 1103) Sets forth specified report coordination requirements respecting: (1) the Federal Deposit Insurance Corporation; (2) the Board of Governors of the Federal Reserve System; (3) the Comptroller of the Treasury; (4) the Export-Import Bank; (5) the Department of Housing and Urban Development; and (6) the Federal Housing Administration.(Sec. 1104) Amends the: (1) Export-Import Bank Act of 1945 to eliminate certain activity and fiscal authority reporting requirements of the Export-Import Bank; and (2) Federal Deposit Insurance Act to eliminate the requirement for a semiannual report on activities and efforts of the Federal Deposit Insurance Corporation.Title XII: Financial Regulatory Relief - Financial Regulatory Relief and Economic Efficiency Act of 2000 - Subtitle A: Improving Monetary Policy and Financial Institution Management Practices - Amends the Home Owners' Loan Act (HOLA) to: (1) repeal savings association liquid asset requirements; and (2) permit a savings and loan holding company, with the prior approval by the Director of the Office of Thrift Supervision, to acquire more than five percent of the voting shares of a non-subsidiary savings association or non-subsidiary savings and loan holding company.(Sec. 1203) Amends the Federal Deposit Insurance Act (FDIA) to repeal deposit broker notification and recordkeeping requirements.(Sec. 1204) Amends the National Bank Consolidation and Merger Act to prescribe expedited procedures permitting a national bank to: (1) reorganize as either a bank holding company, or as a bank holding company subsidiary; or (2) merge with subsidiaries or nonbank affiliates.(Sec. 1205) Amends Federal banking law to increase from one year to three years the term of the national bank director. Amends the Banking Act of 1933 to authorize the Comptroller of the Currency to exempt a national banking association from the 25-member limit on the number of members of an association's governing body.(Sec. 1207) Amends Federal banking law and the FDIA to: (1) repeal the mandate that the purchase or acquisition by a national banking association or depository institution of its own capital stock to prevent loss upon a previously contracted debt be disposed of within six months from the time of purchase; and (2) provide that if an institution acquires its own stock to prevent loss upon a debt previously contracted for in good faith, such transaction shall not be deemed to be a loan or discount on the security of its own capital stock.(Sec. 1208) Amends the Federal Deposit Insurance Corporation Improvement Act of 1991 to increase from 90 percent to 100 percent of fair market value the permissible valuation of readily marketable purchased mortgage servicing rights that may be included in calculating an insured depository institution's tangible capital, risk-based capital, or leverage limit, if the Federal regulatory agencies jointly find that such an increase will not adversely affect the deposit insurance funds or the safety and soundness of insured depository institutions.Subtitle B: Streamlining Activities of Institutions - Requires that Federal banking agencies work jointly to develop: (1) electronic filing and public dissemination of depository institution status reports (call reports); and (2) uniform formats and simplified filing instructions for such reports.Subtitle C: Streamlining Agency Actions - Amends the FDIA to: (1) repeal the mandate that Federal banking agencies develop jointly a method for supplemental disclosures in required Federal filings of the estimated fair market value of depository institution assets and liabilities; (2) authorize the Federal Deposit Insurance Corporation (FDIC) to establish the interest rate for or make post-insolvency interest payments to creditors' claims against the receivership estates of insured Federal or State depository institutions following satisfaction by the receiver of the principal amount of all creditor claims; and (3) mandate that Federal banking agencies jointly submit an annual report to certain congressional banking committees regarding differences in accounting and capital standards used by such agencies (currently such reports must be filed by the agencies individually).(Sec. 1224) Amends the Federal Home Loan Bank Act to extend the deadline for the Finance Board's issuance of regulations respecting Federal home loan bank capital standards.Subtitle D: Technical Corrections - Makes technical corrections to related Acts.(Sec. 1233) Amends Federal banking law to: (1) authorize the Comptroller of the Currency to waive the citizenship requirement for a minority of the total number of directors sitting on the board of a national bank; (2) declare it is unlawful for the Comptroller to hold an interest in any national bank; and (3) repeal specified capital and surplus requirements for national banking associations.(Sec. 1234) Amends the International Bank Act of 1978 to modify examination requirements pertaining to establishment and operation by a foreign bank of Federal branches and agencies."
+  }, 
+  "titles": [
+    {
+      "as": "passed house", 
+      "title": "American Homeownership and Economic Opportunity Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Affordable Housing for Seniors and Families Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Federal Reporting Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Financial Regulatory Relief and Economic Efficiency Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Hawaiian Homelands Homeownership Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Housing Affordability Barrier Removal Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Manufactured Housing Improvement Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Private Mortgage Insurance Technical Corrections and Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "American Homeownership and Economic Opportunity Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Affordable Housing for Seniors and Families Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Federal Reporting Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Financial Regulatory Relief and Economic Efficiency Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Hawaiian Homelands Homeownership Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Housing Affordability Barrier Removal Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Manufactured Housing Improvement Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Private Mortgage Insurance Technical Corrections and Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To expand homeownership in the United States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:39-05:00"
+}

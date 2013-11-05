@@ -1,0 +1,412 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-09-06", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-09-26T10:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ramstad moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-26T10:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8068-8072", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-26T10:41:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5117.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-26T11:13:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-26T13:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8105-8106", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-26T13:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-26T13:53:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8068", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "489", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 489).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-09-27", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5117-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2000-09-06", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2000-09-20", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Collins, Mac", 
+      "sponsored_at": "2000-09-20", 
+      "state": "GA", 
+      "thomas_id": "00222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Crane, Philip M.", 
+      "sponsored_at": "2000-09-06", 
+      "state": "IL", 
+      "thomas_id": "00249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Deal, Nathan", 
+      "sponsored_at": "2000-09-07", 
+      "state": "GA", 
+      "thomas_id": "00277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "2000-09-20", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2000-09-06", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2000-09-12", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Green, Mark", 
+      "sponsored_at": "2000-09-12", 
+      "state": "WI", 
+      "thomas_id": "01559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2000-09-06", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2000-09-06", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hulshof, Kenny C.", 
+      "sponsored_at": "2000-09-20", 
+      "state": "MO", 
+      "thomas_id": "01492", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "2000-09-20", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2000-09-20", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2000-09-21", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lampson, Nick", 
+      "sponsored_at": "2000-09-26", 
+      "state": "TX", 
+      "thomas_id": "01500", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCrery, Jim", 
+      "sponsored_at": "2000-09-20", 
+      "state": "LA", 
+      "thomas_id": "00763", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2000-09-07", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Nussle, Jim", 
+      "sponsored_at": "2000-09-20", 
+      "state": "IA", 
+      "thomas_id": "00871", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Pombo, Richard W.", 
+      "sponsored_at": "2000-09-25", 
+      "state": "CA", 
+      "thomas_id": "00921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Schaffer, Bob", 
+      "sponsored_at": "2000-09-06", 
+      "state": "CO", 
+      "thomas_id": "01524", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "2000-09-20", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2000-09-12", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Talent, Jim", 
+      "sponsored_at": "2000-09-25", 
+      "state": "MO", 
+      "thomas_id": "01135", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Thomas, William M.", 
+      "sponsored_at": "2000-09-26", 
+      "state": "CA", 
+      "thomas_id": "01148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "2000-09-07", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2000-09-20", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-09-26T13:53:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-09-06", 
+  "number": "5117", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to clarify the allowance of the child credit, the deduction for personal exemptions, and the earned income credit for missing children, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Missing Children Tax Fairness Act of 2000", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Ramstad, Jim", 
+    "state": "MN", 
+    "thomas_id": "00942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-09-26T13:53:00-04:00", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Death", 
+    "Earned income tax credit", 
+    "Families", 
+    "Income tax", 
+    "Kidnapping", 
+    "Missing children", 
+    "Personal income tax", 
+    "Social welfare", 
+    "Tax credits", 
+    "Tax deductions", 
+    "Tax exemption", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-09-26", 
+    "text": "Missing Children Tax Fairness Act of 2000 - Amends the Internal Revenue Code to treat a child who was kidnapped by a nonfamily member as a dependent for purposes of the deduction for personal exemptions, the child credit, and the earned income credit."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Missing Children Tax Fairness Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Missing Children Tax Fairness Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Internal Revenue Code of 1986 to clarify the allowance of the child credit, the deduction for personal exemptions, and the earned income credit for missing children, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:26-05:00"
+}

@@ -1,0 +1,447 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-01-06", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-01-20", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "Civil Service", 
+      "text": "Referred to the Subcommittee on Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-31T21:43:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Morella moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-31T21:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11697-11699", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-31T21:43:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 207.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-31T21:55:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11697-11698", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-31T21:55:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-31T21:55:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11940", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-20", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-28", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-12-28", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "571", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-571.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr207-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Civil Service", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Collins, Mac", 
+      "sponsored_at": "2000-07-12", 
+      "state": "GA", 
+      "thomas_id": "00222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Coyne, William J.", 
+      "sponsored_at": "2000-06-28", 
+      "state": "PA", 
+      "thomas_id": "00245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Thomas M.", 
+      "sponsored_at": "2000-05-15", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2000-09-18", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2000-06-26", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2000-05-15", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1999-02-10", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2000-06-06", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hutchinson, Asa", 
+      "sponsored_at": "2000-09-20", 
+      "state": "AR", 
+      "thomas_id": "01493", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "2000-09-19", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "LaTourette, Steven C.", 
+      "sponsored_at": "2000-09-27", 
+      "state": "OH", 
+      "thomas_id": "00667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2000-07-11", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "2000-09-06", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "1999-01-06", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ney, Robert W.", 
+      "sponsored_at": "2000-09-20", 
+      "state": "OH", 
+      "thomas_id": "00862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2000-05-03", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "2000-09-13", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2000-09-07", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2000-06-26", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "2000-07-26", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2000-09-29", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "2000-02-15", 
+      "state": "FL", 
+      "thomas_id": "01215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2000-05-03", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "2000-05-17", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "571"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-12-28", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-31T21:55:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-12-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-01-06", 
+  "number": "207", 
+  "official_title": "To amend title 5, United States Code, to provide that physicians comparability allowances be treated as part of basic pay for retirement purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Physicians Comparability Allowance Amendments of 2000", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Morella, Constance A.", 
+    "state": "MD", 
+    "thomas_id": "00833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-12-28", 
+  "subjects": [
+    "Civil service pensions", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "Health", 
+    "Labor and employment", 
+    "Pay equity", 
+    "Physicians", 
+    "Salaries"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-10-31", 
+    "text": "Federal Physicians Comparability Allowance Amendments of 2000 - Amends the Federal Physicians Comparability Allowance Act of 1978 to repeal the September 30, 2002, termination of (and thus make permanent) the authority for paying comparability allowances to Government physicians under service agreements.Redefines \"basic pay\" to include any amounts received as physicians comparability allowances as part of basic pay for Federal employee retirement purposes.Amends provisions relating to the computation of an annuity under the Civil Service Retirement System (CSRS) and the Federal Employees Retirement System (FERS) to prohibit any part of such an allowance from being treated as basic pay unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician. Requires, if such condition is met, that any amounts received by the individual as such an allowance shall be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the enactment of this Act, and only to the extent of the percentage allowable as specified by this Act. Requires that 100 percent of all amounts received as such an allowance, to the extent attributable to service performed on or after enactment, be treated as basic pay (without regard to any of the preceding provisions of this paragraph) for purposes of computing: (1) an annuity of a disabled employee or member; and (2) a survivor annuity if based on the service of an individual who dies before separating from service."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Anti-Retroactive Taxation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Federal Physicians Comparability Allowance Amendments of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Federal Physicians Comparability Allowance Amendments of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 5, United States Code, to provide that physicians comparability allowances be treated as part of basic pay for retirement purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:55-05:00"
+}

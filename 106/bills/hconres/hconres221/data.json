@@ -1,0 +1,218 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-09", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-09T11:58:00-05:00", 
+      "references": [], 
+      "text": "Mr. Mica moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-09T11:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11729-11730", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-09T11:58:00-05:00", 
+      "bill_ids": [
+        "hcres221-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 221.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-09T12:07:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-11-09T12:07:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-10", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [
+        {
+          "reference": "CR S14930-14931", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Amendment SP 2793 proposed by Senator Collins for Senator McConnell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Amendment SP 2793 agreed to in Senate by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-01-31T14:06:00-05:00", 
+      "references": [], 
+      "text": "Mr. Boehner moved that the House suspend the rules and agree to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-01-31T14:06:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on the motion.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-01-31T14:07:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H53-54", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": " CR H53-54", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-01-31T14:07:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2793-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2793"
+    }
+  ], 
+  "bill_id": "hconres221-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-01-31T14:07:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-11-09", 
+  "number": "221", 
+  "official_title": "Authorizing printing of the brochures entitled \"How Our Laws Are Made\" and \"Our American Government\", the pocket version of the United States Constitution, and the document-sized, annotated version of the United States Constitution.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "2000-01-31T14:07:00-05:00", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Books", 
+    "Building construction", 
+    "Capitol (Washington, D.C.)", 
+    "Congress", 
+    "Congressional publications", 
+    "Congressional publicity", 
+    "Government operations and politics", 
+    "History", 
+    "House of Representatives", 
+    "Law", 
+    "Legislative procedure", 
+    "Printing", 
+    "Senate"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1999-11-19", 
+    "text": "Authorizes the printing of the following brochures as House documents: (1) an edition of \"How Our Laws Are Made\" and the 1999 revised edition of \"Our American Government;\" and (2) the 20th edition of the pocket version of the U.S. Constitution and its 1999 document-sized, annotated version.Authorizes the printing of the following books as Senate documents: (1) \"Capitol Builder: The Shorthand Journals of Captain Montgomery C. Meigs, 1853-1861;\" and (2) \"The United States Capitol: A Chronicle of Construction, Design, and Politics.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing printing of the brochures entitled \"How Our Laws Are Made\" and \"Our American Government\", the pocket version of the United States Constitution, and the document-sized, annotated version of the United States Constitution.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:47-05:00"
+}

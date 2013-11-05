@@ -1,0 +1,359 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-10", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-02-22", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Military Personnel", 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-02-22", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Executive Comment Requested from DOD.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bartlett moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9601-9602", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:56:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3621.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T22:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9601", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-10T22:05:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-11", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11272", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-02", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-11-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-11-13", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "507", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-507.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3621-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Barrett, Bill", 
+      "sponsored_at": "2000-03-01", 
+      "state": "NE", 
+      "thomas_id": "00057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bateman, Herbert H.", 
+      "sponsored_at": "2000-02-10", 
+      "state": "VA", 
+      "thomas_id": "00064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bliley, Tom", 
+      "sponsored_at": "2000-02-10", 
+      "state": "VA", 
+      "thomas_id": "00097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2000-02-10", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Danner, Pat", 
+      "sponsored_at": "2000-03-01", 
+      "state": "MO", 
+      "thomas_id": "00265", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2000-03-28", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "2000-02-10", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hill, Baron P.", 
+      "sponsored_at": "2000-03-01", 
+      "state": "IN", 
+      "thomas_id": "01578", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hill, Rick", 
+      "sponsored_at": "2000-02-10", 
+      "state": "MT", 
+      "thomas_id": "01489", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "2000-03-01", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "2000-02-10", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2000-03-01", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Northup, Anne M.", 
+      "sponsored_at": "2000-02-10", 
+      "state": "KY", 
+      "thomas_id": "01508", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2000-02-10", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Roemer, Tim", 
+      "sponsored_at": "2000-03-01", 
+      "state": "IN", 
+      "thomas_id": "00976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "2000-03-01", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "2000-03-28", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "507"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-11-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-10T22:05:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-02-10", 
+  "number": "3621", 
+  "official_title": "To provide for the posthumous promotion of William Clark of the Commonwealth of Virginia and the Commonwealth of Kentucky, co-leader of the Lewis and Clark Expedition, to the grade of captain in the Regular Army.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bereuter, Doug", 
+    "state": "NE", 
+    "thomas_id": "00080", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-11-13", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Army personnel", 
+    "History", 
+    "Military promotions", 
+    "Officer personnel", 
+    "West (U.S.)"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-02-10", 
+    "text": "Deems William Clark, co-leader of the Lewis and Clark Expedition of 1804-1806, to have held the grade of captain (currently, lieutenant) in the Regular Army from March 26, 1804, until February 27, 1807."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide for the posthumous promotion of William Clark of the Commonwealth of Virginia and the Commonwealth of Kentucky, co-leader of the Lewis and Clark Expedition, to the grade of captain in the Regular Army.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:43-05:00"
+}

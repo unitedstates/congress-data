@@ -1,0 +1,381 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-17", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-02-09", 
+      "in_committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Environment and Public Works. Ordered to be reported with amendments favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-04-13", 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Reported to Senate by Senator Smith, of NH with amendments. With written report No. 106-272.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-13", 
+      "calendar": "Senate Legislative", 
+      "number": "515", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 515.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2000-04-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3034-3036", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3034-3036", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with amendments by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-05-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-02T12:31:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-02", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s3098-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "3098"
+    }
+  ], 
+  "bill_id": "s1946-106", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baucus, Max", 
+      "sponsored_at": "1999-11-17", 
+      "state": "MT", 
+      "thomas_id": "00066", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bennett, Robert F.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "UT", 
+      "thomas_id": "01280", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Breaux, John B.", 
+      "sponsored_at": "2000-02-22", 
+      "state": "LA", 
+      "thomas_id": "00120", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chafee, Lincoln", 
+      "sponsored_at": "2000-02-08", 
+      "state": "RI", 
+      "thomas_id": "01612", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cleland, Max", 
+      "sponsored_at": "2000-04-11", 
+      "state": "GA", 
+      "thomas_id": "01540", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Domenici, Pete V.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "NM", 
+      "thomas_id": "01319", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "1999-11-17", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Graham, Bob", 
+      "sponsored_at": "2000-02-28", 
+      "state": "FL", 
+      "thomas_id": "01342", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lieberman, Joseph I.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "CT", 
+      "thomas_id": "01385", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moynihan, Daniel Patrick", 
+      "sponsored_at": "1999-11-17", 
+      "state": "NY", 
+      "thomas_id": "01407", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2000-02-08", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "2000-02-07", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Robb, Charles S.", 
+      "sponsored_at": "2000-03-28", 
+      "state": "VA", 
+      "thomas_id": "01423", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Snowe, Olympia J.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "ME", 
+      "thomas_id": "01085", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, John", 
+      "sponsored_at": "1999-11-17", 
+      "state": "VA", 
+      "thomas_id": "01452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "1999-11-17", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-04-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-11-17", 
+  "number": "1946", 
+  "official_title": "A bill to amend the National Environmental Education Act to redesignate that Act as the \"John H. Chafee Environmental Education Act\", to establish the John H. Chafee Memorial Fellowship Program, to extend the programs under that Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "John H. Chafee Environmental Education Act of 2000", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2000-04-27", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Authorization", 
+    "Authors and authorship", 
+    "Awards, medals, prizes", 
+    "Climate change and greenhouse gases", 
+    "Commemorations", 
+    "Commerce", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Congressional tributes", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Elementary education", 
+    "Environmental Protection Agency", 
+    "Environmental education", 
+    "Environmental protection", 
+    "Environmental research", 
+    "Executive reorganization", 
+    "Federal advisory bodies", 
+    "Federal aid to education", 
+    "Federal aid to higher education", 
+    "Federal employees", 
+    "Federal officials", 
+    "Foundations", 
+    "Gifts", 
+    "Global climate change", 
+    "Government internships", 
+    "Government operations and politics", 
+    "Graduate education", 
+    "Higher education", 
+    "History", 
+    "Land use", 
+    "Lobbying", 
+    "Marine and coastal resources, fisheries", 
+    "Members of Congress (Senate)", 
+    "Monuments and memorials", 
+    "Names", 
+    "Nonprofit organizations", 
+    "Open space lands", 
+    "Public lands and natural resources", 
+    "Rhode Island", 
+    "Roosevelt (Theodore) Administration", 
+    "Scholarships", 
+    "Science, technology, communications", 
+    "Secondary education", 
+    "Social welfare", 
+    "Sustainable fisheries", 
+    "Teachers"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2000-04-27", 
+    "text": "John H. Chafee Environmental Education Act of 2000 - Amends the National Environmental Education Act to rename it the John H. Chafee Environmental Education Act (the Act).(Sec. 2) Requires the Office of Environmental Education (OEE), within the Environmental Protection Agency (EPA), to: (1) develop and support balanced and scientifically sound programs; and (2) provide for implementation of the Act through the headquarters and regional offices of the EPA. Eliminates provisions for: (1) OEE administration of environmental internship and fellowship programs (internship programs are eliminated and fellowship program administration is transferred elsewhere later in this Act); (2) an OEE Director who is a member of the Senior Executive Service; and (3) a minimum of six full-time equivalent employees on the OEE headquarters staff (retains the maximum of ten). Authorizes the EPA Administrator to carry out OEE activities directly or through awards of grants, cooperative agreements, or contracts.(Sec. 3) Revises provisions for environmental education grants to decrease from 25 to 15 percent the portion of grant funds which must be used for grants of $5,000 or less. Prohibits environmental education grants from being used to support lobbying activities. Requires the EPA Science Advisory Board to review and approve the guidance before the EPA Administrator issues any guidance to grant applicants.(Sec. 4. Establishes the John H. Chafee Memorial Fellowship Program for the award and administration of five annual one-year graduate education fellowships in environmental sciences. (Eliminates provisions for OEE-administered environmental internships and fellowships.)Provides that such Fellowships are to stimulate innovative graduate level study and the development of expertise in complex, relevant, and important environmental issues and effective approaches to addressing those issues through organized programs of guided independent study and environmental research. Requires each $25,000 Fellowship to be made available to individual candidates through a sponsoring institution of higher education and an annual competitive selection process. Requires each Fellowship to focus on: (1) effective land and resource management; (2) innovative open space preservation; (3) science associated with such worldwide issues as global climate change and sustainable marine resources; or (4) any other issue that a sponsoring institution determines to be appropriate. Requires annual awards of two Fellowships by the University of Rhode Island. Allows three annual Fellowships to be applied for through any other sponsoring institution.Directs the National Environmental Education Advisory Council to establish and administer the John H. Chafee Fellowship Panel to establish selection process criteria, receive and review applications, and select Fellowship recipients. Requires that Panel members with specified qualifications be appointed by a majority vote of the National Environmental Education Advisory Council. Directs OEE to make specified amounts available for such Fellowships and administrative expenses of the Fellowship Program.(Sec. 5) Revises provisions for national environmental education awards. Retains and revises provisions for: (1) President's Environmental Youth Awards; and (2) environmental education awards for elementary and secondary school teachers and their local educational agencies. (Eliminates provisions for awards named for Theodore Roosevelt, Henry David Thoreau, Rachel Carson, and Gifford Pinchot.)(Sec. 6) Revises provisions for the National Environmental Education Advisory Council and for the Federal Task Force on Environmental Education. Directs the EPA Administrator to appoint at least one Advisory Council member to represent each of the following sectors: (1) elementary schools and secondary schools; (2) colleges and universities; (3) not-for-profit organizations involved in environmental education; (4) State departments of education and natural resources; (5) business and industry; and (6) senior citizens. Revises requirements for Advisory Council meetings and reports. Opens membership on the Task Force to representatives of any Federal agency actively engaged in environmental education.(Sec. 7) Renames the National Environmental Education and Training Foundation as the National Environmental Learning Foundation. Increases the number of director's on the Foundation's Board. Allows the Foundation to acknowledge receipt of donations by listing the names of donors in materials it distributes, but prohibits such acknowledgment from: (1) appearing in educational material presented to students; or (2) identifying a donor by means of a logo, letterhead, or other corporate commercial symbol, slogan, or product. Eliminates a time limit on the EPA Administrator's provision of administrative services and support to the Foundation.(Sec. 8) Extends through FY 2005 the authorization of appropriations to EPA to carry out the Act, with specified portions for: (1) OEE activities; (2) the environmental education and training program; (3) environmental education grants and the Fellowship Program; and (4) Foundation activities. Directs the EPA Administrator to submit an annual report to Congress on the activities for which such funds were expended."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "John H. Chafee Environmental Education Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "John H. Chafee Environmental Education Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "John H. Chafee Environmental Education Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the National Environmental Education Act to redesignate that Act as the \"John H. Chafee Environmental Education Act\", to establish the John H. Chafee Memorial Fellowship Program, to extend the programs under that Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:01-05:00"
+}

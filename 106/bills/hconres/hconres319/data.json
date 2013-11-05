@@ -1,0 +1,279 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-04", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-07-17T16:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bereuter moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-17T16:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6081-6083", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-17T16:09:00-04:00", 
+      "bill_ids": [
+        "hcres319-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 319.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-17T16:26:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-17T19:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6087", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-17T19:34:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6081", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "402", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 402).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-07-17T19:34:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-18", 
+      "calendar": "Senate Legislative", 
+      "number": "687", 
+      "references": [], 
+      "text": "Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 687.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2000-09-15", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8639", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-09-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres319-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "2000-06-29", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2000-05-04", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2000-05-04", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Knollenberg, Joe", 
+      "sponsored_at": "2000-06-28", 
+      "state": "MI", 
+      "thomas_id": "00642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2000-05-04", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2000-06-09", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2000-05-04", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2000-05-10", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-07-17T19:34:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-09-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-05-04", 
+  "number": "319", 
+  "official_title": "Congratulating the Republic of Latvia on the 10th anniversary of the reestablishment of its independence from the rule of the former Soviet Union.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres110-106", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "sconres110-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "20", 
+    "name": "Shimkus, John", 
+    "state": "IL", 
+    "thomas_id": "01527", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2000-09-15", 
+  "subjects": [
+    "Anniversaries", 
+    "Commemorations", 
+    "Commerce", 
+    "Congress", 
+    "Congressional tributes", 
+    "Democracy", 
+    "Europe", 
+    "Free enterprise", 
+    "Government operations and politics", 
+    "History", 
+    "International affairs", 
+    "Latvia", 
+    "Regionalism (International organization)", 
+    "Sovereignty", 
+    "U.S.S.R."
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-05-04", 
+    "text": "Congratulates Latvia on the tenth anniversary of the reestablishment of its independence and the role it played in the disintegration of the former Soviet Union. Commends Latvia for its success in implementing political and economic reforms that may speed its integration into European and Western institutions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Congratulating the Republic of Latvia on the 10th anniversary of the reestablishment of its independence from the rule of the former Soviet Union.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:50-05:00"
+}

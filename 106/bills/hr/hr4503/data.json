@@ -1,0 +1,420 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-19", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-05-25", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-05-25", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Executive Comment Requested from Interior.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-07", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "National Parks and Public Lands", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-09-29T15:05:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Resources. H. Rept. 106-915.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-29T15:05:00-04:00", 
+      "calendar": "Union", 
+      "number": "549", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 549.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-10-03T19:40:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hansen moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03T19:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8711-8713", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03T19:40:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4503.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03T19:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8711-8712", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-03T19:51:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-04", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4503-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "2000-06-15", 
+      "state": "TX", 
+      "thomas_id": "00028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2000-06-12", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Ballenger, Cass", 
+      "sponsored_at": "2000-06-13", 
+      "state": "NC", 
+      "thomas_id": "00050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2000-06-28", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2000-06-12", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "2000-09-21", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Deal, Nathan", 
+      "sponsored_at": "2000-09-19", 
+      "state": "GA", 
+      "thomas_id": "00277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2000-06-12", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Etheridge, Bob", 
+      "sponsored_at": "2000-06-20", 
+      "state": "NC", 
+      "thomas_id": "01482", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hilliard, Earl F.", 
+      "sponsored_at": "2000-06-12", 
+      "state": "AL", 
+      "thomas_id": "00539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2000-06-12", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kingston, Jack", 
+      "sponsored_at": "2000-06-28", 
+      "state": "GA", 
+      "thomas_id": "00636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "2000-06-12", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2000-06-15", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Riley, Bob", 
+      "sponsored_at": "2000-06-12", 
+      "state": "AL", 
+      "thomas_id": "01517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "2000-06-12", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "2000-06-28", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2000-09-19", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "2000-06-12", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2000-06-12", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2000-09-19", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Rep", 
+      "withdrawn_at": "2000-09-26"
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-03T19:51:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-05-19", 
+  "number": "4503", 
+  "official_title": "To provide for the preservation and restoration of historic buildings at historically women's public colleges or universities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Historically Women's Public Colleges or Universities Historic Building Restoration and Preservation Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Pickering, Charles W. \"Chip\"", 
+    "state": "MS", 
+    "thomas_id": "01513", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-10-03T19:51:00-04:00", 
+  "subjects": [
+    "Alabama", 
+    "Colleges", 
+    "Commemorations", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational facilities", 
+    "Federal aid to higher education", 
+    "Georgia", 
+    "Higher education", 
+    "Historic sites", 
+    "Labor and employment", 
+    "Mississippi", 
+    "North Carolina", 
+    "Oklahoma", 
+    "Public lands and natural resources", 
+    "School buildings", 
+    "Single-sex education", 
+    "South Carolina", 
+    "Texas", 
+    "Vocational education", 
+    "Women", 
+    "Women's education", 
+    "Women's employment"
+  ], 
+  "subjects_top_term": "Higher education", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-10-03", 
+    "text": "Historically Women's Public Colleges or Universities Historic Building Restoration and Preservation Act - Directs the Secretary of the Interior to award grants to historically women's public colleges or universities (institutions) for the preservation and restoration of historic buildings and structures on their campuses. Requires such grants to be awarded from appropriations for FY 2001 through 2005 under the National Historic Preservation Act.Sets forth: (1) grant conditions; (2) a 50 percent non-Federal funds matching requirement, including in- kind contributions; and (3) a limitation on the total amount of such grants in a fiscal year. Requires such amount for FY 2001 to be distributed equally among the following institutions: (1) Mississippi University for Women; (2) Georgia College and State University; (3) University of North Carolina at Greensboro, North Carolina; (4) Winthrop University in Rock Hill, South Carolina; (5) University of Montevallo in Montevallo, Alabama; (6) Texas Woman's University in Denton, Texas; (7) University of Science and Arts of Oklahoma in Chickasha, Oklahoma; and (8) Wesleyan College in Macon, Georgia. Requires such amounts for FY 2002 through 2005 also to be distributed among such institutions if they remain eligible and wish to participate, on a uniform basis, for such fiscal years."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Historically Women's Public Colleges or Universities Historic Building Restoration and Preservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Historically Women's Public Colleges or Universities Historic Building Restoration and Preservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Historically Women's Public Colleges or Universities Historic Building Restoration and Preservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for the preservation and restoration of historic buildings at historically women's public colleges or universities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:08-05:00"
+}

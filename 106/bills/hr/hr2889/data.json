@@ -1,0 +1,263 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-21", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-09-27", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-10-07", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Water and Power", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-10-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Subcommittee on Water and Power Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-27T16:26:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 106-417.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-27T16:26:00-04:00", 
+      "calendar": "Union", 
+      "number": "242", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 242.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-11-01T14:27:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hansen moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-01T14:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11153-11154", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-01T14:27:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2889.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-01T14:31:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11153", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-11-01T14:31:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-02", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S15158", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-12-07", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-12-07", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "140", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-140.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2889-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "140"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-12-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-11-01T14:31:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-09-21", 
+  "number": "2889", 
+  "official_title": "To amend the Central Utah Project Completion Act to provide for acquisition of water and water rights for Central Utah Project purposes, completion of Central Utah project facilities, and implementation of water conservation measures.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1377-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Cannon, Chris", 
+    "state": "UT", 
+    "thomas_id": "01470", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-12-07", 
+  "subjects": [
+    "Agriculture and food", 
+    "Animals", 
+    "Colorado River development", 
+    "Dams", 
+    "Economics and public finance", 
+    "Environmental protection", 
+    "Federal aid to water resources development", 
+    "Fishery management", 
+    "Infrastructure", 
+    "Irrigation", 
+    "Utah", 
+    "Water conservation", 
+    "Water resources development", 
+    "Water rights", 
+    "Water storage", 
+    "Water supply engineering", 
+    "Wildlife conservation"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-09-21", 
+    "text": "Amends the Central Utah Project Completion Act to authorize the Secretary of the Interior to utilize up to $60 million of any unexpended budget authority provided with respect to Central Utah Project construction to provide 65 percent of the Federal share of costs to acquire water and water rights for Project purposes, including instream flows, to complete authorized Project facilities, and to implement water conservation measures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Central Utah Project Completion Act to provide for acquisition of water and water rights for Central Utah Project purposes, completion of Central Utah project facilities, and implementation of water conservation measures.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:22-05:00"
+}

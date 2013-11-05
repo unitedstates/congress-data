@@ -1,0 +1,243 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-21", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-10-25T14:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Thomas moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-25T14:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10736-10737", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-25T14:53:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3122.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-25T14:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10736", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-10-25T14:59:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-26", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-04", 
+      "references": [
+        {
+          "reference": "CR S14049", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Rules and Administration discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-04", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-04", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-09", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-12", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-11-12", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "100", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-100.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3122-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "1999-10-21", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ewing, Thomas W.", 
+      "sponsored_at": "1999-10-21", 
+      "state": "IL", 
+      "thomas_id": "00366", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "1999-10-21", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "1999-10-21", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ney, Robert W.", 
+      "sponsored_at": "1999-10-21", 
+      "state": "OH", 
+      "thomas_id": "00862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "100"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-11-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-10-25T14:59:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-10-21", 
+  "number": "3122", 
+  "official_title": "To permit the enrollment in the House of Representatives Child Care Center of children of Federal employees who are not employees of the legislative branch.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-11-12", 
+  "subjects": [
+    "Congress", 
+    "Congressional employees", 
+    "Day care", 
+    "Families", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "House of Representatives"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-10-21", 
+    "text": "Amends the Legislative Branch Appropriations Act, 1992 to allow the enrollment in the House of Representatives Child Care Center of children of employees of other Federal offices, departments, and agencies if places are available after admission of all eligible pre- school children: (1) of individuals whose pay is disbursed by the Chief Administrative Officer of the House, and of support personnel of the House; and (2) of individuals whose pay is disbursed by the Secretary of the Senate and children of employees of legislative branch agencies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To permit the enrollment in the House of Representatives Child Care Center of children of Federal employees who are not employees of the legislative branch.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:29-05:00"
+}

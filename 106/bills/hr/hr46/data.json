@@ -1,0 +1,419 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-01-06", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-02-25", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime", 
+      "text": "Referred to the Subcommittee on Crime.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-23", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Subcommittee on Crime Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-04-12T18:17:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 106-83.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-12T18:19:00-04:00", 
+      "calendar": "Union", 
+      "number": "45", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 45.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-04-13T11:21:00-04:00", 
+      "references": [], 
+      "text": "Mr. McCollum moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-13T11:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1879-1881, H1896", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-13T11:21:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 46.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-13T11:28:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-13T13:37:00-04:00", 
+      "references": [], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-13T14:01:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "81", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 2 (Roll no. 81).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-04-13T14:01:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-14", 
+      "committee": "Committee on Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "references": [], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "references": [
+        {
+          "reference": "CR S11886-11890", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4366-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4366"
+    }
+  ], 
+  "bill_id": "hr46-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Barr, Bob", 
+      "sponsored_at": "1999-01-06", 
+      "state": "GA", 
+      "thomas_id": "00056", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "1999-01-06", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "1999-01-06", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "1999-01-06", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "1999-01-06", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Gekas, George W.", 
+      "sponsored_at": "1999-01-06", 
+      "state": "PA", 
+      "thomas_id": "00432", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "1999-01-06", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hutchinson, Asa", 
+      "sponsored_at": "1999-01-06", 
+      "state": "AR", 
+      "thomas_id": "01493", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "1999-01-06", 
+      "state": "IL", 
+      "thomas_id": "00580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "1999-01-06", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latham, Tom", 
+      "sponsored_at": "1999-03-03", 
+      "state": "IA", 
+      "thomas_id": "00666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "1999-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Nethercutt, George R., Jr.", 
+      "sponsored_at": "1999-04-12", 
+      "state": "WA", 
+      "thomas_id": "00860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "1999-01-06", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "1999-03-03", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "1999-01-06", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-04-13T14:01:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-12-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-01-06", 
+  "number": "46", 
+  "official_title": "To provide a national medal for public safety officers who act with extraordinary valor above and beyond the call of duty, to enhance computer crime enforcement and Internet security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s39-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Computer Crime Enforcement Act", 
+  "sponsor": {
+    "district": "8", 
+    "name": "McCollum, Bill", 
+    "state": "FL", 
+    "thomas_id": "00761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2000-12-15", 
+  "subjects": [
+    "Awards, medals, prizes", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Department of Justice", 
+    "Emergency management", 
+    "Emergency medical personnel", 
+    "Executive reorganization", 
+    "Federal advisory bodies", 
+    "Fire fighters", 
+    "Government operations and politics", 
+    "Health", 
+    "Law", 
+    "Law enforcement officers"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2000-12-15", 
+    "text": "Title I: Public Safety Medal of Valor - Public Safety Officer Medal of Valor Act of 2000 - Authorizes the President, after September 1, 2001, to award, and present in the name of Congress, a Medal of Valor to a public safety officer who is cited by the Attorney General, on the advice of the Medal of Valor Review Board (established by this Act), for extraordinary valor above and beyond the call of duty.(Sec. 103) Establishes a Medal of Valor Review Board to select candidates as recipients of the Medal from among those applications received by the National Medal Office (established by this Act).(Sec. 106) Authorizes appropriations.(Sec. 107) Establishes within the Department of Justice a National Medal Office to staff the Review Board and to establish criteria and procedures for the submission of recommendations of nominees for the Medal.(Sec. 108) Repeals provisions of the Fire Prevention and Control Act of 1974 establishing the President's Award for Outstanding Public Safety Service. Directs the Review Board to consult with the Institute of Heraldry within the Department of Defense regarding the design and artistry of the Medal of Valor and authorizes the Review Board to consider suggestions received by the Department of Justice regarding the design of the medal, including those made by persons not employed by the Department.Title II: Computer Crime Enforcement - Computer Crime Enforcement Act - Directs the Office of Justice Programs to make a grant to each State to be used for programs to: (1) assist State and local law enforcement agencies in enforcing criminal laws relating to computer crime and in educating the public to prevent and identify computer crime; (2) educate and train State and local law enforcement officers and prosecutors to conduct investigations and forensic analyses of evidence and prosecutions of computer crime; (3) assist State and local law enforcement officers and prosecutors in acquiring computer and other equipment to conduct investigations and forensic analyses of evidence of computer crimes; and (4) facilitate and promote the sharing of Federal law enforcement expertise and information about the investigation, analysis, and prosecution of computer crimes with State and local law enforcement officers and prosecutors, including the use of multi-jurisdictional task forces.Requires a State, to be eligible to receive a grant, to provide assurances to the Attorney General that the State has: (1) laws in effect that penalize computer crime; (2) made an assessment of the State and local resource needs; and (3) a plan for coordinating the programs funded under this Act with other federally funded technical assistance and training programs.Sets the Federal share of a grant at up to 90 percent, subject to a waiver. Authorizes appropriations.Authorizes the Attorney General to use amounts made available under this Act for grants to Indian tribes.Title III: Internet Security - Internet Security Act of 2000 - Directs the Attorney General to appoint a Deputy Assistant Attorney General for Computer Crime and Intellectual Property (Deputy Assistant) to: (1) advise Federal prosecutors and law enforcement personnel regarding computer and intellectual property crime; (2) coordinate national and international activities for combating such crime; (3) guide and assist Federal, State, and local law enforcement agencies and personnel, as well as appropriate foreign entities, regarding responses to threats of such crimes; and (4) undertake related coordinating, training, and legislative recommendation activities. Requires the individual who holds the position of head of the Computer Crime and Intellectual Property Section of the Department of Justice to act as the Deputy Assistant until the Attorney General appoints another individual to that Section position. Authorizes appropriations for such Section.(Sec. 303) Amends the Federal criminal code to apply the protection from computer extortion provisions only to persons (currently, also to many other institutions and entities). Provides criminal penalties for engaging in fraudulent access and related activities in connection with protected computers, including when the offense: (1) causes aggregate losses of at least $5,000; (2) causes the modification or impairment of medical diagnosis, treatment, or care; (3) causes a physical injury to any person; (4) causes a threat to public health or safety; or (5) damages a computer system used by or for a government entity in the administration of justice, national defense, or national security. Increases the prison term for a subsequent conviction of the same offense.(Sec. 304) Requires the criminal forfeiture of any property used in committing such offenses and any property constituting or derived from proceeds from such offenses.(Sec. 305) Provides for the coordination of U.S. Secret Service and Federal Bureau of Investigation (FBI) investigative authority over such offenses.(Sec. 306) Includes as a defense against prosecution for a computer offense by a telecommunications provider, subscriber, or other aggrieved person that the person providing the information was responding to the request of a governmental entity.(Sec. 307) Provides for the criminal forfeiture of any replicator or other device used to copy a computer program or computer program documentation or packaging.(Sec. 308) Directs the U.S. Sentencing Commission to amend Federal sentencing guidelines to provide guidelines relating to computer fraud and abuse and the use of encryption in connection with the commission or concealment of criminal acts.(Sec. 309) Requires the FBI Director to construct and equip a National Cyber Crime Technical Support Center to serve as the centralized technical resource for Federal, State, and local law enforcement and to provide technical assistance in the investigation of computer-related criminal activities. Requires the Director to develop at least ten regional computer forensic laboratories and to provide support, education, and assistance for such existing laboratories. Authorizes appropriations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Public Safety Officer Medal of Valor Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Computer Crime Enforcement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Internet Security Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Public Safety Officer Medal of Valor Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for a national medal for public safety officers who act with extraordinary valor above and beyond the call of duty.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by senate", 
+      "title": "To provide a national medal for public safety officers who act with extraordinary valor above and beyond the call of duty, to enhance computer crime enforcement and Internet security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:51-05:00"
+}

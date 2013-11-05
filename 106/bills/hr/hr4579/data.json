@@ -1,0 +1,274 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-06", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-06-07", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-06-13", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "National Parks and Public Lands", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "National Parks and Public Lands", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-22", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "National Parks and Public Lands", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-11T16:05:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hansen moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-11T16:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5796-5797", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-11T16:05:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4579.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-11T16:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H5796", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-07-11T16:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-12", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-09-20", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-10-02", 
+      "committee": "Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 106-463.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2000-10-02", 
+      "calendar": "Senate Legislative", 
+      "number": "910", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 910.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S9773-9774", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-05", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-10-13", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "301", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-301.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4579-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks and Public Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "301"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-10-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-07-11T16:10:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-06-06", 
+  "number": "4579", 
+  "official_title": "To provide for the exchange of certain lands within the State of Utah.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Utah West Desert Land Exchange Act of 2000", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hansen, James V.", 
+    "state": "UT", 
+    "thomas_id": "00498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-10-13", 
+  "subjects": [
+    "Deserts", 
+    "Land transfers", 
+    "Mines and mineral resources", 
+    "Public lands and natural resources", 
+    "Real estate appraisal", 
+    "Utah", 
+    "Wilderness areas"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-07-11", 
+    "text": "Utah West Desert Land Exchange Act of 2000 - Ratifies the \"Agreement for Exchange of Lands West Desert State-Federal Land Consolidation\" (an agreement between the State of Utah and the United States to exchange certain Federal lands and mineral interests in Utah for lands and mineral interests of approximately equal value managed by the Utah School and Institutional Trust Lands Administration within wilderness study areas in the West Desert region of Utah) and sets forth the obligations of the United States, the State, and the Administration as a matter of Federal law. Sets forth requirements concerning the determination of, and adjustments for achieving, approximately equal value."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Utah West Desert Land Exchange Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Utah West Desert Land Exchange Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Utah West Desert Land Exchange Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for the exchange of certain lands within the State of Utah.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:11-05:00"
+}

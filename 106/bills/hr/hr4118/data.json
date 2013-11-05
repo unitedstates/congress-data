@@ -1,0 +1,412 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-29", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-05-04", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-04", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-06-12T15:54:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on International Relations. H. Rept. 106-668.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-12T15:54:00-04:00", 
+      "calendar": "Union", 
+      "number": "374", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 374.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-07-18T22:17:00-04:00", 
+      "bill_ids": [
+        "hres555-106"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 555 Reported to House. Rule provides for consideration of H.R. 4118 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The amendment recommended by the Committee on International Relations now printed in the bill shall be considered as adopted. Measure will be considered read. A specified amendment is in order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T16:41:00-04:00", 
+      "bill_ids": [
+        "hres555-106"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 555 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T16:42:00-04:00", 
+      "bill_ids": [
+        "hres555-106"
+      ], 
+      "references": [
+        {
+          "reference": "CR H6552-6561", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 555.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T16:42:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 4118 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The amendment recommended by the Committee on International Relations now printed in the bill shall be considered as adopted. Measure will be considered read. A specified amendment is in order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T16:44:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 4118.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T17:41:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T17:42:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gejdenson moved to recommit with instructions to International Relations.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T17:42:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House has proceeded with 10 minutes of debate on the motion.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T17:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6559", 
+          "type": "text"
+        }
+      ], 
+      "text": "On motion to recommit with instructions Failed by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-19T18:10:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6552-6553", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "414", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 275 - 146 (Roll no. 414).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-07-19T18:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-20", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h1011-106", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "1011"
+    }
+  ], 
+  "bill_id": "hr4118-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "2000-04-10", 
+      "state": "TX", 
+      "thomas_id": "00028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bartlett, Roscoe G.", 
+      "sponsored_at": "2000-03-29", 
+      "state": "MD", 
+      "thomas_id": "00060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2000-03-29", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2000-03-29", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2000-03-29", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2000-03-29", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "2000-03-29", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "2000-05-03", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Goodling, William F.", 
+      "sponsored_at": "2000-05-02", 
+      "state": "PA", 
+      "thomas_id": "00447", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "2000-03-29", 
+      "state": "IL", 
+      "thomas_id": "00580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2000-03-29", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "2000-03-29", 
+      "state": "FL", 
+      "thomas_id": "00761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2000-06-06", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2000-03-29", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "2000-04-03", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2000-03-29", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2000-04-12", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-07-19T18:10:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-03-29", 
+  "number": "4118", 
+  "official_title": "To prohibit the rescheduling or forgiveness of any outstanding bilateral debt owed to the United States by the Government of the Russian Federation until the President certifies to the Congress that the Government of the Russian Federation has ceased all its operations at, removed all personnel from, and permanently closed the intelligence facility at Lourdes, Cuba.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres555-106", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "s2748-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Russian-American Trust and Cooperation Act of 2000", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Ros-Lehtinen, Ileana", 
+    "state": "FL", 
+    "thomas_id": "00985", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-07-19T18:10:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Arms control agreements", 
+    "Caribbean area", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Cuba", 
+    "Debt relief", 
+    "Espionage", 
+    "Foreign trade and international finance", 
+    "Government operations and politics", 
+    "International affairs", 
+    "Latin America", 
+    "Nuclear nonproliferation", 
+    "President and foreign policy", 
+    "Russia"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-07-19", 
+    "text": "Russian-American Trust and Cooperation Act of 2000 - Directs the President, until he or she certifies to Congress that the Government of the Russian Federation has ceased all operations at, removed all personnel from, and permanently closed the intelligence facility at Lourdes, Cuba, to: (1) not reschedule or forgive any outstanding bilateral debt owed by the Government of the Russian Federation to the United States; and (2) instruct the U.S. representative to the Paris Club of official creditors to use the U.S. vote to oppose rescheduling or forgiveness of any outstanding bilateral debt owed by such government. Authorizes the President to waive the requirements of this Act if: (1) it is in the national interests of the United States; and (2) the Government of the Russian Federation is substantially in compliance with multilateral and bilateral nonproliferation and arms limitation agreements.Requires the President to report periodically to specified congressional committees with respect to actions taken by the Government of the Russian Federation to terminate its presence and activities at the facility at Lourdes, Cuba., as well as any verification actions by Federal agencies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Russian-American Trust and Cooperation Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Russian-American Trust and Cooperation Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Russian-American Trust and Cooperation Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To prohibit the rescheduling or forgiveness of any outstanding bilateral debt owed to the United States by the Government of the Russian Federation until the President certifies to the Congress that the Government of the Russian Federation has ceased all its operations at, removed all personnel from, and permanently closed the intelligence facility at Lourdes, Cuba.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:56-05:00"
+}

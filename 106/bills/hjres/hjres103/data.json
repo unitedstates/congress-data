@@ -1,0 +1,221 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-23", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Trade", 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-07-13", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported Adversely by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-07-17T19:01:00-04:00", 
+      "references": [], 
+      "text": "ORDER OF BUSINESS - Mr. Dreier asked unanimous consent that it be in order at any time on July 18, 2000, or any day thereafter, to consider in the House H.J. Res. 103; that the resolution be considered as read for amendment; that all points of order against the joint resolution and against its consideration be waived; that the joint resolution be debatable for 2 hours, equally divided and controlled; and that the previous question be considered on the joint resolution to final passage without intervening motion. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-18T12:05:00-04:00", 
+      "references": [], 
+      "text": "Reported adversely by the Committee on Ways and Means. H. Rept. 106-755.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-18T12:06:00-04:00", 
+      "calendar": "Union", 
+      "number": "434", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 434.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-07-18T13:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6399-6424", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Consideration initiated by previous order of the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-18T13:04:00-04:00", 
+      "references": [], 
+      "text": "Considered by previous order of the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-18T13:04:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - Pursuant to a previous order, the House proceeded with 2 hours of debate on H.J. Res. 103.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-18T15:01:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to a previous  order of the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-18T15:26:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6399", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "405", 
+      "status": "FAIL:ORIGINATING:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Failed by the Yeas and Nays: 147 - 281 (Roll no. 405).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-07-18T15:26:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres103-106", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2000-06-23", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "2000-06-23", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2000-06-23", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2000-07-18T15:26:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-06-23", 
+  "number": "103", 
+  "official_title": "Disapproving the extension of the waiver authority contained in section 402(c) of the Trade Act of 1974 with respect to the People's Republic of China.", 
+  "popular_title": "China Trade resolution", 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "45", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "FAIL:ORIGINATING:HOUSE", 
+  "status_at": "2000-07-18T15:26:00-04:00", 
+  "subjects": [
+    "China", 
+    "Civil rights and liberties, minority issues", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional veto", 
+    "East Asia", 
+    "Emigration", 
+    "Foreign trade and international finance", 
+    "Human rights", 
+    "Immigration", 
+    "International affairs", 
+    "Most favored nation principle", 
+    "Normal trade relations", 
+    "Trade agreements"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2000-07-18", 
+    "text": "Disapproves the extension with respect to the People's Republic of China (as recommended by the President to Congress on June 2, 2000) of the President's authority under the Trade Act of 1974 to waive a nonmarket economy country's ineligibility to receive nondiscriminatory treatment (normal trade relations) and credit extensions because of restrictions on freedom to emigrate."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "China Trade resolution", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Disapproving the extension of the waiver authority contained in section 402(c) of the Trade Act of 1974 with respect to the People's Republic of China.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:10-05:00"
+}

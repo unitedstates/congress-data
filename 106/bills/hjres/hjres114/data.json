@@ -1,0 +1,240 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-18T20:49:00-04:00", 
+      "bill_ids": [
+        "hres637-106"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 637 Reported to House. Rule provides for consideration of H.J. Res. 114 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The joint resolution shall be considered in the House. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-18", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-19T15:40:00-04:00", 
+      "bill_ids": [
+        "hres637-106"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 637 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19T15:40:00-04:00", 
+      "bill_ids": [
+        "hres637-106"
+      ], 
+      "references": [
+        {
+          "reference": "CR H10402-10411", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 637.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19T15:40:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 114 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The joint resolution shall be considered in the House. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19T15:40:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 114.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19T16:56:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19T17:19:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H10402", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "539", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 262 - 136 (Roll no. 539).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-19T17:19:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10770", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-20", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-10-20", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "344", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-344.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres114-106", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "344"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-10-20", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-19T17:19:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-18", 
+  "number": "114", 
+  "official_title": "Making further continuing appropriations for the fiscal year 2001, and for other purposes.", 
+  "popular_title": "Continuing Appropriation FY2001 (Fourth)", 
+  "related_bills": [
+    {
+      "bill_id": "hres637-106", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Young, C.W. Bill", 
+    "state": "FL", 
+    "thomas_id": "01255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-10-20", 
+  "subjects": [
+    "Appropriations", 
+    "Arts, culture, religion", 
+    "Canada", 
+    "Census", 
+    "Commerce", 
+    "Congress", 
+    "Congressional agencies", 
+    "Continuing resolutions", 
+    "Democracy", 
+    "Earth resources satellites", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational exchanges", 
+    "Emergency management", 
+    "Europe", 
+    "Exchange of persons programs", 
+    "Federal libraries", 
+    "Finance and financial sector", 
+    "Flood insurance", 
+    "Free enterprise", 
+    "Government operations and politics", 
+    "Higher education", 
+    "International affairs", 
+    "International agencies", 
+    "Library of Congress", 
+    "Political leadership", 
+    "Public lands and natural resources", 
+    "Remote sensing", 
+    "Russia", 
+    "Space activities", 
+    "Treaties", 
+    "United Kingdom", 
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-10-18", 
+    "text": "Extends the law making continuing appropriations for FY 2001 through October 25, 2000. Requires funds to be made available and permits obligations for mandatory payments due on or about November 1, 2000, to continue to be made."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Continuing Appropriation FY2001 (Fourth)", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making further continuing appropriations for the fiscal year 2001, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:10-05:00"
+}

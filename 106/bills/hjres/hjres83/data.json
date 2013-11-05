@@ -1,0 +1,234 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-17", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-18T03:52:00-05:00", 
+      "bill_ids": [
+        "hres385-106", 
+        "hjres82-106"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 385 Reported to House. Rule provides for consideration of H.J. Res. 82 and H.J. Res. 83 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T11:47:00-05:00", 
+      "bill_ids": [
+        "hres385-106"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 385 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T17:37:00-05:00", 
+      "bill_ids": [
+        "hres385-106"
+      ], 
+      "references": [
+        {
+          "reference": " CR H12820-13821", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "text of Measure as introduced CR H12820", 
+          "type": null
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 385.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T17:37:00-05:00", 
+      "bill_ids": [
+        "hjres82-106"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 82 and H.J. Res. 83 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T17:37:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 83.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T17:43:00-05:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T17:43:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-11-18T17:43:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S14796-14797", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "106", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-106.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h561-106", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "561"
+    }
+  ], 
+  "bill_id": "hjres83-106", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "106"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-11-19", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-11-18T17:43:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-11-17", 
+  "number": "83", 
+  "official_title": "Making further continuing appropriations for the fiscal year 2000, and for other purposes.", 
+  "popular_title": "Continuing Appropriation FY2000 (Eighth)", 
+  "related_bills": [
+    {
+      "bill_id": "hres385-106", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Young, C.W. Bill", 
+    "state": "FL", 
+    "thomas_id": "01255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-11-19", 
+  "subjects": [
+    "Administrative procedure", 
+    "Appropriations", 
+    "Census", 
+    "Commerce", 
+    "Congress", 
+    "Continuing resolutions", 
+    "Corporation directors", 
+    "Economics and public finance", 
+    "Export credit", 
+    "Export finance", 
+    "Export subsidies", 
+    "Export-Import Bank of the United States", 
+    "Federal officials", 
+    "Finance and financial sector", 
+    "Foreign trade and international finance", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Law"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1999-11-18", 
+    "text": "Extends the law making continuing appropriations for FY 2000 through December 2, 1999.Increases the maximum amount of funds available for projects for decennial census programs under such law.Extends, until December 2, 1999, a certain provision of law that allows fewer than three members of the Board of Directors of the Export-Import Bank of the United States to constitute a quorum."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Continuing Appropriation FY2000 (Eighth)", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making further continuing appropriations for the fiscal year 2000, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:09-05:00"
+}

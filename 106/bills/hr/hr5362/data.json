@@ -1,0 +1,235 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-03", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime", 
+      "text": "Referred to the Subcommittee on Crime.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-06T14:08:00-04:00", 
+      "references": [], 
+      "text": "Committee on Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-06T14:08:00-04:00", 
+      "references": [], 
+      "text": "Mr. Cannon asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-06T14:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9048-9052", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-06T14:25:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H9052", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-06T14:35:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10155", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-10", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-11", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-17", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-10-17", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "311", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-311.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5362-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Moakley, John Joseph", 
+      "sponsored_at": "2000-10-03", 
+      "state": "MA", 
+      "thomas_id": "00820", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "311"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-10-17", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-06T14:25:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-03", 
+  "number": "5362", 
+  "official_title": "To increase the amount of fees charged to employers who are petitioners for the employment of H-1B non-immigrant workers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "28", 
+    "name": "Dreier, David", 
+    "state": "CA", 
+    "thomas_id": "00317", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-10-17", 
+  "subjects": [
+    "Administrative fees", 
+    "Admission of nonimmigrants", 
+    "Alien labor", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Elementary schools", 
+    "High schools", 
+    "Higher education", 
+    "Immigration", 
+    "Labor and employment", 
+    "Law", 
+    "Nonprofit organizations", 
+    "Research centers", 
+    "School personnel", 
+    "Science, technology, communications", 
+    "Scientists", 
+    "Secondary education", 
+    "Social scientists", 
+    "Social welfare", 
+    "Visas"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-10-03", 
+    "text": "Amends the Immigration and Nationality Act to increase employer-paid H-1B alien petition filing fees. Revises and extends the fee exemption for educational and related employers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To increase the amount of fees charged to employers who are petitioners for the employment of H-1B non-immigrant workers, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:32-05:00"
+}

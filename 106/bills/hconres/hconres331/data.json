@@ -1,0 +1,345 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-22", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-05-24", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-24", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-05-24T17:46:00-04:00", 
+      "references": [], 
+      "text": "Committee on International Relations discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-24T17:46:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gilman asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-24T17:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3747-3751", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-24T17:46:00-04:00", 
+      "bill_ids": [
+        "hcres331-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Con. Res. 331.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-24T18:26:00-04:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the concurrent resolution, the Chair put the question on adoption of the resolution and by voice vote, announced that the ayes had prevailed. Mr. Hastings (FL) demanded the yeas and nays and the Chair postponed further proceedings on the adoption of the resolution until Thursday, May 25, 2000.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-25T13:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3840-3841", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-25T13:33:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 5/24/2000 H3747", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "231", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 403 - 3, 2 Present (Roll no. 231).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-05-25T13:33:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-25", 
+      "calendar": "Senate Legislative", 
+      "number": "582", 
+      "references": [], 
+      "text": "Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 582.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres331-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "discharged"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "2000-05-25", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Condit, Gary A.", 
+      "sponsored_at": "2000-05-24", 
+      "state": "CA", 
+      "thomas_id": "00226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooksey, John", 
+      "sponsored_at": "2000-05-24", 
+      "state": "LA", 
+      "thomas_id": "01476", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2000-05-24", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "2000-05-22", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Gephardt, Richard A.", 
+      "sponsored_at": "2000-05-22", 
+      "state": "MO", 
+      "thomas_id": "00433", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2000-05-22", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2000-05-24", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "2000-05-24", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2000-05-24", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Kuykendall, Steven T.", 
+      "sponsored_at": "2000-05-25", 
+      "state": "CA", 
+      "thomas_id": "01582", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2000-05-24", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2000-05-24", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "2000-05-24", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2000-05-25", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Tauscher, Ellen O.", 
+      "sponsored_at": "2000-05-24", 
+      "state": "CA", 
+      "thomas_id": "01533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2000-05-24", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-05-25T13:33:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-05-22", 
+  "number": "331", 
+  "official_title": "Commending Israel's redeployment from southern Lebanon.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres116-106", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "26", 
+    "name": "Armey, Richard K.", 
+    "state": "TX", 
+    "thomas_id": "00028", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-05-25T13:33:00-04:00", 
+  "subjects": [
+    "Amnesties", 
+    "Arab-Israeli conflict", 
+    "Armed forces and national security", 
+    "Balance of power", 
+    "Boundaries", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Guerrilla warfare", 
+    "International affairs", 
+    "Israel", 
+    "Lebanon", 
+    "Middle East and North Africa", 
+    "Military occupation", 
+    "Military personnel", 
+    "Military withdrawal", 
+    "Peace negotiations", 
+    "Sovereignty", 
+    "Terrorism", 
+    "United Nations"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-05-22", 
+    "text": "Commends Israel for its decision to withdraw its forces from southern Lebanon and for taking risks for peace in the Middle East.Calls upon the United Nations Security Council to: (1) recognize Israel's fulfillment of its obligations under Security Council Resolution 425 and to provide the necessary resources for the United Nations Interim Force in Lebanon (UNIFIL) to implement its mandate under that resolution; and (2) insist upon the withdrawal of all foreign forces from Lebanese territory.Urges UNIFIL, in cooperation with the Lebanese armed forces, to gain full control over southern Lebanon, including by taking actions to ensure the disarmament of Hezbollah and all other such groups to eliminate all terrorist activity originating from that area.Appeals to the Government of Lebanon to grant clemency and assure the safety and rehabilitation into Lebanese society of all members of the South Lebanon Army and their families.Calls upon the international community to ensure that southern Lebanon does not once again become a staging ground for attacks against Israel and to cooperate in bringing about the reconstruction and reintegration of southern Lebanon.Recognizes Israel's right to defend itself and its people from attack and reasserts U.S. support for maintaining Israel's qualitative military edge to ensure Israel's long-term security.Urges all parties to reenter the peace process with the Government of Israel to bring peace and stability to all the Middle East."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Commending Israel's redeployment from southern Lebanon.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:50-05:00"
+}

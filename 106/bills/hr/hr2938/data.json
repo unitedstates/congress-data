@@ -1,0 +1,332 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-23", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-09-28", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "Postal Service", 
+      "text": "Referred to the Subcommittee on Postal Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-09-30", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-30", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-06-20T15:45:00-04:00", 
+      "references": [], 
+      "text": "Mr. McHugh moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-20T15:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4720-4722", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-20T15:46:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2938.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-20T16:04:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4720", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-06-20T16:04:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-21", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-06", 
+      "references": [
+        {
+          "reference": "CR S10113", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-06", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "320", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-320.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2938-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Postal Service", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hill, Baron P.", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "01578", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hostettler, John N.", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "00562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McIntosh, David M.", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "00776", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Pease, Edward A.", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "01511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "2000-03-08", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Visclosky, Peter J.", 
+      "sponsored_at": "1999-09-23", 
+      "state": "IN", 
+      "thomas_id": "01188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "320"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-10-19", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-06-20T16:04:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-09-23", 
+  "number": "2938", 
+  "official_title": "To designate the facility of the United States Postal Service located at 424 South Michigan Street in South Bend, Indiana, as the \"John Brademas Post Office\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2804-106", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s2804-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Roemer, Tim", 
+    "state": "IN", 
+    "thomas_id": "00976", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-10-19", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Ex-Members of Congress", 
+    "Government operations and politics", 
+    "Indiana", 
+    "Members of Congress (House)", 
+    "Names", 
+    "Postal facilities"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-09-23", 
+    "text": "Designates the facility of the U.S. Postal Service located at 424 South Michigan Street in South Bend, Indiana, as the John Brademas Post Office."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the facility of the United States Postal Service located at 424 South Michigan Street in South Bend, Indiana, as the \"John Brademas Post Office\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:24-05:00"
+}

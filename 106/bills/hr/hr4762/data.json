@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-27", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-06-27T23:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Houghton moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-27T23:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5282-5290", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-27T23:16:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4762.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-28T00:09:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5282-5284", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "341", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 385 - 39 (Roll no. 341).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-06-28T00:09:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-28", 
+      "calendar": "Senate Legislative", 
+      "number": "650", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 650.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2000-06-28", 
+      "references": [
+        {
+          "reference": "CR S5944-6000", 
+          "type": null
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S6041-6047", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "160", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 92 - 6. Record Vote Number: 160.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-06-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-07-01", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-07-01", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "230", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-230.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4762-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "230"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-07-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-06-28T00:09:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-06-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-06-27", 
+  "number": "4762", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to require 527 organizations to disclose their political activities.", 
+  "popular_title": "527 Organization Disclosure bill", 
+  "related_bills": [
+    {
+      "bill_id": "hr4717-106", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2742-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "31", 
+    "name": "Houghton, Amo", 
+    "state": "NY", 
+    "thomas_id": "00563", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-07-01", 
+  "subjects": [
+    "Campaign contributors", 
+    "Campaign funds", 
+    "Computers and government", 
+    "Electronic data interchange", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Income tax", 
+    "Internet", 
+    "Political action committees", 
+    "Political parties", 
+    "Science, technology, communications", 
+    "Tax penalties", 
+    "Tax returns", 
+    "Tax-exempt organizations", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-06-27", 
+    "text": "Amends the Internal Revenue Code to prohibit a political organization from being treated as such unless it gives notice within 24 hours of being established that it is to be so treated. Provides that if notice is given after such period, the organization shall not be so treated for any period before such notice is given. Requires, in the case of an organization failing to give such notice, such organization's taxable income to be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income). Excepts certain organizations from the notification requirement.Makes information on organizations that file such notices, and such notices, publicly available. Prescribes monetary penalties for failures to meet certain public availability requirements.Grants existing organizations to whom this Act applies 30 days after this Act's enactment date to file a notice.Prescribes tax penalties for failures by political organizations to make certain disclosures of contributions and expenditures for exempt functions. Exempts certain organizations and political committees from the disclosure requirement. Makes such disclosures publicly available and prescribes monetary penalties for failures to make disclosures available for inspection.Requires political organizations which have gross receipts of $25,000 or more per taxable year, with an exception, to file tax returns. Provides for public disclosure of such returns and prescribes monetary penalties for failures to file or provide correct information."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "527 Organization Disclosure bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Internal Revenue Code of 1986 to require 527 organizations to disclose their political activities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:16-05:00"
+}

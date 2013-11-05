@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-30", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-04-05", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime", 
+      "text": "Referred to the Subcommittee on Crime.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-05-11", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Crime", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-02T15:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. Canady moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-02T15:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8578-8580", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-02T15:56:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4147.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-02T16:05:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-02T18:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8589", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-02T18:38:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8579", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "504", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 504).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-02T18:38:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4147-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-02T18:38:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-03-30", 
+  "number": "4147", 
+  "official_title": "To amend title 18, United States Code, to increase the age of persons considered to be minors for the purposes of the prohibition on transporting obscene materials to minors.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stop Material Unsuitable for Teens Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Tancredo, Thomas G.", 
+    "state": "CO", 
+    "thomas_id": "01592", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-10-02T18:38:00-04:00", 
+  "subjects": [
+    "Age (Law)", 
+    "Computer crimes", 
+    "Crime and law enforcement", 
+    "Families", 
+    "Government operations and politics", 
+    "Internet", 
+    "Minors", 
+    "Pornography", 
+    "Postal crimes", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-03-30", 
+    "text": "Stop Material Unsuitable for Teens Act - Amends the Federal criminal code to increase from 16 to 18 the age of persons considered to be minors for purposes of the prohibition on transferring obscene materials to minors."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Stop Material Unsuitable for Teens Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 18, United States Code, to increase the age of persons considered to be minors for the purposes of the prohibition on transporting obscene materials to minors.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:57-05:00"
+}

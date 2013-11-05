@@ -1,0 +1,209 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-10-12", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-10-21", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-10-26T10:30:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-26T10:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10775-10776", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-26T10:30:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3061.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-26T10:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10775", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-10-26T10:36:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-27", 
+      "calendar": "Senate Legislative", 
+      "number": "350", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1999-11-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S14309", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-10", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-11-13", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "104", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-104.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3061-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "104"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-11-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-10-26T10:36:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-10-12", 
+  "number": "3061", 
+  "official_title": "To amend the Immigration and Nationality Act to extend for an additional 2 years the period for admission of an alien as a nonimmigrant under section 101(a)(15)(S) of such Act, and to authorize appropriations for the refugee assistance program under chapter 2 of title IV of the Immigration and Nationality Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1713-106", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-11-13", 
+  "subjects": [
+    "Admission of nonimmigrants", 
+    "Alien smuggling", 
+    "Authorization", 
+    "Crime and law enforcement", 
+    "Criminal investigation", 
+    "Economics and public finance", 
+    "Immigration", 
+    "Refugee policy", 
+    "Visas"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-10-12", 
+    "text": "Expresses the sense of Congress that in light of increased alien smuggling into the United States, the Attorney General should increase the use of providing nonimmigrant status for aliens assisting in criminal or security investigations (\"S\" visa) in alien smuggling operations. Amends the Immigration and Nationality Act to extend the \"S\" visa period of admissions. Authorizes appropriations for refugee admissions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Immigration and Nationality Act to extend for an additional 2 years the period for admission of an alien as a nonimmigrant under section 101(a)(15)(S) of such Act, and to authorize appropriations for the refugee assistance program under chapter 2 of title IV of the Immigration and Nationality Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:27-05:00"
+}

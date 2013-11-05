@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-11", 
+      "committee": "House Committee on Banking and Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Banking and Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-31", 
+      "in_committee": "House Committee on Banking and Financial Services", 
+      "references": [], 
+      "subcommittee": "Domestic and International Monetary Policy", 
+      "text": "Referred to the Subcommittee on Domestic and International Monetary Policy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-08-02T14:08:00-04:00", 
+      "references": [], 
+      "text": "Mr. Leach moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-02T14:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6766-6767", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-02T14:08:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1094.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-02T14:16:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6766", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-08-02T14:16:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-03", 
+      "committee": "Committee on Banking", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Banking.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Senate Committee on Banking discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S14903", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-12-06", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-12-06", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "122", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-122.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1094-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Banking and Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Banking and Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Domestic and International Monetary Policy", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "1999-03-11", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "LaFalce, John J.", 
+      "sponsored_at": "1999-03-11", 
+      "state": "NY", 
+      "thomas_id": "00657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "1999-03-11", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "122"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-12-06", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-08-02T14:16:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-03-11", 
+  "number": "1094", 
+  "official_title": "To amend the Federal Reserve Act to broaden the range of discount window loans which may be used as collateral for Federal reserve notes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Leach, James A.", 
+    "state": "IA", 
+    "thomas_id": "00672", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-12-06", 
+  "subjects": [
+    "Agricultural credit", 
+    "Agriculture and food", 
+    "Bank loans", 
+    "Bank notes", 
+    "Economics and public finance", 
+    "Federal reserve system", 
+    "Finance and financial sector", 
+    "Housing and community development", 
+    "Mortgage loans", 
+    "Surety and fidelity"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1999-08-02", 
+    "text": "Amends the Federal Reserve Act to include among the types of collateral security which may be required (to back currency) in a Federal Reserve bank application for Federal Reserve notes any acceptances acquired (discount window loans extended) with respect to: (1) emergency advances to groups of or individual member banks; and (2) discounts of agricultural paper."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Federal Reserve Act to broaden the range of discount window loans which may be used as collateral for Federal reserve notes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:24-05:00"
+}

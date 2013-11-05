@@ -1,0 +1,329 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-02-25", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-01", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "District of Columbia", 
+      "text": "Referred to the Subcommittee on District of Columbia.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-10", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-10", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-03-16T11:34:00-05:00", 
+      "references": [], 
+      "text": "Mr. Davis (VA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-16T11:34:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1279-1281", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-16T11:34:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 858.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-16T11:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-03-16T11:41:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-17", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-04-12", 
+      "in_committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "subcommittee": "Oversight of Government Management", 
+      "text": "Referred to Subcommittee on Oversight of Government Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-05-20", 
+      "in_committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Committee on Governmental Affairs. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-09-30", 
+      "references": [], 
+      "text": "Committee on Governmental Affairs. Reported to Senate by Senator Thompson with an amendment and an amendment to the title. With written report No. 106-167.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-30", 
+      "calendar": "Senate Legislative", 
+      "number": "295", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1999-10-08", 
+      "references": [
+        {
+          "reference": "CR S12324-12325", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-08", 
+      "references": [], 
+      "text": "Amendment SP 2290 proposed by Senator Warner for Senator Thompson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-08", 
+      "references": [], 
+      "text": "Amendment SP 2290 agreed to in Senate by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-08", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-10-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2290-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2290"
+    }
+  ], 
+  "bill_id": "hr858-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on District of Columbia", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA", 
+      "subcommittee": "Subcommittee on Oversight of Government Management, Restructuring and the District of Columbia", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "1999-03-16", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "1999-02-25", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "1999-02-25", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "1999-02-25", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scarborough, Joe", 
+      "sponsored_at": "1999-03-16", 
+      "state": "FL", 
+      "thomas_id": "01025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-03-16T11:41:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-10-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-02-25", 
+  "number": "858", 
+  "official_title": "An Act to amend chapter 17 of title 11, District of Columbia Code, to provide for personnel protection for District of Columbia court employees.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "District of Columbia Court Employees Act of 1999", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Thomas M.", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "1999-10-08", 
+  "subjects": [
+    "Actions and defenses", 
+    "Civil rights and liberties, minority issues", 
+    "Congress", 
+    "Congressional witnesses", 
+    "Disciplining of employees", 
+    "Discrimination in employment", 
+    "Dismissal of employees", 
+    "District of Columbia", 
+    "Fringe benefits", 
+    "Government operations and politics", 
+    "Grievance procedures", 
+    "Judicial officers", 
+    "Labor and employment", 
+    "Law", 
+    "Municipal employees", 
+    "Right of petition", 
+    "Seniority in employment", 
+    "Wage restitution", 
+    "Whistle blowing"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1999-10-08", 
+    "text": "District of Columbia Court Employees Act of 1999 - Treats nonjudicial employees of the District of Columbia court as Federal employees solely for purposes of Federal law (relating to employees' right to petition Congress).Allows such employees or former employees to file civil actions, constituting their exclusive remedies under Federal or District laws, in the U.S. District Court for the District of Columbia for relief of violation of this Act (with regard to an adverse personnel action for communications with Congress) if: (1) they reasonably believe that such violation has occurred; (2) the individuals file a grievance relating to such violation with the Joint Committee on Judicial Administration of the District within 270 days after the violation occurred; (3) the Committee makes a final decision or makes no decision within 60 days after the filing; and (4) the individuals file the civil action within one year after the date of the violation. Specifies judicial relief for such individuals, including reinstatement to former position and reinstatement of full fringe benefits and seniority rights, as well as compensation for lost wages and benefits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "District of Columbia Court Employees Whistleblower Protection Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "District of Columbia Court Employees Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "District of Columbia Court Employees Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 11, District of Columbia Code, to extend coverage under the whistleblower protection provisions of the District of Columbia Comprehensive Merit Personnel Act of 1978 to personnel of the courts of the District of Columbia.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by senate", 
+      "title": "An Act to amend chapter 17 of title 11, District of Columbia Code, to provide for personnel protection for District of Columbia court employees.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:17-05:00"
+}

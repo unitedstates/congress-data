@@ -1,0 +1,249 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-24", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-07-31", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "Government Management, Information and Technology", 
+      "text": "Referred to the Subcommittee on Government Management, Information and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-09-13T16:35:00-04:00", 
+      "references": [], 
+      "text": "Committee on Government Reform discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-13T16:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Horn asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-13T16:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7542-7543", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-13T16:35:00-04:00", 
+      "references": [], 
+      "text": "RESERVATION OF OBJECTION - Under a reservation of objection, Mr. Horn proceeded to explain the motion to discharge and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-13T16:41:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7543", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-09-13T16:41:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-19", 
+      "calendar": "Senate Legislative", 
+      "number": "812", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 812.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2000-09-28", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S9543", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-09-28", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-09-29", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-10-12", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-10-12", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "293", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-293.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4931-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Government Management, Information and Technology", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "2000-07-24", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "293"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-10-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-09-13T16:41:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-09-28", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-07-24", 
+  "number": "4931", 
+  "official_title": "To provide for the training or orientation of individuals, during a Presidential transition, who the President intends to appoint to certain key positions, to provide for a study and report on improving the financial disclosure process for certain Presidential nominees, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2705-106", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s2705-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Presidential Transition Act of 2000", 
+  "sponsor": {
+    "district": "38", 
+    "name": "Horn, Stephen", 
+    "state": "CA", 
+    "thomas_id": "00559", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-10-12", 
+  "subjects": [
+    "Computer networks", 
+    "Computers and government", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Employee training", 
+    "Financial disclosure", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publications", 
+    "Labor and employment", 
+    "Legislation", 
+    "Personnel management", 
+    "Presidential appointments", 
+    "Presidential candidates", 
+    "Presidential records", 
+    "Presidential transitions", 
+    "Records management", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-07-24", 
+    "text": "Presidential Transition Act of 2000 - Amends the Presidential Transition Act of 1963 to require the Administrator of General Services, upon request, to pay the expenses of each President-elect and Vice President-elect during the transition for briefings, workshops, or other activities to acquaint key prospective Presidential appointees (primarily those the President-elect intends to nominate as department heads or appoint to key positions in the Executive Office of the President) with the types of problems and challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance after inauguration.States that such activities may include interchange between such appointees and individuals who: (1) held similar leadership roles in prior administrations; (2) are department or agency experts from the Office of Management and Budget or a department or agency Office of Inspector General; or (3) are relevant staff from the General Accounting Office.Permits such activities also to include training or orientation in: (1) records management, including training on the separation of Presidential records and personal records to comply with certain requirements; and (2) human resources management and performance-based management.Requires the Administrator to develop a transition directory for such activities, which compile Federal publications and materials with supplementary materials developed by the Administrator that provide information on the officers, organization, and statutory and administrative authorities, functions, duties, responsibilities, and mission of each department and agency.Requires the Administrator also to consult with any candidate for President or Vice President to develop a systems architecture plan for the candidate's computer and communications systems to coordinate a transition to Federal systems, if the candidate is elected.Directs the Office of Government Ethics to study and report to specified congressional committees on improvements to the mandatory financial disclosure process under the Ethics in Government Act of 1978 for presidential nominees. Authorizes appropriations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Presidential Transition Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Presidential Transition Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for the training or orientation of individuals, during a Presidential transition, who the President intends to appoint to certain key positions, to provide for a study and report on improving the financial disclosure process for certain Presidential nominees, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:22-05:00"
+}

@@ -1,0 +1,283 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-08", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-02-11", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "Government Management, Information and Technology", 
+      "text": "Referred to the Subcommittee on Government Management, Information and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-04-05", 
+      "in_committee": "House Committee on Government Reform", 
+      "in_subcommittee": "Government Management, Information and Technology", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-05", 
+      "in_committee": "House Committee on Government Reform", 
+      "in_subcommittee": "Government Management, Information and Technology", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-02T14:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Horn moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-02T14:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2353-2357", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-02T14:35:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3582.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-02T14:59:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2353-2354", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-05-02T14:59:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-03", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3582-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Government Management, Information and Technology", 
+      "subcommittee_id": "12"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2000-04-05", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Cook, Merrill", 
+      "sponsored_at": "2000-03-01", 
+      "state": "UT", 
+      "thomas_id": "01475", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "2000-02-14", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Goodling, William F.", 
+      "sponsored_at": "2000-03-09", 
+      "state": "PA", 
+      "thomas_id": "00447", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2000-02-14", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2000-03-16", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2000-03-01", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ose, Doug", 
+      "sponsored_at": "2000-02-14", 
+      "state": "CA", 
+      "thomas_id": "01585", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2000-03-06", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "2000-04-05", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2000-02-16", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-05-02T14:59:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-02-08", 
+  "number": "3582", 
+  "official_title": "To restrict the use of mandatory minimum personnel experience and educational requirements in the procurement of information technology goods or services unless sufficiently justified.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Contractor Flexibility Act of 2000", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Thomas M.", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-05-02T14:59:00-04:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Computers and government", 
+    "Congress", 
+    "Congressional investigations", 
+    "Congressional reporting requirements", 
+    "Employee training", 
+    "Government contractors", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government procurement", 
+    "Information technology", 
+    "Labor and employment", 
+    "Law", 
+    "Office of Management and Budget", 
+    "Science, technology, communications", 
+    "Standards"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-02-08", 
+    "text": "Federal Contractor Flexibility Act of 2000 - Requires the Federal Acquisition Regulation to be amended to: (1) address the use of personnel experience and educational requirements in the procurement of information technology goods and services; and (2) provide that solicitations for such procurement shall not set forth any minimum experience or educational requirement for proposed contractor personnel unless the contracting officer determines and explains in writing that agency needs cannot be met without such requirement.Requires the Comptroller General to submit to Congress an evaluation of agency compliance with requirements set forth in such amendment, together with recommendations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Federal Contractor Flexibility Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To restrict the use of mandatory minimum personnel experience and educational requirements in the procurement of information technology goods or services unless sufficiently justified.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:42-05:00"
+}

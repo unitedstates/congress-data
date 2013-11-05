@@ -1,0 +1,247 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-22", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-23T14:56:00-05:00", 
+      "references": [], 
+      "text": "Mr. Combest moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-23T14:56:00-05:00", 
+      "references": [
+        {
+          "reference": " CR H1538-1540", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-23T14:56:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1212.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-23T15:17:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H1538", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-03-23T15:17:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-25", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S3568", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-03-25", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-03-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-31", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-04-01", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-04-01", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "7", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-7.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1212-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Berry, Marion", 
+      "sponsored_at": "1999-03-22", 
+      "state": "AR", 
+      "thomas_id": "01462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Condit, Gary A.", 
+      "sponsored_at": "1999-03-23", 
+      "state": "CA", 
+      "thomas_id": "00226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooksey, John", 
+      "sponsored_at": "1999-03-22", 
+      "state": "LA", 
+      "thomas_id": "01476", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ewing, Thomas W.", 
+      "sponsored_at": "1999-03-22", 
+      "state": "IL", 
+      "thomas_id": "00366", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "John, Christopher", 
+      "sponsored_at": "1999-03-23", 
+      "state": "LA", 
+      "thomas_id": "01495", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "1999-03-22", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "7"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-04-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-03-23T15:17:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-03-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-03-22", 
+  "number": "1212", 
+  "official_title": "To protect producers of agricultural commodities who applied for a Crop Revenue Coverage PLUS supplemental endorsement for the 1999 crop year.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s756-106", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s756-106", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s756-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Combest, Larry", 
+    "state": "TX", 
+    "thomas_id": "00224", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-04-01", 
+  "subjects": [
+    "Agriculture and food", 
+    "Crop insurance", 
+    "Finance and financial sector", 
+    "Reinsurance"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1999-03-23", 
+    "text": "Provides an additional 14-day period not to extend beyond April 12, 1999, for an agricultural producer who applied for supplemental crop insurance (Crop Revenue Coverage Plus) for a spring 1999 commodity to obtain or transfer specified insurance coverage levels."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To protect producers of agricultural commodities who applied for a Crop Revenue Coverage PLUS supplemental endorsement for the 1999 crop year.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:29-05:00"
+}

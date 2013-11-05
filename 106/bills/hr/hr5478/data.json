@@ -1,0 +1,212 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-17", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-24T13:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hansen moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-24T13:12:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H10574", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-24T13:12:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5478.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-24T13:15:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hansen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-24T19:02:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H10702-10703", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-24T19:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H10574", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-24T19:03:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-25", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11276", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-11-02", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-11-09", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-11-09", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "482", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-482.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5478-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "482"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-11-09", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-24T19:02:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-17", 
+  "number": "5478", 
+  "official_title": "To authorize the Secretary of the Interior to acquire by donation suitable land to serve as the new location for the home of Alexander Hamilton, commonly known as the Hamilton Grange, and to authorize the relocation of the Hamilton Grange to the acquired land.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Rangel, Charles B.", 
+    "state": "NY", 
+    "thomas_id": "00944", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-11-09", 
+  "subjects": [
+    "Commemorations", 
+    "Gifts", 
+    "Historic sites", 
+    "History", 
+    "Land transfers", 
+    "Monuments and memorials", 
+    "New York City", 
+    "Public lands and natural resources", 
+    "Relocation"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-10-17", 
+    "text": "Authorizes the Secretary of the Interior to: (1) acquire land from the City of New York, New York, to serve as the new location for the home of Alexander Hamilton, the Hamilton Grange; and (2) relocate the Grange to such land."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize the Secretary of the Interior to acquire by donation suitable land to serve as the new location for the home of Alexander Hamilton, commonly known as the Hamilton Grange, and to authorize the relocation of the Hamilton Grange to the acquired land.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:35-05:00"
+}

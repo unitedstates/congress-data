@@ -1,0 +1,243 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-29", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-29T21:44:00-05:00", 
+      "bill_ids": [
+        "hres662-106", 
+        "hjres121-106", 
+        "hjres123-106", 
+        "hjres12-106"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 662 Reported to House. Rule provides for consideration of H.J. Res. 121, H.J. Res. 122, H.J. Res. 123 and H.J. Res. 12", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01T10:25:00-05:00", 
+      "bill_ids": [
+        "hres662-106"
+      ], 
+      "references": [
+        {
+          "reference": "CR H11718-11726", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 662.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01T10:25:00-05:00", 
+      "bill_ids": [
+        "hjres121-106", 
+        "hjres123-106", 
+        "hjres124-106"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 121, H.J. Res. 122, H.J. Res. 123 and H.J. Res. 124.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01T10:25:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 122.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01T11:35:00-05:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01T11:57:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H11718", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "587", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 371 - 13 (Roll no. 587).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-11-01T11:57:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S11471", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "416", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-416.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres122-106", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "416"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-11-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-11-01T11:57:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-11-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-29", 
+  "number": "122", 
+  "official_title": "Making further continuing appropriations for the fiscal year 2001, and for other purposes.", 
+  "popular_title": "Continuing Appropriation FY2001 (Twelfth)", 
+  "related_bills": [
+    {
+      "bill_id": "hres662-106", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hres662-106", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Young, C.W. Bill", 
+    "state": "FL", 
+    "thomas_id": "01255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-11-01", 
+  "subjects": [
+    "Appropriations", 
+    "Arts, culture, religion", 
+    "Canada", 
+    "Census", 
+    "Commerce", 
+    "Congress", 
+    "Congressional agencies", 
+    "Continuing resolutions", 
+    "Democracy", 
+    "Earth resources satellites", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational exchanges", 
+    "Emergency management", 
+    "Europe", 
+    "Exchange of persons programs", 
+    "Federal libraries", 
+    "Finance and financial sector", 
+    "Flood insurance", 
+    "Free enterprise", 
+    "Government operations and politics", 
+    "Higher education", 
+    "International affairs", 
+    "International agencies", 
+    "Library of Congress", 
+    "Political leadership", 
+    "Public lands and natural resources", 
+    "Remote sensing", 
+    "Russia", 
+    "Space activities", 
+    "Treaties", 
+    "United Kingdom", 
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-10-29", 
+    "text": "Extends the law making continuing appropriations for FY 2001 through November 2, 2000."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Continuing Appropriation FY2001 (Twelfth)", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making further continuing appropriations for the fiscal year 2001, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:10-05:00"
+}

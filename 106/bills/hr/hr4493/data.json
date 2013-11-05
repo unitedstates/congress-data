@@ -1,0 +1,499 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-05-18", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-05-30", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime", 
+      "text": "Referred to the Subcommittee on Crime.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-17T12:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Canady moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T12:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9951-9954", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T12:54:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4493.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T13:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9952", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-17T13:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-18", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-06", 
+      "references": [
+        {
+          "reference": " CR S11655", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-06", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S11655", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-12-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4361-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4361"
+    }
+  ], 
+  "bill_id": "hr4493-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2000-09-25", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Ballenger, Cass", 
+      "sponsored_at": "2000-05-18", 
+      "state": "NC", 
+      "thomas_id": "00050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Campbell, Tom", 
+      "sponsored_at": "2000-09-06", 
+      "state": "CA", 
+      "thomas_id": "00170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2000-10-16", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clement, Bob", 
+      "sponsored_at": "2000-07-27", 
+      "state": "TN", 
+      "thomas_id": "00205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "2000-06-15", 
+      "state": "FL", 
+      "thomas_id": "00404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2000-05-18", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "2000-05-18", 
+      "state": "FL", 
+      "thomas_id": "00450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2000-05-18", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2000-10-06", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "2000-09-25", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hutchinson, Asa", 
+      "sponsored_at": "2000-05-18", 
+      "state": "AR", 
+      "thomas_id": "01493", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kingston, Jack", 
+      "sponsored_at": "2000-05-18", 
+      "state": "GA", 
+      "thomas_id": "00636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Latham, Tom", 
+      "sponsored_at": "2000-05-18", 
+      "state": "IA", 
+      "thomas_id": "00666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "2000-05-18", 
+      "state": "FL", 
+      "thomas_id": "00761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "McHugh, John M.", 
+      "sponsored_at": "2000-09-27", 
+      "state": "NY", 
+      "thomas_id": "00773", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2000-10-03", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2000-07-27", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Nethercutt, George R., Jr.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "WA", 
+      "thomas_id": "00860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ose, Doug", 
+      "sponsored_at": "2000-09-21", 
+      "state": "CA", 
+      "thomas_id": "01585", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2000-05-18", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2000-09-26", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2000-09-06", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rivers, Lynn N.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "MI", 
+      "thomas_id": "00966", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2000-07-25", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2000-09-21", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Vitter, David", 
+      "sponsored_at": "2000-09-25", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2000-05-18", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Weiner, Anthony D.", 
+      "sponsored_at": "2000-10-10", 
+      "state": "NY", 
+      "thomas_id": "01597", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2000-05-18", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-17T13:07:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-12-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-05-18", 
+  "number": "4493", 
+  "official_title": "To establish grants for drug treatment alternative to prison programs administered by State or local prosecutors.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Drug Treatment Alternative Sentencing Act of 2000", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Mica, John L.", 
+    "state": "FL", 
+    "thomas_id": "00800", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2000-12-06", 
+  "subjects": [
+    "Arrest", 
+    "Civil rights and liberties, minority issues", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "Discrimination in criminal justice administration", 
+    "Drug abuse", 
+    "Drug abuse treatment", 
+    "Drugs and crime", 
+    "Economics and public finance", 
+    "Ethnic groups", 
+    "Evaluation research (Social action programs)", 
+    "Federal aid to law enforcement", 
+    "Federal aid to substance abuse programs", 
+    "Fines (Penalties)", 
+    "Fugitives from justice", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Governmental investigations", 
+    "Halfway houses", 
+    "Health", 
+    "Housing and community development", 
+    "Job hunting", 
+    "Labor and employment", 
+    "Mandatory sentences", 
+    "Minorities", 
+    "Prison alternatives", 
+    "Prisoners", 
+    "Probation", 
+    "Racial discrimination", 
+    "Rehabilitation of criminals", 
+    "Sentences (Criminal procedure)", 
+    "Social welfare", 
+    "Violence", 
+    "Vocational education"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2000-12-06", 
+    "text": "TABLE OF CONTENTS: Title I: Prosecution Drug Treatment Alternative to Prison Title II: Federal Drug Treatment Alternative Sentencing Title I: Prosecution Drug Treatment Alternative to Prison - Prosecution Drug Treatment Alternative to Prison Act of 2000 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to make grants to State or local prosecutors for developing, implementing, or expanding drug treatment alternative to prison programs.Sets forth provisions regarding permissible uses of grant funds, the Federal cost share (75 percent), program and application requirements, geographic distribution of grant awards, reports, and evaluations.Authorizes appropriations.Title II: Federal Drug Treatment Alternative Sentencing - Federal Drug Treatment Alternative Sentencing Act of 2000 - Directs the court, upon the conviction of an individual for a misdemeanor under Controlled Substances Act provisions regarding simple possession of a controlled substance, if the individual meets specified criteria, to consider sentencing that individual to a term of probation that includes a condition, or a term of imprisonment that includes a recommendation, of participation in substance abuse treatment, including a drug dependency program.(Sec. 203) Directs the court: (1) if it imposes a sentence of probation, to subject such sentence to specified requirements under the Federal criminal code; and (2) in considering discretionary conditions of probation, to consider and use, where appropriate to assure participation in substance abuse treatment, any of several listed options, including day fines, house arrest, electronic monitoring, intensive probation supervision, day reporting centers, intermittent confinement, and treatment in therapeutic community.Directs that each offender who participates in a substance abuse program under this section serve a sentence of imprisonment with respect to the underlying offense if that offender does not successfully complete such a program. Directs the court to order that substance abuse treatment be provided in the locality in which the individual resides.(Sec. 204) Requires the Bureau of Prisons to maintain a drug dependency program for offenders sentenced to incarceration, which shall consist of residential substance abuse treatment and aftercare services. Sets forth reporting requirements.(Sec. 206) Directs the United States Sentencing Commission to submit a report to the House and Senate Judiciary Committees regarding mandatory minimum sentences for controlled substance offenses, which shall include an analysis of: (1) whether such sentences may have a disproportionate impact on ethnic or racial groups; (2) the effectiveness of such sentences in reducing drug-related crime by violent offenders; and (3) the frequency and appropriateness of the use of such sentences for nonviolent offenders in contrast with other approaches such as drug treatment programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Prosecution Drug Treatment Alternative to Prison Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Federal Drug Treatment Alternative Sentencing Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Prosecution Drug Treatment Alternative to Prison Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish grants for drug treatment alternative to prison programs administered by State or local prosecutors.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:07-05:00"
+}

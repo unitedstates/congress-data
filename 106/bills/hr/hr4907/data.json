@@ -1,0 +1,323 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-20", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-07-31", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "Civil Service", 
+      "text": "Referred to the Subcommittee on Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-30T15:45:00-05:00", 
+      "references": [], 
+      "text": "Mr. Davis (VA) moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-30T15:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11585-11588", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-30T15:45:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4907.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-30T15:57:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H11585-11587", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-30T15:57:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-31", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11939", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-20", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-23", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-12-23", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "565", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-565.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4907-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Civil Service", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Bliley, Tom", 
+      "sponsored_at": "2000-07-27", 
+      "state": "VA", 
+      "thomas_id": "00097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "2000-09-06", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Thomas M.", 
+      "sponsored_at": "2000-09-06", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "2000-09-06", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2000-07-27", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pickett, Owen B.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "VA", 
+      "thomas_id": "00916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2000-09-06", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Sisisky, Norman", 
+      "sponsored_at": "2000-07-27", 
+      "state": "VA", 
+      "thomas_id": "01060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "2000-09-06", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2000-09-06", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "565"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-12-23", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-30T15:57:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-12-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-07-20", 
+  "number": "4907", 
+  "official_title": "To establish the Jamestown 400th Commemoration Commission, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2885-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Jamestown 400th Commemoration Commission Act of 2000", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bateman, Herbert H.", 
+    "state": "VA", 
+    "thomas_id": "00064", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-12-23", 
+  "subjects": [
+    "Anniversaries", 
+    "Commemorations", 
+    "Federal advisory bodies", 
+    "Government operations and politics", 
+    "History", 
+    "Virginia"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-07-20", 
+    "text": "Jamestown 400th Commemoration Commission Act of 2000 - Establishes the Jamestown 400th Commemoration Commission to develop and execute programs and activities commemorating the 400th anniversary of the founding of Jamestown. Authorizes appropriations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Jamestown 400th Commemoration Commission Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Jamestown 400th Commemoration Commission Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Jamestown 400th Commemoration Commission Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Jamestown 400th Commemoration Commission Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish the Jamestown 400th Commemoration Commission, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:21-05:00"
+}

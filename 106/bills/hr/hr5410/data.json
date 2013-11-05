@@ -1,0 +1,303 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-06", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-17T17:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Thomas moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T17:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10015-100017", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T17:41:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5410.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T17:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H10015-10016", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-17T17:43:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-18", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-31", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S11436", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-31", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-31", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-11-02", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-11-09", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-11-09", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "481", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-481.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5410-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Boehner, John A.", 
+      "sponsored_at": "2000-10-06", 
+      "state": "OH", 
+      "thomas_id": "00102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2000-10-10", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2000-10-06", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2000-10-06", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2000-10-06", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Linder, John", 
+      "sponsored_at": "2000-10-06", 
+      "state": "GA", 
+      "thomas_id": "00693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "2000-10-06", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ney, Robert W.", 
+      "sponsored_at": "2000-10-06", 
+      "state": "OH", 
+      "thomas_id": "00862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "481"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-11-09", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-17T17:43:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-31", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-06", 
+  "number": "5410", 
+  "official_title": "To establish revolving funds for the operation of certain programs and activities of the Library of Congress, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Library of Congress Fiscal Operations Improvement Act of 2000", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-11-09", 
+  "subjects": [
+    "Accounting", 
+    "Appropriations", 
+    "Archives", 
+    "Arts, culture, religion", 
+    "Auditing", 
+    "Bibliography", 
+    "Commerce", 
+    "Congress", 
+    "Congressional agencies", 
+    "Congressional committee chairmen", 
+    "Congressional investigations", 
+    "Congressional joint committees", 
+    "Copying processes", 
+    "Economics and public finance", 
+    "Exhibitions", 
+    "Federal libraries", 
+    "Federal officials", 
+    "Finance and financial sector", 
+    "Gifts", 
+    "Government operations and politics", 
+    "Government publications", 
+    "Government publicity", 
+    "Government trust funds", 
+    "History", 
+    "Information services", 
+    "Inventories", 
+    "Joint Library", 
+    "Librarians", 
+    "Library of Congress", 
+    "Members of Congress (House)", 
+    "Microforms", 
+    "Public records", 
+    "Research", 
+    "Retail trade", 
+    "Revolving funds", 
+    "Science, technology, communications", 
+    "Sound recording and reproducing", 
+    "Translating and interpreting", 
+    "User charges", 
+    "Video tape recording"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-10-17", 
+    "text": "TABLE OF CONTENTS: Title I: Library of Congress Revolving Funds Title II: Library of Congress Trust Fund Board Library of Congress Fiscal Operations Improvement Act of 2000 - Title I: Library of Congress Revolving Funds - Establishes revolving funds in the Treasury for the following purposes of the Library of Congress: (1) audio and video duplication and delivery services associated with the national audiovisual conservation center; (2) decimal classification, gift shop operation, and document reproduction and microfilming; and (3) the Federal Library and Information Network and Federal Research programs. Authorizes the Librarian of Congress to charge fees for such services and to deposit such fees into the appropriate revolving fund.Title II: Library of Congress Trust Fund Board - Revises the composition of the Library of Congress Trust Fund Board to include the vice chair of the Joint Committee on the Library. Decreases from nine to seven members the Board's quorum for the transaction of business. Provides for a temporary extension of Board members' terms."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Library of Congress Fiscal Operations Improvement Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Library of Congress Fiscal Operations Improvement Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Library of Congress Fiscal Operations Improvement Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish revolving funds for the operation of certain programs and activities of the Library of Congress, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:33-05:00"
+}

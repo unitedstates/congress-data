@@ -1,0 +1,312 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-02-23", 
+      "references": [
+        {
+          "reference": "CR S1802", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-02-23", 
+      "committee": "Committee on HELP", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on HELP.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-02", 
+      "references": [], 
+      "text": "Senate Committee on HELP discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-02", 
+      "references": [
+        {
+          "reference": "CR S1372-13725", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-02", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-03T10:00:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-03", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-03", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-17T11:22:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hilleary moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T11:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12120-12126", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T11:22:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on S. 440.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T11:48:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T12:50:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12147-12148", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-17T13:12:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "597", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 128 - 291 (Roll no. 597).", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-11-17T13:12:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2504-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2504"
+    }
+  ], 
+  "bill_id": "s440-106", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "DeWine, Mike", 
+      "sponsored_at": "1999-02-23", 
+      "state": "OH", 
+      "thomas_id": "00293", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "1999-05-04", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Frist, William H.", 
+      "sponsored_at": "1999-02-23", 
+      "state": "TN", 
+      "thomas_id": "01336", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Smith, Gordon H.", 
+      "sponsored_at": "1999-02-23", 
+      "state": "OR", 
+      "thomas_id": "01549", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Voinovich, George V.", 
+      "sponsored_at": "1999-02-23", 
+      "state": "OH", 
+      "thomas_id": "01575", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "1999-11-17T13:12:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-02", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-02-23", 
+  "number": "440", 
+  "official_title": "A bill to provide support for certain institutes and schools.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr788-106", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Thompson, Fred", 
+    "state": "TN", 
+    "thomas_id": "01447", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "1999-11-17T13:12:00-05:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "Archives", 
+    "Arts, culture, religion", 
+    "Citizen participation", 
+    "Citizenship education", 
+    "College libraries", 
+    "College teachers", 
+    "Colleges", 
+    "Conferences", 
+    "Congress", 
+    "Constitutional law", 
+    "Continuing education", 
+    "Curricula", 
+    "Curriculum planning", 
+    "Decision making in public administration", 
+    "Democracy", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational facilities", 
+    "Elementary and secondary education", 
+    "Environmental education", 
+    "Environmental protection", 
+    "Ex-Members of Congress", 
+    "Federal aid to higher education", 
+    "Federal aid to medical education", 
+    "Foundations", 
+    "Government internships", 
+    "Government operations and politics", 
+    "Health", 
+    "Higher education", 
+    "History", 
+    "Hunger", 
+    "Illinois", 
+    "International affairs", 
+    "Law", 
+    "Legal education", 
+    "Legislators", 
+    "Mass media", 
+    "Medical education", 
+    "Members of Congress (Senate)", 
+    "Ohio", 
+    "Oregon", 
+    "Policy sciences", 
+    "Political ethics", 
+    "Political science", 
+    "Presidential records", 
+    "Professional education", 
+    "Public administration", 
+    "Public health", 
+    "Public records", 
+    "Public speaking", 
+    "Regional planning", 
+    "Research centers", 
+    "Scholarships", 
+    "Science, technology, communications", 
+    "Social welfare", 
+    "Teacher education", 
+    "Teaching materials", 
+    "Tennessee", 
+    "Vermont", 
+    "Volunteer workers"
+  ], 
+  "subjects_top_term": "Higher education", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1999-11-02", 
+    "text": "TABLE OF CONTENTS: Title I: Howard Baker School of Government Title II: John Glenn Institute for Public Service and Public Policy Title III: Oregon Institute of Public Service and Constitutional Studies Title IV: Paul Simon Public Policy Institute Title V: Robert T. Stafford Public Policy Institute Title I: Howard Baker School of Government - Authorizes the Secretary of Education to award a grant to the University of Tennessee in Knoxville, Tennessee, to establish the Howard Baker School of Government and its endowment fund. (Sec. 103) Requires the School to further the study of democratic institutions and public affairs, among other duties. (Sec. 104) Requires the School to operate with the guidance of a Board of Advisors. (Sec. 106) Authorizes appropriations. Title II: John Glenn Institute for Public Service and Public Policy - Authorizes the Secretary to award a grant to Ohio State University in Columbus, Ohio, to establish the John Glenn Institute for Public Service and Public Policy and its endowment fund. (Sec. 202) Requires the Institute to further the study of public service and public policy issues, among other duties. (Sec. 206) Authorizes appropriations. Title III: Oregon Institute of Public Service and Constitutional Studies - Authorizes the Secretary to award a grant to Portland State University in Portland, Oregon, to establish an endowment fund to support the Oregon Institute of Public Service and Constitutional Studies, which the University shall establish at the Mark O. Hatfield School of Government under a Leadership Council in order to receive such grant. (Sec. 303) Requires such Institute to: (1) further the knowledge and understanding of students about public service, the U.S. Government, and the Constitution; (2) increase awareness among youth of the importance of public service; (3) establish a Mark O. Hatfield Fellows program for students of government, public policy, public health, education, or law who have demonstrated a commitment to public service through volunteer activities, research projects, or employment; (4) create library and research facilities; and (5) support the professional development of elected officials at all levels of government. (Sec. 304) Requires the Institute to operate under the direction of a Leadership Council. (Sec. 306) Authorizes appropriations. Title IV: Paul Simon Public Policy Institute - Authorizes the Secretary to award a grant to Southern Illinois University at Carbondale, Illinois, to establish an endowment fund to support the Paul Simon Public Policy Institute, which the University shall establish in order to receive such grant. (Sec. 402) Includes among the Institute's duties research, analysis, debate, and policy recommendations with respect to world hunger, mass media, foreign policy, education, and employment. (Sec. 406) Authorizes appropriations. Title V: Robert T. Stafford Public Policy Institute - Authorizes the Secretary to award a grant to the Robert T. Stafford Public Policy Institute. (Sec. 502) Allows the use of such funds to: (1) further the knowledge and understanding of students of all ages about education, the environment, and public service; (2) increase the awareness of the importance of public service, foster among U.S. youth greater recognition of the role of public service in U.S. development, and promote public service as a career choice; (3) provide or support scholarships; (4) conduct educational, archival, or preservation activities; (5) construct or renovate library and research facilities for the collection and compilation of research materials for use in carrying out programs of the Institute; and (6) establish or increase an endowment fund for Institute programs. (Sec. 504) Sets forth requirements relating to such endowment fund. (Sec. 505) Authorizes appropriations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to provide support for certain institutes and schools.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:21-05:00"
+}

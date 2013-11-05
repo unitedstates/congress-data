@@ -1,0 +1,387 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-13", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-06-22", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Executive Comment Requested from Interior.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-26", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-26", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-09-18T14:33:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 106-855.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-18T14:34:00-04:00", 
+      "calendar": "Union", 
+      "number": "511", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 511.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-09-18T14:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gilchrest moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-18T14:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7663-7667", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-18T14:36:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4643.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-18T14:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7663-7665", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-09-18T14:51:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-19", 
+      "committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-09-27", 
+      "in_committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "committee": "Indian Affairs", 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported by Senator Campbell without amendment. With written report No. 106-474.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "calendar": "Senate Legislative", 
+      "number": "923", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 923.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4643-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2000-06-22", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2000-06-22", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2000-07-27", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "2000-07-27", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Thomas M.", 
+      "sponsored_at": "2000-07-27", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Dooley, Calvin M.", 
+      "sponsored_at": "2000-07-27", 
+      "state": "CA", 
+      "thomas_id": "00306", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2000-07-27", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2000-06-22", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hansen, James V.", 
+      "sponsored_at": "2000-07-27", 
+      "state": "UT", 
+      "thomas_id": "00498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2000-07-27", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "2000-06-22", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Lewis, Jerry", 
+      "sponsored_at": "2000-07-27", 
+      "state": "CA", 
+      "thomas_id": "00687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2000-06-13", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snyder, Vic", 
+      "sponsored_at": "2000-07-27", 
+      "state": "AR", 
+      "thomas_id": "01530", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Taylor, Gene", 
+      "sponsored_at": "2000-07-27", 
+      "state": "MS", 
+      "thomas_id": "01142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Thomas, William M.", 
+      "sponsored_at": "2000-07-27", 
+      "state": "CA", 
+      "thomas_id": "01148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2000-07-27", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Young, Don", 
+      "sponsored_at": "2000-07-27", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-09-18T14:51:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-06-13", 
+  "number": "4643", 
+  "official_title": "To provide for the settlement of issues and claims related to the trust lands of the Torres-Martinez Desert Cahuilla Indians, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Torres-Martinez Desert Cahuilla Indians Claims Settlement Act", 
+  "sponsor": {
+    "district": "44", 
+    "name": "Bono Mack, Mary", 
+    "state": "CA", 
+    "thomas_id": "01465", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-09-18T14:51:00-04:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "California", 
+    "County politics and government", 
+    "Easements", 
+    "Economics and public finance", 
+    "Federal-Indian relations", 
+    "Government liability", 
+    "Government operations and politics", 
+    "Government trust funds", 
+    "Indian claims", 
+    "Indian gambling operations", 
+    "Indian lands", 
+    "Indian water rights", 
+    "Irrigation districts", 
+    "Land transfers", 
+    "Law", 
+    "Minorities", 
+    "Municipal politics and government", 
+    "Public lands and natural resources", 
+    "Sports and recreation", 
+    "Trusts and trustees", 
+    "Water districts", 
+    "Water resources development", 
+    "Water rights"
+  ], 
+  "subjects_top_term": "Minorities", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-09-18", 
+    "text": "Torres-Martinez Desert Cahuilla Indians Claims Settlement Act - Approves, ratifies, and confirms the Agreement of Compromise and Settlement Concerning Claims to the Lands of the United States Within and on the Perimeter of the Salton Sea Drainage Reservoir Held in Trust for the Torres-Martinez Indians, as modified by the first, second, third, and fourth modifications thereto (the Settlement Agreement).Establishes in the Treasury the following three settlement trust fund accounts: (1) Torres-Martinez Settlement Trust Funds Account; (2) Torres-Martinez Allottees Settlement Account I; and (3) Torres-Martinez Allottees Settlement Account II. Requires: (1) amounts held in the trust accounts be available to the Secretary for distribution to the Tribe and affected allottees; and (2) amounts paid to the Secretary for deposit into the accounts be allocated among and deposited in the accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement. Directs: (1) the Coachella Valley Water District and the Imperial Irrigation District to pay separate, specified amounts to the United States for the benefit of the Tribe and any affected allottees; and (2) the United States to pay a specified amount into such accounts which shall be provided from certain moneys appropriated by Congress.Directs the Secretary to convey into trust status lands purchased or acquired by the Tribe within specified primary and secondary acquisition areas. Requires all lands purchased or otherwise acquired by the Tribe and conveyed into trust status for its benefit to be considered as if they were so acquired in trust status in 1909, except as to water rights as provided in this Act and to valid rights existing at the time of acquisition. Prohibits lands in the primary acquisition area from being acquired if by majority vote the governing body of the city within whose incorporated boundaries the subject lands are situated within formally objects to the Tribe's request to convey the subject lands into trust and notifies the Secretary of such objection in writing within 60 days of receiving a copy of such request. Provides for the Secretary, upon receipt of such a notification, to deny the request.Prohibits lands in the secondary acquisition area from being acquired if by majority vote: (1) the governing body of the city within whose incorporated boundaries the subject lands are situated within; or (2) the governing body of Riverside County, California, in the event that such lands are located within an unincorporated area, formally objects to the Tribe's request to convey the subject lands into trust and notifies the Secretary of such objection in writing within 60 days of receiving a copy of such request. Provides for the Secretary, upon receipt of such a notification, to deny the request.Prohibits the Secretary from taking any lands into trust for the Tribe under generally applicable Federal statutes or regulations where such lands are both: (1) contiguous to any lands within the secondary acquisition area that are taken into trust; and (2) situated outside such area. Allows the Tribe to conduct gaming on only one site within such lands. Requires that all such lands: (1) be subject to all valid water rights existing at the time of tribal acquisition; (2) be subject to the rights of any person who at any time recharges or stores water in a ground water basin to recapture or recover the recharged or stored water or to authorize others to recapture or recover it; and (3) continue to enjoy all valid water rights appurtenant to the land existing immediately prior to the time of such acquisition.Conveys to the Coachella Valley Water District: (1) a permanent flowage easement as to all Indian trust lands located within and below the minus 220-foot contour of the Salton Sink; and (2) a permanent flowage easement as to all Federal lands located within and below such contour.Grants and conveys to the Imperial Irrigation District identical easements.Declares that the benefits available to the Tribe and the allottees under the terms and conditions of the Settlement Agreement and the provisions of this Act constitute full and complete satisfaction of the claims by the Tribe and the allottees arising from or related to the inundation and lack of drainage of tribal and allottee lands. Approves and confirms the releases and waivers required.Provides that: (1) nothing in this Act or the Settlement Agreement shall affect the eligibility of the Tribe or its members for any Federal program or diminish the trust responsibility of the United States to the Tribe and its members; and (2) no payment pursuant to this Act shall result in the reduction or denial of any Federal services or programs to the Tribe or its members to which they are entitled or eligible because of their status as a federally recognized Indian tribe or member of such Tribe.Permits the Settlement Agreement to be amended from time to time to the extent that such amendments are not inconsistent with the trust acquisition provisions of such Agreement as such provisions existed on: (1) the enactment of this Act, in the case of modifications one and three; and (2) September 14, 2000, in the case of modification four.Authorizes appropriations.Sets forth effective dates."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Torres-Martinez Desert Cahuilla Indians Claims Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Torres-Martinez Desert Cahuilla Indians Claims Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for the settlement of issues and claims related to the trust lands of the Torres-Martinez Desert Cahuilla Indians, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:13-05:00"
+}

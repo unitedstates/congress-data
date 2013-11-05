@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-02-01T15:11:00-05:00", 
+      "references": [], 
+      "text": "Mr. McCollum asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-01T15:11:00-05:00", 
+      "references": [
+        {
+          "reference": " CR H128", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-01T15:11:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H128", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-02-01T15:11:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-01", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-02-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S505", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-02-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres245-106", 
+  "bill_type": "hconres", 
+  "committees": [], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-02-01T15:11:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-02-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-02-01", 
+  "number": "245", 
+  "official_title": "To correct technical errors in the enrollment of the bill H.R. 764.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr764-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Jenkins, William L.", 
+    "state": "TN", 
+    "thomas_id": "01494", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2000-02-08", 
+  "subjects": [
+    "Congress", 
+    "Crime and law enforcement", 
+    "House of Representatives", 
+    "Legislation"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-02-01", 
+    "text": "Requires the Clerk of the House of Representatives to make technical corrections in the enrollment of H.R. 764 (child abuse prevention and enforcement)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To correct technical errors in the enrollment of the bill H.R. 764.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:47-05:00"
+}

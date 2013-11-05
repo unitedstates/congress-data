@@ -1,0 +1,368 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-09", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-10T18:30:00-05:00", 
+      "references": [], 
+      "text": "Mr. Tauzin moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-10T18:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11929-11936, H11939", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-10T18:30:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3261.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-10T18:54:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-11-10T18:54:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-10T18:55:00-05:00", 
+      "bill_ids": [
+        "s376-106"
+      ], 
+      "references": [
+        {
+          "reference": "CR  H11939", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Laid on the table. See S. 376 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3261-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "49", 
+      "name": "Bilbray, Brian P.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "CA", 
+      "thomas_id": "00087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "1999-11-09", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bryant, Ed", 
+      "sponsored_at": "1999-11-10", 
+      "state": "TN", 
+      "thomas_id": "00141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "1999-11-09", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Coburn, Tom A.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "OK", 
+      "thomas_id": "00212", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "1999-11-10", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Thomas M.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Deutsch, Peter", 
+      "sponsored_at": "1999-11-09", 
+      "state": "FL", 
+      "thomas_id": "00291", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ehrlich, Robert L., Jr.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "MD", 
+      "thomas_id": "00340", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "1999-11-10", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "1999-11-09", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Largent, Steve", 
+      "sponsored_at": "1999-11-09", 
+      "state": "OK", 
+      "thomas_id": "00664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Metcalf, Jack", 
+      "sponsored_at": "1999-11-10", 
+      "state": "WA", 
+      "thomas_id": "00792", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Oxley, Michael G.", 
+      "sponsored_at": "1999-11-09", 
+      "state": "OH", 
+      "thomas_id": "00885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "1999-11-09", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "1999-11-09", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "1999-11-09", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wilson, Heather", 
+      "sponsored_at": "1999-11-10", 
+      "state": "NM", 
+      "thomas_id": "01539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-11-10T18:54:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-11-09", 
+  "number": "3261", 
+  "official_title": "To amend the Communications Satellite Act of 1962 to promote competition and privatization in satellite communications, and for other purposes.", 
+  "popular_title": "ORBIT bill", 
+  "related_bills": [
+    {
+      "bill_id": "s376-106", 
+      "reason": "unknown"
+    }
+  ], 
+  "short_title": "Communications Satellite Competition and Privatization Act of 1999", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Bliley, Tom", 
+    "state": "VA", 
+    "thomas_id": "00097", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1999-11-10T18:54:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Auctions", 
+    "Auditing", 
+    "Commerce", 
+    "Communication satellites", 
+    "Competition", 
+    "Competitive bidding", 
+    "Concessions", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Federal Communications Commission", 
+    "Federal advisory bodies", 
+    "Finance and financial sector", 
+    "Foreign investments", 
+    "Foreign trade and international finance", 
+    "Free trade", 
+    "Government contractors", 
+    "Government operations and politics", 
+    "Government procurement", 
+    "Independent regulatory commissions", 
+    "International affairs", 
+    "International agencies", 
+    "International competitiveness", 
+    "Law", 
+    "Liability (Law)", 
+    "Licenses", 
+    "Marine safety", 
+    "Maritime satellites", 
+    "Nontariff trade barriers", 
+    "Privatization", 
+    "Privileges and immunities", 
+    "Radio frequency allocation", 
+    "Restrictive trade practices", 
+    "Science, technology, communications", 
+    "Space activities", 
+    "Telecommunication agreements", 
+    "Telecommunication industry", 
+    "Telecommunication policy", 
+    "Telecommunication rates", 
+    "Trade agreements", 
+    "Trade negotiations", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-11-09", 
+    "text": "Communications Satellite Competition and Privatization Act of 1999 - Amends the Communications Act of 1934 to add a new chapter concerning communications satellite competition and privatization.Prohibits the Federal Communications Commission (FCC) from issuing a license or construction permit to any separated entity (an entity that has been privatized under this Act), renewing or assigning any such license or permit, or authorizing such entity to use its space segment unless the FCC determines that such issuance, renewal, assignment, or use will not harm competition in the U.S. telecommunications market. Requires the FCC to substantially limit, deny, or revoke the authority of any U.S. entity to use any space segment owned, leased, or operated by INTELSAT (the International Telecommunications Satellite Organization) or Inmarsat (the International Maritime Satellite Organization) or any successor entities to provide non-core satellite services to, from, or within the United States, unless the FCC finds that INTELSAT and Inmarsat and their successor entities, by specified dates, have been privatized in a manner that will not harm competition in the U.S. telecommunications markets. Outlines competition requirements, including that users of non-core services currently provided by such entities are able to obtain such services from other providers at competitive rates, terms, and conditions.States that, unless the FCC determines appropriate privatization by INTELSAT or Inmarsat, then: (1) the President shall oppose any registration for new orbital locations for such entities after specified dates; and (2) the President and the FCC shall preclude procurement, registration, development, or use of new satellites which would provide non-core services (with an exception for replacement or currently-contracted satellites).Authorizes the FCC to issue an authorization, license, or permit for any provider of services using any INTELSAT or Inmarsat space segment for additional services or additional areas of business during the privatization period, subject to specified requirements, including three annual findings that substantial progress has been made in achieving pro-competitive privatization and that neither INTELSAT nor Inmarsat are hindering competitor access to the satellite services market. Provides an exception with respect to existing INTELSAT or Inmarsat contracts.Directs the President and the FCC, applying specified criteria, to secure a pro-competitive privatization of INTELSAT and Inmarsat. Requires each entity to be privatized as soon as practicable, but no later than April 1, 2001, for INTELSAT, and April 1, 2000, for Inmarsat. Requires successor and separated entities of INTELSAT and Inmarsat to be independent entities. Prohibits the preferential treatment currently provided to INTELSAT and Inmarsat from being extended to such successor and separated entities. Outlines transitional requirements during the privatization period. Requires INTELSAT, Inmarsat, and any successor and separated entities to return satellite orbital locations that were unused as of March 25, 1998.Includes as specific criteria for INTELSAT privatization: (1) a sufficient number of competitors to create a fully competitive market; and (2) the prevention of expansion during privatization.Includes as specific criteria for INTELSAT separated entities: (1) a public offering of the securities of such an entity within one year after its creation; (2) no privileges and immunities previously granted to INTELSAT; (3) a prohibition against interlocking directors and employees; and (4) a 15-year prohibition against the merger or ownership arrangements between a privatized INTELSAT or successor entity and any separated entity.Includes as specific criteria for Inmarsat privatization: (1) multiple signatories and direct access to Inmarsat; (2) the prevention of expansion during privatization; (3) a sufficient number of competitors to create a fully competitive market; (4) a 15-year prohibition against merger or ownership arrangements between Inmarsat or any of its successor or separated entities and ICO Global Communications, Inc.; and (5) a prohibition against Inmarsat and ICO interlocking directors or employees.Directs the Secretary of Commerce to transmit to the FCC a list of member countries of INTELSAT and Inmarsat that are not members of the World Trade Organization and that: (1) impose barriers to market access for private satellite systems; or (2) are not supporting pro-competitive privatization of INTELSAT and Inmarsat. Authorizes the FCC to prohibit U.S. carriers from paying to overseas carriers an amount for international message telephone services in excess of a cost-based settlement rate.Permits current users or providers of telecommunications services to obtain direct access to INTELSAT telecommunications services and space segment capacity through purchase of such capacity or services from, or investments in, INTELSAT. Requires the FCC to complete a rulemaking to determine whether such users or providers have sufficient opportunity to access such services and capacity directly from INTELSAT.Authorizes the FCC to restrict foreign ownership of an entity representing the United States in INTELSAT or Inmarsat (a U.S. signatory) if to not do so would constitute a threat to national security. States that no U.S. signatories shall be required after privatization is achieved.Revises the privileges and immunities currently provided to the Communications Satellite Corporation (COMSAT).Terminates specified provisions of the Communications Satellite Act of 1962.Requires annual reports from the President and the FCC to specified congressional committees on progress made in achieving the objectives and carrying out the purposes of this Act. Directs the President and the FCC to consult with such committees prior to each meeting of the INTELSAT or Inmarsat Assembly of Parties, the INTELSAT Board of Governors, the Inmarsat Council, or appropriate working groups.Prohibits the FCC from assigning by competitive bidding orbital locations or spectrum used for the provision of international or global satellite communications services. Directs the President to oppose any such assignment in international fora.Prohibits any satellite operator from acquiring or enjoying the exclusive right of handling telecommunications to or from the United States and any other country by reason of any arrangement to which such operator or any persons or companies controlling or controlled by the operator are parties (with an exception for existing services)."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "ORBIT bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Communications Satellite Competition and Privatization Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Communications Satellite Act of 1962 to promote competition and privatization in satellite communications, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:33-05:00"
+}

@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-08", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-03-16", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "subcommittee": "Energy and Power", 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-03-30", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Energy and Power", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-12", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Energy and Power", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-12", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Energy and Power", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-17", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-17", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-05-19T14:53:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Commerce. H. Rept. 106-629.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-19T14:54:00-04:00", 
+      "calendar": "Union", 
+      "number": "344", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 344.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-05-22T14:29:00-04:00", 
+      "references": [], 
+      "text": "Mr. Oxley moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T14:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3488", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T14:30:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3852.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T14:33:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T18:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3493-3494", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T18:24:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3488", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "211", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 354 - 0 (Roll no. 211).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-05-22T18:24:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T18:25:00-04:00", 
+      "bill_ids": [
+        "s1836-106"
+      ], 
+      "references": [], 
+      "text": "Laid on the table. See S. 1836 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3852-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-05-22T18:24:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-03-08", 
+  "number": "3852", 
+  "official_title": "To extend the deadline for commencement of construction of a hydroelectric project in the State of Alabama.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1836-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeMint, Jim", 
+    "state": "SC", 
+    "thomas_id": "01605", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-05-22T18:24:00-04:00", 
+  "subjects": [
+    "Alabama", 
+    "Energy", 
+    "Hydroelectric power", 
+    "Law", 
+    "Licenses", 
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-03-08", 
+    "text": "Directs the Federal Energy Regulatory Commission (FERC), at the request of a specified licensee, to extend for three consecutive two-year periods the period during which such licensee is required to commence construction of a hydroelectric project in the State of Alabama.Requires FERC to reinstate the project license if it has expired before enactment of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To extend the deadline for commencement of construction of a hydroelectric project in the State of Alabama.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:49-05:00"
+}

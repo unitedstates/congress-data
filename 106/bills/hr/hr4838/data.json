@@ -1,0 +1,198 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-07-12", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-07-24", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-10T16:20:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T16:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9545-9548", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T16:21:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4838.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T16:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9545", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-10T16:37:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T16:39:00-04:00", 
+      "bill_ids": [
+        "s2812-106"
+      ], 
+      "references": [], 
+      "text": "Laid on the table. See S. 2812 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4838-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2000-09-07", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "2000-09-25", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "2000-09-07", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2000-09-12", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2000-09-07", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-10T16:37:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-07-12", 
+  "number": "4838", 
+  "official_title": "To amend the Immigration and Nationality Act to provide a waiver of the oath of renunciation and allegiance for naturalization of aliens having certain disabilities.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2812-106", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s2812-106", 
+      "reason": "unknown"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "18", 
+    "name": "Ros-Lehtinen, Ileana", 
+    "state": "FL", 
+    "thomas_id": "00985", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-10-10T16:37:00-04:00", 
+  "subjects": [
+    "Disabled", 
+    "Government operations and politics", 
+    "Immigration", 
+    "Loyalty oaths", 
+    "Naturalization"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-10-10", 
+    "text": "Amends the Immigration and Nationality Act to authorize the Attorney General to waive the taking of the naturalization oath of renunciation and allegiance for an alien with a physical or developmental disability or mental impairment who is unable to understand or communicate an understanding of such oath."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Immigration and Nationality Act to provide a waiver of the oath of renunciation and allegiance for naturalization of aliens having certain disabilities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:19-05:00"
+}

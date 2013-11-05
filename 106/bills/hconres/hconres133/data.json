@@ -1,0 +1,451 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-15", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-06-24", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "subcommittee": "Health and Environment", 
+      "text": "Referred to the Subcommittee on Health and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-03T17:06:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Cubin moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03T17:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8686-8688", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03T17:07:00-04:00", 
+      "bill_ids": [
+        "hcres133-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 133.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03T17:24:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8686", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-03T17:25:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-04", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres133-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health and Environment", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "1999-06-15", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Bentsen, Ken", 
+      "sponsored_at": "1999-06-15", 
+      "state": "TX", 
+      "thomas_id": "00079", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berry, Marion", 
+      "sponsored_at": "1999-06-23", 
+      "state": "AR", 
+      "thomas_id": "01462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "1999-06-18", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2000-03-06", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Canady, Charles T.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "FL", 
+      "thomas_id": "00171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2000-06-13", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna MC", 
+      "sponsored_at": "2000-03-06", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clement, Bob", 
+      "sponsored_at": "1999-06-15", 
+      "state": "TN", 
+      "thomas_id": "00205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Franks, Bob", 
+      "sponsored_at": "1999-06-29", 
+      "state": "NJ", 
+      "thomas_id": "00409", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1999-06-18", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "1999-08-05", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2000-04-03", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "1999-06-16", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "1999-06-23", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2000-05-23", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hooley, Darlene", 
+      "sponsored_at": "2000-07-10", 
+      "state": "OR", 
+      "thomas_id": "01491", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "1999-06-17", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2000-03-06", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2000-03-06", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "1999-10-06", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "1999-07-13", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "1999-06-23", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "1999-10-01", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2000-04-03", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Romero-Barcelo, Carlos A.", 
+      "sponsored_at": "1999-06-17", 
+      "state": "PR", 
+      "thomas_id": "00980", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "1999-06-18", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2000-04-03", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sanford, Marshall (Mark)", 
+      "sponsored_at": "1999-06-15", 
+      "state": "SC", 
+      "thomas_id": "01012", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2000-07-26", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shows, Ronnie", 
+      "sponsored_at": "1999-06-16", 
+      "state": "MS", 
+      "thomas_id": "01565", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Sisisky, Norman", 
+      "sponsored_at": "1999-06-18", 
+      "state": "VA", 
+      "thomas_id": "01060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "1999-06-15", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2000-04-03", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-03T17:24:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-06-15", 
+  "number": "133", 
+  "official_title": "Recognizing the severity of the disease of colon cancer, the preventable nature of the disease, and the need for education in the areas of prevention and early detection, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Moran, James P.", 
+    "state": "VA", 
+    "thomas_id": "00832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-10-03T17:24:00-04:00", 
+  "subjects": [
+    "Colon cancer", 
+    "Health", 
+    "Health education", 
+    "Medical screening", 
+    "Medical tests", 
+    "Preventive medicine"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-06-15", 
+    "text": "Declares that Congress recognizes: (1) the severity of the issue of colorectal cancer; (2) such disease's preventable nature; and (3) the importance of the Screen for Life Campaign.Calls on health educators, elected officials, and the people of the United States to: (1) broaden the message of the Screen for Life Campaign to reach all individuals; and (2) learn about colorectal cancer and its preventable nature and learn to recognize the risk factors and symptoms which enable early detection and treatment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the severity of the disease of colon cancer, the preventable nature of the disease, and the need for education in the areas of prevention and early detection, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:44-05:00"
+}

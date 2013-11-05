@@ -1,0 +1,359 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-11", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-30", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "subcommittee": "Finance and Hazardous Materials", 
+      "text": "Referred to the Subcommittee on Finance and Hazardous Materials.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-10-29", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Finance and Hazardous Materials", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-02", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Finance and Hazardous Materials", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-02", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Finance and Hazardous Materials", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-15", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-15", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-03-27T14:50:00-05:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Commerce. H. Rept. 106-547.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-27T14:52:00-05:00", 
+      "calendar": "Union", 
+      "number": "297", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 297.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-04-03T15:02:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gillmor moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-03T15:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1648-1651", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-03T15:02:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1089.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-03T15:19:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-03T18:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1656-1657", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-03T18:26:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1649", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "96", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 2 (Roll no. 96).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-04-03T18:26:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-04", 
+      "committee": "Committee on Banking, Housing, and Urban Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1089-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Finance and Hazardous Materials", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Barrett, Thomas M.", 
+      "sponsored_at": "1999-11-02", 
+      "state": "WI", 
+      "thomas_id": "00058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "1999-03-11", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "1999-11-02", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Deal, Nathan", 
+      "sponsored_at": "1999-03-11", 
+      "state": "GA", 
+      "thomas_id": "00277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "1999-03-11", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Largent, Steve", 
+      "sponsored_at": "1999-03-11", 
+      "state": "OK", 
+      "thomas_id": "00664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1999-03-11", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Oxley, Michael G.", 
+      "sponsored_at": "1999-03-11", 
+      "state": "OH", 
+      "thomas_id": "00885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "1999-03-11", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1999-03-11", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "1999-03-11", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "1999-03-11", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-04-03T18:26:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-03-11", 
+  "number": "1089", 
+  "official_title": "To require the Securities and Exchange Commission to require the improved disclosure of after-tax returns regarding mutual fund performance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Mutual Fund Tax Awareness Act of 2000", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Gillmor, Paul E.", 
+    "state": "OH", 
+    "thomas_id": "00439", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-04-03T18:26:00-04:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Commerce", 
+    "Consumer education", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Income tax", 
+    "Independent regulatory commissions", 
+    "Information disclosure (Securities law)", 
+    "Investors", 
+    "Law", 
+    "Mutual funds", 
+    "Personal income tax", 
+    "Securities and Exchange Commission", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-04-03", 
+    "text": "Mutual Fund Tax Awareness Act of 2000 - Directs the Securities and Exchange Commission to revise regulations under the Securities Act of 1933 and the Investment Company Act of 1940 to require, consistent with the protection of investors and the public interest, improved disclosure in investment company prospectuses or annual reports of after-tax returns to investors (especially after-tax rates of returns for mutual funds)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Mutual Fund Tax Awareness Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Mutual Fund Tax Awareness Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Mutual Fund Tax Awareness Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To require the Securities and Exchange Commission to require the improved disclosure of after-tax returns regarding mutual fund performance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:24-05:00"
+}

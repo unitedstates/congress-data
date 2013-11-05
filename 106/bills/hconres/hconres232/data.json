@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-17", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-02-01", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "subcommittee": "the Western Hemisphere", 
+      "text": "Referred to the Subcommittee on the Western Hemisphere.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-06-14", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "the Western Hemisphere", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-14", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "the Western Hemisphere", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-06-29", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-07-24T14:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bereuter moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-24T14:16:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6722-6724", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-24T14:16:00-04:00", 
+      "bill_ids": [
+        "hcres232-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 232.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-24T14:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H6722", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-07-24T14:22:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-25", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "references": [
+        {
+          "reference": "CR S10839-10840", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-20", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres232-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Western Hemisphere", 
+      "subcommittee_id": "07"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "49", 
+      "name": "Bilbray, Brian P.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "CA", 
+      "thomas_id": "00087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "1999-11-17", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Packard, Ron", 
+      "sponsored_at": "1999-11-17", 
+      "state": "CA", 
+      "thomas_id": "00886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-07-24T14:22:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-11-17", 
+  "number": "232", 
+  "official_title": "Expressing the sense of Congress concerning the safety and well-being of United States citizens injured while traveling in Mexico.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "52", 
+    "name": "Hunter, Duncan", 
+    "state": "CA", 
+    "thomas_id": "00575", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2000-10-19", 
+  "subjects": [
+    "Americans in foreign countries", 
+    "Automobile insurance", 
+    "Commerce", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Health", 
+    "Hospital care", 
+    "Hospitals", 
+    "International affairs", 
+    "Latin America", 
+    "Mexico", 
+    "Negotiations", 
+    "President and foreign policy", 
+    "Surety and fidelity", 
+    "Tourism", 
+    "Traffic accidents and safety", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-07-24", 
+    "text": "Expresses the sense of Congress that, in order to protect the safety and well-being of United States citizens traveling in Mexico, the President should continue to negotiate with the Government of Mexico to establish a humanitarian exemption to Mexican bond requirements, to ensure the expedited return of U.S. citizens injured in Mexico to the United States for necessary medical treatment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of Congress concerning the safety and well-being of United States citizens injured while traveling in Mexico.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:47-05:00"
+}

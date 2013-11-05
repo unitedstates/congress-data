@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-11", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-12T14:32:00-04:00", 
+      "references": [], 
+      "text": "Committee on Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-12T14:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9843", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-12T14:32:00-04:00", 
+      "references": [], 
+      "text": "Mr. LaTourette asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-12T14:32:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H9843", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-12T14:32:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-13", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10543", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-13", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres423-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-12T14:32:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-11", 
+  "number": "423", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the Million Family March.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres422-106", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Davis, Danny K.", 
+    "state": "IL", 
+    "thomas_id": "01477", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2000-10-13", 
+  "subjects": [
+    "Capitol (Washington, D.C.)", 
+    "Civil rights and liberties, minority issues", 
+    "Congress", 
+    "Families", 
+    "Public demonstrations"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-10-11", 
+    "text": "See summary of: H.CON.RES.422"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the use of the Capitol Grounds for the Million Family March.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:53-05:00"
+}

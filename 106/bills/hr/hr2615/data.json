@@ -1,0 +1,323 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-07-27", 
+      "committee": "House Committee on Small Business", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-07-29", 
+      "in_committee": "House Committee on Small Business", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-29", 
+      "in_committee": "House Committee on Small Business", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-08-02T14:00:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Small Business. H. Rept. 106-279.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-02T14:00:00-04:00", 
+      "calendar": "Union", 
+      "number": "167", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 167.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-08-02T16:05:00-04:00", 
+      "references": [], 
+      "text": "Mr. Talent moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-02T16:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6792-6796", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-02T16:06:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2615.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-02T16:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-08-02T16:36:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-03", 
+      "committee": "Committee on Small Business", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2615-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Small Business", 
+      "committee_id": "SSSB"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Baird, Brian", 
+      "sponsored_at": "1999-07-30", 
+      "state": "WA", 
+      "thomas_id": "01557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "1999-07-27", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "1999-07-27", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Combest, Larry", 
+      "sponsored_at": "1999-07-27", 
+      "state": "TX", 
+      "thomas_id": "00224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "1999-07-27", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeMint, Jim", 
+      "sponsored_at": "1999-07-27", 
+      "state": "SC", 
+      "thomas_id": "01605", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hill, Rick", 
+      "sponsored_at": "1999-07-27", 
+      "state": "MT", 
+      "thomas_id": "01489", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "1999-07-27", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "1999-07-27", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "1999-07-30", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "1999-07-27", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "1999-07-27", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "1999-07-27", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "1999-07-27", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Sweeney, John E.", 
+      "sponsored_at": "1999-07-27", 
+      "state": "NY", 
+      "thomas_id": "01591", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Udall, Tom", 
+      "sponsored_at": "1999-07-30", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "1999-07-27", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-08-02T16:36:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-07-27", 
+  "number": "2615", 
+  "official_title": "To amend the Small Business Act to make improvements to the general business loan program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Talent, Jim", 
+    "state": "MO", 
+    "thomas_id": "01135", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1999-08-02T16:36:00-04:00", 
+  "subjects": [
+    "Bank loans", 
+    "Building leases", 
+    "Commerce", 
+    "Economics and public finance", 
+    "Federally-guaranteed loans", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Government lending", 
+    "Government trust funds", 
+    "Housing and community development", 
+    "Interest", 
+    "Interest rates", 
+    "Loan defaults", 
+    "Small business", 
+    "Subsidies"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1999-08-02", 
+    "text": "Amends the Small Business Act to authorize the Small Business Administration (SBA) to guarantee a general business loan made by a bank or other financial institution to a small business in the amount of: (1) 75 percent of the outstanding balance of such loan, if such balance exceeds $150,000 (currently $100,000); and (2) 80 percent of the outstanding balance of less than $150,000 (also currently $100,000). Prohibits any such loan from being made to a borrower if the total amount outstanding and committed to the borrower from the business loan and SBA investment funds would exceed $1 million (currently $750,000). Makes current provisions requiring the payment of accrued interest on defaulted guaranteed loans inapplicable to loans made on or after October 1, 1999. Requires a borrower who prepays any loan guaranteed by the SBA to remit to the SBA a subsidy recoupment fee (calculated under this Act) if: (1) the loan is for a period of less than 15 years; (2) the prepayment is voluntary; (3) the amount of prepayment in any calendar year is more than 25 percent of the outstanding loan balance; and (4) the prepayment is made within the first three years after disbursement of the loan proceeds. Revises loan guarantee fee amounts. Authorizes lenders participating in an SBA program to retain no more than 25 percent of such fee with respect to any loan not exceeding $150,000. Authorizes a borrower to permanently lease to one or more tenants not more than 20 percent of any property constructed using guaranteed loan proceeds, as long as the borrower permanently occupies and uses not less than 60 percent of the total business space in the property."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Small Business Act to make improvements to the general business loan program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:14-05:00"
+}

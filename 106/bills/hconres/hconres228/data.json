@@ -1,0 +1,439 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-11-15", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-12-02", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Military Personnel", 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-04-10T14:56:00-04:00", 
+      "references": [], 
+      "text": "Mr. Kuykendall moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-10T14:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1970-1973", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-10T14:57:00-04:00", 
+      "bill_ids": [
+        "hcres228-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 228.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-10T15:15:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-10T18:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR  H1985-1986", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-10T18:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1970", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "112", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 112).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-04-10T18:45:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-11", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres228-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "42", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2000-04-10", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "1999-11-16", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "1999-11-16", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyd, Allen", 
+      "sponsored_at": "1999-11-15", 
+      "state": "FL", 
+      "thomas_id": "01467", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "1999-11-16", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "1999-11-15", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "1999-11-15", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "1999-11-16", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ewing, Thomas W.", 
+      "sponsored_at": "2000-02-07", 
+      "state": "IL", 
+      "thomas_id": "00366", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "1999-11-18", 
+      "state": "FL", 
+      "thomas_id": "00404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "52", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "1999-11-16", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "1999-11-16", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Klink, Ron", 
+      "sponsored_at": "2000-03-15", 
+      "state": "PA", 
+      "thomas_id": "00639", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "1999-11-16", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "1999-11-16", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "1999-11-17", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Maloney, James H.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "CT", 
+      "thomas_id": "01502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "1999-11-17", 
+      "state": "IL", 
+      "thomas_id": "00733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "1999-11-16", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "2000-04-10", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "1999-11-18", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "1999-11-15", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "1999-11-15", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2000-04-10", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snyder, Vic", 
+      "sponsored_at": "1999-11-18", 
+      "state": "AR", 
+      "thomas_id": "01530", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "1999-11-16", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2000-02-07", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-04-10T18:45:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-11-15", 
+  "number": "228", 
+  "official_title": "Honoring the members of the Armed Forces and Federal civilian employees who served the Nation during the Vietnam era and the families of those individuals who lost their lives or remain unaccounted for or were injured during that era in Southeast Asia or elsewhere in the world in defense of United States national security interests.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres103-106", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "sconres103-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "thomas_id": "01593", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-04-10T18:45:00-04:00", 
+  "subjects": [
+    "Americans employed in foreign countries", 
+    "Armed forces abroad", 
+    "Armed forces and national security", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "East Asia", 
+    "Families", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "History", 
+    "International affairs", 
+    "Labor and employment", 
+    "Military dependents", 
+    "Military personnel", 
+    "Missing in action", 
+    "Southeast Asia", 
+    "Vietnam", 
+    "Vietnam veterans", 
+    "Vietnamese Conflict", 
+    "War casualties"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-11-10", 
+    "text": "Honors the service and sacrifice of the members of the armed forces and Federal civilian employees who, during the Vietnam era, served in the Republic of Vietnam and elsewhere in Southeast Asia or otherwise served in support of U.S. operations in Vietnam and in support of U.S. national security interests throughout the world. Recognizes and honors the sacrifice of the families of those individuals who lost their lives or remain unaccounted for or were injured during that era in Southeast Asia or elsewhere in the world in defense of U.S. national security interests."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the members of the Armed Forces and Federal civilian employees who served the Nation during the Vietnam era and the families of those individuals who lost their lives or remain unaccounted for or were injured during that era in Southeast Asia or elsewhere in the world in defense of United States national security interests.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:47-05:00"
+}

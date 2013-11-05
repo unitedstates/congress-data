@@ -1,0 +1,233 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-04-13", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-04-15", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-04-19", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Executive Comment Requested from State.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-20T16:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-20T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2176-2177", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-20T16:53:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1379.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-20T16:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2176", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-04-20T16:56:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-20T16:56:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-04-21", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-05-27", 
+      "references": [], 
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6447", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-05-27", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-06-01", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-09", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-06-15", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-06-15", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "35", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-35.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1379-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "35"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-06-15", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-04-20T16:56:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-05-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-04-13", 
+  "number": "1379", 
+  "official_title": "To amend the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, to make a technical correction relating to an emergency supplemental appropriation for international narcotics control and law enforcement assistance.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Western Hemisphere Drug Elimination Technical Corrections Act", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Gilman, Benjamin A.", 
+    "state": "NY", 
+    "thomas_id": "00440", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-06-15", 
+  "subjects": [
+    "American economic assistance", 
+    "Authorization", 
+    "Crime and law enforcement", 
+    "Department of State", 
+    "Drug abuse", 
+    "Drug law enforcement", 
+    "Drug traffic", 
+    "Economics and public finance", 
+    "Government operations and politics", 
+    "International affairs", 
+    "International cooperation", 
+    "Supplemental appropriations"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1999-04-20", 
+    "text": "Western Hemisphere Drug Elimination Technical Corrections Act - Amends the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 to authorize additional appropriations for the Department of State for FY 1999 to carry out provisions of the Foreign Assistance Act of 1961 regarding international narcotics control."
+  }, 
+  "titles": [
+    {
+      "as": "passed house", 
+      "title": "Western Hemisphere Drug Elimination Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Western Hemisphere Drug Elimination Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, to make a technical correction relating to an emergency supplemental appropriation for international narcotics control and law enforcement assistance.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:35-05:00"
+}

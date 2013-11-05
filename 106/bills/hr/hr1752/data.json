@@ -1,0 +1,366 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-05-11", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-05-25", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Courts and Intellectual Property", 
+      "text": "Referred to the Subcommittee on Courts and Intellectual Property.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-06-16", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Courts and Intellectual Property", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-15", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Courts and Intellectual Property", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-15", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Courts and Intellectual Property", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-27", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-27", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-09-09T19:06:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 106-312.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-09T19:07:00-04:00", 
+      "calendar": "Union", 
+      "number": "187", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 187.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-05-22T14:25:00-04:00", 
+      "references": [], 
+      "text": "Mr. Coble moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T14:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3482-3487", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T14:25:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1752.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-22T14:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3482-3487", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-05-22T14:29:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-05-23", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1752-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts and Intellectual Property", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "1999-05-11", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-05-22T14:29:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-05-11", 
+  "number": "1752", 
+  "official_title": "To make improvements in the operation and administration of the Federal courts, and for other purposes.", 
+  "popular_title": "Cameras In Federal Courtrooms bill", 
+  "related_bills": [
+    {
+      "bill_id": "s2915-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Federal Courts Improvement Act of 2000", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Coble, Howard", 
+    "state": "NC", 
+    "thomas_id": "00211", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-05-22T14:29:00-04:00", 
+  "subjects": [
+    "Administration of justice", 
+    "Administration of juvenile justice", 
+    "Administrative fees", 
+    "Administrative procedure", 
+    "Administrative responsibility", 
+    "Alcoholism treatment", 
+    "Annuities", 
+    "Appellate courts", 
+    "Appellate procedure", 
+    "Arkansas", 
+    "Armed forces and national security", 
+    "Arts, culture, religion", 
+    "Authorization", 
+    "Bank failures", 
+    "Bankruptcy", 
+    "Bankruptcy courts", 
+    "Civil procedure", 
+    "Civil service pensions", 
+    "Claims", 
+    "Computers and government", 
+    "Conferences", 
+    "Congress", 
+    "Congressional committee staffing", 
+    "Congressional employees", 
+    "Congressional reporting requirements", 
+    "Contempt of court", 
+    "Cost of living adjustments", 
+    "Court congestion and delay", 
+    "Courthouses", 
+    "Courts of special jurisdiction", 
+    "Crime and law enforcement", 
+    "Criminal procedure", 
+    "Damages", 
+    "Debtor and creditor", 
+    "Department of Justice", 
+    "Disability insurance", 
+    "Disability retirement", 
+    "Disabled", 
+    "District courts", 
+    "Drug abuse", 
+    "Drug abuse treatment", 
+    "Economics and public finance", 
+    "Electronic data interchange", 
+    "Emergency management", 
+    "Employee training", 
+    "Evidence (Law)", 
+    "Executive reorganization", 
+    "Families", 
+    "Federal aid to substance abuse programs", 
+    "Federal employees", 
+    "Federal officials", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Fines (Penalties)", 
+    "Fire fighters", 
+    "Firearms", 
+    "Forfeiture", 
+    "Government employees' health insurance", 
+    "Government liability", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government procurement", 
+    "Government publicity", 
+    "Government service contracts", 
+    "Government trust funds", 
+    "Grand jury", 
+    "Guam", 
+    "Habeas corpus", 
+    "Health", 
+    "Information technology", 
+    "Judges", 
+    "Judicial compensation", 
+    "Judicial districts", 
+    "Judicial officers", 
+    "Judicial reform", 
+    "Judicial tenure", 
+    "Juries", 
+    "Jurisdiction", 
+    "Jury selection", 
+    "Labor and employment", 
+    "Law", 
+    "Lawyers", 
+    "Leave of absence", 
+    "Legal assistance to the poor", 
+    "Legal ethics", 
+    "Legal fees", 
+    "Magistrates", 
+    "Military pensions", 
+    "Military personnel", 
+    "Municipal bankruptcy", 
+    "Northern Mariana Islands", 
+    "Parties to actions", 
+    "Pension funds", 
+    "Photography", 
+    "Police", 
+    "Presidential appointments", 
+    "Pretrial procedure", 
+    "Prisoners", 
+    "Probation", 
+    "Probation officers", 
+    "Protection of officials", 
+    "Public defenders", 
+    "Radio broadcasting", 
+    "Rehabilitation of criminals", 
+    "Residence requirements", 
+    "Retiree health benefits", 
+    "Salaries", 
+    "Savings and loan associations", 
+    "Science, technology, communications", 
+    "Searches and seizures", 
+    "Sentences (Criminal procedure)", 
+    "Social welfare", 
+    "Sound recording and reproducing", 
+    "State courts", 
+    "State laws", 
+    "Statistics", 
+    "Supreme Court justices", 
+    "Survivors' benefits", 
+    "Television broadcasting", 
+    "Territories (U.S.)", 
+    "Texas", 
+    "Trial practice", 
+    "Trials", 
+    "Trusts and trustees", 
+    "Video tapes in courtroom proceedings", 
+    "Virgin Islands", 
+    "Witnesses", 
+    "Workers' compensation"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-05-22", 
+    "text": "TABLE OF CONTENTS: Title I: Judicial Financial Administration Title II: Judicial Process Improvements Title III: Judiciary Personnel Administration, Benefits, and Protections Title IV: Criminal Justice Act Amendments Federal Courts Improvement Act of 2000 - Title I: Judicial Financial Administration - Amends the Federal judicial code to provide for the transfer to the special Treasury fund available to offset funds appropriated for the operation and maintenance of the U.S. courts of the accrued employer contributions and accrued interest on those contributions made on behalf of a bankruptcy judge or a magistrate to the Civil Service Retirement and Disability Fund upon election by such judge or magistrate of an annuity under the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988. Restricts such transfer of retirement funds to only the accrued contributions and interest made on behalf of such judges for service credited when an election is made to receive both a civil service annuity and an annuity under this Act.(Sec. 102) Amends provisions regarding the Judiciary Information Technology Fund to repeal provisions subjecting information technology procurement to provisions applicable to executive agencies under the Clinger-Cohen Act of 1996 (also known as the Information Technology Management Reform Act)(thus subjecting the Fund to the budget management process of the executive branch). Makes sums available for the procurement of information technology resources, and repeals a requirement that the annual report on the operation of the Fund be submitted at least nine months before the termination date.(Sec. 103) Authorizes the Judicial Conference of the United States, for districts that are not part of a United States trustee region, to require the debtor in a chapter 11 bankruptcy case to pay fees equal to those imposed by the judicial code.(Sec. 104) Requires, for FY 2000 and thereafter, any portion of miscellaneous fees collected by the Judicial Conference from Federal courts of appeals, district courts, bankruptcy courts, the Court of Federal Claims, and the Judicial Panel of Multi-district Litigation, that exceeds the amount of such fees established on the date of enactment of this section, to be deposited into the special fund.(Sec. 105) Repeals a U.S. Court of Federal claims fee for the filing of any petition.(Sec. 106) Amends the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1990, to retain the current revenue structure while allowing for the renumbering of the Bankruptcy Fee Schedule that is required due to the repeal of outdated fees.(Sec. 107) Increases the fee: (1) for converting a chapter 7 (liquidation) or chapter 13 (individual debt adjustment) bankruptcy case to a chapter 11 (reorganization) bankruptcy case; and (2) in a chapter 9 (debt adjustment for municipalities) bankruptcy filing fee.(Sec. 109) Amends the judicial code to authorize the Director of the Administrative Office of United States Courts to designate judicial branch officers and employees to be disbursing officers and certifying officers. Lists rights and responsibilities of such officers.(Sec. 110) Authorizes the Judicial Conference to prescribe reasonable fees for use of information technology resources provided by the judiciary to improve the efficiency of access to the courts.Title II: Judicial Process Improvements - Provides authority for the appointment of magistrate judges in the district courts of Guam and the Northern Mariana Islands.(Sec. 202) Amends the Federal Magistrates Act to grant U.S. magistrate judges the power to exercise contempt authority within his or her territorial jurisdiction, including summary criminal contempt authority and criminal and civil contempt authority in civil consent and misdemeanor cases.(Sec. 203) Amends the Federal criminal and judicial codes to remove certain limitations on the authority of magistrate judges to try petty offense cases involving juvenile defendants.(Sec. 204) Repeals a reporting requirement regarding business imposed on the Federal courts by the savings and loan crisis.(Sec. 205) Provides for the realignment of the places for holding court in the Eastern District of Texas, including adding Plano to the Sherman Division of the Eastern District. Provides for the holding of court for the Texarkana Division at Red River county and anywhere within the Federal courthouse in Texarkana that is located astride the Texas-Arkansas State line.(Sec. 206) Reauthorizes appropriations under the Contract Services for Drug Dependent Federal Offenders Treatment Act of 1978.(Sec. 207) Authorizes judges retired from regular active service to serve as members of the judicial council of the circuit.(Sec. 208) Provides for the sunset of provisions requiring a civil justice expense and delay reduction plan.(Sec. 210) Authorizes the presiding judge of a U.S. appellate court, with the consent of all named parties, to permit the photographing, electronic recording, broadcasting, or televising to the public of court proceedings over which that judge presides.Authorizes any presiding judge of a U.S. district court, with the consent of all named parties, to permit the photographing, electronic recording, broadcasting, or televising to the public of court proceedings over which that judge presides. Directs the court, upon the request of any witness in a trial proceeding other than a party, to order the face and voice of the witness to be disguised or otherwise obscured. Requires the presiding judge in a trial proceeding to inform each witness who is not a party that the witness has the right to request that his or her image and voice be obscured during the witness' testimony.Authorizes the Judicial Conference to promulgate advisory guidelines to which a presiding judge shall refer in making decisions with respect to consistent criteria to be applied in the exercise of the discretion of the presiding judge, and to the management and administration of photographing, recording, broadcasting, or televising.Terminates the authority under this section after three years.Title III: Judicial Personnel Administration, Benefits, and Protections - Amends the judicial code to provide that: (1) any judge of the District Courts of Guam, the Northern Mariana Islands, or the Virgin Islands who has served at least five years and who retires or is removed upon the sole ground of mental or physical disability shall be entitled to receive during the remainder of such judge's life an annuity equal to 40 percent of the salary received when the judge left office, with an exception; (2) any such judge with at least ten years continuous service shall receive an annuity proportional to his salary; and (2) any such retired judge entitled to receive an annuity shall be entitled to a specified cost-of-living adjustment not to exceed the salary (currently, 95 percent of the salary) of a judge in regular active service with the court on which the retired judge served before retiring.(Sec. 302) Authorizes the Director of the Federal Judicial Center to fix the compensation of four positions of the Federal Judicial Center at a level not to exceed the annual rate of basic pay in effect for level IV of the executive schedule.(Sec. 303) Repeals the requirement that the Director of the Federal Judicial Center must retire at age 70. Includes within the definition of \"service,\" for purposes of retirement provisions applicable to the Directors of the Administrative Office of the United States Courts and the Federal Judicial Center and the Administrative Assistant to the Chief Justice, service as a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a House or Senate committee or subcommittee.(Sec. 304) Authorizes a judicial officer of the United States to carry a firearm, whether concealed or not, under regulations promulgated by the Judicial Conference. Directs the Attorney General and appropriate law enforcement components of the Department of Justice, at the request of the Judicial Conference, to assist the Conference in developing and providing training to assist judicial officers in securing proficiency in the use and safety of firearms.(Sec. 305) Repeals an exemption from jury service for members of the armed forces, fire or police personnel, and public officers who are actively engaged in the performance of official duties.(Sec. 306) Specifies that, for purposes of worker's compensation coverage, performance of duty as a juror includes that time when a juror is traveling to or from the courthouse pursuant to a jury summons or sequestration order, or as otherwise necessitated by court order.(Sec. 307) Authorizes the Director to pay a claim by a person summoned to serve or serving as a grand or petit juror for loss of, or damage to, personal property that occurs incident to that person's performance of duties in response to the summons or at the direction of a court officer.(Sec. 308) Repeals a requirement that the drawing for selection of jurors from the master jury wheel be public. Requires that the clerk or jury commission post a general notice for public review in the clerk's office explaining the process by which names are periodically and randomly drawn.(Sec. 309) Makes provisions regarding annual leave limits for individuals serving in the Senior Executive Service applicable to any person serving in a position in the judicial branch designated as a court unit executive position by the Judicial Conference.(Sec. 310) Permits continued payment from retired or retainer pay into a military survivors' benefits plan with respect to a regular, reserve, or former member of a uniformed service receiving such pay who becomes employed as a U.S. justice or judge.(Sec. 311) Authorizes: (1) the United States Court of Appeals for the Federal Circuit to appoint a circuit executive; (2) the clerk under the supervision of the court if the plan so authorizes to determine qualification for jury service; and (3) the payment of an additional fee to a petit juror required to attend more than five (currently, 30) days in hearing one case.(Sec. 314) Grants judges of the Court of Federal Claims (CFC), upon request by or on behalf of a territorial court and with the concurrence of the chief judge of such court and the chief judge of the judicial circuit involved based upon a finding of need, the authority to conduct proceedings in the district courts of territories to the same extent as duly appointed judges of those courts.(Sec. 315) Specifies that: (1) retired judges of the CFC are not subject to residency restrictions; and (2) the place where a retired judge maintains the actual abode in which such judge customarily lives shall be deemed to be the judge's official duty station.(Sec. 316) Authorizes the chief judge of the CFC to summon annually the judges of that court to a judicial conference for the purpose of considering the business of the CFC and improvements in the administration of justice in that court. Directs the CFC to provide by its rules, or by general order, for representation and active participation by members of the bar at such conference.(Sec. 317) Provides for the recall of any CFC judge on disability status who, in the estimation of the chief judge, has recovered sufficiently to render judicial service.(Sec. 318) Provides that, for purposes of provisions of the Internal Revenue Code and the Social Security Act regarding retired Justices and judges, the annuity of a CFC judge who is on senior status after attaining age 65 shall be deemed to be an amount paid under judicial code provisions regarding assignment of retired Justices or judges to active duty.(Sec. 319) Deems a CFC judge: (1) to be an \"officer\" for purposes of provisions regarding Federal employees; and (2) who is retired and performs recall service, and who was enrolled in a Federal employee health benefits plan at the time the judge became a retired judge, to be an annuitant notwithstanding the length of enrollment prior to the date of retirement.Title IV: Criminal Justice Act Amendments - Amends the Criminal Justice Act to increase the maximum amounts of compensation permitted for attorneys and for services other than counsel.Provides that, for representation of: (1) a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony for representation of a defendant before a judicial officer of the district court; and (2) such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court.(Sec. 403) Exempts Federal public defenders from the Tort Claims Act for claims related to representational services."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Cameras In Federal Courtrooms bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Federal Courts Improvement Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Federal Courts Improvement Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Federal Courts Improvement Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To make improvements in the operation and administration of the Federal courts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:47-05:00"
+}

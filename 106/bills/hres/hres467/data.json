@@ -1,0 +1,155 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-04-10", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-04-11T15:20:00-04:00", 
+      "references": [], 
+      "text": "Mr. McInnis moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-11T15:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2069-2076", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-11T15:20:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 467.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-11T16:07:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-11T16:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2079-2080", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-04-11T16:52:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2069-2070", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "117", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Failed by the Yeas and Nays: (2/3 required): 1 - 420, 2 Present (Roll no. 117).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres467-106", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2000-04-11T16:52:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-04-10", 
+  "number": "467", 
+  "official_title": "Expressing the sense of the House of Representatives that the tax and user fee increases proposed by the Clinton/Gore administration in their fiscal year 2001 budget should be adopted.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Terry, Lee", 
+    "state": "NE", 
+    "thomas_id": "01566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2000-04-11T16:52:00-04:00", 
+  "subjects": [
+    "Administrative fees", 
+    "Balanced budgets", 
+    "Budget surpluses", 
+    "Business income tax", 
+    "Commerce", 
+    "Corporation taxes", 
+    "Economics and public finance", 
+    "Estate tax", 
+    "Excise tax", 
+    "Federal budgets", 
+    "Finance and financial sector", 
+    "Gift tax", 
+    "Government trust funds", 
+    "Income tax", 
+    "Individual retirement accounts", 
+    "Insurance", 
+    "Insurance companies", 
+    "Labor and employment", 
+    "Law", 
+    "Old age, survivors and disability insurance", 
+    "Personal income tax", 
+    "Social security finance", 
+    "Social welfare", 
+    "Tax incidence", 
+    "Tax penalties", 
+    "Tax-deferred compensation plans", 
+    "Tax-exempt organizations", 
+    "Taxation", 
+    "Taxation of foreign income", 
+    "User charges", 
+    "Waste in government spending"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-04-10", 
+    "text": "Expresses the sense of the House of Representatives that the tax and user fee increases proposed by the Clinton-Gore administration in their fiscal year 2001 budget should be adopted."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the House of Representatives that the tax and user fee increases proposed by the Clinton/Gore administration in their fiscal year 2001 budget should be adopted.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:44-05:00"
+}

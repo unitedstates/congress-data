@@ -1,0 +1,2543 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-06-29", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-07-13", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-13", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-07-25T18:11:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Commerce. H. Rept. 106-788.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-25T18:11:00-04:00", 
+      "calendar": "Union", 
+      "number": "455", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 455.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2000-07-25T23:27:00-04:00", 
+      "references": [], 
+      "text": "Mr. Coburn moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-25T23:28:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6962-6980", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-25T23:28:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate H.R. 4807.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-26T00:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H6962-6970", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-07-26T00:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-07-26", 
+      "calendar": "Senate Legislative", 
+      "number": "716", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 716.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4807-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2000-07-10", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "2000-07-13", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Allen, Thomas H.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "ME", 
+      "thomas_id": "01461", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "TX", 
+      "thomas_id": "00028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2000-07-12", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Baird, Brian", 
+      "sponsored_at": "2000-07-11", 
+      "state": "WA", 
+      "thomas_id": "01557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldacci, John Elias", 
+      "sponsored_at": "2000-07-11", 
+      "state": "ME", 
+      "thomas_id": "00048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2000-07-13", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Barrett, Thomas M.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "WI", 
+      "thomas_id": "00058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Becerra, Xavier", 
+      "sponsored_at": "2000-07-17", 
+      "state": "CA", 
+      "thomas_id": "00070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Bentsen, Ken", 
+      "sponsored_at": "2000-07-11", 
+      "state": "TX", 
+      "thomas_id": "00079", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2000-07-12", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2000-07-10", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Bilbray, Brian P.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "CA", 
+      "thomas_id": "00087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2000-06-29", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Blagojevich, Rod R.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IL", 
+      "thomas_id": "01463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bliley, Tom", 
+      "sponsored_at": "2000-07-20", 
+      "state": "VA", 
+      "thomas_id": "00097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2000-07-19", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Boehlert, Sherwood", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NY", 
+      "thomas_id": "00101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "2000-06-29", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "2000-07-13", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyd, Allen", 
+      "sponsored_at": "2000-07-24", 
+      "state": "FL", 
+      "thomas_id": "01467", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2000-07-20", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2000-07-11", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2000-06-29", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2000-06-29", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2000-07-18", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Canady, Charles T.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "FL", 
+      "thomas_id": "00171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2000-07-11", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2000-07-20", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna MC", 
+      "sponsored_at": "2000-07-19", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, William (Bill)", 
+      "sponsored_at": "2000-07-25", 
+      "state": "MO", 
+      "thomas_id": "00203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clayton, Eva M.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NC", 
+      "thomas_id": "00204", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clement, Bob", 
+      "sponsored_at": "2000-07-24", 
+      "state": "TN", 
+      "thomas_id": "00205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Clyburn, James E.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "SC", 
+      "thomas_id": "00208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooksey, John", 
+      "sponsored_at": "2000-07-17", 
+      "state": "LA", 
+      "thomas_id": "01476", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2000-06-29", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Coyne, William J.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "PA", 
+      "thomas_id": "00245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Danner, Pat", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MO", 
+      "thomas_id": "00265", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2000-07-24", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Thomas M.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2000-07-13", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Delahunt, William D.", 
+      "sponsored_at": "2000-07-10", 
+      "state": "MA", 
+      "thomas_id": "01480", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Deutsch, Peter", 
+      "sponsored_at": "2000-06-29", 
+      "state": "FL", 
+      "thomas_id": "00291", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dicks, Norman D.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "WA", 
+      "thomas_id": "00297", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "Dixon, Julian C.", 
+      "sponsored_at": "2000-07-12", 
+      "state": "CA", 
+      "thomas_id": "00301", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Dooley, Calvin M.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "CA", 
+      "thomas_id": "00306", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "2000-07-20", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2000-07-11", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2000-07-20", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2000-07-17", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2000-06-29", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Forbes, Michael P.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NY", 
+      "thomas_id": "00398", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "2000-07-13", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "2000-07-17", 
+      "state": "FL", 
+      "thomas_id": "00404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2000-07-18", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Franks, Bob", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NJ", 
+      "thomas_id": "00409", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "2000-07-11", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "2000-07-18", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ganske, Greg", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IA", 
+      "thomas_id": "00428", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NV", 
+      "thomas_id": "01485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2000-07-13", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2000-07-17", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Green, Mark", 
+      "sponsored_at": "2000-07-17", 
+      "state": "WI", 
+      "thomas_id": "01559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Greenwood, James C.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "PA", 
+      "thomas_id": "00465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "IL", 
+      "thomas_id": "00478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2000-07-10", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hall, Tony P.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "OH", 
+      "thomas_id": "00487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hilliard, Earl F.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "AL", 
+      "thomas_id": "00539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2000-07-24", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "2000-07-13", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Hoeffel, Joseph M.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "PA", 
+      "thomas_id": "01579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Holden, Tim", 
+      "sponsored_at": "2000-07-20", 
+      "state": "PA", 
+      "thomas_id": "00550", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hooley, Darlene", 
+      "sponsored_at": "2000-07-20", 
+      "state": "OR", 
+      "thomas_id": "01491", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "2000-07-11", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Inslee, Jay", 
+      "sponsored_at": "2000-07-17", 
+      "state": "WA", 
+      "thomas_id": "00584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jackson, Jesse L., Jr.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "IL", 
+      "thomas_id": "00587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2000-07-20", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jefferson, William J.", 
+      "sponsored_at": "2000-07-12", 
+      "state": "LA", 
+      "thomas_id": "00592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2000-07-20", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2000-07-20", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2000-07-20", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "2000-07-13", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2000-07-13", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2000-07-20", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kleczka, Gerald D.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "WI", 
+      "thomas_id": "00637", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Klink, Ron", 
+      "sponsored_at": "2000-07-24", 
+      "state": "PA", 
+      "thomas_id": "00639", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "2000-07-17", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Kuykendall, Steven T.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "CA", 
+      "thomas_id": "01582", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "LaFalce, John J.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NY", 
+      "thomas_id": "00657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "LaHood, Ray", 
+      "sponsored_at": "2000-07-19", 
+      "state": "IL", 
+      "thomas_id": "00659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lampson, Nick", 
+      "sponsored_at": "2000-07-18", 
+      "state": "TX", 
+      "thomas_id": "01500", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Largent, Steve", 
+      "sponsored_at": "2000-07-17", 
+      "state": "OK", 
+      "thomas_id": "00664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2000-07-13", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "LaTourette, Steven C.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "OH", 
+      "thomas_id": "00667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lazio, Rick", 
+      "sponsored_at": "2000-07-18", 
+      "state": "NY", 
+      "thomas_id": "00670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Leach, James A.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "IA", 
+      "thomas_id": "00672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2000-07-18", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Lewis, Jerry", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CA", 
+      "thomas_id": "00687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2000-07-24", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, William O.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "IL", 
+      "thomas_id": "00694", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Maloney, James H.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "CT", 
+      "thomas_id": "01502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "2000-07-11", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McCarthy, Karen", 
+      "sponsored_at": "2000-07-12", 
+      "state": "MO", 
+      "thomas_id": "00756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "2000-07-25", 
+      "state": "FL", 
+      "thomas_id": "00761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2000-07-20", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2000-07-17", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "McHugh, John M.", 
+      "sponsored_at": "2000-07-11", 
+      "state": "NY", 
+      "thomas_id": "00773", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "McIntosh, David M.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IN", 
+      "thomas_id": "00776", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2000-07-10", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meehan, Martin T.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "MA", 
+      "thomas_id": "00788", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2000-07-13", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "2000-07-10", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Moakley, John Joseph", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MA", 
+      "thomas_id": "00820", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2000-07-24", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Murtha, John P.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "PA", 
+      "thomas_id": "00844", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2000-07-18", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2000-07-12", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Neal, Richard E.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "MA", 
+      "thomas_id": "00854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2000-07-20", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Olver, John W.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MA", 
+      "thomas_id": "00879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ose, Doug", 
+      "sponsored_at": "2000-07-20", 
+      "state": "CA", 
+      "thomas_id": "01585", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Packard, Ron", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CA", 
+      "thomas_id": "00886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2000-07-10", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "2000-07-24", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Phelps, David D.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "IL", 
+      "thomas_id": "01586", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2000-07-24", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2000-07-13", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Quinn, Jack", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NY", 
+      "thomas_id": "00938", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2000-07-18", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2000-07-18", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2000-07-12", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "2000-07-20", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Reynolds, Thomas M.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NY", 
+      "thomas_id": "01587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rivers, Lynn N.", 
+      "sponsored_at": "2000-07-13", 
+      "state": "MI", 
+      "thomas_id": "00966", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Rodriguez, Ciro D.", 
+      "sponsored_at": "2000-07-12", 
+      "state": "TX", 
+      "thomas_id": "01518", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Roemer, Tim", 
+      "sponsored_at": "2000-07-20", 
+      "state": "IN", 
+      "thomas_id": "00976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Rogan, James E.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "CA", 
+      "thomas_id": "01519", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Romero-Barcelo, Carlos A.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "PR", 
+      "thomas_id": "00980", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2000-07-17", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2000-07-11", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sabo, Martin Olav", 
+      "sponsored_at": "2000-07-18", 
+      "state": "MN", 
+      "thomas_id": "01007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2000-07-12", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2000-07-18", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sandlin, Max", 
+      "sponsored_at": "2000-07-20", 
+      "state": "TX", 
+      "thomas_id": "01523", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Sawyer, Tom", 
+      "sponsored_at": "2000-07-18", 
+      "state": "OH", 
+      "thomas_id": "01022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Schaffer, Bob", 
+      "sponsored_at": "2000-07-18", 
+      "state": "CO", 
+      "thomas_id": "01524", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2000-07-18", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2000-07-24", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2000-07-10", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2000-07-24", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2000-06-29", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2000-07-18", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2000-07-10", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Skeen, Joe", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NM", 
+      "thomas_id": "01063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2000-07-18", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "sponsored_at": "2000-07-19", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2000-07-24", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "2000-06-29", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Strickland, Ted", 
+      "sponsored_at": "2000-07-11", 
+      "state": "OH", 
+      "thomas_id": "01118", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Stupak, Bart", 
+      "sponsored_at": "2000-06-29", 
+      "state": "MI", 
+      "thomas_id": "01123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Sweeney, John E.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "NY", 
+      "thomas_id": "01591", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "2000-07-24", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2000-07-20", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2000-07-11", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "2000-07-19", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Tiahrt, Todd", 
+      "sponsored_at": "2000-07-13", 
+      "state": "KS", 
+      "thomas_id": "01158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tierney, John F.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "MA", 
+      "thomas_id": "01535", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "2000-07-20", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2000-07-20", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Underwood, Robert A.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "GU", 
+      "thomas_id": "01175", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2000-07-12", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2000-07-25", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2000-07-19", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "2000-07-20", 
+      "state": "OK", 
+      "thomas_id": "01206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Weiner, Anthony D.", 
+      "sponsored_at": "2000-07-24", 
+      "state": "NY", 
+      "thomas_id": "01597", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "2000-07-24", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "2000-06-29", 
+      "state": "FL", 
+      "thomas_id": "01215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2000-07-17", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Weygand, Robert A.", 
+      "sponsored_at": "2000-06-29", 
+      "state": "RI", 
+      "thomas_id": "01538", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2000-07-13", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wilson, Heather", 
+      "sponsored_at": "2000-07-19", 
+      "state": "NM", 
+      "thomas_id": "01539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2000-07-24", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "2000-07-12", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-07-26T00:13:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-06-29", 
+  "number": "4807", 
+  "official_title": "To amend the Public Health Service Act to revise and extend programs established under the Ryan White Comprehensive AIDS Resources Emergency Act of 1990, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2311-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Ryan White CARE Act Amendments of 2000", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Coburn, Tom A.", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-07-26T00:13:00-04:00", 
+  "subjects": [
+    "AIDS (Disease)", 
+    "AIDS patients", 
+    "Access to health care", 
+    "Alcoholism treatment", 
+    "Ambulatory care", 
+    "Appropriations", 
+    "Auditing", 
+    "Authorization", 
+    "Caregivers", 
+    "Case management", 
+    "College teachers", 
+    "Communication in medicine", 
+    "Community health services", 
+    "Conflict of interests", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Continuum of care", 
+    "Crime and law enforcement", 
+    "Curricula", 
+    "Demography", 
+    "Dental care", 
+    "Dentists", 
+    "Department of Health and Human Services", 
+    "Drug abuse", 
+    "Drug abuse treatment", 
+    "Drug therapy", 
+    "Drugs", 
+    "Economics and public finance", 
+    "Education", 
+    "Epidemiology", 
+    "Ex-offenders", 
+    "Families", 
+    "Federal aid to child health services", 
+    "Federal aid to health facilities", 
+    "Federal aid to medical education", 
+    "Federal aid to medical research", 
+    "Federal aid to territories", 
+    "Federal employees", 
+    "Finance and financial sector", 
+    "Fines (Penalties)", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Gynecology", 
+    "Health", 
+    "Health counseling", 
+    "Health education", 
+    "Health insurance", 
+    "Health planning", 
+    "Health surveys", 
+    "Higher education", 
+    "Housing and community development", 
+    "Human experimentation in medicine", 
+    "Human immunodeficiency viruses", 
+    "Infants", 
+    "Intergovernmental fiscal relations", 
+    "International affairs", 
+    "Intravenous drug abuse", 
+    "Law", 
+    "Liability (Law)", 
+    "Maternal health services", 
+    "Medicaid", 
+    "Medical economics", 
+    "Medical records", 
+    "Medical research", 
+    "Medical statistics", 
+    "Medical tests", 
+    "Medically underinsured", 
+    "Medically uninsured", 
+    "Micronesia", 
+    "Oceania", 
+    "Overhead costs", 
+    "Palau Islands", 
+    "Paramedical education", 
+    "Parents", 
+    "Parole", 
+    "Poor", 
+    "Poor children", 
+    "Pregnant women", 
+    "Prenatal care", 
+    "Preventive medicine", 
+    "Prisoners", 
+    "Public meetings of administrative bodies", 
+    "Quality of care", 
+    "Recruiting of employees", 
+    "Research grants", 
+    "Rural health", 
+    "Science, technology, communications", 
+    "Sexually transmitted diseases", 
+    "Social welfare", 
+    "Strategic planning", 
+    "Teacher education", 
+    "Teaching materials", 
+    "Welfare eligibility", 
+    "Women", 
+    "Women's health", 
+    "Youth"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-07-26", 
+    "text": "TABLE OF CONTENTS: Title I: Emergency Relief for Areas With Substantial Need for Services Subtitle A: HIV Health Services Planning Councils Subtitle B: Type and Distribution of Grants Subtitle C: Other Provisions Title II: Care Grant Program Subtitle A: General Grant Provisions Subtitle B: Provisions Concerning Pregnancy and Perinatal Transmission of HIV Subtitle C: Certain Partner Notification Programs Title III: Early Intervention Services Subtitle A: Formula Grants for States Subtitle B: Categorical Grants Subtitle C: General Provisions Title IV: Other Programs and Activities Subtitle A: Certain Programs for Research, Demonstrations, or Training Subtitle B: General Provisions in Title XXVI Title V: General Provisions Title VI: Effective Date Ryan White CARE Act Amendments of 2000 - Title I: Emergency Relief for Areas with Substantial Need for Services - Subtitle A: HIV Health Services Planning Councils - Amends the Public Health Service Act to require that an HIV (human immunodeficiency virus) planning council reflect the demographics of the population of individuals with HIV disease (currently, the demographics of the epidemic) in the eligible area involved. Modifies requirements regarding council composition, including requiring representatives of former prisoners. Requires that at least 33 percent of the council be people who: (1) are receiving HIV-related services pursuant to a grant under provisions relating to emergency relief for areas with a substantial need for services (substantial need grant); (2) are not officers, employees, consultants, or representatives of any entity that receives substantial need grant amounts; and (3) reflect the demographics of the population of individuals with HIV disease.(Sec. 102) Modifies council duties, including regarding: (1) determining the size, demographics, and needs of the HIV disease population; (2) council establishment of fund allocation priorities; and (3) coordination with Federal grantees that provide HIV-related services in the area. Directs the Secretary of Health and Human Services to: (1) develop epidemiologic measures for establishing the number of individuals with HIV disease who are not receiving HIV-related health services, for carrying out council duties, and for carrying out provisions relating to substantial need grant applications; and (2) provide to the chief elected official receiving a substantial need grant guidelines and materials for training council members regarding council duties.(Sec. 103) Requires that council meetings and records be open to the public, subject to exception.Subtitle B: Type and Distribution of Grants - Makes permanent provisions requiring expedited disbursement of certain substantial need grant amounts. Requires, after fiscal year 2004, that the substantial need grant amount formula use the number of cases of HIV disease in the most recent year rather than the number of cases of acquired immune deficiency syndrome (AIDS) in the most recent ten years, but until FY 2007 conditions that change on the Secretary's determination that there is sufficiently accurate and reliable data on HIV disease cases from all eligible areas, requiring the Secretary to consider: (1) the findings of a study mandated by title V of this Act; (2) the fiscal impact of using or of not using that data; and (3) the impact of the use of that data on the organization and delivery of HIV-related services. Modifies requirements regarding increases in the amount of a substantial need grant under expedited disbursement provisions.(Sec. 112) Requires that the amount of supplemental substantial need grants be determined by the Secretary based on a weighting of specified factors, with severe need counting one-third. Includes the current HIV disease prevalence, an increasing need for services, and unmet need for services as factors the Secretary must consider in determining severe need. Directs the Secretary, in determining the required factors, to develop a mechanism to use national, quantitative incidence data by 18 months after enactment of this Act (currently, by May 20, 1998). Requires mechanism modification based on the findings of a study mandated by title V of this Act. Requires that supplemental substantial need grants be allocated according to the local demographic incidence of AIDS, including allocations for services for infants, children, youth, women, and families (currently, for infants, children, women, and families) with HIV disease. Removes provisions basing the amount of substantial need grants on substantial need grant applications.Subtitle C: Other Provisions - Requires that substantial need grant funds be used, among other purposes, for: (1) outreach to identify individuals with HIV disease who are not receiving HIV-related services; and (2) early intervention services. Requires that substantial need grants be used to provide health and support services to infants, children, youth, and women (currently, infants, children, and women) with HIV disease in the same ratio as those groups with HIV disease bear to those groups in the general population.Requires that the chief elected official of a substantial need grant-receiving area establish a quality management program to assess whether HIV health services under the substantial need grant are consistent with the most recent Public Health Service guidelines.(Sec. 123) Requires that official to ensure that the area's planning council: (1) reviews existing, available data on expenditures by substantial need grant recipient entities from their overall budget for administrative costs; and (2) makes a determination whether the financial compensation of any of those entity's officers or employees exceeds that of the official.Title II: Care Grant Program - Subtitle A: General Grant Provisions - Requires that grants to States to improve the quality, availability and organization of health care and support services for individuals with HIV disease (care grants) be used to provide health and support services to infants, children, youth, and women (currently, infants, children, and women) with HIV disease in the same ratio as those groups with HIV disease bear to those groups in the general population.(Sec. 202) Allows care grants to be used for support services, outreach activities, early intervention, and quality management.(Sec. 203) Modifies requirements regarding grants to establish HIV care consortia.(Sec. 204) Allows a State to meet a requirement to use a portion of its care grant to provide therapeutics to treat HIV disease or prevent related health deterioration (including prevention and treatment of opportunistic infections) by paying for health insurance or plans whose coverage includes a full range of such therapeutics and primary care.(Sec. 205) Requires care grant applications to contain determinations of the size, demographics, and needs of the population of individuals with HIV disease in the State. Modifies requirements regarding the comprehensive plan. Requires the public health agency that administers care grants for a State to engage in a public advisory planning process.(Sec. 206) Doubles, subject to appropriations, the minimum care grant allotment to each State and U.S. territory. Requires, after fiscal year 2004, that the care grant amount formula use the number of cases of HIV disease in the most recent year rather than the number of cases of acquired immune deficiency syndrome (AIDS) in the most recent ten years, but until FY 2007 conditions that change on the Secretary's determination that there is sufficiently accurate and reliable data on HIV disease cases. Provides for increases in the formula amount.Requires, if an appropriations Act provides an amount exclusively for treatment drug grants, that two percent of that exclusive amount be reserved for supplemental grants to States whose HIV population's need is greater than the quantities available under treatment drug grants from the remaining unreserved 98 percent.Adds the Federated States of Micronesia and the Republic of Palau to the list of U.S. territories. Adds the Commonwealth of Puerto Rico to the list of territories for minimum allotment provisions but keeps it in the list of States for other care grant provisions.(Sec. 207) Replaces provisions mandating coordination by specified Federal agencies of Federal HIV programs with provisions directing the Secretary to make grants to States to supplement care grants for comprehensive services for communities that have a severe need for supplemental financial assistance to combat the HIV epidemic. Provides for funding for the supplemental grants.Subtitle B: Provisions Concerning Pregnancy and Perinatal Transmission of HIV - Removes provisions prohibiting (after testing of pregnant women and newborns has become a routine practice in U.S. health care) care grants to a State unless the State meets certain requirements regarding such testing.(Sec. 212) Adds HIV disease treatment services to the uses for which the Secretary may make a grant to a State that is following the recommendations of the Centers for Disease Control and Prevention (CDC) regarding HIV counseling and voluntary testing for pregnant women. Authorizes appropriations. Prohibits using care grant appropriations for grants under this section.(Sec. 213) Directs the Secretary to provide for a study and report to appropriate congressional committees regarding: (1) the number of newborns with HIV born in the United States in the most recent year for which the information is available; (2) barriers that prevent or discourage an obstetrician from routinely offering pregnant women an HIV test and routinely testing newborns when the mother's HIV status is unknown; and (3) recommendations for each State for reducing perinatal HIV transmission. Requires States to make reasonable progress toward meeting the recommendations.Subtitle C: Certain Partner Notification Programs - Authorizes the Secretary to make grants to States for partner counseling and referral services, provided the State meets certain requirements regarding: (1) partner notification and (for the partner and the infected individual) testing, counseling, and referral; (2) health entity reporting of positive test results to the State; (3) reporting to the CDC regarding partner notification; and (4) State cooperation with the CDC national partner notification. Prohibits grants to a State after fiscal year 2003 unless the State's reporting system for HIV cases produces sufficiently accurate and reliable data. Authorizes appropriations.Title III: Early Intervention Services - Subtitle A: Formula Grants for States - Repeals provisions mandating formula grants to States for outpatient early intervention services regarding HIV disease.Subtitle B: Categorical Grants - Requires giving preference to rural or underserved areas in making currently-authorized categorical grants for outpatient early intervention services. Allows planning grants to be used, subject to limitation, to assist the recipients to expand their capacity to provide services, including early intervention services, in low income communities and affected subpopulations that are underserved.Subtitle C: General Provisions - Requires that the counseling that categorical grant recipients are required to provide to HIV-infected individuals emphasize that it is the duty of infected individuals to disclose their status to their sexual and needle-sharing partners, provide advice on how to make the disclosures and emphasize that it is the infected individual's continuing duty to avoid behaviors that expose others to HIV.(Sec. 322) Increases the percentage limit on administrative expenses. Requires recipients to establish a quality management program to assess the extent to which medical services are consistent with Public Health Service guidelines for treatment of HIV disease and related opportunistic infections.Title IV: Other Programs and Activities - Subtitle A: Certain Programs for Research, Demonstrations, or Training - Replaces a requirement that, with regard to grants for providing opportunities for women, infants, children, and youth to participate in HIV research and for providing to those groups outpatient health care and additional services, that a significant number of individuals in those groups be participating in research with a requirement that the grant applicant demonstrate linkages to research and how access to research is being offered to patients. Directs the Secretary to examine the distribution and availability of research regarding grantees to enhance and expand HIV-related research, especially in underrepresented communities. Requires grantees to implement a quality management program. Authorizes appropriations.(Sec. 402) Includes, as a use of currently-authorized grants and contracts for training health personnel: (1) training in prenatal and other gynecological care for women with HIV disease; and (2) developing protocols for the medical care of such women. Directs the Secretary to implement a strategy for the dissemination of HIV treatment information to care providers and patients.Adds accredited dental hygiene programs as possible recipients of currently-authorized grants with respect to oral health care to (sic) patients with HIV disease. Authorizes appropriations. Authorizes grants to dental schools, post-doctoral dental education programs, and accredited dental hygiene programs that partner with community-based dentists to provide care to HIV patients in underserved areas. Authorizes appropriations.Authorizes appropriations for grants and contracts to assist public and nonprofit private entities and schools and academic health science centers to train health personnel, train faculty, and develop and disseminate curricula and resource materials regarding the care of HIV patients and prevention of HIV infection among at risk individuals.Subtitle B: General Provisions in Title XXVI - Extends the authorization of appropriations for grants and contracts to evaluate programs carried out under title XXVI of the Public Health Service Act (HIV Health Care Services Program).(Sec. 412) Authorizes appropriations for collecting and providing data for program planning and evaluation under title XXVI.(Sec. 413) Adds the Substance Abuse and Mental Health Services Administration and the Health Care Financing Administration to the list of agencies (currently, the Health Resources and Services Administration and the Centers for Disease Control and Prevention) charged with coordinating the planning, funding, and implementation (currently, coordinating the planning of the funding) of Federal HIV programs to enhance continuity of care and prevention services (currently, continuity of care). Requires that State, local, or private entities receiving title XXVI funds enhance continuity of care and prevention services (currently, continuity of care).(Sec. 414) Directs the Secretary to develop and submit to Congress a plan for the medical case management of and the provision of support services to individuals who had HIV disease on their date of release from the Federal or State penal system.(Sec. 415) Authorizes the Secretary to reduce title XXVI grants to a State or political subdivision if the State or subdivision fails to prepare audits.(Sec. 416) Directs the Secretary to: (1) develop and submit to Congress a plan for coordinating the disbursement of appropriations for substantial need grants with the disbursement for care grants; (2) within two years after enactment of this Act, implement the disbursement plan, notwithstanding any title XXVI provision inconsistent with the plan; (3) determine whether administration of those grants by the Secretary and grantee compliance efficiency would be improved by requiring biennial rather than annual applications; (4) develop and submit to Congress a plan for simplifying the application process for those grants; and (5) within two years after enactment of this Act, implement the simplified application plan, notwithstanding any title XXVI provision inconsistent with the plan.(Sec. 417) Removes provisions directing the Secretary to develop and implement a method for adjusting the percentages allocated to substantial need grants and care grants to account for substantial need grants to new areas and other relevant factors.Authorizes appropriations for substantial need and care grants.Title V: General Provisions - Directs the Secretary to provide for studies, and report to the appropriate congressional committees, on: (1) whether the surveillance system of each State provides for the reporting of HIV infection cases in a way that provides information on the number and demographic characteristics of the cases that is sufficiently accurate for the formula grants under substantial need and care grant provisions and, if not, recommendations for improvements; and (2) the appropriate epidemiological measures and their relationship to the financing and delivery of primary care and health related support services for low income, uninsured, and underinsured individuals with HIV disease.(Sec. 502) Requires the Director of the National Institutes of Health (NIH) to expand, intensify, and coordinate research and other NIH activities regarding development of reliable and affordable HIV tests that can be rapidly administered and whose results can be rapidly obtained (rapid HIV tests). Authorizes appropriations.Directs the Secretary: (1) to report to appropriate congressional committees on the progress made toward, and barriers to, the premarket review and commercial distribution of rapid HIV tests; and (2) promptly after rapid HIV test commercial distribution begins, to establish or update guidelines for States, hospitals, and other entities regarding the availability of those tests for administration to pregnant women in labor or late stage pregnancy and whose HIV status is unknown.Title VI: Effective Date - Sets forth the effective dates for this Act and its amendments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Ryan White CARE Act Amendments of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Ryan White CARE Act Amendments of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Public Health Service Act to revise and extend programs established under the Ryan White Comprehensive AIDS Resources Emergency Act of 1990, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:18-05:00"
+}

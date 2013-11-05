@@ -1,0 +1,252 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-01-19", 
+      "committee": "House Committee on Science", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-02-04", 
+      "in_committee": "House Committee on Science", 
+      "references": [], 
+      "subcommittee": "Space and Aeronautics", 
+      "text": "Referred to the Subcommittee on Space and Aeronautics.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-07-29", 
+      "in_committee": "House Committee on Science", 
+      "in_subcommittee": "Space and Aeronautics", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-29", 
+      "in_committee": "House Committee on Science", 
+      "in_subcommittee": "Space and Aeronautics", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-09", 
+      "in_committee": "House Committee on Science", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-09", 
+      "in_committee": "House Committee on Science", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:24:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9249", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:24:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 356.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9249", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:26:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-05", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-13", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12563", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-10-13", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-10-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-10-27", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-10-27", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "82", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-82.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr356-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Science", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Science", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Space and Aeronautics", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "82"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-10-27", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-10-04T14:26:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-10-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-01-19", 
+  "number": "356", 
+  "official_title": "To provide for the conveyance of certain property from the United States to Stanislaus County, California.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1554-106", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "18", 
+    "name": "Condit, Gary A.", 
+    "state": "CA", 
+    "thomas_id": "00226", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-10-27", 
+  "subjects": [
+    "Aeronautics", 
+    "Agriculture and food", 
+    "Airports", 
+    "Astronautics", 
+    "California", 
+    "Environmental protection", 
+    "Government liability", 
+    "Government operations and politics", 
+    "Groundwater pollution", 
+    "Hazardous waste site remediation", 
+    "Land transfers", 
+    "Law", 
+    "Liability for toxic substances pollution damages", 
+    "Liability for water pollution damages", 
+    "National Aeronautics and Space Administration", 
+    "Public lands and natural resources", 
+    "Research centers", 
+    "Science, technology, communications", 
+    "Soil pollution", 
+    "Space activities", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1999-10-04", 
+    "text": "Directs the Administrator of the National Aeronautics and Space Administration (NASA) to convey to Stanislaus County, California, specified lands known as the NASA Ames Research Center, Crows Landing Facility.Prohibits such conveyance from relieving Federal agencies of responsibility under law, policy, or Federal interagency agreement for any environmental remediation of soil, groundwater, or surface water. Subjects any other remediation of contamination within or related to structures or fixtures on such property to negotiation to the extent permitted by law.Retains NASA's right to use such property for aviation activities without consideration and on mutually acceptable terms.Requires NASA to relinquish legislative jurisdiction over the conveyed property to California."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide for the conveyance of certain property from the United States to Stanislaus County, California.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:59-05:00"
+}

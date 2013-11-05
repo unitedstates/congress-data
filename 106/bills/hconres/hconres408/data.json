@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-09-25", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:36:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bartlett moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9597-9599", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:37:00-04:00", 
+      "bill_ids": [
+        "hcres408-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 408.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H9597-9598", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-10T21:46:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-11", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11270", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres408-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Barrett, Bill", 
+      "sponsored_at": "2000-10-05", 
+      "state": "NE", 
+      "thomas_id": "00057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2000-10-02", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2000-10-05", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2000-10-05", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hastings, Doc", 
+      "sponsored_at": "2000-10-05", 
+      "state": "WA", 
+      "thomas_id": "00512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2000-10-05", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2000-10-02", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2000-10-05", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2000-10-02", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-10T21:46:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-09-25", 
+  "number": "408", 
+  "official_title": "Expressing appreciation for the United States service members who were aboard the British transport HMT ROHNA when it sank, the families of these service members, and the rescuers of the HMT ROHNA's passengers and crew.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Metcalf, Jack", 
+    "state": "WA", 
+    "thomas_id": "00792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2000-10-27", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Emergency management", 
+    "Europe", 
+    "Families", 
+    "France", 
+    "Germany", 
+    "History", 
+    "International affairs", 
+    "Military dependents", 
+    "Military history", 
+    "Military personnel", 
+    "Naval personnel", 
+    "Rescue work", 
+    "Transports", 
+    "United Kingdom", 
+    "War casualties", 
+    "Warships", 
+    "World War II"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-09-25", 
+    "text": "Expresses appreciation for: (1) the U.S. service members who died in the sinking of the HMT ROHNA, a British transport ship, by the Germans in November 1943; (2) the U.S. service members who survived the sinking; (3) the families of all such service members; and (4) the U.S., British, and French rescuers, especially the crew of the USS PIONEER."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing appreciation for the United States service members who were aboard the British transport HMT ROHNA when it sank, the families of these service members, and the rescuers of the HMT ROHNA's passengers and crew.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:52-05:00"
+}

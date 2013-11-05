@@ -1,0 +1,394 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-10", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-27", 
+      "references": [
+        {
+          "reference": "CR S11270-11272", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11270-11272", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-10-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-28T08:56:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-28T13:12:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15T19:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12517-12519", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15T19:20:00-05:00", 
+      "references": [], 
+      "text": "Mr. McCollum asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15T19:20:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H12517-12519", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-12-15T19:20:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-20", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-28", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-12-28", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "579", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-579.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3181-106", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Abraham, Spencer", 
+      "sponsored_at": "2000-10-25", 
+      "state": "MI", 
+      "thomas_id": "01269", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Ashcroft, John", 
+      "sponsored_at": "2000-10-23", 
+      "state": "MO", 
+      "thomas_id": "01274", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "2000-10-25", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cleland, Max", 
+      "sponsored_at": "2000-10-23", 
+      "state": "GA", 
+      "thomas_id": "01540", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2000-10-26", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Conrad, Kent", 
+      "sponsored_at": "2000-10-12", 
+      "state": "ND", 
+      "thomas_id": "01307", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "DeWine, Mike", 
+      "sponsored_at": "2000-10-24", 
+      "state": "OH", 
+      "thomas_id": "00293", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2000-10-19", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2000-10-26", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grams, Rod", 
+      "sponsored_at": "2000-10-25", 
+      "state": "MN", 
+      "thomas_id": "00454", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "sponsored_at": "2000-10-26", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "2000-10-25", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kennedy, Edward M.", 
+      "sponsored_at": "2000-10-23", 
+      "state": "MA", 
+      "thomas_id": "01377", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerrey, J. Robert", 
+      "sponsored_at": "2000-10-19", 
+      "state": "NE", 
+      "thomas_id": "01378", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Landrieu, Mary L.", 
+      "sponsored_at": "2000-10-19", 
+      "state": "LA", 
+      "thomas_id": "01546", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2000-10-23", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCain, John", 
+      "sponsored_at": "2000-10-18", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moynihan, Daniel Patrick", 
+      "sponsored_at": "2000-10-18", 
+      "state": "NY", 
+      "thomas_id": "01407", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Robb, Charles S.", 
+      "sponsored_at": "2000-10-19", 
+      "state": "VA", 
+      "thomas_id": "01423", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Specter, Arlen", 
+      "sponsored_at": "2000-10-25", 
+      "state": "PA", 
+      "thomas_id": "01437", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, John", 
+      "sponsored_at": "2000-10-18", 
+      "state": "VA", 
+      "thomas_id": "01452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "579"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-12-28", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-12-15T19:20:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-10-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-10", 
+  "number": "3181", 
+  "official_title": "A bill to establish the White House Commission on the National Moment of Remembrance, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Moment of Remembrance Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hagel, Chuck", 
+    "state": "NE", 
+    "thomas_id": "01545", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-12-28", 
+  "subjects": [
+    "Commemorations", 
+    "Executive reorganization", 
+    "Federal advisory bodies", 
+    "Government operations and politics", 
+    "Memorial Day", 
+    "Presidential commissions", 
+    "White House conferences"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-10-10", 
+    "text": "National Moment of Remembrance Act - Establishes a White House Commission on the National Moment of Remembrance to provide national coordination for, and encourage national, State, local, and tribal participation in, the commemoration of Memorial Day and the National Moment of Remembrance.Establishes as an agency of the Commission the Moment of Remembrance Alliance to assist the Commission, including by: (1) planning, organizing, and implementing an annual White House Conference on the National Moment of Remembrance and other similar events; (2) promoting the observance of Memorial Day and the National Moment of Remembrance; and 3) establishing incentives for Federal, State, and local governments and private entities to sponsor and participate in programs initiated by the Commission or the Alliance.Requires the Director of the Committee Management Secretariat Staff of the General Services Administration to appoint an individual as Executive Director and White House Liaison to: (1) serve as a liaison between the Commission and the President; (2) serve as chief of staff of the Commission; and (3) coordinate the Commission's and the President's efforts on all matters relating to this Act, including matters relating to the National Moment of Remembrance."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "National Moment of Remembrance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "National Moment of Remembrance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to establish the White House Commission on the National Moment of Remembrance, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:42:30-05:00"
+}

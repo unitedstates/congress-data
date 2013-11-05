@@ -1,0 +1,456 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-11-13", 
+      "committee": "House Committee on Intelligence (Permanent Select)", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Intelligence (Permanent Select).", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-11-13T18:48:00-05:00", 
+      "references": [], 
+      "text": "Committee on Intelligence (Permanent) discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-13T18:48:00-05:00", 
+      "references": [], 
+      "text": "Mr. Goss asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-13T18:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11854-11865", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-13T18:53:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H11854-11864", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-11-13T18:53:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-13T18:54:00-05:00", 
+      "references": [], 
+      "text": "The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5630.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-14", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-06", 
+      "references": [
+        {
+          "reference": " CR S11649-11651", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-06", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-12-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-11T17:46:00-05:00", 
+      "references": [], 
+      "text": "Mr. Goss asked unanimous consent that the House agree to the Senate amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-11T18:00:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H12070-12072", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On motion that the House agree to the Senate amendments Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-12-11T18:00:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-12-11", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-15", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2000-12-27", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2000-12-27", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "567", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-567.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4360-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4360"
+    }
+  ], 
+  "bill_id": "hr5630-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "32", 
+      "name": "Dixon, Julian C.", 
+      "sponsored_at": "2000-11-13", 
+      "state": "CA", 
+      "thomas_id": "00301", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Lewis, Jerry", 
+      "sponsored_at": "2000-11-13", 
+      "state": "CA", 
+      "thomas_id": "00687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "567"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2000-12-27", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-12-11T18:00:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-12-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-11-13", 
+  "number": "5630", 
+  "official_title": "To authorize appropriations for fiscal year 2001 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+  "popular_title": "Intelligence Authorization bill, FY2001", 
+  "related_bills": [
+    {
+      "bill_id": "hr4392-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Intelligence Authorization Act for Fiscal Year 2001", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Goss, Porter J.", 
+    "state": "FL", 
+    "thomas_id": "00450", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2000-12-27", 
+  "subjects": [
+    "Agriculture and food", 
+    "Alliances", 
+    "Americans employed in foreign countries", 
+    "Architecture", 
+    "Archives", 
+    "Armed forces and national security", 
+    "Army", 
+    "Arts, culture, religion", 
+    "Auditing", 
+    "Authorization", 
+    "Business intelligence", 
+    "Buy American", 
+    "Central Intelligence Agency", 
+    "Civil rights and liberties, minority issues", 
+    "Civil service pensions", 
+    "Classified defense information", 
+    "Commemorations", 
+    "Commerce", 
+    "Common carriers", 
+    "Competitive bidding", 
+    "Computer security measures", 
+    "Computers and government", 
+    "Confidential funding (Federal budgets)", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Constitutional law", 
+    "Counterintelligence", 
+    "Covert operations", 
+    "Crime and law enforcement", 
+    "Criminal investigation", 
+    "Criminal justice information", 
+    "Defense budgets", 
+    "Delegation of powers", 
+    "Department of Defense", 
+    "Department of Energy", 
+    "Department of Justice", 
+    "Department of State", 
+    "Department of the Treasury", 
+    "District of Columbia", 
+    "Drug abuse", 
+    "Drug law enforcement", 
+    "Drug traffic", 
+    "Early retirement", 
+    "East Asia", 
+    "Economics and public finance", 
+    "Electronic surveillance", 
+    "Embassies", 
+    "Engineers", 
+    "Espionage", 
+    "Evidence (Law)", 
+    "Executive orders", 
+    "Executive reorganization", 
+    "Federal advisory bodies", 
+    "Federal employees", 
+    "Federal officials", 
+    "Finance and financial sector", 
+    "Financial statements", 
+    "Fines (Penalties)", 
+    "Foreign trade and international finance", 
+    "Freedom of information", 
+    "Government buyouts", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government procurement", 
+    "Government travel", 
+    "Government trust funds", 
+    "Governmental investigations", 
+    "Health", 
+    "History", 
+    "Human experimentation in medicine", 
+    "Information networks", 
+    "Information technology", 
+    "Inspectors general", 
+    "Insurance premiums", 
+    "Intelligence community staff", 
+    "Intelligence officers", 
+    "International affairs", 
+    "Japan", 
+    "Labor and employment", 
+    "Land transfers", 
+    "Launch vehicles", 
+    "Law", 
+    "Lease and rental services", 
+    "Liability insurance", 
+    "Lobbying", 
+    "Loyalty-security program", 
+    "Maps", 
+    "Medical records", 
+    "Members of Congress (Senate)", 
+    "Military history", 
+    "Military intelligence", 
+    "Military occupation", 
+    "Military personnel", 
+    "Misconduct in office", 
+    "Missing in action", 
+    "Missing persons", 
+    "Names", 
+    "Official secrets", 
+    "Personnel management", 
+    "Political persecution", 
+    "Polygraphs", 
+    "Presidential appointments", 
+    "Presidential libraries", 
+    "Prisoners of war", 
+    "Prosecution", 
+    "Public lands and natural resources", 
+    "Public records", 
+    "Racial discrimination", 
+    "Reconnaissance satellites", 
+    "Recruiting of employees", 
+    "Religion", 
+    "Religious liberty", 
+    "Reprogramming of appropriated funds", 
+    "Salaries", 
+    "Science, technology, communications", 
+    "Scientists in government", 
+    "Searches and seizures", 
+    "Security classification (Government documents)", 
+    "Severance pay", 
+    "Social welfare", 
+    "Space activities", 
+    "Terrorism", 
+    "Trade secrets", 
+    "Transfer of employees", 
+    "Transportation and public works", 
+    "Treaties", 
+    "Undercover operations", 
+    "Urban affairs", 
+    "Urban planning", 
+    "War crimes", 
+    "World War II"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2000-12-06", 
+    "text": "TABLE OF CONTENTS: Title I: Intelligence Activities Title II: Central Intelligence Agency Retirement and Disability System Title III: General Provisions Subtitle A: Intelligence Community Subtitle B: Diplomatic Telecommunications Service Program Office (DTS-PO) Title IV: Central Intelligence Agency Title V: Department of Defense Intelligence Activities Title VI: Counterintelligence Matters Title VII: Declassification of Information Title VIII: Disclosure of Information on Japanese Imperial Government Intelligence Authorization Act for Fiscal Year 2001 - Title I: Intelligence Activities - Authorizes appropriations for FY 2001 for the conduct of intelligence and intelligence-related activities of the: (1) Central Intelligence Agency (CIA); (2) Department of Defense (DOD); (3) Defense Intelligence Agency; (4) National Security Agency (NSA); (5) National Reconnaissance Office (NRO); (6) National Imagery and Mapping Agency (NIMA); (7) Departments of the Army, Navy, and Air Force; (8) Departments of State, the Treasury, and Energy; and (9) Federal Bureau of Investigation (FBI).(Sec. 102) Specifies that the amounts authorized to be appropriated and the authorized personnel ceilings as of September 30, 2001, for such activities are those specified in the Classified Schedule of Authorizations, which shall be made available to the Senate and House Appropriations Committees and the President.(Sec. 103) Allows the Director of Central Intelligence (DCI), with the approval of Director of the Office of Management and Budget (OMB), to authorize the employment of civilian personnel in excess of the number authorized for FY 2001 when the DCI determines that such action is necessary to the performance of important intelligence functions, subject to specified limitations. Requires notification of the Senate and House Intelligence Committees when such authority is exercised.(Sec. 104) Authorizes appropriations for the Community Management Account of the DCI for FY 2001. Authorizes full-time personnel for elements within such Account as of September 30, 2001. Provides for the reimbursement of any U.S. officer or employee, or member of the armed forces, who is detailed to such staff.Earmarks funds authorized under this Act for the National Drug Intelligence Center. Requires a transfer of funds from the DCI to the Attorney General to operate the Center.(Sec. 105) Amends the National Security Act of 1947 to provide that, with respect to DOD, the authority to object to a transfer of funds or personnel within the National Foreign Intelligence Program may be delegated by the Secretary of Defense (Secretary), but only to the Deputy Secretary of Defense. (Currently, the Secretary or the head of the military department involved may object to such a transfer.)Title II: Central Intelligence Agency Retirement and Disability System - Authorizes appropriations for FY 2001 for the Central Intelligence Agency Retirement and Disability Fund.Title III: General Provisions - Subtitle A: Intelligence Community - Permits appropriations authorized by this Act for salary, pay, retirement, and other benefits for Federal employees to be increased by such additional amounts as may be necessary for increases in such compensation or benefits authorized by law.(Sec. 302) Specifies that the authorization of appropriations by this Act shall not be deemed to constitute authority for the conduct of any intelligence activity which is not otherwise authorized by the Constitution or laws of the United States.(Sec. 303) Expresses the sense of Congress that the DCI should continue to direct that elements of the intelligence community should competitively award contracts in a manner that maximizes the procurement of products properly designated as having been made in the United States.(Sec. 304) Amends the National Security Act of 1947 to establish the National Security Agency Voluntary Separation Pay Act to authorize the DCI to establish a program under which NSA employees who are at least 50 years old and have completed 20 years of service or who have completed 25 years of service shall be eligible for early retirement, separation pay for voluntary separation, or both. Provides: (1) separation pay limits and certain reemployment restrictions; and (2) certain reporting requirements concerning the use of such authority.(Sec. 305) Empowers the DCI to authorize travel on any common carrier when such travel: (1) is consistent with intelligence community mission requirements; or (2) is required for covert purposes, operational needs, or other exceptional circumstances necessary for the successful performance of such a mission.(Sec. 306) Requires the DCI to update a report required under a prior intelligence authorization Act concerning the authority of DOD to engage in commercial activities in connection with intelligence collection activities.(Sec. 307) Amends the National Security Act of 1947 to require the DCI to establish and maintain in the intelligence community an analytic capability with responsibilities for intelligence in support of U.S. activities relating to post-1990 unaccounted for U.S. personnel (military missing persons and U.S. nationals killed while engaged in activities on behalf of the United States).(Sec. 308) Prohibits any Federal law that implements a treaty or other international agreement from being construed as making unlawful an otherwise lawful and authorized intelligence activity of the U.S. Government or its employees, or other person acting on their behalf, unless such law specifically addresses such activity.(Sec. 309) Requires the DCI to certify to the intelligence committees whether or not each element of the State Department that handles, retains, or stores classified material (element) is in full compliance with all applicable directives relating to such materials. Requires a report to the intelligence committees when noncompliance is determined. Prohibits an element from retaining or storing classified information until full compliance is achieved. Authorizes the DCI to waive the applicability of this section in the national security interest, requiring a report to the intelligence committees upon the exercise of such waiver.(Sec. 310) Designates a portion of Woodrow Wilson Plaza in Washington, D.C., as Daniel Patrick Moynihan Place, in recognition of such Senator's promotion of architecture and urban planning in the Nation's capital.Subtitle B: Diplomatic Telecommunications Service Program Office (DTS-PO) - Reorganizes the Diplomatic Telecommunications Service Program Office (DTS-PO) established under the Department of State and Related Agencies Appropriations Act, 1992 to: (1) state as a Program purpose the establishment and maintenance of a diplomatic telecommunications system and network capable of providing multiple levels of service at diplomatic facilities abroad; (2) establish the position of Chief Executive Officer of the DTS-PO, with specified duties; (3) establish Deputy Executive Officer positions; and (4) authorize the OMB Director to prescribe pay rates for DTS-PO employees.(Sec. 323) Establishes the Diplomatic Telecommunications Service Oversight Board to perform specified DTS-PO oversight activities.(Sec. 324) Requires the OMB Director to report to specified congressional committees on DTS-PO program elements.Authorizes appropriations for FY 2002 through 2006.Title IV: Central Intelligence Agency - Amends the Central Intelligence Agency Act of 1949 to require receipts for utility services and meals and for the rental of property and equipment to CIA employees and detailees to be deposited into the Central Services Working Capital Fund.(Sec. 403) Amends the above Act to require a report from the Inspector General (IG) to the intelligence committees when: (1) an investigation, inspection, or audit focuses on a current or former CIA official who holds or held a position subject to appointment by the President, or holds or held the CIA executive director or certain deputy director positions; (2) a matter requires a report from the IG to the Department of Justice (DOJ) concerning possible criminal conduct of a current or former CIA official; (3) the IG receives notice from the DOJ declining or approving prosecution of possible criminal conduct of any such official; or (4) the IG, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, or audit.(Sec. 404) Authorizes the DCI to detail CIA employees to the NRO.(Sec. 405) Provides a three-year availability for obligation of CIA funds transferred after FY 2000 to another Federal department or agency for the acquisition of land. Requires an annual report from the DCI to the intelligence committees on such fund transfers.(Sec. 406) Authorizes the DCI to designate and reimburse CIA employees for one-half of the costs of professional liability insurance. Requires a report from the DCI to the intelligence committees on each designation.Title V: Department of Defense Intelligence Activities - Requires the Secretary to respond within 30 days to a request from the DCI to exercise the Secretary's authority under prior law to carry out a program of special personnel management at NIMA and NSA for the recruitment of experts in science and engineering.(Sec. 502) Requires the DCI, in coordination with the Secretary, to study and report to the defense and intelligence committees on the utility and feasibility of various options for improving the management and organization of measurement and signature intelligence.Title VI: Counterintelligence Matters - Counterintelligence Reform Act of 2000 - Amends the Foreign Intelligence Surveillance Act of 1978 (the Act, for purposes of this title) to direct the Attorney General (AG), upon request from the FBI Director, the Secretary of Defense or State, or the DCI, to review an application for a court order approving the electronic surveillance of a foreign power or foreign agent suspected of espionage. Prohibits any requesting official from delegating such authority, except due to disability. Requires the AG to notify a requesting official of his determination, including any modifications needed before approving the application. Authorizes the issuing judge to consider past activities of the target (as well as facts and circumstances relating to current and future activities of such target) in determining whether or not probable cause exists for issuance of the order.(Sec. 603) Provides the same requirements, prohibitions, and authorities as above for requests from such officials for a court order for a physical search of a target under the Act.(Sec. 604) Requires information acquired under the Act to be included in required semiannual reports from the AG to the intelligence committees concerning all electronic surveillance conducted by the United States. Requires the AG to report to such committees on the authorities and procedures utilized by the DOJ for determining whether or not to disclose for law enforcement purposes information acquired under the Act.(Sec. 605) Requires the FBI Director to submit to the head of the Federal agency or department concerned a written assessment of the potential impact of the actions of that agency or department on an FBI counterintelligence investigation. Requires the agency or department head to use such assessment to determine whether their actions should be continued. Requires the Director and appropriate agency or department head to continue to consult in a timely manner with respect to such investigations. Requires the FBI to notify appropriate officials within the executive branch of the commencement of a full field espionage investigation of a Federal employee. Prohibits such official, after such notification, from taking any action with respect to such employee that would likely alert the employee to the FBI investigation.(Sec. 606) Authorizes appropriations to DOJ for FY 2001 through 2003 for certain activities of the Office of Intelligence Policy and Review for providing increased protection of national security at DOJ. Prohibits the obligation or expenditure of any such funds for FY 2002 and 2003 until the AG reports to the intelligence committees on the manner in which such funds will be used. Requires the AG to report to such committees concerning: (1) corrective actions concerning electronic surveillance; and (2) actions to be taken to promote quick and efficient responses to national security issues, as well as the appropriate dissemination of intelligence information within DOJ and the formulation of policy on national security issues.(Sec. 607) Amends the Classified Information Procedures Act to direct the Assistant AG for the Criminal Division of DOJ and the appropriate U.S. Attorney to brief senior agency officials with respect to any case involving classified information that originated in the agency of that senior official.Title VII: Declassification of Information - Public Interest Declassification Act of 2000 - Establishes within the executive branch the Public Interest Declassification Board to: (1) advise the President and other appropriate executive officials on the systematic, thorough, coordinated, and comprehensive identification, collection, review for declassification, and release to Congress, interested agencies, and the public of records and materials that are of archival value, including those of extraordinary public interest; (2) promote the fullest possible public access to a documentary record of significant U.S. national security decisions and activities; (3) provide recommendations to the President for the identification, collection, and review for declassification of such information that does not undermine the U.S. national security interest; and (4) advise the President and other appropriate officials on policies deriving from the issuance of executive orders regarding the classification and declassification of national security information.(Sec. 704) Requires the head of any agency with authority to classify information to provide annually to the Board or one of the intelligence committees a summary briefing and report on their declassification of national security information. Requires the Board to then recommend to such agency ways in which their declassification program could be improved. Requires the Board to recommend to the President proposed initiatives to identify, collect, and review for declassification classified records and materials of extraordinary public interest. Requires the OMB Director to publish annually a description of the President's declassification program and priorities, and the funds requested to implement such program.(Sec. 705) States that nothing in this Act shall limit the authority of the: (1) head of an agency to classify information or to continue the classification of information previously classified, or to grant or deny access to a special access program; or (2) DCI to protect intelligence sources and methods from unauthorized disclosure.(Sec. 706) Requires the head of each agency with authority to classify information and the head of each Federal Presidential library to designate an employee to act as liaison to the Board for purposes of this title. Requires such agency or library head to notify the Board when he or she determines it necessary to deny or restrict Board access to information contained in a record or material held by such agency or library. Allows an agency head, at the conclusion of a declassification review, to determine either that the public interest in a disclosure outweighs its need for protection, or that the interest of the agency to protect the information outweighs the public's need for access. Requires the Board to report annually to specified congressional committees on Board activities under this title. Outlines procedures for agency notification to the Board that access to records or materials has been denied.(Sec. 707) States that this Act does not create any right or benefit subject to judicial review.(Sec. 708) Authorizes appropriations.Title VIII: Disclosure of Information on Japanese Imperial Government- Japanese Imperial Government Disclosure Act of 2000 - Directs the President to require the Nazi War Criminal Records Interagency Working Group, established under prior law, to remain in existence for three years. Requires the Group to: (1) locate, identify, inventory, recommend for declassification, and make available to the public all classified Japanese Imperial Government records of the United States relating to the experimentation and persecution by the Japanese Government or its allies of persons because of race, religion, national origin, or political opinion; (2) expedite the release of such records to the public; and (3) report to Congress. Redesignates such Group as the Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group. Authorizes appropriations.(Sec. 803) Requires the Group to release such records in their entirety, with certain confidentiality or national security exceptions. Provides a rebuttable presumption that the public interest will be served by the disclosure of such records.(Sec. 804) Provides for the expedited processing of Freedom of Information Act requests for such records for parties claiming to have been so persecuted."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Intelligence Authorization bill, FY2001", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Intelligence Authorization Act for Fiscal Year 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Counterintelligence Reform Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Japanese Imperial Government Disclosure Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "National Security Agency Voluntary Separation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Public Interest Declassification Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Intelligence Authorization Act for Fiscal Year 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Counterintelligence Reform Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Japanese Imperial Government Disclosure Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Public Interest Declassification Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Intelligence Authorization Act for Fiscal Year 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Counterintelligence Reform Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Japanese Imperial Government Disclosure Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "National Security Agency Voluntary Separation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Public Interest Declassification Act of 2000", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize appropriations for fiscal year 2001 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:38-05:00"
+}

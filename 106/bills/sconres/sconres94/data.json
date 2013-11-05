@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-03-09T14:00:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-09", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1371", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1371", 
+          "type": "text as passed Senate"
+        }, 
+        {
+          "reference": "CR S1423", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2000-03-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-09T22:06:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H907", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-03-09T22:07:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H907", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-03-09T22:07:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres94-106", 
+  "bill_type": "sconres", 
+  "committees": [], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-03-09T22:07:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2000-03-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-03-09", 
+  "number": "94", 
+  "official_title": "A concurrent resolution providing for a conditional adjournment or recess of the Senate.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Lott, Trent", 
+    "state": "MS", 
+    "thomas_id": "00707", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2000-03-09T22:07:00-05:00", 
+  "subjects": [
+    "Congress", 
+    "Congressional sessions", 
+    "Senate"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-03-09", 
+    "text": "Provides for a recess or an adjournment of the Senate on March 9 or 10, 2000, until March 20, 2000."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution providing for a conditional adjournment or recess of the Senate.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:05-05:00"
+}

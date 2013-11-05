@@ -1,0 +1,259 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-08-03", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-08-03", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Ground Transportation", 
+      "text": "Referred to the Subcommittee on Ground Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-08-04", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "in_subcommittee": "Ground Transportation", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-04", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "in_subcommittee": "Ground Transportation", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-05", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-08-05", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-09-13T16:59:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation. H. Rept. 106-313.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-13T16:59:00-04:00", 
+      "calendar": "Union", 
+      "number": "188", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 188.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-10-04T14:28:00-04:00", 
+      "references": [], 
+      "text": "Mr. Petri moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9249-9251", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:28:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2681.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-10-04T14:31:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-05", 
+      "committee": "Committee on Commerce", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2681-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Ground Transportation", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "1999-08-03", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "1999-08-03", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "1999-08-03", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-10-04T14:31:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-08-03", 
+  "number": "2681", 
+  "official_title": "To establish a program, coordinated by the National Transportation Safety Board, of assistance to families of passengers involved in rail passenger accidents.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Rail Passenger Disaster Family Assistance Act of 1999", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Shuster, Bud", 
+    "state": "PA", 
+    "thomas_id": "01055", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1999-10-04T14:31:00-04:00", 
+  "subjects": [
+    "Business records", 
+    "Commemorations", 
+    "Commerce", 
+    "Compensation (Law)", 
+    "Counseling", 
+    "Death", 
+    "Employee training", 
+    "Families", 
+    "Family services", 
+    "Federal officials", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Governmental investigations", 
+    "Health", 
+    "Information services", 
+    "Labor and employment", 
+    "Law", 
+    "Lawyers", 
+    "Legal advertising and soliciting", 
+    "Legal ethics", 
+    "Liability (Law)", 
+    "Mental health services", 
+    "Monuments and memorials", 
+    "National Transportation Safety Board", 
+    "Nonprofit organizations", 
+    "Public meetings of administrative bodies", 
+    "Railroad employees", 
+    "Railroad passenger traffic", 
+    "Railroad safety", 
+    "Railroads", 
+    "Science, technology, communications", 
+    "Social welfare", 
+    "Telephone", 
+    "Transportation and public works", 
+    "Travel costs", 
+    "Victims"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-08-03", 
+    "text": "Rail Passenger Disaster Family Assistance Act of 1999 - Amends Federal transportation law to require the Chairman of the National Transportation Safety Board, as soon as practicable after being notified of a rail passenger accident involving a major loss of life, to: (1) designate and publicize the name and phone number of a Board employee who shall be a director of family support services responsible for acting as a point of contact within the Federal Government for the families of passengers involved in a rail passenger accident and a liaison between the rail passenger carrier and the families; and (2) designate an independent nonprofit organization (with experience in disasters and posttrauma communication with families) which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in such accidents. Sets forth the responsibilities of the Board and designated organization.Directs each rail passenger carrier to submit to the Secretary of Transportation and the Chairman of the Board a plan for addressing the needs of the families of passengers involved in a rail passenger accident resulting in a major loss of life. Shields a rail passenger carrier from liability for damages (except for gross negligence or intentional misconduct) in any action brought in a Federal or State court arising out of the carrier's performance in preparing or providing a passenger list, or in providing information concerning a train reservation, pursuant to the carrier's plan."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Rail Passenger Disaster Family Assistance Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish a program, coordinated by the National Transportation Safety Board, of assistance to families of passengers involved in rail passenger accidents.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:16-05:00"
+}

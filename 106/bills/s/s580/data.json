@@ -1,0 +1,351 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-03-10", 
+      "committee": "Committee on HELP", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on HELP.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-03", 
+      "references": [
+        {
+          "reference": "CR S13843-13845", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on HELP discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-03", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-04T10:04:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-04", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-04T19:35:00-05:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T19:39:00-05:00", 
+      "references": [], 
+      "text": "Mr. Bliley asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T19:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H12857-12864", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18T19:39:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H12858-12864", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-11-18T19:39:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-18", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-12-01", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-12-06", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-12-06", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "129", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-129.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2506-106", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2506"
+    }
+  ], 
+  "bill_id": "s580-106", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "1999-03-10", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Breaux, John B.", 
+      "sponsored_at": "1999-03-10", 
+      "state": "LA", 
+      "thomas_id": "00120", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "1999-03-10", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hagel, Chuck", 
+      "sponsored_at": "1999-03-10", 
+      "state": "NE", 
+      "thomas_id": "01545", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hutchinson, Tim", 
+      "sponsored_at": "1999-05-19", 
+      "state": "AR", 
+      "thomas_id": "00578", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inouye, Daniel K.", 
+      "sponsored_at": "1999-03-10", 
+      "state": "HI", 
+      "thomas_id": "01369", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "1999-03-10", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kennedy, Edward M.", 
+      "sponsored_at": "1999-03-10", 
+      "state": "MA", 
+      "thomas_id": "01377", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mack, Connie, III", 
+      "sponsored_at": "1999-03-10", 
+      "state": "FL", 
+      "thomas_id": "00721", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "1999-03-10", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nickles, Don", 
+      "sponsored_at": "1999-03-10", 
+      "state": "OK", 
+      "thomas_id": "01412", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Santorum, Rick", 
+      "sponsored_at": "1999-03-10", 
+      "state": "PA", 
+      "thomas_id": "01015", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "129"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-12-06", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-11-18T19:39:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-03-10", 
+  "number": "580", 
+  "official_title": "A bill to amend title IX of the Public Health Service Act to revise and extend the Agency for Healthcare Policy and Research.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2506-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Healthcare Research and Quality Act of 1999", 
+  "sponsor": {
+    "district": null, 
+    "name": "Frist, William H.", 
+    "state": "TN", 
+    "thomas_id": "01336", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-12-06", 
+  "subjects": [
+    "Accreditation (Medical care)", 
+    "Commerce", 
+    "Communication in medicine", 
+    "Computers and government", 
+    "Cost effectiveness", 
+    "Department of Health and Human Services", 
+    "Economics and public finance", 
+    "Education", 
+    "Executive reorganization", 
+    "Families", 
+    "Family medicine", 
+    "Federal advisory bodies", 
+    "Federal aid to medical education", 
+    "Federal aid to medical research", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Government publicity", 
+    "Health", 
+    "Higher education", 
+    "Information technology", 
+    "Medical research", 
+    "Medical supplies", 
+    "Medical technology", 
+    "Peer review organizations (Medicine)", 
+    "Pharmaceutical research", 
+    "Physicians", 
+    "Preventive medicine", 
+    "Public-private partnerships", 
+    "Quality of care", 
+    "Research centers", 
+    "Science, technology, communications", 
+    "Technological innovations", 
+    "Technology assessment"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1999-11-03", 
+    "text": "Healthcare Research and Quality Act of 1999 - Amends the Public Health Service Act to establish within the Public Health Service (PHS) an Agency for Healthcare Research and Quality, headed by a Director appointed by the Secretary of Health and Human Services, to replace the current Agency for Health Care Policy and Research.Establishes within the Agency the Office of Priority Populations through which the Director shall conduct research and demonstration projects respecting: (1) health services and needs of various groups, including minorities, children, the elderly, and the disabled; and (2) rural and inner-city health care delivery.Authorizes the Director to: (1) provide health services training grants, including pre- and post-doctoral fellowships; and (2) provide financial assistance for establishing and operating new and existing multidisciplinary health centers.States that the Agency shall not mandate national standards of clinical practice or quality health care standards.Requires the Director to annually report on health care delivery disparities respecting racial and socioeconomic factors in priority populations.Directs the Agency to identify and disseminate methods or systems used to assess health care research results.Requires the Agency to employ research strategies and mechanisms that will link research directly with clinical practice in geographically diverse locations throughout the United States, including health care improvement research centers and provider-based research networks.Authorizes the Agency to provide specified scientific and technical support for private and public efforts to improve health care quality, including accrediting organizations.Requires the Director to: (1) provide grants to establish one or more centers for education and research on therapeutics; (2) conduct and support research and build private-public partnerships to reduce health care errors; and (3) collect information, develop databases, and annually report respecting health care quality and cost.Requires the Agency to conduct and support research and initiatives respecting health care information systems, including performance data, practitioner training, network development, and use of computer-based health care records. Requires the Director to facilitate public access to information respecting consumer health care satisfaction.Authorizes the Director to periodically convene a Preventive Services Task Force which shall review scientific evidence and make recommendations respecting the effectiveness of clinical preventive services.Establishes within the Agency a Center for Primary Care Research to serve as the principal funding source for primary care research in the Department of Health and Human Services .Requires the Director to promote innovation in evidence-based health care practices and technologies, including specific request-based assessments. Authorizes the Director to make related grants to, and contracts with, eligible entities.Requires the Director to develop and disseminate a report on evidence-based clinical practices for: (1) examination and treatment of victims of sexual assault, including children; and (2) training of health professionals on performing medical evidentiary examinations of victims of child abuse or neglect, sexual assault, elder abuse, or domestic violence.Requires the Secretary, acting through the Director, to coordinate Federal research, evaluations, and demonstrations related to health services research and quality measurement and improvement activities.Directs the Secretary to enter into a contract with the Institute of Medicine to evaluate and make recommendations respecting current quality improvement and monitoring processes.Establishes the National Advisory Council for Healthcare Research and Quality to replace the current Advisory Council for Health Care Policy, Research, and Evaluation.Requires the Director to establish technical and scientific peer review groups to review each application for a grant, cooperative agreement, or contract under the provisions of this Act.Requires the Director to establish standard data collection methods, taking into consideration other Federal and provider methodologies. Authorizes the Director to conduct fee-based research for a requesting entity.Provides for information dissemination, with specified protections and related penalties.Sets forth specified administrative provisions.Authorizes FY 2000 through 2005 appropriations, which shall provide for a proportional increase in funding for biomedical research.(Sec. 3) Directs the Secretary, acting through appropriate PHS agencies, to make grants to public or nonprofit private entities for the establishment and operation of regional centers to develop strategies to assist health care service delivery among specific populations, with priority given to infants, young children, and their mothers. Authorizes FY 2000 through 2004 appropriations.(Sec. 4) Requires the Secretary to make two payments, determined in accordance with a specified formula and guidelines, to each children's hospital for each of FY 2000 and 2001, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. Authorizes FY 2000 and 2001 appropriations.(Sec. 5) Directs the Secretary, acting through the appropriate PHS agencies, to conduct a study of whether and to what extent there is a shortage of licensed pharmacists.(Sec. 6) Requires the Secretary to report respecting telemedicine services.(Sec. 7) Directs the Secretary to develop recommendations respecting the placement of automatic external defibrillators (with related training and medical oversight) in Federal buildings as a means to increase cardiac arrest survival rates."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Healthcare Research and Quality Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Healthcare Research and Quality Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Healthcare Research and Quality Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend title IX of the Public Health Service Act to revise and extend the Agency for Healthcare Policy and Research.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:41:25-05:00"
+}

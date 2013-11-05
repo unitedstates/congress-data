@@ -1,0 +1,578 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-16", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-06-17", 
+      "references": [
+        {
+          "reference": "CR E1299-1300", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-29", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Referred to Department of the Interior for comments.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2250-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "00028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2000-04-13", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Baker, Richard H.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "LA", 
+      "thomas_id": "00047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bonilla, Henry", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "00107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "2000-06-23", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2000-06-09", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2000-06-09", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cannon, Chris", 
+      "sponsored_at": "2000-04-13", 
+      "state": "UT", 
+      "thomas_id": "01470", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chenoweth-Hage, Helen", 
+      "sponsored_at": "2000-04-13", 
+      "state": "ID", 
+      "thomas_id": "00194", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Combest, Larry", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "00224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cubin, Barbara", 
+      "sponsored_at": "2000-04-13", 
+      "state": "WY", 
+      "thomas_id": "00254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Doolittle, John T.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "CA", 
+      "thomas_id": "00307", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2000-04-13", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "2000-06-23", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hansen, James V.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "UT", 
+      "thomas_id": "00498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hastings, Doc", 
+      "sponsored_at": "2000-04-13", 
+      "state": "WA", 
+      "thomas_id": "00512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2000-04-13", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hill, Rick", 
+      "sponsored_at": "2000-04-13", 
+      "state": "MT", 
+      "thomas_id": "01489", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hilleary, Van", 
+      "sponsored_at": "2000-06-23", 
+      "state": "TN", 
+      "thomas_id": "00538", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Istook, Ernest J., Jr.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "OK", 
+      "thomas_id": "00586", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCrery, Jim", 
+      "sponsored_at": "2000-06-09", 
+      "state": "LA", 
+      "thomas_id": "00763", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Miller, Gary", 
+      "sponsored_at": "2000-06-09", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Oxley, Michael G.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "OH", 
+      "thomas_id": "00885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Packard, Ron", 
+      "sponsored_at": "2000-04-13", 
+      "state": "CA", 
+      "thomas_id": "00886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2000-04-13", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Pombo, Richard W.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "CA", 
+      "thomas_id": "00921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2000-04-13", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Reynolds, Thomas M.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "NY", 
+      "thomas_id": "01587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Riley, Bob", 
+      "sponsored_at": "2000-04-13", 
+      "state": "AL", 
+      "thomas_id": "01517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2000-04-13", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Skeen, Joe", 
+      "sponsored_at": "2000-04-13", 
+      "state": "NM", 
+      "thomas_id": "01063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "2000-06-09", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Smith, Nick", 
+      "sponsored_at": "2000-06-28", 
+      "state": "MI", 
+      "thomas_id": "01080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "2000-04-13", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2000-04-13", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "2000-04-13", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2000-04-13", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2000-04-13", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Tiahrt, Todd", 
+      "sponsored_at": "2000-06-09", 
+      "state": "KS", 
+      "thomas_id": "01158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Walden, Greg", 
+      "sponsored_at": "2000-04-13", 
+      "state": "OR", 
+      "thomas_id": "01596", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "2000-04-13", 
+      "state": "OK", 
+      "thomas_id": "01206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-06-16", 
+  "number": "2250", 
+  "official_title": "To establish and implement a competitive oil and gas leasing program that will result in an environmentally sound and job creating program for the exploration, development, and production of the oil and gas resources of Coastal Plain, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Arctic Coastal Plain Domestic Energy Security Act of 1999", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1999-06-16", 
+  "subjects": [
+    "Administrative procedure", 
+    "Alaska", 
+    "Animals", 
+    "Antitrust law", 
+    "Appellate courts", 
+    "Arctic and polar regions", 
+    "Caribou", 
+    "Commerce", 
+    "Competition", 
+    "Competitive bidding", 
+    "Contracts", 
+    "Department of the Interior", 
+    "District courts", 
+    "Drainage", 
+    "Easements", 
+    "Energy", 
+    "Environmental protection", 
+    "Fishery management", 
+    "Gas industry", 
+    "Gas pipelines", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Habitat conservation", 
+    "Judicial review of administrative acts", 
+    "Labor and employment", 
+    "Law", 
+    "Marine and coastal resources, fisheries", 
+    "Minorities", 
+    "Minority business enterprises", 
+    "Minority employment", 
+    "Native Americans", 
+    "Oil and gas leases", 
+    "Oil and gas royalties", 
+    "Oil fields", 
+    "Oil pollution control", 
+    "Oil well drilling", 
+    "Petroleum industry", 
+    "Petroleum pipelines", 
+    "Prospecting", 
+    "Public lands and natural resources", 
+    "Reclamation of land", 
+    "Right-of-way", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "Water resources development", 
+    "Wildlife conservation", 
+    "Wildlife refuges"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-06-16", 
+    "text": "Arctic Coastal Plain Domestic Energy Security Act of 1999 - Declares that: (1) it is the policy of the United States to permit exploration, development, production and transportation of oil and gas resources in a designated area of the Coastal Plain Study Area of the Arctic National Wildlife Refuge; (2) such exploration, development, production and transportation should proceed with dispatch; and (3) such activities should be conducted in a manner consistent with the protection of the Coastal Plain's fish and wildlife resources and environment and the needs of the area's subsistence users.(Sec. 4) Instructs the Secretary of the Interior to establish and implement a competitive oil and gas leasing program that will: (1) result in an environmentally sound program; (2) not result in significant adverse effects upon fish and wildlife; and (3) ensure the receipt of fair market value by the public for the mineral resources to be leased.Amends the Alaska National Interest Lands Conservation Act of 1980 to repeal the prohibition against production of oil and gas from the Arctic National Wildlife Refuge, and any leasing or development leading to such production.States that Congress determines that the Coastal Plain oil and gas leasing program and activities authorized by this Act are compatible with the purposes for which the Arctic National Wildlife Refuge was established, and that no further findings or decisions are required to implement this determination.States this Act is the sole authority for Coastal Plain leasing, and that such Plain is considered \"Federal land\" for purposes of the Federal Oil and Gas Royalty Management Act of 1982.Authorizes the Secretary to: (1) designate a maximum total of Coastal Plain acreage as \"Special Areas\" and close them to leasing if the Secretary determines that these Areas require special management and regulatory protection; (2) permit leasing in those Special Areas by setting lease terms that limit or condition surface use and occupancy by lessees but permit the use of horizontal drilling technology from sites on leases located outside the designated Special Areas. Declares that this Act constitutes the Secretary's sole authority to close Coastal Plain lands to oil and gas leasing and to exploration, development, and production.(Sec. 6) States that lands may be leased to any person qualified to obtain a lease for oil and gas deposits under the Mineral Leasing Act. Requires the Secretary to prescribe lease procedures.(Sec. 7) Authorizes the Secretary to grant to the highest responsible qualified bidder by sealed competitive cash bonus bid any Coastal Plain lands upon payment of such bonus and a royalty which shall not be less than a certain amount. Prescribes lease terms and conditions.(Sec. 10) Directs the Secretary to grant rights-of-way and easements across the Coastal Plain for oil and gas transportation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Arctic Coastal Plain Domestic Energy Security Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish and implement a competitive oil and gas leasing program that will result in an environmentally sound and job creating program for the exploration, development, and production of the oil and gas resources of Coastal Plain, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:44:02-05:00"
+}

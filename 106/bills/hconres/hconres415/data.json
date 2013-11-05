@@ -1,0 +1,182 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-10-02", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-12", 
+      "in_committee": "House Committee on Government Reform", 
+      "references": [], 
+      "subcommittee": "Civil Service", 
+      "text": "Referred to the Subcommittee on Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-10-17T15:17:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ose moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T15:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9989-9990", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T15:17:00-04:00", 
+      "bill_ids": [
+        "hcres415-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 415.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-17T15:31:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until Oct. 18.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-18T18:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10081-10082", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-18T18:42:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 10/17/2000 H9989", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "532", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 532).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-10-18T18:42:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-19", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres415-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Civil Service", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "McIntosh, David M.", 
+      "sponsored_at": "2000-10-12", 
+      "state": "IN", 
+      "thomas_id": "00776", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ose, Doug", 
+      "sponsored_at": "2000-10-02", 
+      "state": "CA", 
+      "thomas_id": "01585", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-10-18T18:42:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-10-02", 
+  "number": "415", 
+  "official_title": "Expressing the sense of the Congress that there should be established a National Children's Memorial Day.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Knollenberg, Joe", 
+    "state": "MI", 
+    "thomas_id": "00642", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-10-18T18:42:00-04:00", 
+  "subjects": [
+    "Commemorations", 
+    "Death", 
+    "Families", 
+    "Health", 
+    "Infant mortality", 
+    "Special days", 
+    "Youth"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2000-10-02", 
+    "text": "Expresses the sense of the Congress that a National Children's Memorial Day should be established."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the Congress that there should be established a National Children's Memorial Day.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:52-05:00"
+}

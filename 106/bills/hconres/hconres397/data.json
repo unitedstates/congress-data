@@ -1,0 +1,287 @@
+{
+  "actions": [
+    {
+      "acted_at": "2000-09-12", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-09-12", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "subcommittee": "Asia and the Pacific", 
+      "text": "Referred to the Subcommittee on Asia and the Pacific.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-09-12", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "subcommittee": "International Operations and Human Rights", 
+      "text": "Referred to the Subcommittee on International Operations and Human Rights.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2000-09-13", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Asia and the Pacific", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-09-13", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Asia and the Pacific", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-03", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2000-10-30T14:48:00-05:00", 
+      "references": [], 
+      "text": "Mr. Bereuter moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-30T14:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11576-11580", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-30T14:49:00-05:00", 
+      "bill_ids": [
+        "hcres397-106"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 397.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-10-30T15:15:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until Oct. 31.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01T12:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H11729", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01T12:41:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 10/30/2000 H11576-11577", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "589", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 362 - 3, 1 Present (Roll no. 589).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2000-11-01T12:41:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2000-11-01", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres397-106", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Asia and the Pacific", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on International Operations and Human Rights", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "2000-09-12", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Forbes, Michael P.", 
+      "sponsored_at": "2000-09-12", 
+      "state": "NY", 
+      "thomas_id": "00398", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2000-09-12", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2000-09-13", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2000-09-13", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2000-11-01T12:41:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2000-09-12", 
+  "number": "397", 
+  "official_title": "Voicing concern about serious violations of human rights and fundamental freedoms in most states of Central Asia, including substantial noncompliance with their Organization for Security and Cooperation in Europe (OSCE) commitments on democratization and the holding of free and fair elections.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2000-11-01T12:41:00-05:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Central Asia", 
+    "Civil rights and liberties, minority issues", 
+    "Civil-military relations", 
+    "Constitutions", 
+    "Crime and law enforcement", 
+    "Democracy", 
+    "Dissenters", 
+    "Due process of law", 
+    "Election candidates", 
+    "Foreign leaders", 
+    "Freedom of the press", 
+    "Government operations and politics", 
+    "Human rights", 
+    "Insurgency", 
+    "International affairs", 
+    "International broadcasting", 
+    "International law", 
+    "Kazakhstan", 
+    "Kyrgyzstan", 
+    "Law", 
+    "Legislative bodies", 
+    "Nongovernmental organizations", 
+    "Opposition (Political science)", 
+    "Political advertising", 
+    "Political parties", 
+    "Political persecution", 
+    "Radio broadcasting", 
+    "Science, technology, communications", 
+    "Sentences (Criminal procedure)", 
+    "Tajikistan", 
+    "Torture", 
+    "Turkmenistan", 
+    "Uzbekistan"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2000-11-01", 
+    "text": "Expresses concern about the tendency of Central Asian leaders to seek to remain in power indefinitely and their willingness to manipulate constitutions, elections, and legislative and judicial systems to do so.Urges the President, the Secretaries of State and Defense, and other U.S. officials to raise with such leaders the concern about serious violations of human rights, including noncompliance with Organization for Security and Cooperation in Europe (OSCE) commitments on democracy and the rule of law.Urges Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to: (1) come into compliance with OSCE commitments on human rights, democracy, and the rule of law, specifically the holding of free and fair elections that do not exclude genuine challengers; (2) permit independent and opposition parties and candidates to participate on an equal basis with representation in election commissions at all levels; and (3) allow domestic non-governmental and political party observers, as well as international observers.Calls on Central Asian leaders to: (1) establish conditions for independent and opposition media to function without constraint, limitation, or fear of harassment; (2) repeal criminal laws which impose prison sentences for alleged defamation of the state or public officials; and (3) provide access to state media on an equal basis during election campaigns to independent and opposition parties and candidates.Calls on Central Asian governments that have begun roundtable discussions with opposition and independent forces to engage in a serious and comprehensive national dialogue on institutionalizing measures to hold free and fair elections and urges those governments which have not launched such roundtables to do so.Calls on the leaders of Turkmenistan and Uzbekistan to: (1) condemn and take steps to cease the systematic use of torture and other inhuman treatment by authorities against political opponents and others; (2) permit the registration of independent and opposition parties and candidates; and (3) register independent human rights monitoring organizations.Urges the governments of Central Asia which are engaged in military campaigns against violent insurgents to: (1) observe international law regulating such actions; (2) keep civilians and other noncombatants from harm; and (3) not use such campaigns to justify further crackdowns on political opposition or violations of human rights commitments under the OSCE.Encourages the Administration to raise with the governments of other OSCE participating states the possible implications for OSCE participation of any participating state in the region that engages in clear, gross, and uncorrected violations of its OSCE commitments on human rights, democracy, and the rule of law.Urges the Voice of America and Radio Liberty to expand broadcasting to Central Asia, as needed, with a focus on assuring that the peoples of the region have access to unbiased news and programs that support respect for human rights and the establishment of democracy and the rule of law."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Voicing concern about serious violations of human rights and fundamental freedoms in most states of Central Asia, including substantial noncompliance with their Organization for Security and Cooperation in Europe (OSCE) commitments on democratization and the holding of free and fair elections.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:45:52-05:00"
+}

@@ -1,0 +1,278 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-08", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-06-16", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Forests and Forest Health", 
+      "text": "Referred to the Subcommittee on Forests and Forest Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-06-17", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Forests and Forest Health", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-30", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-30", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-06-30", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Subcommittee on Forests and Forest Health Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-26T17:06:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 106-261.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-07-26T17:06:00-04:00", 
+      "calendar": "Union", 
+      "number": "156", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 156.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-09-21T15:45:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sherwood moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-21T15:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8421-8422", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-21T15:46:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2079.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-21T15:53:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8421", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-09-21T15:53:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-22", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [
+        {
+          "reference": "CR S15158", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-11-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-11-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-11-30", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-12-07", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-12-07", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "138", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-138.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2079-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Forests and Forest Health", 
+      "subcommittee_id": "20"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "138"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-12-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-09-21T15:53:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-11-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-06-08", 
+  "number": "2079", 
+  "official_title": "To provide for the conveyance of certain National Forest System lands in the State of South Dakota.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s953-106", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Terry Peak Land Act of 1999", 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John R.", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-12-07", 
+  "subjects": [
+    "Land transfers", 
+    "National forests", 
+    "Public lands and natural resources", 
+    "Skiing", 
+    "South Dakota", 
+    "Sports and recreation", 
+    "Winter sports facilities"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-06-08", 
+    "text": "Terry Peak Land Transfer Act of 1999 - Directs the Secretary of Agriculture to convey certain Black Hills National Forest land in South Dakota to the Terry Peak Ski Area."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Terry Peak Land Transfer Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Terry Peak Land Act of 1999", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide for the conveyance of certain National Forest System lands in the State of South Dakota.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:57-05:00"
+}

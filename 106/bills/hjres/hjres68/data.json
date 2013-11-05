@@ -1,0 +1,252 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-09-27T21:49:00-04:00", 
+      "bill_ids": [
+        "hres305-106"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 305 Reported to House. Rule provides for consideration of H.J. Res. 68 with 1 hour of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-27", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-09-28T13:15:00-04:00", 
+      "bill_ids": [
+        "hres305-106"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 305 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28T13:16:00-04:00", 
+      "bill_ids": [
+        "hres305-106"
+      ], 
+      "references": [
+        {
+          "reference": " CR H8901-8908", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 305.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28T13:16:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 68 with 1 hour of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28T13:16:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 68.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28T13:44:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28T14:05:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR H8901-8902", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "453", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 421 - 2, 1 Present (Roll no. 453).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-09-28T14:05:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28", 
+      "references": [
+        {
+          "reference": " CR S11543-11553", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "296", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 98-1. Record Vote No: 296.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1999-09-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-28", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-09-28", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1999-09-30", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1999-09-30", 
+      "congress": "106", 
+      "law": "public", 
+      "number": "62", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 106-62.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres68-106", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "106", 
+    "law_type": "public", 
+    "number": "62"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1999-09-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-09-28T14:05:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1999-09-28", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-09-27", 
+  "number": "68", 
+  "official_title": "Making continuing appropriations for the fiscal year 2000, and for other purposes.", 
+  "popular_title": "Continuing Appropriation FY2000 (First)", 
+  "related_bills": [
+    {
+      "bill_id": "hres305-106", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Young, C.W. Bill", 
+    "state": "FL", 
+    "thomas_id": "01255", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1999-09-30", 
+  "subjects": [
+    "Administrative procedure", 
+    "Agricultural credit", 
+    "Agricultural subsidies", 
+    "Agriculture and food", 
+    "American investments", 
+    "Appropriations", 
+    "Armed forces and national security", 
+    "Census", 
+    "Commerce", 
+    "Computers and government", 
+    "Congress", 
+    "Continuing resolutions", 
+    "Defense procurement", 
+    "Developing countries", 
+    "Economics and public finance", 
+    "Emergency management", 
+    "Export credit", 
+    "Export finance", 
+    "Export-Import Bank of the United States", 
+    "Federally-guaranteed loans", 
+    "Finance and financial sector", 
+    "Flood insurance", 
+    "Foreign trade and international finance", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Government trust funds", 
+    "Investment guaranty insurance", 
+    "Law", 
+    "Overseas Private Investment Corporation", 
+    "Science, technology, communications", 
+    "Water resources development", 
+    "Year 2000 computer problem"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-09-27", 
+    "text": "Makes appropriations for FY 2000 for continuing projects or activities, including the costs of direct loans and loan guarantees, which were conducted in FY 1999 and for which appropriations, funds, or other authority would be available in: (1) the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2000; (2) the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000; (3) the Department of Defense Appropriations Act, 2000; (4) the District of Columbia Appropriations Act, 2000; (5) the Energy and Water Development Appropriations Act, 2000; (6) the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2000; (7) the Department of the Interior and Related Agencies Appropriations Act, 2000; (8) the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2000; (9) the Legislative Branch Appropriations Act, 2000; (10) the Department of Transportation and Related Agencies Appropriations Act, 2000; (11) the Treasury and General Government Appropriations Act, 2000; and (12) the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2000. Continues funding of projects or activities at the current rate of operations and sets forth limitations on such funding. (Sec. 106) Provides funding under this resolution until enactment into law of any covered appropriation or the applicable appropriations Act (without any provision for the covered appropriation) or October 21, 1999, whichever occurs first. (Sec. 115) Continues certain activities authorized by the National Flood Insurance Act of 1968 through the date for which funding is provided under this resolution. (Sec. 116) Sets the rate of operations for reimbursement of past losses for the Commodity Credit Corporation Fund at $11.5 billion. (Sec. 117) Continues specified authorities of the Overseas Private Investment Corporation through the period of this joint resolution. (Sec. 118) Authorizes the use of funds to initiate or resume projects or activities at a rate exceeding the current rate to achieve Year 2000 (Y2K) computer compliance and for implementation of business continuity and contingency plans. (Sec. 119) Makes a specified amount available for decennial census programs for the period covered by this joint resolution. (Sec. 122) Extends, until November 1, 1999, a certain provision of law that allows fewer than three members of the Board of Directors of the Export-Import Bank of the United States to constitute a quorum."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Continuing Appropriation FY2000 (First)", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making continuing appropriations for the fiscal year 2000, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:46:09-05:00"
+}

@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-02-02", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-02-25", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Commercial and Administrative Law", 
+      "text": "Referred to the Subcommittee on Commercial and Administrative Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-03-24", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-03-24", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-19", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-05-19", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-09-08T14:46:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 106-302.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-09-08T14:48:00-04:00", 
+      "calendar": "Union", 
+      "number": "180", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 180.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-10-18T14:55:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gekas moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-18T14:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10137-10138", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-18T14:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 462.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-18T15:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-10-18T15:01:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-10-19", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr462-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Commercial and Administrative Law", 
+      "subcommittee_id": "09"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "1999-02-02", 
+      "state": "FL", 
+      "thomas_id": "00761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "1999-02-02", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Romero-Barcelo, Carlos A.", 
+      "sponsored_at": "1999-02-02", 
+      "state": "PR", 
+      "thomas_id": "00980", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-10-18T15:01:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-02-02", 
+  "number": "462", 
+  "official_title": "To clarify that governmental pension plans of the possessions of the United States shall be treated in the same manner as State pension plans for purposes of the limitation on the State income taxation of pension income.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "17", 
+    "name": "Gekas, George W.", 
+    "state": "PA", 
+    "thomas_id": "00432", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1999-10-18T15:01:00-04:00", 
+  "subjects": [
+    "Annuities", 
+    "Civil service pensions", 
+    "Government operations and politics", 
+    "Income tax", 
+    "Intergovernmental tax relations", 
+    "Labor and employment", 
+    "Personal income tax", 
+    "Residence requirements", 
+    "State taxation", 
+    "Tax exemption", 
+    "Taxation", 
+    "Territories (U.S.)"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-02-02", 
+    "text": "Amends Federal law to require governmental pension plans of the U.S. possessions to be treated in the same manner as State pension plans for purposes of a specified limitation on the State income taxation of pension income."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To clarify that governmental pension plans of the possessions of the United States shall be treated in the same manner as State pension plans for purposes of the limitation on the State income taxation of pension income.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:03-05:00"
+}

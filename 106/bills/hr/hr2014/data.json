@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "1999-06-07", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1999-06-23", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-23", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 17 - 7.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1999-06-25T15:01:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 106-203.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-25T15:02:00-04:00", 
+      "calendar": "Union", 
+      "number": "117", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 117.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1999-06-29T15:31:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gekas moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-29T15:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5026-5030", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-29T15:31:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2014.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-29T16:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1999-06-29T16:01:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1999-06-30", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2014-106", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "106", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "1999-06-07", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Maloney, James H.", 
+      "sponsored_at": "1999-06-16", 
+      "state": "CT", 
+      "thomas_id": "01502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "1999-06-16", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "1999-06-16", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "1999-06-16", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "1999-06-07", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "1999-06-16", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1999-06-29T16:01:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1999-06-07", 
+  "number": "2014", 
+  "official_title": "To prohibit a State from imposing a discriminatory commuter tax on nonresidents.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Franks, Bob", 
+    "state": "NJ", 
+    "thomas_id": "00409", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1999-06-29T16:01:00-04:00", 
+  "subjects": [
+    "Commuter tax", 
+    "Government operations and politics", 
+    "Intergovernmental tax relations", 
+    "Interstate relations", 
+    "Local taxation", 
+    "State taxation", 
+    "Tax incidence", 
+    "Taxation", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1999-06-08", 
+    "text": "Prohibits a State from imposing a tax on the income earned in the State by nonresidents unless the tax is of substantial equality of treatment for the citizens of the State and the nonresidents so commuting."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To prohibit a State from imposing a discriminatory commuter tax on nonresidents.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:43:56-05:00"
+}
