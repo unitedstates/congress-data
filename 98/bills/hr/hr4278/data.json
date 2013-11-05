@@ -1,0 +1,206 @@
+{
+  "actions": [
+    {
+      "acted_at": "1983-11-02", 
+      "committee": "House Committee on Banking, Finance and Urban Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Banking, Finance and Urban Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-11-15", 
+      "references": [], 
+      "text": "House Committee on Banking, Finance and Urban Affairs Discharged by Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-11-15", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-11-15", 
+      "references": [], 
+      "text": "Considered by House Unfinished Business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-11-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "516", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House by Yea-Nay Vote: 350 - 72 (Record Vote No: 516).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1983-11-16", 
+      "committee": "Committee on Banking", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Banking.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-12-15", 
+      "in_committee": "House Committee on Banking, Finance and Urban Affairs", 
+      "references": [], 
+      "subcommittee": "Consumer Affairs and Coinage", 
+      "text": "Referred to Subcommittee on Consumer Affairs and Coinage.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-02-07", 
+      "in_committee": "Committee on Banking", 
+      "references": [], 
+      "text": "Subcommittee on Consumer Affairs. Hearings held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-02-27", 
+      "references": [], 
+      "text": "Senate Committee on Banking discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-02-27", 
+      "calendar": "Senate Legislative", 
+      "number": "682", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 682.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1984-02-28", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-02-28", 
+      "bill_ids": [
+        "s2336-98"
+      ], 
+      "references": [], 
+      "text": "Senate struck all after the Enacting Clause and substituted the language of S. 2336 amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-02-28", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4278-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Banking, Finance, and Urban Affairs", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Banking, Finance, and Urban Affairs", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Consumer Affairs and Coinage", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK", 
+      "subcommittee": "Subcommittee on Consumer Affairs", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1983-11-16", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1984-02-28", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1983-11-02", 
+  "number": "4278", 
+  "official_title": "A bill to provide for the temporary extension of the ban on credit card surcharges.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2335-98", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2336-98", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Annunzio, Frank", 
+    "state": "IL", 
+    "thomas_id": "00023", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "1984-02-28", 
+  "subjects": [
+    "Consumer credit", 
+    "Consumer protection", 
+    "Credit", 
+    "Credit cards", 
+    "Federal preemption", 
+    "Finance and financial sector", 
+    "Interest rates", 
+    "Price policy"
+  ], 
+  "subjects_top_term": "Credit cards", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1984-02-28", 
+    "text": "(Measure passed Senate, amended (inserted text of S. 2336 as passed Senate)) Amends the Truth in Lending Act to prohibit issuers of credit cards from prohibiting a seller from charging different prices to induce a cardholder to pay by cash, check, or other means not involving the use of a credit card. Exempts differences in price offered by a seller from disclosure as a finance charge if the following requirements are met: (1) the price difference does not exceed five percent of the cash price of the property or service; (2) the same difference is available to all cash customers or is applicable to all credit card customers using the same card; and (3) the price difference is clearly and conspicuously disclosed at the seller's place of business and in any advertisement that includes a price. States that if such requirements are not met the entire difference is a finance charge. Declares that a card issuer other than the seller is not required to treat a price difference offered by the seller as a finance charge even though such requirements are not met. Provides that price differences that meet such requirements will not be a charge for credit under State usury laws or any State laws relating to disclosure of information in connection with credit transactions. Permits any State, within three years of the effective date of this Act, to enact a prohibition of, or additional limitation upon, any transaction involving a difference in price which is otherwise subject to the provisions of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to provide for the temporary extension of the ban on credit card surcharges.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:11:29-05:00"
+}

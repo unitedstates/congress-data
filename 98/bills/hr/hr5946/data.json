@@ -1,0 +1,252 @@
+{
+  "actions": [
+    {
+      "acted_at": "1984-06-27", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-06-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-06-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1984-07-24", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 98-903.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-07-24", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 516.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-07-30", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-07-30", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1984-08-01", 
+      "committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-09-12", 
+      "in_committee": "Committee on Energy and Natural Resources", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1984-09-19", 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources. Reported to Senate by Senator McClure with an amendment in the nature of a substitute. With written report No. 98-625.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-09-19", 
+      "calendar": "Senate Legislative", 
+      "number": "1208", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 1208.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1984-10-03", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1984-10-03", 
+      "references": [], 
+      "text": "House Concurred, in Senate Amendments , with Amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-05", 
+      "references": [], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-05", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Senate concurred in the House amendment to the Senate amendment with an amendment (SP7078) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s7078-98", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "7078"
+    }
+  ], 
+  "bill_id": "hr5946-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "1984-07-24", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Ottinger, Richard L.", 
+      "sponsored_at": "1984-07-24", 
+      "state": "NY", 
+      "thomas_id": "00882", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1984-07-30", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1984-10-05", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1984-06-27", 
+  "number": "5946", 
+  "official_title": "A bill to reform the Residential Conservation Service and to repeal the Commercial and Apartment Conservation Service.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3966-98", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5467-98", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5628-98", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Conservation Service Reform Act of 1984", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hall, Ralph M.", 
+    "state": "TX", 
+    "thomas_id": "00484", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "1984-10-05", 
+  "subjects": [
+    "Business and commerce", 
+    "Energy", 
+    "Energy conservation", 
+    "Federal-state relations", 
+    "Fuel", 
+    "Government and business", 
+    "Heating", 
+    "Housing and Housing Finance", 
+    "Industrial energy conservation", 
+    "Public utilities", 
+    "Residential energy conservation"
+  ], 
+  "subjects_top_term": "Energy conservation", 
+  "summary": {
+    "as": "Senate agreed to House amendment with amendment", 
+    "date": "1984-10-05", 
+    "text": "(Senate agreed to House amendment to Senate amendment with an amendment) States that the Secretary of Energy may not approve, from the date of enactment of this Act through January 1, 1986, any State plan under the National Energy Conservation Policy Act relating to energy conservation for commercial buildings and multifamily dwellings, and no public utility may be required to offer an energy audit of an eligible customer's commercial building or multifamily dwelling, except pursuant to a plan approved by the Secretary prior to enactment of this Act. Amends the National Energy Conservation Policy Act to extend until January 1, 1986, the time period within which energy conservation information requirements imposed upon public utilities and home heating suppliers shall apply. (Currently, such requirements apply through January 1, 1985.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Conservation Service Reform Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Conservation Service Reform Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Conservation Service Reform Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to reform the Residential Conservation Service and to repeal the Commercial and Apartment Conservation Service.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:12:09-05:00"
+}

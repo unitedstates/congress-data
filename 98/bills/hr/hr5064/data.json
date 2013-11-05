@@ -1,0 +1,859 @@
+{
+  "actions": [
+    {
+      "acted_at": "1984-03-07", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-03-13", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Investigations", 
+      "text": "Referred to Subcommittee on Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-03-13", 
+      "in_committee": "House Committee on Armed Services", 
+      "in_subcommittee": "Investigations", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-03-21", 
+      "in_committee": "House Committee on Armed Services", 
+      "in_subcommittee": "Investigations", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-03-29", 
+      "in_committee": "House Committee on Armed Services", 
+      "in_subcommittee": "Investigations", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-03-29", 
+      "in_committee": "House Committee on Armed Services", 
+      "in_subcommittee": "Investigations", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-04-03", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-04-03", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1984-04-18", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Armed Services. Report No: 98-690.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-04-18", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 390.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5064-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Investigations", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": "44", 
+      "name": "Bates, Jim", 
+      "sponsored_at": "1984-04-03", 
+      "state": "CA", 
+      "thomas_id": "00065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Bennett, Charles E.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "FL", 
+      "thomas_id": "00077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "1984-04-12", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bethune, Ed", 
+      "sponsored_at": "1984-04-10", 
+      "state": "AR", 
+      "thomas_id": "00083", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Bevill, Tom", 
+      "sponsored_at": "1984-03-20", 
+      "state": "AL", 
+      "thomas_id": "00084", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boggs, Corinne C. (Lindy)", 
+      "sponsored_at": "1984-04-04", 
+      "state": "LA", 
+      "thomas_id": "00103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Britt, Robin", 
+      "sponsored_at": "1984-03-07", 
+      "state": "NC", 
+      "thomas_id": "00125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Byron, Beverly B.", 
+      "sponsored_at": "1984-03-27", 
+      "state": "MD", 
+      "thomas_id": "00162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Clarke, James McC.", 
+      "sponsored_at": "1984-04-10", 
+      "state": "NC", 
+      "thomas_id": "00200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Coleman, Ronald D.", 
+      "sponsored_at": "1984-04-03", 
+      "state": "TX", 
+      "thomas_id": "00217", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Coughlin, Lawrence", 
+      "sponsored_at": "1984-04-03", 
+      "state": "PA", 
+      "thomas_id": "00240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Daniel, W. C. (Dan)", 
+      "sponsored_at": "1984-03-07", 
+      "state": "VA", 
+      "thomas_id": "00261", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Dreier, David", 
+      "sponsored_at": "1984-04-10", 
+      "state": "CA", 
+      "thomas_id": "00317", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "1984-03-27", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Dyson, Roy", 
+      "sponsored_at": "1984-04-12", 
+      "state": "MD", 
+      "thomas_id": "00329", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Edgar, Robert W.", 
+      "sponsored_at": "1984-04-12", 
+      "state": "PA", 
+      "thomas_id": "00334", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Erdreich, Ben", 
+      "sponsored_at": "1984-04-03", 
+      "state": "AL", 
+      "thomas_id": "00350", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Evans, Cooper", 
+      "sponsored_at": "1984-03-27", 
+      "state": "IA", 
+      "thomas_id": "00358", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "1984-04-10", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fazio, Vic", 
+      "sponsored_at": "1984-04-04", 
+      "state": "CA", 
+      "thomas_id": "00374", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1984-04-04", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Glickman, Dan", 
+      "sponsored_at": "1984-04-04", 
+      "state": "KS", 
+      "thomas_id": "00443", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hatcher, Charles", 
+      "sponsored_at": "1984-03-27", 
+      "state": "GA", 
+      "thomas_id": "00514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hillis, Elwood H.", 
+      "sponsored_at": "1984-03-27", 
+      "state": "IN", 
+      "thomas_id": "00540", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hopkins, Larry J.", 
+      "sponsored_at": "1984-03-07", 
+      "state": "KY", 
+      "thomas_id": "00557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Horton, Frank J.", 
+      "sponsored_at": "1984-04-10", 
+      "state": "NY", 
+      "thomas_id": "00560", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1984-04-11", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "1984-03-27", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Kasich, John R.", 
+      "sponsored_at": "1984-03-07", 
+      "state": "OH", 
+      "thomas_id": "00618", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Kazen, Abraham, Jr.", 
+      "sponsored_at": "1984-03-07", 
+      "state": "TX", 
+      "thomas_id": "00621", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kolter, Joseph P.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "PA", 
+      "thomas_id": "00646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kramer, Ken", 
+      "sponsored_at": "1984-04-04", 
+      "state": "CO", 
+      "thomas_id": "00650", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lagomarsino, Robert J.", 
+      "sponsored_at": "1984-04-04", 
+      "state": "CA", 
+      "thomas_id": "00658", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "1984-04-03", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lloyd, Marilyn", 
+      "sponsored_at": "1984-03-27", 
+      "state": "TN", 
+      "thomas_id": "00698", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Long, Gillis W.", 
+      "sponsored_at": "1984-04-03", 
+      "state": "LA", 
+      "thomas_id": "00704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "MacKay, Buddy", 
+      "sponsored_at": "1984-04-12", 
+      "state": "FL", 
+      "thomas_id": "00722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Madigan, Edward R.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "IL", 
+      "thomas_id": "00724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Martin, David O'B.", 
+      "sponsored_at": "1984-03-07", 
+      "state": "NY", 
+      "thomas_id": "00739", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Mavroules, Nicholas", 
+      "sponsored_at": "1984-03-07", 
+      "state": "MA", 
+      "thomas_id": "00751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCloskey, Frank", 
+      "sponsored_at": "1984-04-03", 
+      "state": "IN", 
+      "thomas_id": "00758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "McEwen, Bob", 
+      "sponsored_at": "1984-03-20", 
+      "state": "OH", 
+      "thomas_id": "00768", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "McKernan, John R., Jr.", 
+      "sponsored_at": "1984-04-04", 
+      "state": "ME", 
+      "thomas_id": "00779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McNulty, James F., Jr.", 
+      "sponsored_at": "1984-04-04", 
+      "state": "AZ", 
+      "thomas_id": "00784", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "1984-04-12", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Montgomery, G. V. (Sonny)", 
+      "sponsored_at": "1984-04-04", 
+      "state": "MS", 
+      "thomas_id": "00827", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Moody, Jim", 
+      "sponsored_at": "1984-04-04", 
+      "state": "WI", 
+      "thomas_id": "00828", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Morrison, Bruce A.", 
+      "sponsored_at": "1984-04-12", 
+      "state": "CT", 
+      "thomas_id": "00835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "1984-03-27", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "1984-04-04", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Packard, Ron", 
+      "sponsored_at": "1984-04-04", 
+      "state": "CA", 
+      "thomas_id": "00886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ray, Richard B.", 
+      "sponsored_at": "1984-03-07", 
+      "state": "GA", 
+      "thomas_id": "00948", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Reid, Harry", 
+      "sponsored_at": "1984-03-20", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Roe, Robert A.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "NJ", 
+      "thomas_id": "00974", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Roth, Toby", 
+      "sponsored_at": "1984-03-27", 
+      "state": "WI", 
+      "thomas_id": "00989", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rowland, J. Roy", 
+      "sponsored_at": "1984-04-11", 
+      "state": "GA", 
+      "thomas_id": "00993", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sabo, Martin Olav", 
+      "sponsored_at": "1984-04-11", 
+      "state": "MN", 
+      "thomas_id": "01007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Shelby, Richard C.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "AL", 
+      "thomas_id": "01049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Sikorski, Gerry E.", 
+      "sponsored_at": "1984-04-04", 
+      "state": "MN", 
+      "thomas_id": "01057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Simon, Paul", 
+      "sponsored_at": "1984-04-04", 
+      "state": "IL", 
+      "thomas_id": "01059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "1984-04-04", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1984-04-03", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Smith, Robert", 
+      "sponsored_at": "1984-03-20", 
+      "state": "OR", 
+      "thomas_id": "01083", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "1984-04-03", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stokes, Louis", 
+      "sponsored_at": "1984-04-04", 
+      "state": "OH", 
+      "thomas_id": "01115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Stratton, Samuel S.", 
+      "sponsored_at": "1984-03-07", 
+      "state": "NY", 
+      "thomas_id": "01117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Studds, Gerry E.", 
+      "sponsored_at": "1984-03-20", 
+      "state": "MA", 
+      "thomas_id": "01121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "1984-03-07", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Torres, Estaban Edward", 
+      "sponsored_at": "1984-04-03", 
+      "state": "CA", 
+      "thomas_id": "01162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1984-04-04", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Weaver, James H.", 
+      "sponsored_at": "1984-03-27", 
+      "state": "OR", 
+      "thomas_id": "01210", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Weiss, Ted", 
+      "sponsored_at": "1984-04-11", 
+      "state": "NY", 
+      "thomas_id": "01213", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Whitehurst, G. William", 
+      "sponsored_at": "1984-04-10", 
+      "state": "VA", 
+      "thomas_id": "01221", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Won Pat, Antonio B.", 
+      "sponsored_at": "1984-04-04", 
+      "state": "GU", 
+      "thomas_id": "01241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Wortley, George C.", 
+      "sponsored_at": "1984-04-03", 
+      "state": "NY", 
+      "thomas_id": "01243", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1984-03-07", 
+  "number": "5064", 
+  "official_title": "A bill to amend title 10, United States Code, to provide for more cost effective and efficient purchases of spare parts by the Department of Defense, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Defense Spare Parts Procurement Reform Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Nichols, Bill", 
+    "state": "AL", 
+    "thomas_id": "00863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "1984-04-03", 
+  "subjects": [
+    "Competition", 
+    "Computer programming", 
+    "Computers", 
+    "Defense contracts", 
+    "Defense procurement", 
+    "Government contractors", 
+    "Government records, documents, and information", 
+    "Information services", 
+    "Public Contracts, Procurement, and Property", 
+    "Science and technology"
+  ], 
+  "subjects_top_term": "Defense procurement", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "1984-04-18", 
+    "text": "(Reported to House from the Committee on Armed Services with amendment, H. Rept. 98-690) Defense Spare Parts Procurement Reform Act - Directs the Secretary of Defense to establish procedures to recognize personnel efforts to increase competition and achieve cost savings in spare parts procurement. Requires each contractor furnishing supplies to a military department to mark each item with: (1) the contractor's name and stock number for the item; (2) the original manufacturer or producer if not the contractor; and (3) the source of technical data relating to a part delivered under the contract. Prohibits a contractor from entering into agreements with a subcontractor which restrict sales by the subcontractor directly to the United States. Directs a contracting officer to determine the availability of supplies first through the supply system of the Defense Department and then under Federal supply contracts through the General Services Administration. Requires such officer to review the procurement history and description of an item. Directs the Secretary to require a potential contractor to specify whether technical data would be provided and, if provided, whether it would be with unlimited or limited rights to the United States. Grants the United States unlimited rights to technical data or computer software required to be delivered under contract if such data or software was developed wholly or in part at Government expense, as an element of performance under the contract, consists of Government supplied or owned information or software, or is in the public domain. Requires a contractor furnishing such data or software to have a Department approved data management system in operation before the United States will accept delivery. Requires a contractor placing unauthorized restrictions on the release of data or software to satisfactorily substantiate such restrictions or the United States may ignore them and assess costs against the contractor for contesting the assertion. Limits the U.S. right to contest restrictions to a three year period. Requires a contractor to warrant the accuracy and conformance of all technical data delivered for a contract-specified period. Limits to seven years the U.S. right to use all technical data delivered per contract requirements. Directs the Secretary within five years to develop a system for the acquisition and management of technical data for supplies acquisition under the Department's jurisdiction. Requires the plan to address coordinating information among the defense agencies. Requires the head of such agency to designate within the agency a competition advocate for the agency, and one for each procuring activity. Sets forth the functions of such advocates, including maximizing competitive opportunities during acquisition and challenging existing, inhibiting practices. Grants such advocates direct access to agency personnel. Requires the Secretary to report to Congress by December 15 of each year on the management of the acquisition of supplies including the activities of the competition advocates. Requires that such reports break down information by the Department as a whole as well as for each of the military departments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Defense Spare Parts Procurement Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Defense Spare Parts Procurement Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend title 10, United States Code, to provide for more cost effective and efficient purchases of spare parts by the Department of Defense, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:11:48-05:00"
+}

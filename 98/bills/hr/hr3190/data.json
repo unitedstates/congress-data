@@ -1,0 +1,252 @@
+{
+  "actions": [
+    {
+      "acted_at": "1983-06-02", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-06-07", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "subcommittee": "Cotton, Rice, and Sugar", 
+      "text": "Referred to Subcommittee on Cotton, Rice, and Sugar.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-06-08", 
+      "in_committee": "House Committee on Agriculture", 
+      "in_subcommittee": "Cotton, Rice, and Sugar", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-08", 
+      "in_committee": "House Committee on Agriculture", 
+      "in_subcommittee": "Cotton, Rice, and Sugar", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-16", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-16", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1983-06-22", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Agriculture. Report No: 98-256.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-22", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 169.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-27", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-27", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1983-06-29", 
+      "committee": "Committee on Agriculture", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-08-04", 
+      "references": [], 
+      "text": "Senate Committee on Agriculture discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-08-04", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1983-08-04", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1983-08-17", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-08-22", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1983-08-26", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1983-08-26", 
+      "congress": "98", 
+      "law": "public", 
+      "number": "88", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 98-88.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3190-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Cotton, Rice, and Sugar", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Agriculture, Nutrition, and Forestry", 
+      "committee_id": "SSAF"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "98", 
+    "law_type": "public", 
+    "number": "88"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1983-08-26", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1983-06-27", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1983-08-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1983-06-02", 
+  "number": "3190", 
+  "official_title": "A bill to establish an improved program for extra long staple cotton.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1548-98", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s1548-98", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Extra Long Staple Cotton Act of 1983", 
+  "sponsor": {
+    "district": "15", 
+    "name": "de la Garza, E.", 
+    "state": "TX", 
+    "thomas_id": "00276", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1983-08-26", 
+  "subjects": [
+    "Agricultural credit", 
+    "Agricultural price supports", 
+    "Agriculture and Rural Affairs", 
+    "Cotton", 
+    "Farm production quotas", 
+    "Soil conservation", 
+    "Wildlife conservation"
+  ], 
+  "subjects_top_term": "Cotton", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1983-06-27", 
+    "text": "(Measure passed House, amended) Extra Long Staple Cotton Act of 1983 - Repeals specified extra long staple (ELS) cotton marketing quota and acreage allotment provisions of the Agricultural Adjustment Act of 1938 and the Agricultural Adjustment Act of 1949, effective with the 1984 crop. Amends the Agricultural Act of 1949 to set forth new ELS cotton program provisions. Establishes a ten-month loan period, with an optional eight-month extension, at minimum rates of 50 (presently 75) percent more than the upland cotton rate. Requires loan level announcements by November 1. Establishes a target price for ELS cotton at 120 percent of its loan rate. Sets forth target price factors. Authorizes advance deficiency payments to participating farmers if an acreage limitation program is in effect and the Secretary of Agriculture determines that such deficiency payments will likely be made. Limits such payments to not more than 50 percent of the projected payment rate. Requires the Secretary to: (1) establish a national program acreage for ELS cotton, to be announced by November 1; (2) set such acreage at a minimum of 60,000 acres; and (3) determine an allocation factor for each crop based on national acreage divided by estimated harvest acres. Bases individual farm acreages on such allocation factor multiplied by planted acres. Bases ELS cotton farm program payments on the past three year's actual yields per acre, adjusted if necessary for natural disasters. Directs the Secretary to use similar farm yields or historical yields if necessary data is unavailable. Authorizes an ELS cotton acreage limitation program based on a uniform percentage reduction. Makes farmers who knowingly overproduce ineligible for program benefits. Bases a farm's acreage for such reduction purposes on the previous three year's average planted acreage. Establishes an acreage base reserve for each of the 1984 through 1986 crops equal to five percent of the total farm acreage bases for such crops. Requires that part of such acreage be devoted to conservation uses. Authorizes ELS cotton land diversion payments (whether or not an acreage limitation is in effect). Requires such acreage to be devoted to approved conservation uses. Permits land diversion contracts to be determined by bid. Directs the Secretary to limit the total diverted acreage in any local area in order not to adversely affect the local economy. Permits reduced or diverted acreage to be used for approved wildlife habitats. States that the ELS cotton program shall be carried out through the Commodity Credit Corporation (CCC). Requires the Secretary to make recourse loans available to ELS cotton farmers for seed cotton. Authorizes the sale of CCC-owned cotton for unrestricted use at such price levels as the Secretary determines appropriate to maintain and expand domestic and export markets. Amends the Agriculture and Food Act of 1981 to add ELS cotton to the $50,000 payment limitation on payments that a person may receive for specified Agricultural Act of 1949 commodity programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Extra Long Staple Cotton Act of 1983", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Extra Long Staple Cotton Act of 1983", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Extra Long Staple Cotton Act of 1983", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to establish an improved program for extra long staple cotton.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:11:01-05:00"
+}

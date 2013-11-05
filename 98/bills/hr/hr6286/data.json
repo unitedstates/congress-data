@@ -1,0 +1,326 @@
+{
+  "actions": [
+    {
+      "acted_at": "1984-09-20", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-10-01", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-01", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1984-10-02", 
+      "committee": "Committee on Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-10-04", 
+      "references": [], 
+      "text": "Senate Committee on Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-04", 
+      "calendar": "Senate Legislative", 
+      "number": "1324", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 1324.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1984-10-11", 
+      "references": [], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-11", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1984-10-11", 
+      "references": [], 
+      "text": "House Agreed to Senate Amendments 001, 002, 003, 004, 005, 007, 008, 009.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-11", 
+      "references": [], 
+      "text": "House Concurred, in Senate Amendment 006 , with Amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-11", 
+      "references": [], 
+      "text": "Senate agreed to the House amendment to the Senate amendment by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-11", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1984-10-28", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-29", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1984-11-08", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1984-11-08", 
+      "congress": "98", 
+      "law": "public", 
+      "number": "622", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 98-622.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s7102-98", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "7102"
+    }
+  ], 
+  "bill_id": "hr6286-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "1984-09-20", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "DeWine, Mike", 
+      "sponsored_at": "1984-09-20", 
+      "state": "OH", 
+      "thomas_id": "00293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1984-09-20", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Glickman, Dan", 
+      "sponsored_at": "1984-09-20", 
+      "state": "KS", 
+      "thomas_id": "00443", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "1984-09-20", 
+      "state": "IL", 
+      "thomas_id": "00580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kindness, Thomas N.", 
+      "sponsored_at": "1984-09-20", 
+      "state": "OH", 
+      "thomas_id": "00633", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mazzoli, Romano L.", 
+      "sponsored_at": "1984-09-20", 
+      "state": "KY", 
+      "thomas_id": "00753", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Moorhead, Carlos J.", 
+      "sponsored_at": "1984-09-20", 
+      "state": "CA", 
+      "thomas_id": "00830", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sawyer, Harold S.", 
+      "sponsored_at": "1984-09-20", 
+      "state": "MI", 
+      "thomas_id": "01021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schroeder, Patricia", 
+      "sponsored_at": "1984-09-20", 
+      "state": "CO", 
+      "thomas_id": "01033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "98", 
+    "law_type": "public", 
+    "number": "622"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1984-11-08", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1984-10-01", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1984-10-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1984-09-20", 
+  "number": "6286", 
+  "official_title": "A bill to amend title 35, United States Code, to increase the effectiveness of the patent laws, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Patent Law Amendments of 1984", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Kastenmeier, Robert W.", 
+    "state": "WI", 
+    "thomas_id": "00620", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1984-11-08", 
+  "subjects": [
+    "Advisory bodies", 
+    "Department of Commerce", 
+    "Executive reorganization", 
+    "Exports", 
+    "Federal advisory bodies", 
+    "Fees", 
+    "Foreign Trade and Investments", 
+    "Foreign license agreements", 
+    "Imports", 
+    "Inventions", 
+    "Licenses", 
+    "Patent agreements", 
+    "Patent licenses", 
+    "Patents", 
+    "Patents, Trademarks, and Copyrights", 
+    "Research and development", 
+    "Science and technology", 
+    "Technological innovations"
+  ], 
+  "subjects_top_term": "Patents", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1984-10-11", 
+    "text": "(Measure passed Senate, amended) Patent Law Amendments Act of 1984 - Title I: Patent Improvement Provisions - Amends the patent laws to make it an infringement of patent to supply without authority in or from the United States the material components of a patented invention in such a manner as to actively induce their combination outside the United States if their combination in this country would constitute an infringement. Makes it an infringement to supply without authority in or from the United States any component of a patented invention especially adapted for use in that invention and not a staple of commerce suitable for noninfringing uses, knowing that such component will be combined outside the United States in a manner which would constitute infringement were it to occur inside the United States. Authorizes the Commissioner of Patents and Trademarks to publish a statutory invention registration containing the specifications and drawings of a regularly filed application for a patent without examination if the applicant waives the right to receive a patent on the invention within a prescribed period and pays established fees. Makes such registration effective upon publication. Endows such registration with all the attributes of a patent except the right to compensation for Government-ordered secrecy and for infringement. Amends the Lanham Act to permit the Commissioner to grant a concurrent trademark registration without dual preapplication (filing) use when the owner of the pending application consents to such a grant to the other applicant. Excludes from prior art (knowledge held by a person having ordinary skill in the art to which the subject matter of the patent applies) unpublished information developed by a person other than the applicant when the subject matter and invention claimed were owned by the same person or entity at the time the invention was made. (Subject matter deemed prior art is non-patentable.) States that when joint inventors jointly apply for a patent they need not have made a contribution to each claim contained in the application. Permits arbitration of issues arising when a patent application is made which would interfere with any pending or unexpired patent (patent interference). Title II: Patent and Trademark Office Procedures - Merges the Board of Appeals and the Board of Patent Interferences into the Board of Patent Appeals and Interferences. Title III: National Commission on Innovation and Productivity - Establishes a National Commission on Innovation and Productivity to review and study the level of innovation and productivity of employed inventors. Requires that the study include an analysis of methods available from domestic and foreign sources to stimulate individual and corporate innovation and productivity. Sets forth terms and conditions of Commission membership and operation. Authorizes the Commission and the Federal agencies to cooperate in the gathering of information. Directs the Commission to report to the President and Congress on an interim basis, with a final report due within two years after enactment of this Act. Terminates the Commission within a specified period after the final report is filed. Authorizes appropriations. Title IV: Miscellaneous Provisions - Permits the basic fee portion of an international fee to be paid within one month of filing (rather than upon filing as required under current law). States that the designation of the United States as the country in which patent is sought in an international patent filed under the patent cooperation treaty shall continue to have effect until the international application is withdrawn if a claim for the benefit of a prior filing date is made before such application is ultimately withdrawn. Renders permissible (rather than mandatory as under current law) the receipt from the International Bureau of all international applications and search reports for international applications designating the United States. Permits the Commissioner to fix a later time for the completion of certain requirements than the commencement of the national stage of an international application. States that failure to submit a copy of the application by commencement and lack of compliance with other specified requirements shall be regarded as abandonment of the application. Permits the Commissioner to receive a verification of the translation of an international application. (Under current law such receipt is mandatory.) Permits a surcharge to be levied as a condition for accepting the national fee or the oath or declaration if these requirements are not met by the commencement of the national stage. Eliminates the special fee and restoration of patent provisions for claims not searched in the international stage and later found not to comply with the requirement for unity of invention under the treaty. Prohibits the collection of fees for maintaining a plant patent in force. Sets the rate of compensation for members of the Trademark Trial and Appeal Board of the Patent and Trademark Office."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Patent Law Amendments Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Patent Law Amendments Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Patent Law Amendments Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Patent Law Amendments of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend title 35, United States Code, to increase the effectiveness of the patent laws, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:12:17-05:00"
+}

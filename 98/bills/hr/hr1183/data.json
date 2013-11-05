@@ -1,0 +1,470 @@
+{
+  "actions": [
+    {
+      "acted_at": "1983-02-02", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-06-16", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-16", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1983-06-21", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Ways and Means. Report No: 98-252.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-21", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 167.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-22", 
+      "references": [], 
+      "text": "Committee on Rules Granted a Modified Closed Rule Providing Two Hours of Debate; Partial Waiver of Points of Order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-22", 
+      "bill_ids": [
+        "hres242-98"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H.Res.242 Reported to House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-23", 
+      "references": [], 
+      "text": "Rule Passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-23", 
+      "references": [], 
+      "text": "Called up by House by Rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-23", 
+      "references": [], 
+      "text": "The Clerk Reported Committee Amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-23", 
+      "references": [], 
+      "text": "House Agreed to Amendments Adopted by the Committee of the Whole.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-23", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "218", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Yea-Nay Vote: 229 - 191 (Record Vote No: 218).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1983-06-27", 
+      "references": [], 
+      "text": "Received in the Senate, read twice and ordered to be held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-28", 
+      "references": [], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-29", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-06-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": "174", 
+      "status": "FAIL:SECOND:SENATE", 
+      "text": "Failed of passage in Senate by Yea-Nay Vote. 45-55. Record Vote No: 174.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h194-98", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "194"
+    }
+  ], 
+  "bill_id": "hr1183-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Alexander, Bill", 
+      "sponsored_at": "1983-02-02", 
+      "state": "AR", 
+      "thomas_id": "00010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "1983-06-14", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "1983-06-08", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dwyer, Bernard J.", 
+      "sponsored_at": "1983-06-08", 
+      "state": "NJ", 
+      "thomas_id": "00327", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Foley, Thomas S.", 
+      "sponsored_at": "1983-02-02", 
+      "state": "WA", 
+      "thomas_id": "00397", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Fowler, Wyche, Jr.", 
+      "sponsored_at": "1983-02-15", 
+      "state": "GA", 
+      "thomas_id": "00405", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1983-06-09", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Gephardt, Richard A.", 
+      "sponsored_at": "1983-02-02", 
+      "state": "MO", 
+      "thomas_id": "00433", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Glickman, Dan", 
+      "sponsored_at": "1983-06-14", 
+      "state": "KS", 
+      "thomas_id": "00443", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Jacobs, Andrew, Jr.", 
+      "sponsored_at": "1983-02-15", 
+      "state": "IN", 
+      "thomas_id": "00589", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "1983-06-14", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennelly, Barbara B.", 
+      "sponsored_at": "1983-02-15", 
+      "state": "CT", 
+      "thomas_id": "00628", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "LaFalce, John J.", 
+      "sponsored_at": "1983-06-08", 
+      "state": "NY", 
+      "thomas_id": "00657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1983-06-21", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "1983-02-15", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Moody, Jim", 
+      "sponsored_at": "1983-06-08", 
+      "state": "WI", 
+      "thomas_id": "00828", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "1983-02-15", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Ottinger, Richard L.", 
+      "sponsored_at": "1983-03-16", 
+      "state": "NY", 
+      "thomas_id": "00882", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Pease, Donald J.", 
+      "sponsored_at": "1983-02-08", 
+      "state": "OH", 
+      "thomas_id": "00904", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sabo, Martin Olav", 
+      "sponsored_at": "1983-06-08", 
+      "state": "MN", 
+      "thomas_id": "01007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Shannon, James M.", 
+      "sponsored_at": "1983-02-08", 
+      "state": "MA", 
+      "thomas_id": "01045", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Sikorski, Gerry E.", 
+      "sponsored_at": "1983-03-22", 
+      "state": "MN", 
+      "thomas_id": "01057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Simon, Paul", 
+      "sponsored_at": "1983-06-16", 
+      "state": "IL", 
+      "thomas_id": "01059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Torricelli, Robert G.", 
+      "sponsored_at": "1983-06-07", 
+      "state": "NJ", 
+      "thomas_id": "01163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Morris K.", 
+      "sponsored_at": "1983-06-06", 
+      "state": "AZ", 
+      "thomas_id": "01173", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1983-02-15", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Williams, Pat", 
+      "sponsored_at": "1983-02-15", 
+      "state": "MT", 
+      "thomas_id": "01231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wise, Robert E., Jr.", 
+      "sponsored_at": "1983-02-15", 
+      "state": "WV", 
+      "thomas_id": "01237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Wright, James C., Jr.", 
+      "sponsored_at": "1983-02-02", 
+      "state": "TX", 
+      "thomas_id": "01244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1983-06-23", 
+    "senate_passage_result": "fail", 
+    "senate_passage_result_at": "1983-06-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1983-02-02", 
+  "number": "1183", 
+  "official_title": "A bill to amend the Internal Revenue Code of 1954 to limit to $700 the maximum reduction in individual income tax resulting from the third year of the rate cuts enacted by the Economic Recovery Tax Act of 1981.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr857-98", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Tax Rate Equity Act of 1983", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Guarini, Frank J.", 
+    "state": "NJ", 
+    "thomas_id": "00472", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "FAIL:SECOND:SENATE", 
+  "status_at": "1983-06-29", 
+  "subjects": [
+    "Congressional budget", 
+    "Deficit financing", 
+    "Federal budgets", 
+    "Federal receipts and expenditures", 
+    "Income tax", 
+    "Personal income tax", 
+    "Tax rates"
+  ], 
+  "subjects_top_term": "Tax rates", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1983-06-23", 
+    "text": "(Measure passed House, Amended, roll call #218 (229-191)) Tax Rate Equity Act of 1983 - Expresses the sense of the Congress that the revenue gained from the cap on the third year of the individual tax rate cut be applied to a reduction in Federal deficits, and the Budget Committees apply the revenue gained from such cap to reduce deficit projections. Amends the Internal Revenue Code to limit to $700 the maximum reduction in individual income tax resulting from the third year of rate reductions enacted by the Economic Recovery Tax Act of 1981. Provides for a reduction in Federal expenditures in FY 1984 equal to the amount of revenue projected to be collected from the changes in the individual income tax made by this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Tax Rate Equity Act of 1983", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Tax Rate Equity Act of 1983", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Internal Revenue Code of 1954 to limit to $700 the maximum reduction in individual income tax resulting from the third year of the rate cuts enacted by the Economic Recovery Tax Act of 1981.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:10:10-05:00"
+}

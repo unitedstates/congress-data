@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "1983-02-01", 
+      "committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-02-23", 
+      "in_committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1983-02-23", 
+      "references": [], 
+      "text": "Committee on Indian Affairs. Reported to Senate by Senator Andrews without amendment. Without written report.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-02-23", 
+      "calendar": "Senate Legislative", 
+      "number": "21", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under Regular Orders. Calendar No. 21.", 
+      "type": "calendar", 
+      "under": "Regular Orders"
+    }, 
+    {
+      "acted_at": "1983-02-24", 
+      "references": [], 
+      "text": "S.UP.AMDT.3 ", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-02-24", 
+      "references": [], 
+      "text": "S.UP.AMDT.3 ", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-02-24", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-02-24", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1983-02-28", 
+      "committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "text": "Referred to House Committee on Interior and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1983-03-22", 
+      "references": [], 
+      "text": "House Committee on Interior and Insular Affairs Discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-03-22", 
+      "references": [], 
+      "text": "Called up by House by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-03-22", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "Passed House by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1983-03-22", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1983-03-23", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-03-24", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1983-04-05", 
+      "references": [], 
+      "status": "PROV_KILL:VETO", 
+      "text": "Vetoed by President.", 
+      "type": "vetoed"
+    }, 
+    {
+      "acted_at": "1983-04-05", 
+      "references": [], 
+      "text": "Veto message ordered temporarily laid aside.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "su3-98", 
+      "amendment_type": "su", 
+      "chamber": "s", 
+      "number": "3"
+    }
+  ], 
+  "bill_id": "s366-98", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Indian Affairs (Select)", 
+      "committee_id": "SLIA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Interior and Insular Affairs", 
+      "committee_id": "HSII"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Weicker, Lowell P., Jr.", 
+      "sponsored_at": "1983-02-01", 
+      "state": "CT", 
+      "thomas_id": "01453", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1983-03-22", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1983-02-24", 
+    "vetoed": true, 
+    "vetoed_at": "1983-04-05"
+  }, 
+  "introduced_at": "1983-02-01", 
+  "number": "366", 
+  "official_title": "A bill to settle certain claims of the Mashantucket Pequot Indians.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr982-98", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Mashantucket Pequot Indian Claims Settlement Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Dodd, Christopher J.", 
+    "state": "CT", 
+    "thomas_id": "00302", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:VETO", 
+  "status_at": "1983-04-05", 
+  "subjects": [
+    "Connecticut", 
+    "Courts and Civil Procedure", 
+    "Department of the Treasury", 
+    "District courts", 
+    "Federal-Indian relations", 
+    "Government trust funds", 
+    "Indian claims", 
+    "Indian lands", 
+    "Intergovernmental relations", 
+    "Jurisdiction", 
+    "Native Americans", 
+    "State government-Indian relations"
+  ], 
+  "subjects_top_term": "Indian claims", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1983-02-24", 
+    "text": "(Measure passed Senate, amended) Mashantucket Pequot Indian Claims Settlement Act - Establishes the Mashantucket Pequot Settlement Fund (the Fund) in the Treasury and directs the Secretary of the Interior (the Secretary) to act as trustee for the benefit of the Mashantucket Pequot Tribe (the Tribe). Directs the Secretary to spend, upon the Tribe's request, the principal and income accruing to the Fund. Specifies the amounts available to the Secretary for acquisition of private settlement lands. Directs the Tribe to submit economic development plans subject to the Secretary's approval, and establishes guidelines for the disbursement of trust funds under such plans. Establishes guidelines reducing the Government's trust responsibility to the Tribe as the Fund is disbursed. Specifies lands to be held by the United States as trustee. Provides formulae for land acquisition and condemnation proceedings by the Secretary. Deems transfers of specified private settlement lands as involuntary conversions for Internal Revenue Code purposes. Authorizes appropriations for the Fund for FY '84. Approves transfers of land or natural resources executed by the Tribe prior to the Act. Extinguishes Tribal or Indian claims to such lands based upon rights, interests, or aboriginal title. Directs the Secretary to publish notice in the Federal Register when the statutory appropriation has been deposited into the Fund. Declares the extinguishment provisions effective upon such appropriation. Declares the Tribe's reservation is Indian country, subject to State jurisdiction under specified Federal law. Sets limitations on actions regarding the constitutionality of the Act. Vests exclusive original jurisdiction over such actions in the U.S. District Court for the District of Connecticut. Permits removal from State courts to such District Court. Permits the Tribe to lease lands for any term of years to the Mashantucket Pequot Housing Authority or to its successor in interest. Extends Federal recognition to the Tribe. Makes the Tribe and its members eligible for all Federal services and benefits furnished to federally recognized Indians. Subjects the Tribe to generally applicable Federal laws."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Mashantucket Pequot Indian Claims Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "Mashantucket Pequot Indian Claims Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Mashantucket Pequot Indian Claims Settlement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to settle certain claims of the Mashantucket Pequot Indians.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:08:31-05:00"
+}

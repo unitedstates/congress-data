@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "1984-09-13", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-09-13", 
+      "bill_ids": [
+        "hr1627-98"
+      ], 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "For Previous Action See H.R.1627.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-09-18", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-09-18", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1984-09-25", 
+      "references": [], 
+      "text": "Reported to House by House Committee on The Judiciary.  Report No: 98-1073.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-09-25", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 606.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-01", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-01", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1984-10-02", 
+      "calendar": "Senate Legislative", 
+      "number": "1314", 
+      "references": [], 
+      "text": "Received in the Senate, read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1314.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1984-10-04", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1984-10-04", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1984-10-10", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-10-11", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1984-10-23", 
+      "pocket": "1", 
+      "references": [], 
+      "status": "VETOED:POCKET", 
+      "text": "Pocket Vetoed by President.", 
+      "type": "vetoed"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6248-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": "19", 
+      "name": "Feighan, Edward F.", 
+      "sponsored_at": "1984-09-13", 
+      "state": "OH", 
+      "thomas_id": "00375", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1984-09-13", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Morrison, Bruce A.", 
+      "sponsored_at": "1984-09-13", 
+      "state": "CT", 
+      "thomas_id": "00835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sawyer, Harold S.", 
+      "sponsored_at": "1984-09-13", 
+      "state": "MI", 
+      "thomas_id": "01021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sensenbrenner,  James, Jr.", 
+      "sponsored_at": "1984-09-13", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1984-09-13", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1984-10-01", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1984-10-04", 
+    "vetoed": true, 
+    "vetoed_at": "1984-10-23"
+  }, 
+  "introduced_at": "1984-09-13", 
+  "number": "6248", 
+  "official_title": "A bill to amend title VII of the Omnibus Crime Control and Safe Streets Act of 1968 to provide enhanced penalties for certain persons possessing firearms after three previous convictions for burglaries or robberies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1627-98", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Armed Career Criminal Act of 1984", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "VETOED:POCKET", 
+  "status_at": "1984-10-23", 
+  "subjects": [
+    "Burglary", 
+    "Crime prevention", 
+    "Criminal Procedure and Sentencing", 
+    "Criminal procedure", 
+    "Firearms", 
+    "Recidivists", 
+    "Robbery", 
+    "Sentences (Criminal procedure)"
+  ], 
+  "subjects_top_term": "Recidivists", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1984-09-13", 
+    "text": "Armed Career Criminal Act of 1984 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to establish a mandatory sentence of 15 years and a fine of not more than $25,000 for \"armed career criminals.\" Applies such penalties to any person with three prior convictions who commits or threatens to commit a robbery or burglary while in possession of a firearm."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Armed Career Criminal Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend title VII of the Omnibus Crime Control and Safe Streets Act of 1968 to provide enhanced penalties for certain persons possessing firearms after three previous convictions for burglaries or robberies, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:10:21-05:00"
+}

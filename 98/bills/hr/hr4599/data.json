@@ -1,0 +1,641 @@
+{
+  "actions": [
+    {
+      "acted_at": "1984-01-23", 
+      "committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Post Office and Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-02-06", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "subcommittee": "Compensation and Employee Benefits", 
+      "text": "Referred to Subcommittee on Compensation and Employee Benefits.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-02-07", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "text": "Executive Comment Requested from GAO, OPM, OMB.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-04-03", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "in_subcommittee": "Compensation and Employee Benefits", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-04-04", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "in_subcommittee": "Compensation and Employee Benefits", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-15", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "in_subcommittee": "Compensation and Employee Benefits", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-15", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "in_subcommittee": "Compensation and Employee Benefits", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended).", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4599-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO", 
+      "subcommittee": "Subcommittee on Compensation and Employee Benefits", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Barnes, Michael D.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MD", 
+      "thomas_id": "00055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bates, Jim", 
+      "sponsored_at": "1984-03-08", 
+      "state": "CA", 
+      "thomas_id": "00065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Boner, William H.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "TN", 
+      "thomas_id": "00106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Corrada, Baltasar", 
+      "sponsored_at": "1984-03-08", 
+      "state": "PR", 
+      "thomas_id": "00237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Crockett, George W., Jr.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MI", 
+      "thomas_id": "00252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "98", 
+      "name": "Daschle, Thomas A.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "SD", 
+      "thomas_id": "00267", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Robert W.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MI", 
+      "thomas_id": "00273", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Edwards, Don", 
+      "sponsored_at": "1984-03-08", 
+      "state": "CA", 
+      "thomas_id": "00336", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "1984-03-08", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fazio, Vic", 
+      "sponsored_at": "1984-03-08", 
+      "state": "CA", 
+      "thomas_id": "00374", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Feighan, Edward F.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "OH", 
+      "thomas_id": "00375", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ferraro, Geraldine A.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "NY", 
+      "thomas_id": "00377", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "TN", 
+      "thomas_id": "00400", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1984-03-08", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gray, William H., III", 
+      "sponsored_at": "1984-03-08", 
+      "state": "PA", 
+      "thomas_id": "00460", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Guarini, Frank J.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NJ", 
+      "thomas_id": "00472", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hayes, Charles A.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "IL", 
+      "thomas_id": "00516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "98", 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "1984-05-03", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kastenmeier, Robert W.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "WI", 
+      "thomas_id": "00620", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennelly, Barbara B.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "CT", 
+      "thomas_id": "00628", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kolter, Joseph P.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "PA", 
+      "thomas_id": "00646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Leland, Mickey", 
+      "sponsored_at": "1984-03-08", 
+      "state": "TX", 
+      "thomas_id": "00681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lowry, Mike", 
+      "sponsored_at": "1984-03-08", 
+      "state": "WA", 
+      "thomas_id": "00710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Mavroules, Nicholas", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MA", 
+      "thomas_id": "00751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Minish, Joseph G.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NJ", 
+      "thomas_id": "00814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Moody, Jim", 
+      "sponsored_at": "1984-03-08", 
+      "state": "WI", 
+      "thomas_id": "00828", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Morrison, Bruce A.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CT", 
+      "thomas_id": "00835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mrazek, Robert J.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NY", 
+      "thomas_id": "00840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Ottinger, Richard L.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NY", 
+      "thomas_id": "00882", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ratchford, William R.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "CT", 
+      "thomas_id": "00946", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Reid, Harry", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sabo, Martin Olav", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MN", 
+      "thomas_id": "01007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schroeder, Patricia", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CO", 
+      "thomas_id": "01033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Shannon, James M.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MA", 
+      "thomas_id": "01045", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snowe, Olympia J.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "ME", 
+      "thomas_id": "01085", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "1984-03-08", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stokes, Louis", 
+      "sponsored_at": "1984-03-08", 
+      "state": "OH", 
+      "thomas_id": "01115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Studds, Gerry E.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MA", 
+      "thomas_id": "01121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Torres, Estaban Edward", 
+      "sponsored_at": "1984-03-08", 
+      "state": "CA", 
+      "thomas_id": "01162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Weiss, Ted", 
+      "sponsored_at": "1984-03-08", 
+      "state": "NY", 
+      "thomas_id": "01213", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Wheat, Alan", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MO", 
+      "thomas_id": "01218", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Williams, Pat", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MT", 
+      "thomas_id": "01231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wirth, Timothy", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CO", 
+      "thomas_id": "01236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wolpe, Howard E.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "MI", 
+      "thomas_id": "01240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Won Pat, Antonio B.", 
+      "sponsored_at": "1984-03-08", 
+      "state": "GU", 
+      "thomas_id": "01241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1984-01-23", 
+  "number": "4599", 
+  "official_title": "A bill to promote pay equity and eliminate certain wage-setting practices within the Federal civil service system which discriminate on the basis of sex, race, or ethnicity and result in discriminatory wage differentials.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Federal Employees Pay Equity Act of 1984", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Oakar, Mary Rose", 
+    "state": "OH", 
+    "thomas_id": "00875", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1984-01-23", 
+  "subjects": [
+    "Civil Rights and Liberties", 
+    "Civil service compensation", 
+    "Civil service system", 
+    "Congress and Members of Congress", 
+    "Congressional oversight", 
+    "Discrimination in employment", 
+    "Equal pay for equal work", 
+    "Federal employees", 
+    "Federal employees and officials", 
+    "Labor and employment", 
+    "Sex discrimination", 
+    "Sex discrimination against women", 
+    "Wages", 
+    "Women in the civil service", 
+    "Women's employment", 
+    "Women's rights"
+  ], 
+  "subjects_top_term": "Equal pay for equal work", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1984-01-23", 
+    "text": "Federal Employee's Pay Equity Act of 1984 - Directs the Office of Personnel Management (OPM) to study and report to the President and Congress on: (1) any Government practices of setting lower wage rates within the position classification system for jobs held predominantly by women than for jobs with comparable requirements held predominantly by men; (2) the discriminatory wage differentials resulting from such practices; and (3) appropriate measures for eliminating such practices and differentials, including the use of equitable job-evaluation techniques, along with a timetable for implementing such measures within two years. Requires such measures to be instituted according to such timetable. Requires OPM, beginning in 1986, to submit to the President and Congress an annual report on actions taken during the previous year and actions planned for the current year to carry out this Act. Directs each Federal agency responsible for submitting an equal employment opportunity plan under the Civil Rights Act of 1964 to include in each plan or update a review and identification of any discriminatory wage-setting practices and wage differentials with respect to its labor force and a plan to eliminate any such practices and differentials. Requires any agency which does not submit a plan or update within one year to amend its existing plan to include such information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Federal Employees Pay Equity Act of 1984", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to promote pay equity and eliminate certain wage-setting practices within the Federal civil service system which discriminate on the basis of sex, race, or ethnicity and result in discriminatory wage differentials.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:11:36-05:00"
+}

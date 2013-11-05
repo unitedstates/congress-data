@@ -1,0 +1,473 @@
+{
+  "actions": [
+    {
+      "acted_at": "1984-04-25", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1984-05-03", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-03", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1984-05-03", 
+      "references": [], 
+      "text": "House Committee on Armed Services Discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-03", 
+      "references": [], 
+      "text": "Called up by House by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-03", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1984-05-09", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-10", 
+      "references": [], 
+      "text": "Held at the desk by unanimous consent. Pending further disposition.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-16", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1984-05-16", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1984-05-21", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1984-05-22", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1984-05-25", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1984-05-25", 
+      "congress": "98", 
+      "law": "public", 
+      "number": "301", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 98-301.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5515-98", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "discharged"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "98", 
+  "cosponsors": [
+    {
+      "district": "40", 
+      "name": "Badham, Robert E.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CA", 
+      "thomas_id": "00039", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Bennett, Charles E.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "FL", 
+      "thomas_id": "00077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Britt, Robin", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NC", 
+      "thomas_id": "00125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Coleman, Ronald D.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "TX", 
+      "thomas_id": "00217", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Courter, Jim", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NJ", 
+      "thomas_id": "00241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Daniel, W. C. (Dan)", 
+      "sponsored_at": "1984-05-03", 
+      "state": "VA", 
+      "thomas_id": "00261", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Darden, George (Buddy)", 
+      "sponsored_at": "1984-05-03", 
+      "state": "GA", 
+      "thomas_id": "00266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Robert W.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MI", 
+      "thomas_id": "00273", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dellums, Ronald V.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CA", 
+      "thomas_id": "00284", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Dickinson, William L.", 
+      "sponsored_at": "1984-04-25", 
+      "state": "AL", 
+      "thomas_id": "00296", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Dyson, Roy", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MD", 
+      "thomas_id": "00329", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hertel, Dennis M.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MI", 
+      "thomas_id": "00534", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hillis, Elwood H.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "IN", 
+      "thomas_id": "00540", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Holt, Marjorie S.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MD", 
+      "thomas_id": "00555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hutto, Earl", 
+      "sponsored_at": "1984-05-03", 
+      "state": "FL", 
+      "thomas_id": "00579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Kasich, John R.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "OH", 
+      "thomas_id": "00618", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kramer, Ken", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CO", 
+      "thomas_id": "00650", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lloyd, Marilyn", 
+      "sponsored_at": "1984-05-03", 
+      "state": "TN", 
+      "thomas_id": "00698", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Martin, David O'B.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NY", 
+      "thomas_id": "00739", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Mavroules, Nicholas", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MA", 
+      "thomas_id": "00751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCloskey, Frank", 
+      "sponsored_at": "1984-05-03", 
+      "state": "IN", 
+      "thomas_id": "00758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Montgomery, G. V. (Sonny)", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MS", 
+      "thomas_id": "00827", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Nichols, Bill", 
+      "sponsored_at": "1984-05-03", 
+      "state": "AL", 
+      "thomas_id": "00863", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ray, Richard B.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "GA", 
+      "thomas_id": "00948", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schroeder, Patricia", 
+      "sponsored_at": "1984-05-03", 
+      "state": "CO", 
+      "thomas_id": "01033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Sisisky, Norman", 
+      "sponsored_at": "1984-05-03", 
+      "state": "VA", 
+      "thomas_id": "01060", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "1984-05-03", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Spence, Floyd", 
+      "sponsored_at": "1984-05-03", 
+      "state": "SC", 
+      "thomas_id": "01091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Stratton, Samuel S.", 
+      "sponsored_at": "1984-05-03", 
+      "state": "NY", 
+      "thomas_id": "01117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "1984-05-03", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "98", 
+    "law_type": "public", 
+    "number": "301"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1984-05-25", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1984-05-03", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1984-05-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1984-04-25", 
+  "number": "5515", 
+  "official_title": "A bill to authorize the President to award the Medal of Honor to the unknown American who lost his life while serving in the Armed Forces of the United States in Southeast Asia during the Vietnam era and who has been selected to be buried in the Memorial Amphitheater at Arlington National Cemetery.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Price, Melvin", 
+    "state": "IL", 
+    "thomas_id": "00929", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1984-05-25", 
+  "subjects": [
+    "Cemeteries and funerals", 
+    "Commemorations", 
+    "Military medals, decorations, etc.", 
+    "Vietnamese Conflict"
+  ], 
+  "subjects_top_term": "Military medals, decorations, etc.", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1984-04-25", 
+    "text": "Authorizes the President to award the Medal of Honor to the unknown soldier of the Vietnam era buried in Arlington National Cemetery."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to authorize the President to award the Medal of Honor to the unknown American who lost his life while serving in the Armed Forces of the United States in Southeast Asia during the Vietnam era and who has been selected to be buried in the Memorial Amphitheater at Arlington National Cemetery.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:11:59-05:00"
+}
