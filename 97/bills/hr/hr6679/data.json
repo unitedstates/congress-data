@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "1982-06-23", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1982-07-06", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "subcommittee": "Department Operations, Research, and Foreign Agriculture", 
+      "text": "Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1982-09-21", 
+      "in_committee": "House Committee on Agriculture", 
+      "in_subcommittee": "Department Operations, Research, and Foreign Agriculture", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-09-21", 
+      "in_committee": "House Committee on Agriculture", 
+      "in_subcommittee": "Department Operations, Research, and Foreign Agriculture", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-09-23", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-09-23", 
+      "in_committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1982-09-26", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Agriculture. Report No: 97-875.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-09-26", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 547.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-09-28", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-09-28", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1982-09-28", 
+      "committee": "Committee on Agriculture", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1982-12-20", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1982-12-21", 
+      "references": [], 
+      "text": "Senate Committee on Agriculture discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-12-21", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1983-01-03", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-01-03", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1983-01-12", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1983-01-12", 
+      "congress": "97", 
+      "law": "public", 
+      "number": "461", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 97-461.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6679-97", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Department Operations, Research, and Foreign Agriculture", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Agriculture, Nutrition, and Forestry", 
+      "committee_id": "SSAF"
+    }
+  ], 
+  "congress": "97", 
+  "cosponsors": [
+    {
+      "district": "36", 
+      "name": "Brown, George E., Jr.", 
+      "sponsored_at": "1982-06-23", 
+      "state": "CA", 
+      "thomas_id": "00134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "97", 
+    "law_type": "public", 
+    "number": "461"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1983-01-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1982-09-28", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1982-12-21", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1982-06-23", 
+  "number": "6679", 
+  "official_title": "An act to authorize the Secretary of Agriculture to assess civil penalties with respect to violations of certain Acts relating to the prevention of the introduction and dissemination into the United States of plant pests, plant diseases, and livestock and poultry diseases, to increase the amount of criminal fines which may be imposed with respect to violations of such Acts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2427-97", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s2427-97", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Wampler, William C.", 
+    "state": "VA", 
+    "thomas_id": "01200", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1983-01-12", 
+  "subjects": [
+    "Administrative procedure", 
+    "Agriculture and Rural Affairs", 
+    "Animals and Animal Protection", 
+    "Criminal Procedure and Sentencing", 
+    "Department of Agriculture", 
+    "Fines (Penalties)", 
+    "Forfeiture", 
+    "Livestock", 
+    "Pest control", 
+    "Plant quarantine", 
+    "Veterinary medicine"
+  ], 
+  "subjects_top_term": "Veterinary medicine", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1982-09-28", 
+    "text": "(Measure passed House, amended) Amends the Federal Plant Pest Act, the Plant Quarantine Act, the Cattle Contagious Disease Act, and other Federal plant and animal quarantine laws, to increase maximum criminal fines from $500 (or $1,000, for certain violations) to $5,000, and provide civil penalties of up to $1,000 for violations of such Acts. Reduces the maximum imprisonment penalty under the Act of August 30, 1890 (imported animals) from three years to one year. Requires a violation to be \"knowing\" before it can be criminally liable under the Plant Quarantine Act, the Federal Plant Pest Act, and other related Acts. Eliminates specified conveyance forfeiture provisions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to authorize civil penalties for violations of various laws for preventing the introduction and dissemination of livestock and poultry diseases, plant diseases, and plant pests.", 
+      "type": "official"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "An act to authorize the Secretary of Agriculture to assess civil penalties with respect to violations of certain Acts relating to the prevention of the introduction and dissemination into the United States of plant pests, plant diseases, and livestock and poultry diseases, to increase the amount of criminal fines which may be imposed with respect to violations of such Acts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T18:50:10-05:00"
+}

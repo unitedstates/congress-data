@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "1981-07-31", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1981-08-04", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "subcommittee": "Monopolies and Commercial Law", 
+      "text": "Referred to Subcommittee on Monopolies and Commercial Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1981-11-20", 
+      "in_committee": "House Committee on The Judiciary", 
+      "in_subcommittee": "Monopolies and Commercial Law", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1981-11-20", 
+      "in_committee": "House Committee on The Judiciary", 
+      "in_subcommittee": "Monopolies and Commercial Law", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1981-12-08", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1981-12-08", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1981-12-15", 
+      "references": [], 
+      "text": "Reported to House by House Committee on The Judiciary.  Report No: 97-414.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1981-12-15", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 250.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1981-12-16", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1981-12-16", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1981-12-16", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1981-12-16", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1981-12-18", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1981-12-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1981-12-30", 
+      "pocket": "1", 
+      "references": [], 
+      "status": "VETOED:POCKET", 
+      "text": "Pocket Vetoed by President.", 
+      "type": "vetoed"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4353-97", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Monopolies and Commercial Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "97", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Butler, M. Caldwell", 
+      "sponsored_at": "1981-07-31", 
+      "state": "VA", 
+      "thomas_id": "00159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Danielson, George E.", 
+      "sponsored_at": "1981-10-14", 
+      "state": "CA", 
+      "thomas_id": "00263", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1981-10-14", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Lungren, Daniel E.", 
+      "sponsored_at": "1981-10-14", 
+      "state": "CA", 
+      "thomas_id": "00717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1981-12-16", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1981-12-16", 
+    "vetoed": true, 
+    "vetoed_at": "1981-12-30"
+  }, 
+  "introduced_at": "1981-07-31", 
+  "number": "4353", 
+  "official_title": "A bill to amend the Act entitled \"An Act to establish a uniform Law on the Subject of Bankruptcies,\" approved November 6, 1978.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Evans, Billy Lee", 
+    "state": "GA", 
+    "thomas_id": "00357", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "VETOED:POCKET", 
+  "status_at": "1981-12-30", 
+  "subjects": [
+    "Bankruptcy"
+  ], 
+  "subjects_top_term": "Bankruptcy", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1981-07-31", 
+    "text": "Amends the Federal bankruptcy law to apply a $100,000 ceiling to fees from the referees' fund for any reorganization case confirmed before September 30, 1979, where such fees were not determined until after that date."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Act entitled \"An Act to establish a uniform Law on the Subject of Bankruptcies,\" approved November 6, 1978.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T18:49:17-05:00"
+}

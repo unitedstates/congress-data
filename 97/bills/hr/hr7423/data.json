@@ -1,0 +1,175 @@
+{
+  "actions": [
+    {
+      "acted_at": "1982-12-15", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1982-12-16", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "subcommittee": "Administrative Law and Governmental Relations", 
+      "text": "Referred to Subcommittee on Administrative Law and Governmental Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1982-12-17", 
+      "references": [], 
+      "text": "House Committee on The Judiciary Discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-12-17", 
+      "references": [], 
+      "text": "Called up by House by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-12-17", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1982-12-18", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1982-12-19", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1982-12-19", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1983-01-03", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1983-01-03", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1983-01-08", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1983-01-08", 
+      "congress": "97", 
+      "law": "public", 
+      "number": "427", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 97-427.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7423-97", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Administrative Law and Governmental Relations", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "97", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "97", 
+    "law_type": "public", 
+    "number": "427"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1983-01-08", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1982-12-17", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1982-12-19", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1982-12-15", 
+  "number": "7423", 
+  "official_title": "A bill to recognize the organization known as Former Members of Congress.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4755-97", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hall, Sam B., Jr.", 
+    "state": "TX", 
+    "thomas_id": "00485", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1983-01-08", 
+  "subjects": [
+    "Congress and Congressmen", 
+    "Corporations and Stocks", 
+    "Federal incorporation", 
+    "Members of Congress"
+  ], 
+  "subjects_top_term": "Federal incorporation", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1982-12-17", 
+    "text": "(Measure passed House) Grants a Federal charter to the organization known as the Former Members of Congress."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to recognize the organization known as Former Members of Congress.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T18:50:25-05:00"
+}
