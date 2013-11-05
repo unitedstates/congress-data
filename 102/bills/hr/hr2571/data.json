@@ -1,0 +1,568 @@
+{
+  "actions": [
+    {
+      "acted_at": "1991-06-06", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1991-06-11", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Human Resources", 
+      "text": "Referred to the Subcommittee on Human Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1991-06-11", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Human Resources", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-06-12", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Human Resources", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-09-24", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Human Resources", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-09-24", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Human Resources", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-11-21", 
+      "bill_ids": [
+        "hr3603-102"
+      ], 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "See H.R.3603.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-10-05", 
+      "bill_ids": [
+        "hr11-102"
+      ], 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "See H.R.11.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2571-102", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Human Resources", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "102", 
+  "cosponsors": [
+    {
+      "district": "25", 
+      "name": "Andrews, Michael", 
+      "sponsored_at": "1991-06-06", 
+      "state": "TX", 
+      "thomas_id": "00020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "1991-09-11", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "1991-11-26", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "1991-11-26", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Coyne, William J.", 
+      "sponsored_at": "1991-11-26", 
+      "state": "PA", 
+      "thomas_id": "00245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Robert W.", 
+      "sponsored_at": "1991-10-22", 
+      "state": "MI", 
+      "thomas_id": "00273", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dicks, Norman D.", 
+      "sponsored_at": "1991-10-11", 
+      "state": "WA", 
+      "thomas_id": "00297", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dwyer, Bernard J.", 
+      "sponsored_at": "1991-10-11", 
+      "state": "NJ", 
+      "thomas_id": "00327", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Espy, Mike", 
+      "sponsored_at": "1991-10-11", 
+      "state": "MS", 
+      "thomas_id": "00356", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Feighan, Edward F.", 
+      "sponsored_at": "1991-11-26", 
+      "state": "OH", 
+      "thomas_id": "00375", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1991-09-11", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E.", 
+      "sponsored_at": "1991-06-06", 
+      "state": "TN", 
+      "thomas_id": "00400", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fuster, Jamie B.", 
+      "sponsored_at": "1991-09-11", 
+      "state": "PR", 
+      "thomas_id": "00424", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hayes, Charles A.", 
+      "sponsored_at": "1991-10-22", 
+      "state": "IL", 
+      "thomas_id": "00516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Jacobs, Andrew, Jr.", 
+      "sponsored_at": "1992-02-19", 
+      "state": "IN", 
+      "thomas_id": "00589", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "1991-09-11", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Jones, Walter B.", 
+      "sponsored_at": "1991-08-01", 
+      "state": "NC", 
+      "thomas_id": "00611", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Jontz, Jim", 
+      "sponsored_at": "1991-10-11", 
+      "state": "IN", 
+      "thomas_id": "00613", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennelly, Barbara B.", 
+      "sponsored_at": "1991-06-06", 
+      "state": "CT", 
+      "thomas_id": "00628", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "1991-06-06", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "1991-08-01", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lloyd, Marilyn", 
+      "sponsored_at": "1991-10-11", 
+      "state": "TN", 
+      "thomas_id": "00698", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1991-11-26", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "1991-06-06", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "1991-06-06", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "McHugh, Matthew F.", 
+      "sponsored_at": "1991-08-01", 
+      "state": "NY", 
+      "thomas_id": "00774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "1991-06-06", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "1991-09-11", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Moody, Jim", 
+      "sponsored_at": "1991-06-06", 
+      "state": "WI", 
+      "thomas_id": "00828", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Orton, Bill", 
+      "sponsored_at": "1991-09-11", 
+      "state": "UT", 
+      "thomas_id": "00881", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "1991-10-22", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Owens, Wayne", 
+      "sponsored_at": "1991-11-26", 
+      "state": "UT", 
+      "thomas_id": "00884", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "1991-09-11", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Reed, Jack", 
+      "sponsored_at": "1991-10-11", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sabo, Martin Olav", 
+      "sponsored_at": "1991-11-26", 
+      "state": "MN", 
+      "thomas_id": "01007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Sarpalius, Bill", 
+      "sponsored_at": "1991-11-26", 
+      "state": "TX", 
+      "thomas_id": "01018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stokes, Louis", 
+      "sponsored_at": "1991-10-11", 
+      "state": "OH", 
+      "thomas_id": "01115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1991-08-01", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "1991-10-11", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Walsh, James T.", 
+      "sponsored_at": "1991-11-26", 
+      "state": "NY", 
+      "thomas_id": "01197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Washington, Craig A.", 
+      "sponsored_at": "1992-02-19", 
+      "state": "TX", 
+      "thomas_id": "01203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1991-06-06", 
+  "number": "2571", 
+  "official_title": "To promote family preservation and the prevention of foster care with emphasis on families where abuse of alcohol or drugs is present, and to improve the quality and delivery of child welfare, foster care, and adoption services.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr11-102", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr3603-102", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Family Preservation Act of 1991", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Downey, Thomas J.", 
+    "state": "NY", 
+    "thomas_id": "00314", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1991-06-06", 
+  "subjects": [
+    "Abandonment of family", 
+    "Administration of justice", 
+    "Administration of juvenile justice", 
+    "Adoption", 
+    "Aid to dependent children", 
+    "Arizona", 
+    "Authorization", 
+    "Block grants", 
+    "California", 
+    "Child abuse", 
+    "Child health", 
+    "Child welfare", 
+    "Community health services", 
+    "Data banks", 
+    "Directories", 
+    "Disabled", 
+    "Drug abuse", 
+    "Drugs and women", 
+    "Employee training", 
+    "Families", 
+    "Federal advisory bodies", 
+    "Federal aid to child welfare", 
+    "Foster home care", 
+    "Government paperwork", 
+    "Grants-in-aid", 
+    "Guardian and ward", 
+    "Health", 
+    "Homeless", 
+    "Income", 
+    "Income tax", 
+    "Infants", 
+    "Information services", 
+    "Information storage and retrieval systems", 
+    "Mental health services", 
+    "New Mexico", 
+    "Parent and child", 
+    "Pregnant women", 
+    "Public assistance programs", 
+    "Respite care", 
+    "Social security eligibility", 
+    "Social welfare", 
+    "Social workers", 
+    "State courts", 
+    "Tax credits", 
+    "Texas", 
+    "Treatment and rehabilitation of alcoholics", 
+    "Treatment and rehabilitation of narcotic addicts"
+  ], 
+  "subjects_top_term": "Families", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1991-06-06", 
+    "text": "Family Preservation Act of 1991 - Title I: Child Welfare Services - Amends part B (Child Welfare Services) of title IV of the Social Security Act to convert the Child Welfare program from an authorization to a capped entitlement program. Requires maintenance of State effort under such program. Sets forth a new formula for allotments to States under such program. Repeals provisions for incentive payments to States which maintain a foster care inventory, information system, and case review system, but requires States to provide such protections and other services designed to keep families together or reunify them, or to place children for adoption, with a legal guardian, or in some other planned, permanent living arrangement. Requires States to submit the following types of reports on child welfare services and expenditures: (1) pre-expenditure reports; (2) post-expenditure reports; and (3) comparative financial contributions reports. Reserves funds for entitlement grants to States to plan for and provide child welfare services designed to strengthen and preserve families. Requires use of part of such funds to develop or expand specialized child welfare services programs, for families in crisis due to substance abuse, that: (1) emphasize comprehensive services geared to the whole family; and (2) support or expand availability of programs for pregnant women and programs that allow mothers (and other caretaker relatives) to reside with their children while receiving services or treatment. Requires uses of the remaining part of such funds to develop or expand: (1) service programs to help children, where appropriate, return to families from which they have been removed, or be placed for adoption, with a legal guardian, or in some other planned, permanent living arrangement; (2) preplacement preventive services programs to help children at risk of foster care placement remain with their families; or (3) service programs for follow-up care for families to whom a child has been returned after a foster care placement. Reserves funds for grants to State court systems to assess and improve procedures in child welfare cases, in carrying out the Child Welfare Services program and part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act. Sets forth application requirements and formulas for determining the amount of such grants for FY 1993 through 1997. Directs the Secretary of Health and Human Services (Secretary) to submit interim and final reports to the Congress on the information obtained from assessments conducted with such grants and the impact of such grant program on State court procedures and functions. Requires each State to compile annually a detailed directory of programs designed to keep families together or reunify them or place children permanently, identifying which of such programs provides specialized child welfare services to families in crisis due to substance abuse. Title II: Foster Care and Adoption Assistance - Amends title IV (Grants to States for Aid and Services to Needy Families with Children and for Child Welfare Services) of the Social Security Act to add a new part C, Comprehensive Service Projects to grant States flexibility and resources to develop comprehensive and coordinated services designed to: (1) preserve and strengthen families with children at risk of placement outside their homes; (2) reunite children with their families expeditiously if an out-of-home placement is found to be necessary; and (3) place children in adoptive homes or other permanent arrangements in a timely fashion if reunification with their families is not appropriate. Permits any State to apply to the Secretary for permission to: (1) conduct a comprehensive service project in a selected area or areas; and (2) suspend certain child welfare services and foster care and adoption assistance requirements with respect to State activities in such area or areas during the project. Sets forth application requirements and administrative provisions for such projects. Prohibits the Secretary of HHS from requiring as a condition of approval of a project application: (1) the State to select any area or areas in which to conduct the project; or (2) the project to comply with any requirements not specified in the project authorization. Sets forth those requirements with which such a project must comply. Provides for determining the expenses for which a State might properly seek reimbursement, for purposes of calculating such grant amount. Authorizes the Secretary to increase such grant amount, to the extent appropriate, by taking specified factors into account. Sets forth requirements for notification to States of grant amounts, and for grant payments in equal quarterly installments. Prohibits a State from carrying out such a project in a manner that impairs the entitlement of any child to the foster care benefits he or she would have received if the Secretary had approved the State plan for the fiscal year and had not authorized the State to conduct such a project. Deems a State to have in effect an approved foster care and adoption assistance plan during the period in which it conducts such a project for purposes of a State plan requirements under part A (Aid to Families with Dependent Children) of title IV of the Social Security Act. Requires States to report annually on funds expended under such projects to the Secretary and the Advisory Commission on Children and Families. Provides for project termination. Requires a State to discontinue the project at the end of a fiscal year: (1) if it has notified the Secretary that it intends to do so; or (2) if the Secretary has determined that the State is not conducting the project in accordance with requirements and is not making satisfactory progress toward achieving the State plans. Applies Federal child welfare and foster care and adoption assistance requirements with respect to the population of and the State activities in the project area or areas upon such project discontinuance. Prohibits a State from conducting another such project for five years after project discontinuance. Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to eliminate means tests and reduce certain reimbursement rates. Expands eligibility for foster care maintenance payments in certain cases. Covers respite care for foster parents with children who have special needs. Expands the definition of children with special needs, for purposes of the adoption assistance program, to include: (1) those children for whom information is known and available about their genetic or social history indicating a high risk of medical conditions or physical, mental or emotional handicaps (which makes, it reasonable to conclude they cannot be placed for adoption without providing part E adoption assistance or Medicaid medical assistance under title XIX (Grants to States for Medical Assistance Programs) of the Social Security Act; and (2) those children that have been adopted and have a medical condition, or a mental, physical, or emotional handicap that either existed before the adoption but was not diagnosed until afterwards or first manifests itself after the adoption but is congenital or was caused beforehand. Includes relatives (as well as foster parents) who are prospective adoptive parents and with whom the child has significant emotional ties while in their care for purposes of an exception to the requirement that an effort be made to place special needs children with appropriate adoptive parents without providing adoption assistance or Medicaid assistance. Requires each States to submit to the Secretary the factors and conditions it uses to identify children with special needs, for purposes of the adoption assistance program, and any modifications to such factors and conditions. Directs the Secretary to establish an Advisory Committee on Foster Care Placement to study and report to the Secretary and the Congress on the implementation of specified requirements, under State plans for foster care and adoption assistance, that reasonable efforts be made: (1) prior to placement of a child in a foster home, to prevent or eliminate the need for removal of the child from the child's home; and (2) to make it possible for the child to return to the child's home. Provides Federal coverage of 90 percent of State costs in developing and installing statewide mechanized data collection and information retrieval systems which: (1) the Secretary determines are likely to enhance the administration of such programs; (2) are capable of interfacing with the State data collection system for information on child abuse and neglect; and (3) meet other specified requirements. Covers 50 percent of State costs for operation of such systems. Provides that all State expenditures for development, installation, and operation of such systems shall be treated as necessary for proper and efficient administration of the State plan, without regard as to whether the systems may be used with respect to children other than those on behalf of whom payments may be made for foster care maintenance or adoption assistance. Reduces, after three years, from 90 to 50 percent the Federal matching payment for development and installation of such systems. Defers a deadline for implementation of automated systems until one year after certain regulations are promulgated. Directs the Secretary to establish a work group, including representatives of specified organizations to advise on planning and implementation of the system to be used for collection of data relating to adoption and foster care in the United States. Requires the State plan to provide for: (1) a triennial review of the amounts paid as foster care maintenance payments and adoption assistance to assure their continuing appropriateness; and (2) a report to the Secretary on the results. Requires that the dispositional hearing to determine the final status of a foster child occur within 12 months of his or her original placement, rather than the current 18 months. Revises the time frame for judicial determinations on voluntary placements. Sets forth case plan requirements for placement of children in out-of-State foster care, including a finding that the child needs services not available in the State. Requires annual review, with the child present, of the status of children in out-of-State foster care placements. Requires States to collect data on the numbers of children in out-of-State foster care placements. Requires a State, in order to receive payments for expenditures after FY 1993 for foster care maintenance payments made with respect to a child placed in foster care outside the State, to conduct and submit a study to the Secretary by the end of such fiscal year, identifying the number and common characteristics of such children and the reason why they were not placed in foster care in the State. Eliminates the ceilings on Federal foster care payments to States and the States' authority to transfer unused foster care funds to the Child Welfare Services program. Directs the Secretary to: (1) establish an advisory committee; and (2) issue final regulations for training of staff of agencies responsible for administering foster care and adoption assistance programs and for training of foster and adoptive parents. Requires such committee to include representatives of public agencies and private nonprofit organizations with an interest in child welfare. Directs the Secretary to annually publish information, on a State-by-State basis, on expenditures for, and the operation of, the Child Welfare Services program, the Foster Care and Adoption Assistance program, and Comprehensive Service Projects. Amends title IV of the Social Security Act to add a new part G, Child Welfare Review System. Directs the Secretary to establish such system to: (1) review each State child welfare program to assess whether the requirements of such Act are being carried out; (2) impose financial penalties in cases of substantial failure to comply; and (3) provide technical assistance to any such program. Requires the Secretary to complete such a review for each State program once every three years. Sets forth provisions relating to effects of noncompliance, suspension of financial penalties, and administrative and judicial review. Requires that all State child welfare programs be reviewed at least once by the end of FY 1996. Prohibits the Secretary from reducing or withholding any payment or seeking any repayment from any State under part B or E by reason of a determination made in connection with specified reviews or audits for certain periods. Title III: Emergency Assistance - Amends part A (Aid to Families with Dependent Children) (AFDC) of title IV of the Social Security Act to require States to provide emergency assistance to needy families with children, including services designed to prevent homelessness. Title IV: Social Services Block Grant - Amends title XX (Block Grants to States for Social Services) of the Social Security Act to authorize increased appropriations under such program for FY 1992 and 1993 and thereafter. Title V: Research, Demonstration, and Evaluation Activities - Amends part A (General Provisions) of title XI (General Provisions and Professional Standards Review) of the Social Security Act to require the Director of the Office of Technology Assessment (OTA) to establish an Advisory Commission on Children and Families (the Commission). Requires the Commission to collect and assess specified types of information in order to identify cost-effective approaches to protect and enhance the physical, mental, emotional, and financial well-being of children and their families. Directs OTA to report annually to the Congress on the Commission and its assessment. Requires the Commission to conduct, through contracts with independent research organizations, the following research and evaluation projects: (1) an evaluation of child welfare service programs, including intensive family preservation programs; (2) foster care evaluations; (3) longitudinal child welfare data bases, and studies of child welfare population dynamics; and (4) comprehensive service projects evaluations. Directs the Secretary to conduct the following research and evaluations: (1) a study (under contract with an independent research organization) to assess the prevalence and nature of risks to the safety of employees of child welfare systems; and (2) a three-year study (under contract with an organization with demonstrated appropriate experience) to examine methodologies for measuring the workloads of providers of child welfare services and community mental health services. Directs the Secretary to authorize the following types of child welfare demonstration projects: (1) abandoned infants permanent placement; (2) termination of parental rights; (3) child welfare worker training in U.S. areas that border on Mexico; (4) staff recruitment and retention; and (5) joint training for staff of child welfare, mental health, and juvenile justice agencies. Directs the Secretary to provide technical assistance to States for: (1) interpreting and implementing parts B, C, and E; (2) disseminating information on innovative child welfare agencies; (3) correcting problems identified through Federal audits and reviews and carrying out corrective action plans under part E; (4) implementing the foster care and adoption data collection system; and (5) addressing other matters identified by such Secretary. Title VI: Credit for Certain Adoption Expenses - Amends the Internal Revenue Code to allow an income tax credit for certain expenses related to the adoption of a child with special needs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Family Preservation Act of 1991", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To promote family preservation and the prevention of foster care with emphasis on families where abuse of alcohol or drugs is present, and to improve the quality and delivery of child welfare, foster care, and adoption services.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:13:21-05:00"
+}

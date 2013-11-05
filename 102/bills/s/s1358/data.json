@@ -1,0 +1,367 @@
+{
+  "actions": [
+    {
+      "acted_at": "1991-06-12", 
+      "references": [], 
+      "text": "Senate Committee on Veterans. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 102-611.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-06-24", 
+      "committee": "Committee on Veterans", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1991-06-26", 
+      "in_committee": "Committee on Veterans", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Veterans. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1991-09-24", 
+      "references": [], 
+      "text": "Committee on Veterans. Reported to Senate by Senator Cranston without amendment. With written report No. 102-160.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-09-24", 
+      "calendar": "Senate Legislative", 
+      "number": "239", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1991-10-16", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with amendments by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1991-10-17T10:30:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-10-17", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-10-17", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s1261-102", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1261"
+    }
+  ], 
+  "bill_id": "s1358-102", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "102", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "1991-06-24", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bryan, Richard H.", 
+      "sponsored_at": "1991-08-02", 
+      "state": "NV", 
+      "thomas_id": "01293", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bumpers, Dale", 
+      "sponsored_at": "1991-07-30", 
+      "state": "AR", 
+      "thomas_id": "01295", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burdick, Quentin N.", 
+      "sponsored_at": "1991-06-28", 
+      "state": "ND", 
+      "thomas_id": "01297", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Conrad, Kent", 
+      "sponsored_at": "1991-06-24", 
+      "state": "ND", 
+      "thomas_id": "01307", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cranston, Alan", 
+      "sponsored_at": "1991-06-24", 
+      "state": "CA", 
+      "thomas_id": "01311", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "D'Amato, Alfonse", 
+      "sponsored_at": "1991-07-30", 
+      "state": "NY", 
+      "thomas_id": "01313", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daschle, Thomas A.", 
+      "sponsored_at": "1991-06-24", 
+      "state": "SD", 
+      "thomas_id": "00267", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "DeConcini, Dennis", 
+      "sponsored_at": "1991-06-24", 
+      "state": "AZ", 
+      "thomas_id": "01315", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dodd, Christopher J.", 
+      "sponsored_at": "1991-07-09", 
+      "state": "CT", 
+      "thomas_id": "00302", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Ford, Wendell H.", 
+      "sponsored_at": "1991-10-02", 
+      "state": "KY", 
+      "thomas_id": "01334", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Glenn, John H., Jr.", 
+      "sponsored_at": "1991-09-10", 
+      "state": "OH", 
+      "thomas_id": "01339", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hatfield, Mark O.", 
+      "sponsored_at": "1991-09-10", 
+      "state": "OR", 
+      "thomas_id": "01352", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hollings, Ernest F.", 
+      "sponsored_at": "1991-07-30", 
+      "state": "SC", 
+      "thomas_id": "01361", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inouye, Daniel K.", 
+      "sponsored_at": "1991-09-10", 
+      "state": "HI", 
+      "thomas_id": "01369", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "1991-09-10", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "1991-10-22", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lieberman, Joseph I.", 
+      "sponsored_at": "1991-07-26", 
+      "state": "CT", 
+      "thomas_id": "01385", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mack, Connie, III", 
+      "sponsored_at": "1991-06-24", 
+      "state": "FL", 
+      "thomas_id": "00721", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCain, John", 
+      "sponsored_at": "1991-06-24", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "1991-06-24", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sasser, Jim", 
+      "sponsored_at": "1991-09-20", 
+      "state": "TN", 
+      "thomas_id": "01428", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Specter, Arlen", 
+      "sponsored_at": "1991-09-24", 
+      "state": "PA", 
+      "thomas_id": "01437", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1991-10-16", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1991-06-24", 
+  "number": "1358", 
+  "official_title": "A bill to amend chapter 17 of title 38, United States Code, to require the Secretary of Veterans Affairs to conduct a hospice care pilot program and to provide certain hospice care services to terminally ill veterans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans' Hospice Services Act of 1991", 
+  "sponsor": {
+    "district": null, 
+    "name": "Graham, Bob", 
+    "state": "FL", 
+    "thomas_id": "01342", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "1991-10-16", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional reporting requirements", 
+    "Hospices (Terminal care)", 
+    "Medical economics", 
+    "Veterans' hospitals", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1991-10-16", 
+    "text": "Veterans' Hospice Services Act of 1991 - Directs the Secretary of Veterans Affairs to conduct a pilot program to: (1) assess the feasibility and desirability of furnishing hospice care to terminally ill veterans; and (2) determine the most efficient and effective means of furnishing such care. Directs the Secretary to designate 15 to 30 Department of Veterans Affairs medical facilities for such demonstration projects. Requires the Secretary to ensure that: (1) Department medical facilities conducting such projects include both urban and rural area facilities; (2) the full range of affiliation between medical facilities of the Department and medical schools is represented by the facilities selected to conduct such projects; and (3) such facilities vary in the number of beds they operate and maintain. Allows such hospice care to be accomplished by Department medical facilities and personnel, by contract where inpatient services are provided by Department medical facilities, or by contract where inpatient services are provided by a non-Department medical facility. Allows such inpatient care to be provided at a facility not designated in the contract when the provision of such care at such other facility is necessary under the circumstances. Limits the amount paid for hospice care programs under this Act to the equivalent of hospice care payments under title XVIII (Medicare) of the Social Security Act. Allows the Secretary to pay in excess of such amounts for hospice care when the Secretary determines, on a case-by-case basis, that: (1) the furnishing of such care is necessary and appropriate; and (2) the amount paid under Medicare would not compensate the program for the cost of furnishing such care. Directs the Secretary, during the pilot program period, to designate not less than five Department medical facilities at which hospital care is being furnished to terminally ill veterans to furnish palliative care to such veterans, either by Department personnel and facilities providing such care or by Department personnel monitoring care provided by non-Department facilities. Directs the Secretary to ensure that terminally ill veterans who have been informed of their medical prognosis receive information relating to their eligibility for hospice care and services under Medicare. Directs the Secretary to submit annual reports to the Senate and House Veterans' Affairs Committees relating to the conduct of the pilot program and the furnishing of hospice care to terminally ill veterans under the demonstration projects. Requires the Secretary to also report to such committees an evaluation and assessment of the hospice care program, including information enabling the committees to fully evaluate the feasibility of furnishing palliative care to terminally ill veterans."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Veterans' Hospice Services Act of 1991", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Veterans' Hospice Services Act of 1991", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend chapter 17 of title 38, United States Code, to require the Secretary of Veterans Affairs to conduct a hospice care pilot program and to provide certain hospice care services to terminally ill veterans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:11:04-05:00"
+}

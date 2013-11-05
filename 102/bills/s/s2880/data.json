@@ -1,0 +1,283 @@
+{
+  "actions": [
+    {
+      "acted_at": "1992-06-11", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Finance ordered to be reported an original measure.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1992-06-23", 
+      "references": [], 
+      "text": "Committee on Finance. Original measure reported to Senate by Senator Bentsen. With written report No. 102-302.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-06-23", 
+      "calendar": "Senate Legislative", 
+      "number": "496", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1992-09-09", 
+      "references": [], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-09-09", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1992-09-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-09-14T12:02:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-09-14", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1992-10-05", 
+      "bill_ids": [
+        "hr11-102"
+      ], 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "See H.R.11.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-10-05", 
+      "bill_ids": [
+        "hr5100-102"
+      ], 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "See H.R.5100.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-10-06T10:23:00-04:00", 
+      "references": [], 
+      "text": "Committee on Ways and Means discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-10-06T10:23:00-04:00", 
+      "references": [], 
+      "text": "Mr. Rostenkowski asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-10-06T10:24:00-04:00", 
+      "references": [], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-10-06T10:28:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1992-10-06T10:28:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1992-10-07", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate bill.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h897-102", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "897"
+    }, 
+    {
+      "amendment_id": "s2970-102", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2970"
+    }
+  ], 
+  "bill_id": "s2880-102", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting", 
+        "markup"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "102", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1992-10-06T10:28:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1992-09-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1992-06-23", 
+  "number": "2880", 
+  "official_title": "An original bill to authorize appropriations for fiscal years 1993 and 1994 for the Office of the United States Trade Representative, the United States International Trade Commission, and the United States Customs Service, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr11-102", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5100-102", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Customs Modernization and Informed Compliance Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bentsen, Lloyd M.", 
+    "state": "TX", 
+    "thomas_id": "01282", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "1992-10-06T10:28:00-04:00", 
+  "subjects": [
+    "Actions and defenses", 
+    "Administrative fees", 
+    "Administrative procedure", 
+    "Administrative remedies", 
+    "Administrative responsibility", 
+    "Airports", 
+    "Antidumping", 
+    "Auditing", 
+    "Authorization", 
+    "Automation", 
+    "Balance of payments", 
+    "Business records", 
+    "Claims", 
+    "Collection agencies", 
+    "Congressional reporting requirements", 
+    "Countervailing duties", 
+    "Cuba", 
+    "Customs administration", 
+    "Data banks", 
+    "Department of the Treasury", 
+    "Drug law enforcement", 
+    "East-West trade", 
+    "Electronic data processing", 
+    "Environmental protection", 
+    "Executive Office of the President", 
+    "Explosives", 
+    "Exports", 
+    "Federal advisory bodies", 
+    "Federal employees", 
+    "Fines (Penalties)", 
+    "Foreign trade and international finance", 
+    "Forfeiture", 
+    "Fraud", 
+    "Government liability", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Government trust funds", 
+    "Hours of labor", 
+    "Illinois", 
+    "Imports", 
+    "Interest", 
+    "International Trade Commission", 
+    "International competitiveness", 
+    "Jurisdiction", 
+    "Laboratories", 
+    "Law enforcement officers", 
+    "Licenses", 
+    "Limitation of actions", 
+    "Marine pollution", 
+    "Merchant ships", 
+    "Names", 
+    "Narcotic traffic", 
+    "Negligence", 
+    "Office of the U.S. Trade Representative", 
+    "Oregon", 
+    "Passenger ships", 
+    "Relocation of federal installations", 
+    "Searches and seizures", 
+    "Southwest (U.S.)", 
+    "Statistics", 
+    "Surety and fidelity", 
+    "Surveys", 
+    "Tariff", 
+    "Virgin Islands", 
+    "Water pollution control"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1992-10-06", 
+    "text": "Title I: Customs and Trade Agency Authorizations; Other Customs Provisions - Amends the Tariff Act of 1930 to authorize appropriations for FY 1993 and 1994 for the United States International Trade Commission (ITC). Prohibits use of such funds for any special study, investigation, or report requested by an agency of the executive branch unless such agency reimburses the ITC for its costs. Amends the Customs Procedural Reform and Simplification Act of 1978 to authorize appropriations for FY 1993 and 1994 for the United States Customs Service for: (1) noncommercial and commercial operations; and (2) the air and marine interdiction programs. Amends the Trade Act of 1974 to authorize appropriations for FY 1993 and 1994 for the Office of the United States Trade Representative. Amends the Tariff Act of 1930 to authorize appropriations for FY 1993 and 1994 for the Customs Forfeiture Fund. Amends the Trade Act of 1974 to eliminate the East-West Trade Statistics Monitoring System. Requires the Secretary of the Treasury to report to specified congressional committees on: (1) the causes for the high attrition rates experienced by the United States Customs Service in its Southwest region, with particular focus on border ports of entry; (2) plans for staffing at full capacity on a port-by-port basis each of the facilities that has been or will be improved under the Southwest Border Capital Improvements Program; (3) the feasibility of moving the Customs Service office from downtown Portland, Oregon, to the vicinity of the Portland airport and from downtown Chicago, Illinois, to O'Hare International Airport; and (4) the feasibility of placing drug enforcement agents in the Medford/Grants Pass area in Oregon. Title II: Customs Modernization - Customs Modernization and Informed Compliance Act - Subtitle A: Improvements in Customs Enforcement - Amends the Tariff Act of 1930 to revise customs procedures with respect to: (1) electronic transmission of forged, altered, or false data to the United States Customs Service with regard to the entry of imported merchandise; (2) penalties for failure to declare imported controlled substances; (3) examination and detention of imported merchandise; (4) certain recordkeeping requirements; (5) examination of books and witnesses; (6) review of protests by the Customs Service; (7) a repeal of a provision relating to the reliquidation on account of fraud; (8) penalties relating to manifests and for fraud, gross negligence, and negligence; (9) unlawful unlading or transshipment; (10) public access to Customs Service interpretative rulings and decisions; and (11) seizure of imported merchandise. Subtitle B: National Customs Automation Program - Directs the Secretary of the Treasury (Secretary) to establish the National Customs Automation Program which shall be an automated and electronic system for the processing of commercial imports. Provides for electronic data transmission relating to: (1) remote location filing; (2) effective date of rates of duty on imported merchandise; (3) merchandise manifests; (4) imported merchandise invoices; (5) entry and release of imported merchandise; (6) admissibility in administrative and judicial proceedings of electronically transmitted information; (7) appraisement and liquidations of imported merchandise; (8) abandonment and damage to imported merchandise; (9) protests of Customs Service decisions; (10) refunds and errors; (11) bonds and other security; and (12) customs house brokers. Sets forth provisions with respect to customs officer's immunity in regard to the appraisement of or collection of duties on imported merchandise. Subtitle C: Miscellaneous Amendments to the Tariff Act of 1930 - Amends the Tariff Act of 1930 to require masters of vessels that have visited a hovering vessel or received merchandise while outside the U.S. territorial sea to report their arrival to the nearest customs facility. Provides for the electronic transmission of vessel documentation to the Customs Service. Requires the following vessels to report to the nearest Customs Service facility within 24 hours (or other period of time) as provided after arrival to a U.S. port: (1) vessels from a foreign port; (2) foreign vessels from a domestic port; (3) U.S. vessels having bonded or foreign merchandise for which entry has not been made; or (4) vessels which visited a hovering vessel or received merchandise outside the U.S. territorial sea. Authorizes the Secretary to permit masters of vessels to make preliminary entry of their vessel with the Customs Service in lieu of or before formal entry is made. Exempts from entry and clearance requirements certain passenger vessels on excursion from the U.S. Virgin Islands to the British Virgin Islands and returning, U.S. documented vessels with recreational endorsement, or (as under current law) undocumented U.S. pleasure vessels not engaged in trade, except such vessels must comply upon arrival with specified customs reporting requirements and navigation laws and must not have visited any hovering vessel. Prohibits merchandise, passengers, or baggage from being unladen from any vessel required to make entry or vehicle required to report its arrival until such entry or report of arrival is made and a permit for unlading has been issued by the Customs Service. Authorizes the issuance of such permits through electronic data transmission. Requires every importer of record of merchandise to make and file electronically or otherwise a declaration stating whether such merchandise is imported pursuant to a purchase or purchase agreement and that all other required documents are true and correct. Requires persons who gained any benefit from, or met any obligation to the United States as the result of the prior exportation of merchandise that has returned as undeliverable to inform the Customs Service of the return of such merchandise within a reasonable time. Provides for electronic data transmission of entry information to complete any incomplete entry of imported merchandise. Declares entered or unentered merchandise that remains in customs custody for six months, with an extension at the importer's request of up to a year (currently, for merchandise that remains in custody for one year), and in which duties, taxes, fees, interest storage, and other charges have not been paid, to be unclaimed merchandise which shall be appraised and sold by the Customs Service at public auction. Authorizes the sale of imported gunpowder and other explosive merchandise that if permitted to remain in a bonded warehouse for six months (currently, one year) would depreciate in value to the extent that its sale would be insufficient to pay such duties, taxes, fees, interest, storage, and other charges. Authorizes the Customs Service, in lieu of sale, to provide notice to interested parties that, unless, within 30 days of such notice, the subject merchandise is entered or withdrawn for consumption and payment made of all duties, taxes, and fees, transfer and storage charges and other expenses that title to such merchandise shall be deemed to vest in the United States. Authorizes the Secretary to pay to a party that has lost a substantial interest in merchandise by virtue of title vesting in the United States, and can establish that it did not receive a vesting notice, an amount from the Customs Forfeiture Fund equal to what such party would have received if such merchandise had been sold and a proper claim filed. Requires any surplus of the proceeds from the sale of such merchandise to be deposited into the Fund if a claim for such surplus is not filed with the Customs Service. Requires the Secretary upon seizure and forfeiture of imported merchandise bearing a counterfeit mark to dispose of such merchandise more than 90 days (currently, one year) after such forfeiture. Authorizes withdrawal of imported merchandise from a warehouse for transfer to a foreign trade zone. Authorizes the Customs Service to order the destruction or other appropriate disposition of vessels, vehicles, aircraft, merchandise, or baggage that has been seized under the customs laws if it determines that the expense of keeping such items is disportionate to their value (currently applies only to items of less than $1,000 in value). Authorizes the use of funds from the Customs Forfeiture Fund for the payment of: (1) certain transfer and storage charges and expenses; and (2) claims against Customs Service employees. Requires actions for fraud, gross negligence, and negligence, false drawback or refund claims, and restoration of lawful duties with respect to imported merchandise to be instituted within five years after the alleged violation or discovery of such fraud. Requires the Customs Service to be reimbursed the administrative cost and expense incurred in collecting fees on behalf of other Federal agencies. Authorizes the Secretary to settle, for no more than $50,000 in each case, claims for personal injury, death, or damage to, or loss of, privately owned property caused by an investigative or law enforcement officer of the Customs Service. Subtitle D: Miscellaneous Provisions and Consequential and Conforming Amendments to Other Laws - Amends Federal law to grant the Court of International Trade exclusive jurisdiction of any civil action for review decisions of the Customs Service that deny, suspend, or revoke accreditation of private customs laboratories. Bars the commencement of such actions unless brought before such Court within 60 days of such decisions. Requires U.S. and foreign vessels to obtain clearance from the Customs Service before proceeding from a U.S. port for: (1) a foreign port; (2) another U.S. port (for foreign vessels only), or (for U.S. vessels only) another U.S. port if the vessel has bonded or foreign merchandise for which entry has not been made; or (3) outside the U.S. territorial sea to visit a hovering vessel or to receive merchandise. Requires the master of a vessel bound to a foreign port to deliver to the Customs Service (currently, the collector of the district from which such vessel is about to depart) a manifest of the vessel's cargo. Amends the Act to Prevent Pollution from Ships to abolish provisions relating to the refusal or revocation of permits to proceed for vessels that have been found to have violated a certain treaty for the prevention of marine pollution. Repeals specified provisions of Federal law. Requires the Commissioner of Customs to report to the Congress each fiscal year after FY 1992 on the collection of duties imposed under the antidumping and countervailing duty laws. Amends the Omnibus Budget Reconciliation Act of 1987 to authorize the Commissioner of Customs to obtain from the operators of centralized cargo examination stations information on fees paid for the provision of services at such stations. Requires the Commissioner to report to specified congressional committees on the payment of such fees. Amends the Customs and Trade Act of 1990 to require the Commissioner of Customs to: (1) devise a methodology for estimating the level of compliance with the U.S. customs laws; and (2) evaluate the extent to which such compliance was obtained during the 12-month period preceeding the 60th day before each fiscal year 1993 through 1995. Directs the Commissioner to initiate, and submit to the Congress, a compliance review of certain carrier services. Title III: Competitiveness Policy Council - Amends the Competitiveness Policy Council Act to: (1) change the name of the Competitiveness Policy Council to the National Competitiveness Policy Commission (Commission); and (2) reauthorize the Commission through FY 1994. Authorizes appropriations. Amends the National Competitiveness Policy Commission Act to make technical changes with respect to Commission duties, powers, staff and reporting requirements."
+  }, 
+  "titles": [
+    {
+      "as": "passed house", 
+      "title": "Customs Modernization and Informed Compliance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "An original bill to authorize appropriations for fiscal years 1993 and 1994 for the Office of the United States Trade Representative, the United States International Trade Commission, and the United States Customs Service, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:11:38-05:00"
+}

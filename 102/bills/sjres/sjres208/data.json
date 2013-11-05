@@ -1,0 +1,601 @@
+{
+  "actions": [
+    {
+      "acted_at": "1991-10-01", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and an amendment to the Title by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1991-10-02T10:04:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-10-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1991-10-02", 
+      "committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "text": "Referred to the House Committee on Post Office and Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1991-10-04", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "subcommittee": "Census and Population", 
+      "text": "Referred to the Subcommittee on Census and Population.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sjres208-102", 
+  "bill_type": "sjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO", 
+      "subcommittee": "Subcommittee on Census and Population", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "102", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Adams, Brock", 
+      "sponsored_at": "1991-10-01", 
+      "state": "WA", 
+      "thomas_id": "00005", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "1991-10-01", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bradley, Bill", 
+      "sponsored_at": "1991-10-01", 
+      "state": "NJ", 
+      "thomas_id": "01289", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Brown, Hank", 
+      "sponsored_at": "1991-10-02", 
+      "state": "CO", 
+      "thomas_id": "00135", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bryan, Richard H.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "NV", 
+      "thomas_id": "01293", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burns, Conrad R.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MT", 
+      "thomas_id": "01298", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chafee, John H.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "RI", 
+      "thomas_id": "01303", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cohen, William S.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "ME", 
+      "thomas_id": "00215", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Craig, Larry E.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "ID", 
+      "thomas_id": "00246", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cranston, Alan", 
+      "sponsored_at": "1991-10-01", 
+      "state": "CA", 
+      "thomas_id": "01311", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "D'Amato, Alfonse", 
+      "sponsored_at": "1991-10-01", 
+      "state": "NY", 
+      "thomas_id": "01313", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Danforth, John C.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MO", 
+      "thomas_id": "01314", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Daschle, Thomas A.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "SD", 
+      "thomas_id": "00267", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dixon, Alan J.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "IL", 
+      "thomas_id": "01317", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dole, Robert J.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "KS", 
+      "thomas_id": "01318", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Durenberger, Dave", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MN", 
+      "thomas_id": "01321", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Glenn, John H., Jr.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "OH", 
+      "thomas_id": "01339", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gore, Albert, Jr.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "TN", 
+      "thomas_id": "00449", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Graham, Bob", 
+      "sponsored_at": "1991-10-01", 
+      "state": "FL", 
+      "thomas_id": "01342", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "1991-10-01", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heflin, Howell", 
+      "sponsored_at": "1991-10-01", 
+      "state": "AL", 
+      "thomas_id": "01358", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inouye, Daniel K.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "HI", 
+      "thomas_id": "01369", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnston, J. Bennett", 
+      "sponsored_at": "1991-10-01", 
+      "state": "LA", 
+      "thomas_id": "01373", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kassebaum, Nancy Landon", 
+      "sponsored_at": "1991-10-01", 
+      "state": "KS", 
+      "thomas_id": "01375", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kerry, John F.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MA", 
+      "thomas_id": "01379", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kohl, Herb", 
+      "sponsored_at": "1991-10-01", 
+      "state": "WI", 
+      "thomas_id": "01380", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lautenberg, Frank R.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "NJ", 
+      "thomas_id": "01381", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lieberman, Joseph I.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "CT", 
+      "thomas_id": "01385", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Lugar, Richard G.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "IN", 
+      "thomas_id": "01387", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCain, John", 
+      "sponsored_at": "1991-10-01", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Metzenbaum, Howard M.", 
+      "sponsored_at": "1991-10-03", 
+      "state": "OH", 
+      "thomas_id": "01400", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mitchell, George J.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "ME", 
+      "thomas_id": "01401", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murkowski, Frank H.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "AK", 
+      "thomas_id": "01408", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nickles, Don", 
+      "sponsored_at": "1991-10-01", 
+      "state": "OK", 
+      "thomas_id": "01412", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pell, Claiborne", 
+      "sponsored_at": "1991-10-01", 
+      "state": "RI", 
+      "thomas_id": "01417", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "1991-10-01", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Riegle, Donald W., Jr.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MI", 
+      "thomas_id": "00961", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Roth Jr., William V.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "DE", 
+      "thomas_id": "01425", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanford, Terry", 
+      "sponsored_at": "1991-10-01", 
+      "state": "NC", 
+      "thomas_id": "01427", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sasser, Jim", 
+      "sponsored_at": "1991-10-01", 
+      "state": "TN", 
+      "thomas_id": "01428", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Seymour, John", 
+      "sponsored_at": "1991-10-01", 
+      "state": "CA", 
+      "thomas_id": "01434", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Simon, Paul", 
+      "sponsored_at": "1991-10-01", 
+      "state": "IL", 
+      "thomas_id": "01059", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stevens, Ted", 
+      "sponsored_at": "1991-10-01", 
+      "state": "AK", 
+      "thomas_id": "01440", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thurmond, Strom", 
+      "sponsored_at": "1991-10-01", 
+      "state": "SC", 
+      "thomas_id": "01448", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wallop, Malcolm", 
+      "sponsored_at": "1991-10-01", 
+      "state": "WY", 
+      "thomas_id": "01451", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, John", 
+      "sponsored_at": "1991-10-01", 
+      "state": "VA", 
+      "thomas_id": "01452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wellstone, Paul D.", 
+      "sponsored_at": "1991-10-01", 
+      "state": "MN", 
+      "thomas_id": "01454", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wofford, Harris", 
+      "sponsored_at": "1991-10-01", 
+      "state": "PA", 
+      "thomas_id": "01457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1991-10-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1991-10-01", 
+  "number": "208", 
+  "official_title": "A joint resolution to designate October 15, 1991, as ``Up With People Day''.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres345-102", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "DeConcini, Dennis", 
+    "state": "AZ", 
+    "thomas_id": "01315", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "1991-10-01", 
+  "subjects": [
+    "Entertainers", 
+    "International education", 
+    "Special days"
+  ], 
+  "subjects_top_term": "Special days", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1991-10-01", 
+    "text": "Designates October 15, 1991, as Up With People Day."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A joint resolution to designate October 15, 1991, as ``Up With People Day''.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:15:21-05:00"
+}
