@@ -1,0 +1,587 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-21", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-05-23T21:08:00-04:00", 
+      "references": [], 
+      "text": "Committee on International Relations discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T21:08:00-04:00", 
+      "references": [], 
+      "text": "Mr. Cantor asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T21:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2654-2656", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-23T21:14:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H2655-2656", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-05-23T21:15:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-24", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-25", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5764-5765", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-05-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres139-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "42", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2001-05-22", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Blagojevich, Rod R.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "IL", 
+      "thomas_id": "01463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2001-05-23", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2001-05-23", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2001-05-23", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Hoeffel, Joseph M.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "PA", 
+      "thomas_id": "01579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jackson, Jesse L., Jr.", 
+      "sponsored_at": "2001-05-23", 
+      "state": "IL", 
+      "thomas_id": "00587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2001-05-23", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Knollenberg, Joe", 
+      "sponsored_at": "2001-05-22", 
+      "state": "MI", 
+      "thomas_id": "00642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2001-05-23", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2001-05-23", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "40", 
+      "name": "Lewis, Jerry", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2001-05-23", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2001-05-22", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2001-05-23", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2001-05-22", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Sweeney, John E.", 
+      "sponsored_at": "2001-05-22", 
+      "state": "NY", 
+      "thomas_id": "01591", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Tiahrt, Todd", 
+      "sponsored_at": "2001-05-22", 
+      "state": "KS", 
+      "thomas_id": "01158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-05-23T21:14:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-05-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-05-21", 
+  "number": "139", 
+  "official_title": "Welcoming His Holiness Karekin II, Supreme Patriarch and Catholicos of All Armenians, on his visit to the United States and commemorating the 1700th anniversary of the acceptance of Christianity in Armenia.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wicker, Roger F.", 
+    "state": "MS", 
+    "thomas_id": "01226", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-05-25", 
+  "subjects": [
+    "Anniversaries", 
+    "Armenia", 
+    "Armenians", 
+    "Central Asia", 
+    "Christianity", 
+    "Clergy", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "International affairs", 
+    "Religion"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-05-23", 
+    "text": "Congratulates the Republic of Armenia on the occasion of the 1700th anniversary of the acceptance of Christianity in Armenia. Welcomes His Holiness Karekin II, Supreme Patriarch and Catholicos of All Armenians, on his visit to the United States. Joins with the people of Armenia, the Armenian Church in America, and His Holiness Karekin II in celebrating the ideals and values they share with the people of the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Welcoming His Holiness Karekin II, Supreme Patriarch and Catholicos of All Armenians, on his visit to the United States and commemorating the 1700th anniversary of the acceptance of Christianity in Armenia.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:50-05:00"
+}

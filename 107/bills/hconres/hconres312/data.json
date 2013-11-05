@@ -1,0 +1,517 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-05", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-02-06T12:08:00-05:00", 
+      "references": [], 
+      "text": "Mr. Weller moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-06T12:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H155-165", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-06T12:08:00-05:00", 
+      "bill_ids": [
+        "hcres312-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 312.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-06T13:27:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H155", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "10", 
+      "status": "PROV_KILL:SUSPENSIONFAILED", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Failed by the Yeas and Nays: (2/3 required): 235 - 181 (Roll no. 10).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres312-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "TX", 
+      "thomas_id": "00028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Baker, Richard H.", 
+      "sponsored_at": "2002-02-06", 
+      "state": "LA", 
+      "thomas_id": "00047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Barr, Bob", 
+      "sponsored_at": "2002-02-05", 
+      "state": "GA", 
+      "thomas_id": "00056", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2002-02-05", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2002-02-05", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boozman, John", 
+      "sponsored_at": "2002-02-05", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brown, Henry E., Jr.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "SC", 
+      "thomas_id": "01669", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2002-02-05", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2002-02-05", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Crane, Philip M.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "IL", 
+      "thomas_id": "00249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2002-02-05", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cubin, Barbara", 
+      "sponsored_at": "2002-02-05", 
+      "state": "WY", 
+      "thomas_id": "00254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Tom", 
+      "sponsored_at": "2002-02-05", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2002-02-05", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeMint, Jim", 
+      "sponsored_at": "2002-02-05", 
+      "state": "SC", 
+      "thomas_id": "01605", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "2002-02-05", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ganske, Greg", 
+      "sponsored_at": "2002-02-05", 
+      "state": "IA", 
+      "thomas_id": "00428", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "2002-02-05", 
+      "state": "NV", 
+      "thomas_id": "01485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2002-02-05", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2002-02-05", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Grucci, Felix J., Jr.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "NY", 
+      "thomas_id": "01662", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2002-02-05", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Knollenberg, Joe", 
+      "sponsored_at": "2002-02-05", 
+      "state": "MI", 
+      "thomas_id": "00642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2002-02-05", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, Jeff", 
+      "sponsored_at": "2002-02-05", 
+      "state": "FL", 
+      "thomas_id": "01685", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Oxley, Michael G.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "OH", 
+      "thomas_id": "00885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2002-02-05", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2002-02-05", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Riley, Bob", 
+      "sponsored_at": "2002-02-05", 
+      "state": "AL", 
+      "thomas_id": "01517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Schrock, Edward L.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "VA", 
+      "thomas_id": "01673", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2002-02-05", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "2002-02-05", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2002-02-05", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2002-02-05", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wilson, Heather", 
+      "sponsored_at": "2002-02-05", 
+      "state": "NM", 
+      "thomas_id": "01539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2002-02-05", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "fail", 
+    "house_passage_result_at": "2002-02-06T13:27:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-02-05", 
+  "number": "312", 
+  "official_title": "Expressing the sense of the House of Representatives that the scheduled tax relief provided for by the Economic Growth and Tax Relief Reconciliation Act of 2001 passed by a bipartisan majority in Congress should not be suspended or repealed.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Bachus, Spencer", 
+    "state": "AL", 
+    "thomas_id": "00038", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:SUSPENSIONFAILED", 
+  "status_at": "2002-02-06T13:27:00-05:00", 
+  "subjects": [
+    "Business cycles", 
+    "Congress", 
+    "Economic growth", 
+    "Economics and public finance", 
+    "Income tax", 
+    "Legislation", 
+    "Personal income tax", 
+    "Tax cuts", 
+    "Tax rates", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2002-02-05", 
+    "text": "Declares that it is the sense of the House of Representatives that: (1) the scheduled tax relief provided for by the Economic Growth and Tax Relief Reconciliation Act of 2001, passed by a bipartisan majority in Congress, should not be suspended or repealed; (2) suspending, repealing, or delaying provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 is a tax increase; (3) increasing taxes in the midst of a recession would not be helpful to the Nation's economy or American workers; and (4) instead of increasing taxes, Congress should be working with the President to promote long-term economic growth through a fair tax code that puts the least possible burden on taxpayers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the House of Representatives that the scheduled tax relief provided for by the Economic Growth and Tax Relief Reconciliation Act of 2001 passed by a bipartisan majority in Congress should not be suspended or repealed.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:55-05:00"
+}

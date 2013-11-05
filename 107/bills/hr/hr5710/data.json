@@ -1,0 +1,605 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-11-13T07:50:00-05:00", 
+      "bill_ids": [
+        "hres600-107"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 600 Reported to House. Rule provides for consideration of H.R. 5710 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13", 
+      "committee": "House Committee on Homeland Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-11-13T14:12:00-05:00", 
+      "bill_ids": [
+        "hres600-107"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 600 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13T18:33:00-05:00", 
+      "bill_ids": [
+        "hres600-107"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8595-8722", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H8595-8647", 
+          "type": "text of measure as reported in House"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 600.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13T18:33:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 5710 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13T18:33:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 5710.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13T19:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8718-8721", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Roemer moved to recommit with instructions to Homeland Security.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13T19:46:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on Mr. Roemer's motion to recommit with instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13T20:16:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8718-8719", 
+          "type": "text"
+        }
+      ], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 203 - 215 (Roll no. 476).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-13T20:28:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8647-8699", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "477", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 299 - 121 (Roll no. 477).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-11-13T20:28:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-14", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h621-107", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "621"
+    }
+  ], 
+  "bill_id": "hr5710-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security (Select)", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "2002-11-12", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "2002-11-12", 
+      "state": "NV", 
+      "thomas_id": "01485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Harman, Jane", 
+      "sponsored_at": "2002-11-12", 
+      "state": "CA", 
+      "thomas_id": "00502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Osborne, Tom", 
+      "sponsored_at": "2002-11-13", 
+      "state": "NE", 
+      "thomas_id": "01658", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2002-11-12", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2002-11-12", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Tauscher, Ellen O.", 
+      "sponsored_at": "2002-11-12", 
+      "state": "CA", 
+      "thomas_id": "01533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "2002-11-12", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "2002-11-12", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-11-13T20:28:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-11-12", 
+  "number": "5710", 
+  "official_title": "To establish the Department of Homeland Security, and for other purposes.", 
+  "popular_title": "Armed Airline Pilots bill", 
+  "related_bills": [
+    {
+      "bill_id": "hres600-107", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "hr4635-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5005-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5005-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr5506-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2452-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2546-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s2554-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Homeland Security Information Sharing Act", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Armey, Richard K.", 
+    "state": "TX", 
+    "thomas_id": "00028", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-11-13T20:28:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Advice and consent of the Senate", 
+    "Agriculture and food", 
+    "Agriculture in foreign trade", 
+    "Air piracy", 
+    "Aircraft pilots", 
+    "Airlines", 
+    "Airports", 
+    "Alien labor", 
+    "Alien smuggling", 
+    "Aliens", 
+    "Ammunition", 
+    "Animal diseases", 
+    "Animals", 
+    "Armed forces and national security", 
+    "Auditing", 
+    "Aviation insurance", 
+    "Aviation safety", 
+    "Biological warfare", 
+    "Biological weapons", 
+    "Border patrols", 
+    "Boundaries", 
+    "California", 
+    "Charitable contributions", 
+    "Charities", 
+    "Chemical warfare", 
+    "Chemical weapons", 
+    "Chief financial officers", 
+    "Chief information officers", 
+    "Citizen participation in crime prevention", 
+    "Citizenship", 
+    "Civil rights and liberties, minority issues", 
+    "Civil service system", 
+    "Classified defense information", 
+    "Coast guard", 
+    "Computer security measures", 
+    "Confidential communications", 
+    "Congress", 
+    "Congressional committees", 
+    "Congressional investigations", 
+    "Congressional reporting requirements", 
+    "Court records", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Criminal investigation", 
+    "Criminal justice information", 
+    "Criminal justice information systems", 
+    "Criminal procedure", 
+    "Customs administration", 
+    "Data banks", 
+    "Department of Agriculture", 
+    "Department of Energy", 
+    "Department of Health and Human Services", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Department of Transportation", 
+    "Department of the Treasury", 
+    "Destruction of property", 
+    "Detention of persons", 
+    "Disciplining of employees", 
+    "Discrimination in employment", 
+    "Dismissal of employees", 
+    "District of Columbia", 
+    "Drug abuse", 
+    "Drug law enforcement", 
+    "Drug traffic", 
+    "EBB Terrorism", 
+    "Early retirement", 
+    "Economics and public finance", 
+    "Education", 
+    "Electronic data interchange", 
+    "Electronic government information", 
+    "Electronic surveillance", 
+    "Emergency medical services", 
+    "Employee rights", 
+    "Employee selection", 
+    "Employee training", 
+    "Employee-management relations in government", 
+    "Environmental Protection Agency", 
+    "Environmental protection", 
+    "Evidence (Law)", 
+    "Executive compensation", 
+    "Executive reorganization", 
+    "Explosives", 
+    "Families", 
+    "Federal advisory bodies", 
+    "Federal aid to higher education", 
+    "Federal employees", 
+    "Federal law enforcement officers", 
+    "Federal officials", 
+    "Federal preemption", 
+    "Federal-local relations", 
+    "Federal-state relations", 
+    "Finance and financial sector", 
+    "Fines (Penalties)", 
+    "Firearms", 
+    "Flight crews", 
+    "Foreign trade and international finance", 
+    "Foster home care", 
+    "Fraud", 
+    "General Services Administration", 
+    "Government buyouts", 
+    "Government employee unions", 
+    "Government insurance", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government procurement", 
+    "Government publicity", 
+    "Government statistics", 
+    "Government travel", 
+    "Governmental investigations", 
+    "Grand jury", 
+    "Health", 
+    "Higher education", 
+    "Hospital care", 
+    "Hospitals", 
+    "Housing and community development", 
+    "Identification devices", 
+    "Immigration", 
+    "Import restrictions", 
+    "Imports", 
+    "Information technology", 
+    "Informers", 
+    "Infrastructure", 
+    "Infrastructure (Economics)", 
+    "Inspectors general", 
+    "Insurance premiums", 
+    "International affairs", 
+    "International cooperation", 
+    "International education", 
+    "International relief", 
+    "Internet", 
+    "Labor and employment", 
+    "Laboratories", 
+    "Language and languages", 
+    "Larceny", 
+    "Latin America", 
+    "Law", 
+    "Liability (Law)", 
+    "Licenses", 
+    "Mandatory sentences", 
+    "Marine safety", 
+    "Maryland", 
+    "Medical research", 
+    "Mexico", 
+    "Military civic action", 
+    "Military personnel", 
+    "Misconduct in office", 
+    "New York State", 
+    "Nuclear terrorism", 
+    "Ombudsman", 
+    "Pay equity", 
+    "Peacekeeping forces", 
+    "Performance measurement", 
+    "Plant protection", 
+    "Police training", 
+    "Presidential appointments", 
+    "Productivity in government", 
+    "Protection of animals", 
+    "Public corruption", 
+    "Public health", 
+    "Public lands and natural resources", 
+    "Railroad safety", 
+    "Refugee children", 
+    "Refugee resettlement", 
+    "Regional planning", 
+    "Rescue work", 
+    "Research and development", 
+    "Research and development facilities", 
+    "Research centers", 
+    "Right of privacy", 
+    "Sabotage", 
+    "Salaries", 
+    "Scholarships", 
+    "Science, technology, communications", 
+    "Searches and seizures", 
+    "Secret service", 
+    "Security clearances", 
+    "Security measures", 
+    "Severance pay", 
+    "Smallpox", 
+    "Social welfare", 
+    "Student employment", 
+    "Survivors' benefits", 
+    "Technological innovations", 
+    "Technology transfer", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Transportation of hazardous substances", 
+    "Transportation safety", 
+    "Travel costs", 
+    "Trusts and trustees", 
+    "User charges", 
+    "Vaccines", 
+    "Veterinary medicine", 
+    "Violence", 
+    "Virginia", 
+    "Visas", 
+    "Volunteer workers in government", 
+    "Whistle blowing", 
+    "Wiretapping"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-11-13", 
+    "text": "Homeland Security Act of 2002 - Title I: Department of Homeland Security - (Sec. 101) Establishes a Department of Homeland Security (DHS) as an executive department of the United States, headed by a Secretary of Homeland Security (Secretary) appointed by the President, by and with the advice and consent of the Senate, to: (1) prevent terrorist attacks within the United States; (2) reduce the vulnerability of the United States to terrorism; (3) minimize the damage, and assist in the recovery, from terrorist attacks that occur within the United States; (4) carry out all functions of entities transferred to DHS; (5) ensure that the functions of the agencies and subdivisions within DHS that are not related directly to securing the homeland are not diminished or neglected except by a specific Act of Congress; (6) ensure that the overall economic security of the United States is not diminished by efforts, activities, and programs aimed at securing the homeland; and (7) monitor connections between illegal drug trafficking and terrorism, coordinate efforts to sever such connections, and otherwise contribute to efforts to interdict illegal drug trafficking. Vests primary responsibility for investigating and prosecuting acts of terrorism in Federal, State, and local law enforcement agencies with proper jurisdiction except as specifically provided by law with respect to entities transferred to DHS under this Act.(Sec. 102) Directs the Secretary to appoint a Special Assistant to carry out specified homeland security liaison activities between DHS and the private sector.(Sec. 103) Creates the following: (1) a Deputy Secretary of Homeland Security; (2) an Under Secretary for Information Analysis and Infrastructure Protection; (3) an Under Secretary for Science and Technology; (4) an Under Secretary for Border and Transportation Security; (5) an Under Secretary for Emergency Preparedness and Response; (6) a Director of the Bureau of Citizenship and Immigration Services; (7) an Under Secretary for Management; (8) not more than 12 Assistant Secretaries; and (9) a General Counsel. Establishes an Inspector General (to be appointed under the Inspector General Act of 1978). Requires the following individuals to assist the Secretary in the performance of the Secretary's functions: (1) the Commandant of the Coast Guard; (2) the Director of the Secret Service; (3) a Chief Information Officer; (4) a Chief Human Capital Officer; (5) a Chief Financial Officer; and (6) an Officer for Civil Rights and Civil Liberties.Title II: Information Analysis and Infrastructure Protection - Subtitle A: Directorate for Information Analysis and Infrastructure Protection; Access to Information - (Sec. 201) Establishes in the Department: (1) a Directorate for Information Analysis and Infrastructure Protection, headed by an Under Secretary for Information Analysis and Infrastructure Protection; (2) an Assistant Secretary for Information Analysis; and (3) an Assistant Secretary for Infrastructure Protection.Requires the Under Secretary to: (1) access, receive, and analyze law enforcement and intelligence information from Federal, State, and local agencies and the private sector to identify the nature, scope, and identity of terrorist threats to the United States, as well as potential U.S. vulnerabilities; (2) carry out comprehensive assessments of vulnerabilities of key U.S. resources and critical infrastructures; (3) integrate relevant information, analyses, and vulnerability assessments to identify protection priorities; (4) ensure timely and efficient Department access to necessary information for discharging responsibilities; (5) develop a comprehensive national plan for securing key U.S. resources and critical infrastructures; (6) recommend necessary measures to protect such resources and infrastructure in coordination with other entities; (7) administer the Homeland Security Advisory System; (8) review, analyze, and make recommendations for improvements in policies and procedures governing the sharing of law enforcement, intelligence, and intelligence-related information and other information related to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities; (9) disseminate Department homeland security information to other appropriate Federal, State, and local agencies; (10) consult with the Director of Central Intelligence (DCI) and other appropriate Federal intelligence, law enforcement, or other elements to establish collection priorities and strategies for information relating the terrorism threats; (11) consult with State and local governments and private entities to ensure appropriate exchanges of information relating to such threats; (12) ensure the protection from unauthorized disclosure of homeland security and intelligence information; (13) request additional information from appropriate entities relating to threats of terrorism in the United States; (14) establish and utilize a secure communications and information technology infrastructure for receiving and analyzing data; (15) ensure the compatibility and privacy protection of shared information databases and analytical tools; (16) coordinate training and other support to facilitate the identification and sharing of information; (17) coordinate activities with elements of the intelligence community, Federal, State, and local law enforcement agencies, and the private sector; and (18) provide intelligence and information analysis and support to other elements of the Department. Provides for: (1) staffing, including the use of private sector analysts; and (2) cooperative agreements for the detail of appropriate personnel.Transfers to the Secretary the functions, personnel, assets, and liabilities of the following entities: (1) the National Infrastructure Protection Center of the Federal Bureau of Investigation (other than the Computer Investigations and Operations Section); (2) the National Communications System of the Department of Defense; (3) the Critical Infrastructure Assurance Offices of the Department of Commerce; (4) the National Infrastructure Simulation and Analysis Center of the Department of Energy and its energy security and assurance program; and (5) the Federal Computer Incident Response Center of the General Services Administration.Amends the National Security Act of 1947 to include as elements of the intelligence community the Department elements concerned with analyses of foreign intelligence information.(Sec. 202) Gives the Secretary access to all reports, assessments, analyses, and unevaluated intelligence relating to threats of terrorism against the United States, and to all information concerning infrastructure or other vulnerabilities to terrorism, whether or not such information has been analyzed. Requires all Federal agencies to promptly provide to the Secretary: (1) all reports, assessments, and analytical information relating to such threats and to other areas of responsibility assigned to the Secretary; (2) all information concerning the vulnerability of U.S. infrastructure or other U.S. vulnerabilities to terrorism, whether or not it has been analyzed; (3) all other information relating to significant and credible threats of terrorism, whether or not it has been analyzed; and (4) such other information or material as the President may direct. Requires the Secretary to be provided with certain terrorism-related information from law enforcement agencies that is currently required to be provided to the DCI.Subtitle B: Critical Infrastructure Information - Critical Infrastructure Information Act of 2002 - (Sec. 213) Allows a critical infrastructure protection program to be so designated by either the President or the Secretary.(Sec. 214) Exempts from the Freedom of Information Act and other Federal and State disclosure requirements any critical infrastructure information that is voluntarily submitted to a covered Federal agency for use in the security of critical infrastructure and protected systems, analysis, warning, interdependency study, recovery, reconstitution, or other informational purpose when accompanied by an express statement that such information is being submitted voluntarily in expectation of such nondisclosure protection. Requires the Secretary to establish specified procedures for the receipt, care, and storage by Federal agencies of critical infrastructure information voluntarily submitted. Provides criminal penalties for the unauthorized disclosure of such information.Authorizes the Federal Government to issue advisories, alerts, and warnings to relevant companies, targeted sectors, other governmental entities, or the general public regarding potential threats to critical infrastructure.Subtitle C: Information Security - (Sec. 221) Requires the Secretary to establish procedures on the use of shared information that: (1) limit its re-dissemination to ensure it is not used for an unauthorized purpose; (2) ensure its security and confidentiality; (3) protect the constitutional and statutory rights of individuals who are subjects of such information; and (4) provide data integrity through the timely removal and destruction of obsolete or erroneous names and information.(Sec. 222) Directs the Secretary to appoint a senior Department official to assume primary responsibility for information privacy policy.(Sec. 223) Directs the Under Secretary to provide: (1) to State and local government entities and, upon request, to private entities that own or operate critical information systems, analysis and warnings related to threats to and vulnerabilities of such systems, as well as crisis management support in response to threats to or attacks upon such systems; and (2) technical assistance, upon request, to private sector and other government entities with respect to emergency recovery plans to respond to major failures of such systems.(Sec. 224) Authorizes the Under Secretary to establish a national technology guard (known as NET Guard) to assist local communities to respond to and recover from attacks on information systems and communications networks.(Sec. 225) Cyber Security Enhancement Act of 2002 - Directs the U.S. Sentencing Commission to review and amend Federal sentencing guidelines and otherwise address crimes involving fraud in connection with computers and access to protected information, protected computers, or restricted data in interstate or foreign commerce or involving a computer used by or for the Federal Government. Requires a Commission report to Congress on actions taken and recommendations regarding statutory penalties for violations. Exempts from criminal penalties any disclosure made by an electronic communication service to a Federal, State, or local governmental entity if made in the good faith belief that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay. Requires any government entity receiving such a disclosure to report it to the Attorney General.Amends the Federal criminal code to: (1) prohibit the dissemination by electronic means of any such protected information; (2) increase criminal penalties for violations which cause death or serious bodily injury; (3) authorize the use by appropriate officials of emergency pen register and trap and trace devices in the case of either an immediate threat to a national security interest or an ongoing attack on a protected computer that constitutes a crime punishable by a prison term of greater than one year; (4) repeal provisions which provide a shorter term of imprisonment for certain offenses involving protection from the unauthorized interception and disclosure of wire, oral, or electronic communications; and (5) increase penalties for repeat offenses in connection with unlawful access to stored communications.Subtitle D: Office of Science and Technology - (Sec. 231) Establishes within the Department of Justice (DOJ) an Office of Science and Technology whose mission is to: (1) serve as the national focal point for work on law enforcement technology (investigative and forensic technologies, corrections technologies, and technologies that support the judicial process); and (2) carry out programs that improve the safety and effectiveness of such technology and improve technology access by Federal, State, and local law enforcement agencies. Sets forth Office duties, including: (1) establishing and maintaining technology advisory groups and performance standards; (2) carrying out research, development, testing, evaluation, and cost-benefit analyses for improving the safety, effectiveness, and efficiency of technologies used by Federal, State, and local law enforcement agencies; and (3) operating the regional National Law Enforcement and Corrections Technology Centers (established under this Subtitle) and establishing additional centers. Requires the Office Director to report annually on Office activities.(Sec. 234) Authorizes the Attorney General to transfer to the Office any other DOJ program or activity determined to be consistent with its mission. Requires a report from the Attorney General to the congressional judiciary committees on the implementation of this Subtitle.(Sec. 235) Requires the Office Director to operate and support National Law Enforcement and Corrections Technology Centers and, to the extent necessary, establish new centers through a merit-based, competitive process. Requires such Centers to: (1) support research and development of law enforcement technology; (2) support the transfer and implementation of such technology; (3) assist in the development and dissemination of guidelines and technological standards; and (4) provide technology assistance, information, and support for law enforcement, corrections, and criminal justice purposes. Requires the Director to: (1) convene an annual meeting of such Centers; and (2) report to Congress assessing the effectiveness of the Centers and identifying the number of Centers necessary to meet the technology needs of Federal, State, and local law enforcement in the United States.(Sec. 237) Amends the Omnibus Crime Control and Safe Streets Act of 1968 to require the National Institute of Justice to: (1) research and develop tools and technologies relating to prevention, detection, investigation, and prosecution of crime; and (2) support research, development, testing, training, and evaluation of tools and technology for Federal, State, and local law enforcement agencies.Title III: Science and Technology in Support of Homeland Security - (Sec. 301) Establishes in DHS a Directorate of Science and Technology, headed by an Under Secretary for Science and Technology, to be responsible for: (1) advising the Secretary regarding research and development (R&D) efforts and priorities in support of DHS missions; (2) developing a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government's civilian efforts to identify and develop countermeasures to chemical, biological, radiological, nuclear, and other emerging terrorist threats; (3) supporting the Under Secretary for Information Analysis and Infrastructure Protection by assessing and testing homeland security vulnerabilities and possible threats; (4) conducting basic and applied R&D activities relevant to DHS elements, provided that such responsibility does not extend to human health-related R&D activities; (5) establishing priorities for directing, funding, and conducting national R&D and procurement of technology systems for preventing the importation of chemical, biological, radiological, nuclear, and related weapons and material and for detecting, preventing, protecting against, and responding to terrorist attacks; (6) establishing a system for transferring homeland security developments or technologies to Federal, State, and local government and private sector entities; (7) entering into agreements with the Department of Energy (DOE) regarding the use of the national laboratories or sites and support of the science and technology base at those facilities; (8) collaborating with the Secretary of Agriculture and the Attorney General in the regulation of certain biological agents and toxins as provided in the Agricultural Bioterrorism Protection Act of 2002; (9) collaborating with the Secretary of Health and Human Services and the Attorney General in determining new biological agents and toxins that shall be listed as select agents in the Code of Federal Regulations; (10) supporting U.S. leadership in science and technology; (11) establishing and administering the primary R&D activities of DHS; (12) coordinating and integrating all DHS R&D activities; (13) coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of DHS to reduce duplication and identify unmet needs; and (14) developing and overseeing the administration of guidelines for merit review of R&D projects throughout DHS and for the dissemination of DHS research.(Sec. 303) Transfers to the Secretary: (1) specified DOE functions, including functions related to chemical and biological national security programs, nuclear smuggling programs and activities within the proliferation detection program, the nuclear assessment program, designated life sciences activities of the biological and environmental research program related to microbial pathogens, the Environmental Measurements Laboratory, and the advanced scientific computing research program at Lawrence Livermore National Laboratory; (2) the National Bio-Weapons Defense Analysis Center of DOD; and (3) the Plum Island Animal Disease Center of the Department of Agriculture.(Sec. 304) Requires the HHS Secretary, with respect to civilian human health-related R&D activities relating to HHS countermeasures for chemical, biological, radiological, and nuclear and other emerging terrorist threats, to: (1) set priorities, goals, objectives, and policies and develop a coordinated strategy for such activities in collaboration with the Secretary to ensure consistency with the national policy and strategic plan; and (2) collaborate with the Secretary in developing specific benchmarks and outcome measurements for evaluating progress toward achieving such priorities and goals.Amends the Public Health Service Act to: (1) authorize the HHS Secretary to declare that an actual or potential bioterrorist incident or other public health emergency makes advisable the administration of a covered countermeasure against smallpox to a category or categories of individuals; (2) require the HHS Secretary to specify the substances to be considered countermeasures and the beginning and ending dates of the period of the declaration; and (3) deem a covered person to be an employee of the Public Health Service with respect to liability arising out of administration of such a countermeasure.Extends liability to the United States (with an exception) with respect to claims arising out of an administration of a covered countermeasure to an individual only if: (1) the countermeasure was administered by a qualified person for the purpose of preventing or treating smallpox during the effective period; (2) the individual was within a covered category; or (3) the qualified person administering the countermeasure had reasonable grounds to believe that such individual was within such category. Provides for a rebuttable presumption of an administration within the scope of a declaration in the case where an individual who is not vaccinated contracts vaccinia Makes the remedy against the United States provided under such Act exclusive of any other civil action or proceeding against a covered person for any claim or suit arising out of the administration of a covered countermeasure.(Sec. 305) Authorizes the Secretary, acting through the Under Secretary, to establish or contract with one or more federally funded R&D centers to provide independent analysis of homeland security issues or to carry out other responsibilities under this Act.(Sec. 306) Directs the President to notify the appropriate congressional committees of any proposed transfer of DOE life sciences activities.(Sec. 307) Establishes the Homeland Security Advanced Research Projects Agency to be headed by a Director who shall be appointed by the Secretary and who shall report to the Under Secretary. Requires the Director to administer the Acceleration Fund for Research and Development of Homeland Security Technologies (established by this Act) to award competitive, merit-reviewed grants, cooperative agreements, or contracts to public or private entities to: (1) support basic and applied homeland security research to promote revolutionary changes in technologies that would promote homeland security; (2) advance the development, testing and evaluation, and deployment of critical homeland security technologies; and (3) accelerate the prototyping and deployment of technologies that would address homeland security vulnerabilities. Allows the Director to solicit proposals to address specific vulnerabilities. Requires the Director to periodically hold homeland security technology demonstrations to improve contact among technology developers, vendors, and acquisition personnel.Authorizes appropriations to the Fund. Earmarks ten percent of such funds for each fiscal year through FY 2005 for the Under Secretary, through joint agreement with the Commandant of the Coast Guard, to carry out R&D of improved ports, waterways, and coastal security surveillance and perimeter protection capabilities to minimize the possibility that Coast Guard cutters, aircraft, helicopters, and personnel will be diverted from non-homeland security missions to the ports, waterways, and coastal security mission.(Sec. 308) Requires the Secretary, acting through the Under Secretary, to: (1) operate extramural R&D programs to ensure that colleges, universities, private research institutes, and companies (and consortia thereof) from as many areas of the United States as practicable participate; and (2) establish a university-based center or centers for homeland security which shall establish a coordinated, university-based system to enhance the Nation's homeland security. Authorizes the Secretary, through the Under Secretary, to: (1) draw upon the expertise of any Government laboratory; and (2) establish a headquarters laboratory for DHS and additional laboratory units.(Sec. 309) Allows the Secretary, in carrying out DHS missions, to utilize DOE national laboratories and sites through: (1) a joint sponsorship arrangement; (2) a direct contact between DHS and the applicable DOE laboratory or site; (3) any \"work for others\" basis made available by that laboratory or site; or (4) any other method provided by law. Allows DHS to be a joint sponsor: (1) with DOE of one or more DOE national laboratories; and (2) of a DOE site in the performance of work as if such site were a federally funded R&D center and the work were performed under a multiple agency sponsorship arrangement with DHS Directs the Secretary and the Secretary of DOE to ensure that direct contracts between DHS and the operator of a DOE national laboratory or site for programs or activities transferred from DOE to DHS are separate from the direct contracts of DOE with such operator.Establishes within the Directorate of Science and Technology an Office for National Laboratories which shall be responsible for the coordination and utilization of DOE national laboratories and sites in a manner to create a networked laboratory system to support DHS missions.(Sec. 310) Directs the Secretary of Agriculture to transfer to the Secretary the Plum Island Animal Disease Center of the Department of Agriculture and provides for continued Department of Agriculture access to such Center.(Sec. 311) Establishes within DHS a Homeland Security Science and Technology Advisory Committee to make recommendations with respect to the activities of the Under Secretary.(Sec. 312) Directs the Secretary to establish the Homeland Security Institute, a federally funded R&D center. Includes among authorized duties for the Institute: (1) determination of the vulnerabilities of the Nation's critical infrastructures; (2) assessment of the costs and benefits of alternative approaches to enhancing security; and (3) evaluation of the effectiveness of measures deployed to enhance the security of institutions, facilities, and infrastructure that may be terrorist targets.(Sec. 313) Requires the Secretary to establish and promote a program to encourage technological innovation in facilitating the mission of DHS, to include establishment of: (1) a centralized Federal clearinghouse to further the dissemination of information on technologies; and (2) a technical assistance team to assist in screening submitted proposals.Title IV: Directorate of Border and Transportation Security - Subtitle A: Under Secretary for Border and Transportation Security - (Sec. 401) Establishes in DHS a Directorate of Border and Transportation Security to be headed by an Under Secretary for Border and Transportation Security. Makes the Secretary, acting through the Under Secretary for Border and Transportation Security, responsible for: (1) preventing the entry of terrorists and the instruments of terrorism into the United States; (2) securing the borders, territorial waters, ports, terminals, waterways, and air, land, and sea transportation systems of the United States; (3) carrying out the immigration enforcement functions vested by statute in, or performed by, the Commissioner of Immigration and Naturalization immediately before their transfer to the Under Secretary; (4) establishing and administering rules governing the granting of visas or other forms of permission to enter the United States to individuals who are not citizens or aliens lawfully admitted for permanent residence in the United States; (5) establishing national immigration enforcement policies and priorities; (6) administering the customs laws of the United States (with certain exceptions); (7) conducting the inspection and related administrative functions of the Department of Agriculture transferred to the Secretary; and (8) ensuring the speedy, orderly, and efficient flow of lawful traffic and commerce in carrying out the foregoing responsibilities.(Sec. 403) Transfers to the Secretary the functions, personnel, assets, and liabilities of: (1) the U.S. Customs Service; (2) the Transportation Security Administration; (3) the Federal Protective Service of the General Services Administration (GSA); (4) the Federal Law Enforcement Training Center of the Department of the Treasury; and (5) the Office for Domestic Preparedness of the Office of Justice Programs of the Department of Justice (DOJ).Subtitle B: United States Customs Service - (Sec. 411) Establishes in DHS the U.S. Customs Service (transferred from the Department of the Treasury, but with certain customs revenue functions remaining with the Secretary of the Treasury). Authorizes the Secretary of the Treasury to appoint up to 20 new personnel to work with DHS personnel in performing customs revenue functions.(Sec. 414) Requires the President to include a separate budget request for the U.S. Customs Service in the annual budget transmitted to Congress.(Sec. 416) Directs the Comptroller General to report to Congress on all trade functions performed by the executive branch, specifying each agency that performs each such function.(Sec. 417) Directs the Secretary to ensure that adequate staffing is provided to assure that levels of current customs revenue services will continue to be provided. Requires the Secretary to notify specified congressional committees prior to taking any action which would: (1) result in any significant reduction in customs revenue services (including hours of operation provided at any office within DHS or any port of entry); (2) eliminate or relocate any office of DHS which provides customs revenue services; or (3) eliminate any port of entry.(Sec. 419) Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to create in the Treasury a separate Customs Commercial and Homeland Security Automation Account to contain merchandise processing (customs user) fees. Authorizes appropriations for FY 2003 through 2005 for establishment of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of DHS.Subtitle C: Miscellaneous Provisions - (Sec. 421) Transfers to the Secretary the functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under specified animal and plant protection laws.Requires the Secretary of Agriculture and the Secretary to enter into an agreement to effectuate such transfer and to transfer periodically funds collected pursuant to fee authorities under the Food, Agriculture, Conservation, and Trade Act of 1990 to the Secretary for activities carried out by the Secretary for which such fees were collected.Directs the Secretary of Agriculture to transfer to the Secretary not more than 3,200 full-time equivalent positions of the Department of Agriculture.(Sec. 423) Directs the Secretary to establish a liaison office within DHS for the purpose of consulting with the Administrator of the Federal Aviation Administration before taking any action that might affect aviation safety, air carrier operations, aircraft airworthiness, or the use of airspace.(Sec. 424) Requires the Transportation Security Administration to be maintained as a distinct entity within DHS under the Under Secretary for Border Transportation and Security for two years after enactment of this Act.(Sec. 425) Amends Federal aviation law to require the Under Secretary of Transportation for Security to take certain action, if, in his discretion or at the request of an airport, he determines that the Transportation Security Administration is not able to deploy explosive detection systems at all airports required to have them by December 31, 2002. Requires the Under Secretary, in such circumstances, to: (1) submit to specified congressional committees a detailed plan for the deployment of explosive detection systems at such airport by December 31, 2003; and (2) take all necessary action to ensure that alternative means of screening all checked baggage is implemented.(Sec. 426) Replaces the Secretary of Transportation with the Secretary of Homeland Security as chair of the Transportation Security Oversight Board. Requires the Secretary of Transportation to consult with the Secretary before approving airport development project grants relating to security equipment or the installation of bulk explosive detection systems.(Sec. 427) Directs the Secretary, in coordination with the Secretary of Agriculture, the Secretary of Health and Human Services, and the head of each other department or agency determined to be appropriate by the Secretary, to ensure that appropriate information concerning inspections of articles that are imported or entered into the United States, and are inspected or regulated by one or more affected agencies, is timely and efficiently exchanged between the affected agencies. Requires the Secretary to report to Congress on the progress made in implementing this section.(Sec. 428) Grants the Secretary exclusive authority to issue regulations with respect to, administer, and enforce the Immigration and Nationality Act (INA) and all other immigration and nationality laws relating to the functions of U.S. diplomatic and consular officers in connection with the granting or refusal of visas, and authority to refuse visas in accordance with law and to develop programs of homeland security training for consular officers, which authorities shall be exercised through the Secretary of State. Denies the Secretary authority, however, to alter or reverse the decision of a consular officer to refuse a visa to an alien.Grants the Secretary authority also to confer or impose upon any U.S. officer or employee, with the consent of the head of the executive agency under whose jurisdiction such officer or employee is serving, any of these specified functions.Authorizes the Secretary of State to direct a consular officer to refuse a visa to an alien if the Secretary of State deems such refusal necessary or advisable in the foreign policy or security interests of the United States.Authorizes the Secretary to assign employees of DHS to any diplomatic and consular posts abroad to review individual visa applications and provide expert advice and training to consular officers regarding specific security threats relating to such applications and to conduct investigations with respect to matters under the Secretary's jurisdiction.Directs the Secretary to study and report to Congress on the role of foreign nationals in the granting or refusal of visas and other documents authorizing entry of aliens into the United States.Requires the Director of the Office of Science and Technology Policy to report to Congress on how the provisions of this section will affect procedures for the issuance of student visas.Terminates after enactment of this Act all third party screening visa issuance programs in Saudi Arabia. Requires on-site personnel of DHS to review all visa applications prior to adjudication.(Sec. 429) Requires visa denial information to be entered into the electronic data system as provided for in the Enhanced Border Security and Visa Entry Reform Act of 2002. Prohibits an alien denied a visa from being issued a subsequent visa unless the reviewing consular officer makes specified findings concerning waiver of ineligibility.(Sec. 430) Establishes within the Directorate of Border and Transportation Security the Office for Domestic Preparedness to: (1) coordinate Federal preparedness for acts of terrorism, working with all State, local, tribal, county, parish, and private sector emergency response providers; (2) coordinate or consolidate systems of communications relating to homeland security at all levels of government; (3) direct and supervise Federal terrorism preparedness grant programs for all emergency response providers; and (4) perform specified other related duties.Subtitle D: Immigration Enforcement Functions - (Sec. 441) Transfers from the Commissioner of Immigration and Naturalization to the Under Secretary for Border and Transportation Security all functions performed under the following programs, and all personnel, assets, and liabilities pertaining to such programs, immediately before such transfer occurs: (1) the Border Patrol program; (2) the detention and removal program; (3) the intelligence program; (4) the investigations program; and (5) the inspections program.(Sec. 442) Establishes in the Department of Homeland Security (DHS) the Bureau of Border Security, headed by the Assistant Secretary of the Bureau of Border Security who shall: (1) report directly to the Under Secretary; (2) establish and oversee the policies for performing functions transferred to the Under Secretary and delegated to the Assistant Secretary by the Under Secretary; and (3) advise the Under Secretary with respect to any policy or operation of the Bureau that may affect the Bureau of Citizenship and Immigration Services.Directs the Assistant Secretary to: (1) administer the program to collect information relating to nonimmigrant foreign students and other exchange program participants; and (2) implement a managerial rotation program.Establishes the position of Chief of Policy and Strategy for the Bureau of Border Security, who shall: (1) make immigration enforcement policy recommendations; and (2) coordinate immigration policy issues with the Chief of Policy and Strategy for the Bureau of Citizenship and Immigration Services.(Sec. 443) Makes the Under Secretary responsible for: (1) investigating noncriminal allegations of Bureau employee misconduct, corruption, and fraud that are not subject to investigation by the Inspector General for DHS; (2) inspecting and assessing Bureau operations; and (3) analyzing Bureau management.(Sec. 444) Authorizes the Under Secretary to impose disciplinary action pursuant to policies and procedures applicable to FBI employees.(Sec. 445) Requires the Secretary of Homeland Security to report on how the Bureau will enforce relevant INA provisions.(Sec. 446) Expresses the sense of Congress that completing the 14-mile border fence project near San Diego, California, mandated by the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 should be a priority for the Secretary.Subtitle E: Citizenship and Immigration Services - (Sec. 451) Establishes in DHS a Bureau of Citizenship and Immigration Services, headed by the Director of the Bureau of Citizenship and Immigration Services, who shall: (1) establish the policies for performing and administering transferred functions; (2) establish national immigration services policies and priorities; and (3) implement a managerial rotation program.Authorizes the Director to implement pilot initiatives to eliminate the backlog of immigration benefit applications.Transfers all Immigration and Naturalization Service (INS) adjudications and related personnel and funding to the Director.Establishes for the Bureau positions of: (1) Chief of Policy and Strategy; (2) legal adviser; (3) budget officer; and (4) Chief of the Office of Citizenship to promote citizenship instruction and training for aliens interested in becoming naturalized U.S. citizens.(Sec. 452) Establishes within the DHS a Citizenship and Immigration Services Ombudsman, with local offices, to: (1) assist individuals and employers resolve problems with the Bureau; (2) identify problem areas; and (3) propose administrative and legislative changes.(Sec. 453) Makes the Director responsible for (1) investigating noncriminal allegations of Bureau employee misconduct, corruption, and fraud that are not subject to investigation by the Inspector General of DHS; (2) inspecting and assessing Bureau operations; and (3) analyzing Bureau management.(Sec. 454) Authorizes the Director to impose disciplinary action pursuant to policies and procedures applicable to FBI employees.(Sec. 456) Sets forth transfer of authority and transfer and allocation of appropriations and personnel provisions.(Sec. 457) Amends the INA to repeal the provision permitting fees for adjudication and naturalization services to be set at a level that will ensure recovery of the costs of similar services provided without charge to asylum applicants.(Sec. 458) Amends the Immigration Services and Infrastructure Improvements Act of 2000 to change the deadline for the Attorney General to eliminate the backlog in the processing of immigration benefit applications to one year after enactment of this Act.(Sec. 459) Directs the Secretary to report on how the Bureau of Citizenship and Immigration Services will efficiently complete transferred INS adjudications.(Sec. 460) Directs the Attorney General to report on changes in law needed to ensure an appropriate response to emergent or unforseen immigration needs.(Sec. 461) Directs the Secretary to: (1) establish an Internet-based system that will permit online information access to a person, employer, immigrant, or nonimmigrant about the processing status of any filings for any benefit under the INA; (2) conduct a feasibility study for online filing and improved processing; and (3) establish a Technology Advisory Committee.(Sec. 462) Transfers to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services (HHS) INS functions with respect to the care of unaccompanied alien children (as defined by this Act).Sets forth the responsibilities of the Office for such children, including: (1) coordinating and implementing the care and placement of unaccompanied alien children who are in Federal custody, including appointment of independent legal counsel to represent the interests of each child; (2) identifying and overseeing individuals, entities, and facilities to house such children; (3) family reunification; (4) compiling, updating, and publishing at least annually a State-by-State list of professionals or other entities qualified to provide guardian and attorney representation services; (5) maintaining related biographical and statistical information; and (6) conducting investigations and inspections of residential facilities.Directs the Office to: (1) consult with juvenile justice professionals to ensure such children's safety; and (2) not release such children upon their own recognizance.Subtitle F: General Immigration Provisions - (Sec. 471) Abolishes INS.(Sec. 472) Authorizes the Attorney General and the Secretary to make voluntary separation incentive payments, after completion of a strategic restructuring plan, to employees of: (1) INS; (2) the Bureau of Border Security of DHS; and (3) the Bureau of Citizenship and Immigration Services of DHS.(Sec. 473) Directs the Attorney General and the Secretary to conduct a demonstration project to determine whether policy or procedure revisions for employee discipline would result in improved personnel management.(Sec. 474) Expresses the sense of Congress that: (1) the missions of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services are equally important and should be adequately funded; and (2) the functions transferred should not operate at levels below those in effect prior to the enactment of this Act.(Sec. 475) Establishes within the Office of Deputy Secretary a Director of Shared Services who shall be responsible for: (1) information resources management; and (2) records, forms, and file management.(Sec. 476) Provides for budgetary and funding separation with respect to the Bureau of Citizenship and Immigration Services and the Bureau of Border Security.(Sec. 477) Sets forth reporting and implementation plan provisions.(Sec. 478) Directs the Secretary to annually report regarding: (1) the aggregate number of all immigration applications and petitions received, and processed; (2) regional statistics on the aggregate number of denied applications and petitions; (3) application and petition backlogs and a backlog elimination plan; (4) application and petition processing periods; (5) number, types, and disposition of grievances and plans to improve immigration services; and (6) appropriate use of immigration-related fees.Expresses the sense of Congress that: (1) the quality and efficiency of immigration services should be improved after the transfers made by Act; and (2) the Secretary should undertake efforts to guarantee that such concerns are addressed after such effective date.Title V: Emergency Preparedness and Response - (Sec. 501) Establishes in DHS a Directorate of Emergency Preparedness and Response, headed by an Under Secretary.(Sec. 502) Requires the responsibilities of the Secretary, acting through the Under Secretary, to include: (1) helping to ensure the effectiveness of emergency response providers to terrorist attacks, major disasters, and other emergencies; (2) with respect to the Nuclear Incident Response Team, establishing and certifying compliance with standards, conducting joint and other exercises and training, and providing funds to the Department of Energy and the Environmental Protection Agency for homeland security planning, training, and equipment; (3) providing the Federal Government's response to terrorist attacks and major disasters; (4) aiding recovery from terrorist attacks and major disasters; (5) building a comprehensive national incident management system with Federal, State, and local governments to respond to such attacks and disasters; (6) consolidating existing Federal Government emergency response plans into a single, coordinated national response plan; and (7) developing comprehensive programs for developing interoperative communications technology and helping to ensure that emergency response providers acquire such technology.(Sec. 503) Transfers to the Secretary the functions, personnel, assets, and liabilities of: (1) the Federal Emergency Management Agency (FEMA); (2) the Integrated Hazard Information System of the National Oceanic and Atmospheric Administration, which shall be renamed FIRESAT; (3) the National Domestic Preparedness Office of the FBI; (4) the Domestic Emergency Support Teams of DOJ; (5) the Office of Emergency Preparedness, the National Disaster Medical System, and the Metropolitan Medical Response System of HHS; and (6) the Strategic National Stockpile of HHS.(Sec. 504) Requires the Nuclear Incident Response Team, at the direction of the Secretary (in connection with an actual or threatened terrorist attack, major disaster, or other emergency in the United States), to operate as an organizational unit of DHS under the Secretary's authority and control.(Sec. 505) Provides that, with respect to all public health-related activities to improve State, local, and hospital preparedness and response to chemical, biological, radiological, and nuclear and other emerging terrorist threats carried out by HHS (including the Public Health Service), the Secretary of HHS shall set priorities and preparedness goals and further develop a coordinated strategy for such activities in collaboration with the Secretary.(Sec. 506) Defines the Nuclear Incident Response Team to include: (1) those entities of the Department of Energy that perform nuclear or radiological emergency support functions, radiation exposure functions at the medical assistance facility known as the Radiation Emergency Assistance Center/Training Site (REAC/TS), radiological assistance functions, and related functions; and (2) Environmental Protection Agency entities that perform such support functions and related functions.(Sec. 507) Includes in the homeland security role of FEMA: (1) all functions and authorities prescribed by the Robert T. Stafford Disaster Relief and Emergency Assistance Act; and (2) a comprehensive, risk-based emergency management program of mitigation, of planning for building the emergency management profession, of response, of recovery, and of increased efficiencies. Maintains FEMA as the lead agency for the Federal Response Plan established under Executive Orders 12148 and 12656. Requires the FEMA Director to revise the Plan to reflect the establishment of and incorporate DHS.(Sec. 508) Directs the Secretary, to the maximum extent practicable, to use national private sector networks and infrastructure for emergency response to major disasters.(Sec. 509) Expresses the sense of Congress that the Secretary should: (1) use off-the-shelf commercially developed technologies to allow DHS to collect, manage, share, analyze, and disseminate information securely over multiple channels of communication; and (2) rely on commercial sources to supply goods and services needed by DHS.Title VI: Treatment of Charitable Trusts for Members of the Armed Forces of the United States and Other Governmental Organizations - (Sec. 601) Sets forth requirements a charitable corporation, fund, foundation, or trust must meet to designate itself as a Johnny Micheal Spann Patriot Trust (a charitable trust for the spouses, dependents, and relatives of military and Federal personnel who lose their lives in the battle against terrorism that is named after the first American to die in such service following the September 11th terrorist attacks). Requires at least 85 percent of each Trust corpus to be distributed to such survivors and prohibits more than 15 percent from being used for administrative purposes. Prohibits: (1) any Trust activities from violating any prohibition against attempting to influence legislation; and (2) any such Trust from participating in any political campaign on behalf of a candidate for public office. Requires: (1) audits of each Trust that annually receives contributions of more than $1 million; and (2) Trust distributions to be made at least once a year. Provides for the notification of Trust beneficiaries.Title VII: Management - (Sec. 701) Makes the Secretary, acting through the Under Secretary for Management, responsible for the management and administration of DHS. Details certain responsibilities of the Under Secretary with respect to immigration statistics. Transfers to the Under Secretary functions previously performed by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service (INS) with respect to: (1) the Border Patrol program; (2) the detention and removal program; (3) the intelligence program; (4) the investigations program; (5) the inspections program; and (6) INS adjudications.(Sec. 702) Requires a chief financial officer, a chief information officer, and a chief human capital officer to report to the Secretary. Requires the chief human capital officer to ensure that all DHS employees are informed of their rights and remedies under merit system protection and principle provisions.(Sec. 705) Requires the Secretary to appoint an Officer for Civil Rights and Civil Liberties who shall: (1) review and assess information alleging abuses of civil rights, civil liberties, and racial and ethnic profiling by employees and officials of DHS; and (2) make public information on the responsibilities and functions of, and how to contact, the Office.(Sec. 706) Requires the Secretary to develop and submit to Congress a plan for consolidating and co-locating: (1) any regional offices or field offices of agencies that are transferred to DHS under this Act, if their officers are located in the same municipality; and (2) portions of regional and field offices of other Federal agencies, to the extent such offices perform functions that are transferred to the Secretary under this Act.Title VIII: Coordination With Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions - Subtitle A: Coordination with Non-Federal Entities - (Sec. 801) Establishes within the Office of the Secretary the Office for State and Local Government Coordination to oversee and coordinate Department homeland security programs for and relationships with State and local governments.Subtitle B: Inspector General - (Sec. 811) Places the DHS Inspector General under the authority, direction, and control of the Secretary with respect to audits or investigations, or the issuance of subpoenas, that require access to sensitive information concerning intelligence, counterintelligence, or counterterrorism matters; criminal investigations or proceedings; undercover operations; the identify of confidential sources; and certain matters of disclosure.Amends the Inspector General Act of 1978 to: (1) give such Inspector General oversight responsibility for internal investigations performed by the Office of Internal Affairs of the United States Customs Service and the Office of Inspections of the United States Secret Service; and (2) authorize each Inspector General, any Assistant Inspector General for Investigations, and any special agent supervised by such an Assistant Inspector General to carry a firearm, make arrests without warrants, and seek and execute warrants. Allows the latter only upon certain determinations by the Attorney General (exempts the Inspector General offices of various executive agencies from such requirement). Provides for the rescinding of such law enforcement powers. Requires the Inspector General offices exempted from the determinations requirement to collectively enter into a memorandum of understanding to establish an external review process for ensuring that adequate internal safeguards and management procedures continue to exist to ensure the proper utilization of such law enforcement powers within their departments.Subtitle C: United States Secret Service - (Sec. 821) Transfers to the Secretary the functions of the United States Secret Service, which shall be maintained as a distinct entity within DHS.Subtitle D: Acquisitions - (Sec. 831) Authorizes the Secretary to carry out a five-year pilot program under which the Secretary may exercise specified authorities in carrying out: (1) basic, applied, and advanced research and development projects for response to existing or emerging terrorist threats; and (2) defense prototype projects. Requires a report from the Comptroller General to specified congressional committees on the use of such authorities.(Sec. 832) Permits the Secretary to procure temporary or intermittent: (1) services of experts or consultants; and (2) personal services without regard to certain pay limitations when necessary due to an urgent homeland security need.(Sec. 833) Authorizes the Secretary to use specified micro purchase, simplified acquisition, and commercial item acquisition procedures with respect to any procurement made during the period beginning on the effective date of this Act and ending on September 30, 2007, if the Secretary determines that the mission of DHS would be seriously impaired without the use of such authorities. Requires a report from the Comptroller General.(Sec. 834) Requires the Federal Acquisition Regulation to be revised to include regulations with regard to unsolicited proposals.(Sec. 835) Prohibits the Secretary from entering into a contract with a foreign incorporated entity which is treated as an inverted domestic corporation. Sets forth requirements for such treatment. Authorizes the Secretary to waive such prohibition in the interest of homeland security, to prevent the loss of any jobs in the United States, or to prevent the Government from incurring any additional costs.Subtitle E: Human Resources Management - (Sec. 841) Expresses the sense of Congress calling for the participation of DHS employees in the creation of the DHS human resources management system.Amends Federal civil service law to authorize the Secretary, in regulations prescribed jointly with the Director of the Office of Personnel Management (OPM), to establish and adjust a human resources management system for organizational units of DHS. Requires the system to ensure that employees may organize, bargain collectively, and participate through labor organizations of their own choosing in decisions which affect them, subject to an exclusion from coverage or limitation on negotiability established by law. Imposes certain requirements upon the Secretary and the OPM Director to ensure the participation of employee representatives in the planning, development, and implementation of any human resources management system or system adjustments.Declares the sense of Congress that DHS employees are entitled to fair treatment in any appeals that they bring in decisions relating to their employment.Terminates all authority to issue regulations under this section five years after enactment of this Act.(Sec. 842) Prohibits any agency or agency subdivision transferred to DHS from being excluded from coverage under labor-management relations requirements as a result of any order issued after June 18, 2002, unless: (1) the mission and responsibilities of the agency or subdivision materially change; and (2) a majority of the employees within the agency or subdivision have as their primary duty intelligence, counterintelligence, or investigative work directly related to terrorism investigation. Declares that collective bargaining units shall continue to be recognized unless such conditions develop. Prohibits exclusion of positions or employees for a bargaining unit unless the primary job duty materially changes or consists of intelligence, counterintelligence, or investigative work directly related to terrorism investigation. Waives these prohibitions and recognitions in circumstances where the President determines that their application would have a substantial adverse impact on the Department's ability to protect homeland security.Subtitle F: Federal Emergency Procurement Flexibility - (Sec. 852) Provides that the simplified acquisition threshold to be applied for any executive agency procurement of property or services that is to be used to facilitate the defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack and that is carried out in support of a humanitarian or peacekeeping operation or a contingency operation shall be: (1) $200,000 for a contract to be awarded and performed, or a purchase to be made, inside the United States; or (2) $300,000 for a contract to be awarded and performed, or a purchase to be made, outside the United States.(Sec. 854) Authorizes the head of each agency to designate certain employees to make such procurements below a micro-purchase threshold of $7,500 (currently $2,500) under the Office of Federal Procurement Policy Act.(Sec. 855) Permits executive agencies to apply to any such procurement specified provisions of law relating to the procurement of commercial items, without regard to whether the property and services are commercial items. Makes the $5 million limitation on the use of simplified acquisition procedures inapplicable to purchases of property or services to which such provisions apply.(Sec. 856) Requires executive agencies to use specified streamlined acquisition authorities and procedures for such procurements. Waives certain small business threshold requirements with respect to such procurements.(Sec. 857) Requires the Comptroller General to review and report to specified congressional committees on the extent to which procurements of property and services have been made in accordance with requirements of this Subtitle.(Sec. 858) Requires each executive agency to conduct market research to identify the capabilities of small businesses and new entrants into Federal contracting that are available to meet agency requirements in furtherance of defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack.Subtitle G: Support Anti-terrorism by Fostering Effective Technologies Act of 2002 - Support Anti-terrorism by Fostering Effective Technologies Act of 2002 or SAFETY Act - (Sec. 862) Authorizes the Secretary to designate anti-terrorism technologies that qualify for protection under a risk management system in accordance with criteria that shall include: (1) prior Government use or demonstrated substantial utility and effectiveness; (2) availability for immediate deployment in public and private settings; (3) substantial likelihood that such technology will not be deployed unless protections under such system are extended; and (4) the magnitude of risk exposure to the public if such technology is not deployed. Makes the Secretary responsible for administration of such protections.(Sec. 863) Provides a Federal cause of action for sellers suffering a loss from qualified anti-terrorism technologies so deployed. Prohibits punitive damages from being awarded against a seller.(Sec. 864) Requires sellers of qualified anti-terrorism technologies to obtain liability insurance in amounts certified as satisfactory by the Secretary.Subtitle H: Miscellaneous Provisions - (Sec. 871)Authorizes the Secretary to establish, appoint members of, and use the services of advisory committees as necessary.(Sec. 872) Grants the Secretary limited authority to reorganize DHS by allocating or reallocating functions within it and by establishing, consolidating, altering, or discontinuing organizational units.(Sec. 873) Requires the Secretary to comply with Federal requirements concerning the deposit of proceeds from property sold or transferred by the Secretary. Requires the President to submit to Congress a detailed Department budget request for FY 2004 and thereafter.(Sec. 874) Requires each such budget request to be accompanied by a Future Years Homeland Security Program structured in the same manner as the annual Future Years Defense Program.(Sec. 876) Provides that nothing in this Act shall confer upon the Secretary any authority to engage in war fighting, the military defense of the United States, or other military activities or limit the existing authority of the Department of Defense or the armed forces to do so.(Sec. 878) Directs the Secretary to appoint a senior DHS official to assume primary responsibility for coordinating policy and operations within DHS and between DHS and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States and tracking and severing connections between illegal drug trafficking and terrorism.(Sec. 879) Establishes within the Office of the Secretary an Office of International Affairs, headed by a Director, to: (1) promote information and education exchange on homeland security best practices and technologies with friendly nations; (2) identify areas for homeland security information and training exchange where the United States has a demonstrated weakness and another friendly nation has a demonstrated expertise; (3) plan and undertake international conferences, exchange programs, and training activities; and (4) manage international activities within DHS in coordination with other Federal officials with responsibility for counter-terrorism matters.(Sec. 880) Prohibits any Government activity to implement the proposed component program of the Citizen Corps known as Operation TIPS (Terrorism Information and Prevention System).(Sec. 881) Directs the Secretary to review the pay and benefit plans of each agency whose functions are transferred to DHS under this Act and to submit a plan for ensuring the elimination of disparities in pay and benefits throughout DHS, especially among law enforcement personnel, that are inconsistent with merit system principles.(Sec. 882) Establishes within the Office of the Secretary the Office of National Capital Region Coordination, headed by a Director, to oversee and coordinate Federal homeland security programs for and relationships with State, local, and regional authorities within the National Capital Region. Requires an annual report from the Office to Congress on: (1) resources needed to fully implement homeland security efforts in the Region; (2) progress made by the Region in implementing such efforts; and (3) recommendations for additional needed resources to fully implement such efforts.(Sec. 883) Requires DHS to comply with specified laws protecting equal employment opportunity and providing whistle blower protections.(Sec. 885) Authorizes the Secretary to establish a permanent Joint Interagency Homeland Security Task Force, composed of representatives from military and civilian agencies, for the purpose of anticipating terrorist threats and taking actions to prevent harm to the United States.(Sec. 886) Reaffirms the continued importance of Federal criminal code proscriptions on the use of the armed forces as posse comitatus and expresses the sense of Congress that nothing in this Act shall be construed to alter the applicability of such proscriptions to any use of the armed forces to execute the laws.(Sec. 887) Requires the annual Federal response plan developed by DHS to be consistent with public health emergency provisions of the Public Health Service Act . Requires full disclosure of public health emergencies, or potential emergencies, among HHS, DHS, the Department of Justice, and the Federal Bureau of Investigation.(Sec. 888) Transfers to DHS the authorities, functions, personnel, and assets of the Coast Guard, which shall be maintained as a distinct entity within DHS. Prohibits the Secretary from substantially or significantly reducing current Coast Guard missions or capabilities, with a waiver of such prohibition upon a declaration and certification to Congress that a clear, compelling and immediate need exists. Requires the DHS Inspector General to annually review and report to Congress on performance by the Coast Guard of its mission requirements. Requires the Commandant of the Coast Guard, upon its transfer, to report directly to the Secretary. Prohibits any of the above conditions and restrictions from applying to the Coast Guard when it is operating as a service in the Navy. Directs the Secretary to report to specified congressional committees on the feasibility of accelerating the rate of procurement in the Coast Guard's Integrated Deepwater System from 20 to ten years.(Sec. 889) Requires the inclusion in the President's annual budget documents of a detailed homeland security funding analysis for the previous, current, and next fiscal years.(Sec. 890) Amends the Air Transportation Safety and System Stabilization Act, with respect to the September 11th Victim Compensation Fund of 2001, to limit\"agents\" of an air carrier engaged in the business of providing air transportation security to persons that have contracted directly with the Federal Aviation Administration on or after February 17, 2002, to provide such security and that had not been or are not debarred within six months of that date.Subtitle I: Information Sharing - Homeland Security Information Sharing Act - (Sec. 891) Expresses the sense of Congress that Federal, State, and local entities should share homeland security information to the maximum extent practicable, with special emphasis on hard-to-reach urban and rural communities.(Sec. 892) Directs the President to prescribe and implement procedures for Federal agency: (1) sharing of appropriate homeland security information, including with DHS and appropriate State and local personnel; and (2) handling of classified information and sensitive but unclassified information. Authorizes appropriations.(Sec. 893) Requires an implementation report from the President to the congressional intelligence and judiciary committees.(Sec. 895) Amends the Federal Rules of Criminal Procedure to treat as contempt of court any knowing violation of guidelines jointly issued by the Attorney General and DCI with respect to disclosure of grand jury matters otherwise prohibited. Allows disclosure to appropriate Federal, State, local, or foreign government officials of grand jury matters involving a threat of grave hostile acts of a foreign power, domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power (threat), within the United States or elsewhere. Permits disclosure to appropriate foreign government officials of grand jury matters that may disclose a violation of the law of such government. Requires State, local, and foreign officials to use disclosed information only in conformity with guidelines jointly issued by the Attorney General and the DCI.(Sec. 896) Amends the Federal criminal code to authorize Federal investigative and law enforcement officers conducting communications interception activities, who have obtained knowledge of the contents of any intercepted communication or derivative evidence, to disclose such contents or evidence to: (1) a foreign investigative or law enforcement officer if the disclosure is appropriate to the performance of the official duties of the officer making or receiving the disclosure; and (2) any appropriate Federal, State, local, or foreign government official if the contents or evidence reveals such a threat, for the purpose of preventing or responding to such threat. Provides guidelines for the use and disclosure of the information.(Sec. 897) Amends the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act (USA PATRIOT ACT) of 2001 to make lawful the disclosure to appropriate Federal, State, local, or foreign government officials of information obtained as part of a criminal investigation that reveals such a threat.(Sec. 898) Amends the Foreign Intelligence Surveillance Act of 1978 to allow Federal officers who conduct electronic surveillance and physical searches in order to acquire foreign intelligence information to consult with State and local law enforcement personnel to coordinate efforts to investigate or protect against such a threat.Title IX: National Homeland Security Council - (Sec. 901) Establishes within the Executive Office of the President the Homeland Security Council to advise the President on homeland security matters.(Sec. 903) Includes as members of the Council: (1) the President; (2) the Vice President; (3) the Secretary; (4) the Attorney General; and (5) the Secretary of Defense.(Sec. 904) Requires the Council to: (1) assess the objectives, commitments, and risks of the United States in the interest of homeland security and make recommendations to the President; and (2) oversee and review Federal homeland security policies and make policy recommendations to the President.(Sec. 906) Authorizes the President to convene joint meetings of the Homeland Security Council and the National Security Council.Title X: Information Security - Federal Information Security Management Act of 2002 - (Sec. 1001) Revises Government information security requirements. Requires the head of each agency operating or exercising control of a national security system to ensure that the agency: (1) provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information; and (2) implements information security policies and practices as required by standards and guidelines for national security systems. Authorizes appropriations for FY 2003 through 2007.(Sec. 1002) Transfers from the Secretary of Commerce to the Director of the Office of Management and Budget (OMB) the authority to promulgate information security standards pertaining to Federal information systems.(Sec. 1003) Amends the National Institute of Standards and Technology Act to revise and expand the mandate of the National Institute of Standards and Technology to develop standards, guidelines, and associated methods and techniques for information systems. Renames the Computer System Security and Privacy Advisory Board as the Information Security and Privacy Board and requires it to advise the Director of OMB (instead of the Secretary of Commerce) on information security and privacy issues pertaining to Federal Government information systems.Title XI: Department of Justice Divisions - Subtitle A: Executive Office for Immigration Review - (Sec. 1101) Declares that there is in the Department of Justice (DOJ) the Executive Office for Immigration Review (EOIR), which shall be subject to the direction and regulation of the Attorney General under the INA.(Sec. 1102) Amends the INA to grant the Attorney General such authorities and functions relating to the immigration and naturalization of aliens as were exercised by EOIR, or by the Attorney General with respect to EOIR, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.Subtitle B: Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice - (Sec. 1111) Establishes within DOJ, under the Attorney General's authority, the Bureau of Alcohol, Tobacco, Firearms, and Explosives (the Bureau). Transfers to DOJ the authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms (BATF), which shall be maintained as a distinct entity within DOJ, including the related functions of the Secretary of the Treasury.Provides that the Bureau shall be headed by a Director and shall be responsible for: (1) investigating criminal and regulatory violations of the Federal firearms, explosives, arson, alcohol, and tobacco smuggling laws; (2) such transferred functions; and (3) any other function related to the investigation of violent crime or domestic terrorism that is delegated to the Bureau by the Attorney General.Retains within the Department of the Treasury certain authorities, functions, personnel, and assets of BATF relating to the administration and enforcement of the Internal Revenue Code.Establishes within the Department of the Treasury the Tax and Trade Bureau, which shall retain and administer the authorities, functions, personnel, and assets of BATF that are not transferred to DOJ.(Sec. 1113) Amends the Federal criminal code to authorize special agents of the Bureau, as well as any other investigator or officer charged by the Attorney General with enforcing criminal, seizure, or forfeiture laws, to carry firearms, serve warrants and subpoenas, and make arrests without warrant for offenses committed in their presence or for felonies on reasonable grounds. Authorizes any special agent to make seizures of property subject to forfeiture to the United States. Sets forth provisions regarding seizure, disposition, and claims pertaining to property.(Sec. 1114) Establishes within the Bureau an Explosives Training and Research Facility at Fort AP Hill in Fredericksburg, Virginia, to train Federal, State, and local law enforcement officers to: (1) investigate bombings and explosions; (2) properly handle, utilize, and dispose of explosive materials and devices; (3) train canines on explosive detection; and (4) conduct research on explosives. Authorizes appropriations.(Sec. 1115) Transfers the Personnel Management Demonstration Project to the Attorney General for continued use by the Bureau and to the Secretary of the Treasury for continued use by the Tax and Trade Bureau.Subtitle C: Explosives - Safe Explosives Act - (Sec. 1122) Rewrites Federal criminal code provisions regarding the purchase of explosives to create a new \"limited permit\" category. Prohibits a holder of a limited permit: (1) from transporting, shipping, causing to be transported, or receiving in interstate or foreign commerce explosive materials; (2) from receiving explosive materials from a licensee or permittee whose premises are located outside the holder's State of residence; or (3) on more than six separate occasions during the period of the permit, from receiving explosive materials from one or more licensees or permittees whose premises are located within the holder's State of residence.Requires license, user permit, and limited permit applicants to include the names of and identifying information (including fingerprints and a photograph of each responsible person) regarding all employees who will be authorized by the applicant to possess explosive materials. Caps the fee for limited permits at $50 for each permit. Makes each limited permit valid for not longer than one year.Modifies criteria for approving licenses and permits. Requires the Secretary of the Treasury to issue to the applicant the appropriate license or permit if, among other conditions: (1) the applicant is not a person who is otherwise prohibited from possessing explosive materials (excluded person); (2) the Secretary verifies by inspection or other appropriate means that the applicant has a place of storage for explosive materials that meets the Secretary's standards of public safety and security against theft (inapplicable to an applicant for renewal of a limited permit if the Secretary has verified such matters by inspection within the preceding three years); (3) none of the applicant's employees who will be authorized to possess explosive materials is an excluded person; and (4) in the case of a limited permit, the applicant has certified that the applicant will not receive explosive materials on more than six separate occasions during the 12-month period for which the limited permit is valid. Authorizes the Secretary to inspect the storage places of an applicant for or holder of a limited permit only as provided under the code. Requires the Secretary of the Treasury to approve or deny an application for licenses and permits within 90 days.Requires the Secretary: (1) upon receiving from an employer the name and other identifying information with respect to a person or an employee who will be authorized to possess explosive materials, to determine whether such person or employee is an excluded person; (2) upon determining that such person or employee is not an excluded person, to notify the employer and to issue to the person or employee a letter of clearance confirming the determination; and (3) upon determining that such person or employee is an excluded person, to notify the employer and issue to such person or employee a document that confirms the determination, explains the grounds, provides information on how the disability may be relieved, and explains how the determination may be appealed.(Sec. 1123) Includes among aliens who may lawfully receive or possess explosive materials any alien who is in lawful non-immigrant status, is a refugee admitted under the INA, or is in asylum status under the INA and who is: (1) a foreign law enforcement officer of a friendly government; (2) a person having the power to direct the management and policies of a corporation; (3) a member of a North Atlantic Treaty Organization or other friendly foreign military force; or (4) lawfully present in the United States in cooperation with the DCI and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation. (Sec. 1124) Requires: (1) licensed manufacturers, licensed importers, and those who manufacture or import explosive materials or ammonium nitrate to furnish samples and relevant information when required by the Secretary; and (2) the Secretary to authorize reimbursement of the fair market value of samples furnished, as well as reasonable shipment costs.(Sec. 1125) Sets penalties for the destruction of property of institutions receiving Federal financial assistance.(Sec. 1127) Requires a holder of a license or permit to report any theft of explosive materials to the Secretary not later than 24 hours after discovery. Sets penalties for failure to report.(Sec. 1128) Authorizes appropriations.Title XII: Airline War Risk Insurance Legislation - (Sec. 1201) Amends Federal aviation law to extend the period during which the Secretary of Transportation may certify an air carrier as a victim of terrorism (and thus subject to the $100 million limit on aggregate third-party claims) for acts of terrorism from September 22, 2001, through December 31, 2003.(Sec. 1202) Directs the Secretary of Transportation to extend through August 31, 2003, and authorizes the Secretary to extend through December 31, 2003, the termination date of any insurance policy that the Department of Transportation (DOT) issues to an American aircraft or foreign-flag aircraft against loss or damage arising out of any risk from operation, and that is in effect on enactment of this Act, on no less favorable terms to such air carrier than existed on June 19, 2002. Directs the Secretary, however, to amend such policy to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such enactment, and at an additional premium comparable to the premium charged for third-party casualty under the policy.Limits the total premium paid by an air carrier for such a policy to twice the premium it was paying for its third party policy as of June 19, 2002. Declares that coverage in such a policy shall begin with the first dollar of any covered loss incurred.(Sec. 1204) Directs the Secretary of Transportation to report to specified congressional committees concerning: (1) the availability and cost of commercial war risk insurance for air carriers and other aviation entities for passengers and third parties; (2) the economic effect upon such carriers and entities of available commercial war risk insurance; and (3) the manner in which DOT could provide an alternative means of providing aviation war risk reinsurance covering passengers, crew, and third parties through use of a risk-retention group or by other means.Title XIII: Federal Workforce Improvement - Subtitle A: Chief Human Capital Officers - Chief Human Capital Officers Act of 2002 - (Sec. 1302) Requires the heads of Federal departments and agencies currently required to a have Chief Financial Officer to appoint or designate a Chief Human Capital Officer to: (1) advise and assist agency officials in selecting, developing, training, and managing a high-quality, productive workforce in accordance with merit system principles; and (2) implement the rules and regulations of the President and the Office of OPM and civil service laws.Requires such Officer's functions to include: (1) setting the agency's workforce development strategy; (2) assessing workforce characteristics and future needs; (3) aligning the agency's human resources policies and programs with organization mission, strategic goals, and performance outcomes; (4) developing and advocating a culture of continuous learning to attract and retain employees with superior abilities; (5) identifying best practices and benchmarking studies; and (6) applying methods for measuring intellectual capital and identifying links of that capital to organizational performance and growth.(Sec. 1303) Establishes a Chief Human Capital Officers Council (consisting of the Director of OPM, the Deputy Director for Management of the Office of Management and Budget, and the Chief Human Capital Officers of executive departments and other members designated by the Director of OPM) to advise and coordinate the activities of the agencies of its members on such matters as modernization of human resources systems, improved quality of human resources information, and legislation affecting human resources operations and organizations.(Sec. 1304) Directs OPM to design a set of systems, including metrics, for assessing the management of human capital by Federal agencies.Subtitle B: Reforms Relating to Federal Human Capital Management - (Sec. 1311) Requires each agency's: (1) performance plan to describe how its performance goals and objectives are to be achieved; and (2) program performance report to include a review of the goals and evaluation of the plan relative to the agency's strategic human capital management.(Sec. 1312) Authorizes the President to prescribe rules which grant authority for agencies to appoint candidates directly to certain positions for which there exists a severe candidate shortage or a critical hiring need.Allows OPM to establish quality category rating systems for evaluating applicants for competitive service positions under two or more quality categories based on merit rather than numerical ratings. Requires agencies that establish a quality category rating system to report to Congress on that system, including information on the number of employees hired, the impact that system has had on the hiring of veterans and minorities, and the way in which managers were trained in the administration of it.(Sec. 1313) Sets forth provisions governing Federal employee voluntary separation incentive payments. Requires each agency, before obligating any resources for such payments, to submit to OPM for modification and approval a plan outlining the intended use of such payments and a proposed organizational chart for the agency once such payments have been completed. Requires such plan to include the positions and functions affected, the categories of employees to be offered such payments, the timing and amounts of payments, and how the agency will subsequently operate. Limits voluntary separation incentive payments to the lesser of: (1) the amount of severance pay to which an employee would be entitled; or (2) an amount determined by the agency head, not to exceed $25,000. Sets forth provisions regarding the repayment and waiver of repayment of such incentive payments upon subsequent employment with the Government. Authorizes the Director of the Administrative Office of the United States Courts to establish a substantially similar program for the judicial branch. Continues existing voluntary separation incentives authority until expiration.Amends Federal employee early retirement provisions to apply to employees who are: (1) voluntarily separated by an agency undergoing substantial delayering, reorganization, reductions in force, functions transfer, or workforce restructuring; or (2) identified as being in positions that are becoming surplus or excess to the agency's future ability to carry out its mission effectively; and (3) within the scope of the offer of voluntary early retirement on the basis of specific periods or such employee's organizational unit, occupational series, geographical location, and/or skills, knowledge, and other factors related to a position. Expresses the sense of Congress that the implementation of this section is intended to reshape, and not downsize, the Federal workforce.(Sec. 1314) Includes students who provide voluntary services for the Government as \"employees\" for purposes of provisions authorizing agency programs to encourage employees to commute by means other than single-occupancy motor vehicles.Subtitle C: Reforms Relating to the Senior Executive Service - (Sec. 1321) Repeals recertification requirements for senior executives.(Sec. 1322) Changes the limitation on total annual compensation (basic pay and cash payments) from the annual rate of basic pay payable for level I of the Executive Schedule to the total annual compensation payable to the Vice President for certain senior level executive and judicial employees who hold a position in or under an agency that has been certified as having a performance appraisal system which makes meaningful distinctions based on relative performance.Subtitle D: Academic Training - (Sec. 1331) Revises agency academic degree training criteria to allow agencies to select and assign employees to academic degree training and to pay and reimburse such training costs if such training: (1) contributes significantly to meeting an agency training need, resolving an agency staffing problem, or accomplishing goals in the agency's strategic plan; (2) is part of a planned, systemic, and coordinated agency employee development program linked to accomplishing such goals; and (3) is accredited and is provided by a college or university that is accredited by a nationally recognized body.(Sec. 1332) Amends the David L. Boren National Security Education Act of 1991 to modify service agreement requirements for recipients of scholarships and fellowships under the National Security Education Program to provide for recipients to work in other Federal offices or agencies when no national security position is available.Title XIV: Arming Pilots Against Terrorism - Arming Pilots Against Terrorism Act - (Sec. 1402) Amends Federal law to direct the Under Secretary of Transportation for Security (in the Transportation Security Administration) to establish a two-year pilot program to: (1) deputize volunteer pilots of air carriers as Federal law enforcement officers to defend the flight decks of aircraft against acts of criminal violence or air piracy (Federal flight deck officers); and (2) provide training, supervision, and equipment for such officers.Requires the Under Secretary to begin the process of training and deputizing qualified pilots to be Federal flight deck officers under the program. Allows the Under Secretary to request another Federal agency to deputize such officers.Directs the Under Secretary to authorize flight deck officers to carry firearms and to use force, including lethal force, according to standards and circumstances the Under Secretary prescribes. Shields air carriers from liability for damages in Federal or State court arising out of a Federal flight deck officer's use of or failure to use a firearm. Shields flight deck officers from liability for acts or omissions in defending the flight deck of an aircraft against acts of criminal violence or air piracy, except in cases of gross negligence or willful misconduct.Declares that if an accidental discharge of a firearm results in the injury or death of a passenger or crew member on the aircraft, the Under Secretary: (1) shall revoke the deputization of the responsible Federal flight deck officer if such discharge was attributable to the officer's negligence; and (2) may temporarily suspend the pilot program if the Under Secretary determines that a shortcoming in standards, training, or procedures was responsible for the accidental discharge.Prohibits an air carrier from prohibiting a pilot from becoming a Federal flight deck officer, or threatening any retaliatory action against the pilot for doing so.Declares the sense of Congress that the Federal air marshal program is critical to aviation security, and that nothing in this Act shall be construed as preventing the Under Secretary from implementing and training Federal air marshals.(Sec. 1403) Directs the Under Secretary, in updating the guidance for training flight and cabin crews, to issue a rule to: (1) require both classroom and effective hands-on situational training in specified elements of self-defense; (2) require training in the proper conduct of a cabin search, including the duty time required to conduct it; (3) establish the required number of hours of training and the qualifications for training instructors; (4) establish the intervals, number of hours, and elements of recurrent training; (5) ensure that air carriers provide the initial training within 24 months of the enactment of this Act. Directs the Under Secretary to designate an official in the Transportation Security Administration to be responsible for overseeing the implementation of the training program; and (6) ensure that no person is required to participate in any hands-on training activity that such person believes will have an adverse impact on his or her health or safety.Amends the Aviation and Transportation Security Act to authorize the Under Secretary to take certain enhanced security measures, including to require that air carriers provide flight attendants with a discreet, hands-free, wireless method of communicating with the pilot of an aircraft.Directs the Under Secretary to study and report to Congress on the benefits and risks of providing flight attendants with nonlethal weapons to aide in combating air piracy and criminal violence on commercial airlines.(Sec. 1404) Directs the Secretary of Transportation to study and report within six months to Congress on: (1) the number of armed Federal law enforcement officers (other than Federal air marshals) who travel on commercial airliners annually, and the frequency of their travel; (2) the cost and resources necessary to provide such officers with supplemental aircraft anti-terrorism training comparable to the training that Federal air marshals receive; (3) the cost of establishing a program at a Federal law enforcement training center for the purpose of providing new Federal law enforcement recruits with standardized training comparable to Federal air marshal training; (4) the feasibility of implementing a certification program designed to ensure that Federal law enforcement officers have completed aircraft anti-terrorism training, and track their travel over a six-month period; and (5) the feasibility of staggering the flights of such officers to ensure the maximum amount of flights have a certified trained Federal officer on board.(Sec. 1405) Amends Federal aviation law to require the Under Secretary to respond within 90 days of receiving a request from an air carrier for authorization to allow pilots of the air carrier to carry less-than-lethal weapons.Title XV: Transition - Subtitle A: Reorganization Plan - (Sec. 1502) Requires the President, within 60 days after enactment of this Act, to transmit to the appropriate congressional committees a reorganization plan regarding: (1) the transfer of agencies, personnel, assets, and obligations to DHS pursuant to this Act; and (2) any consolidation, reorganization, or streamlining of agencies transferred to DHS pursuant to this Act.(Sec. 1503) Expresses the sense of Congress that each House of Congress should review its committee structure in light of the reorganization of responsibilities within the executive branch by the establishment of DHS.Subtitle B: Transitional Provisions - (Sec. 1511) Outlines transitional provisions with regard to assistance from officials having authority before the effective date of this Act; details of personnel and services to assist in the transition; acting officials during the transition period; the transfer of personnel, assets, obligations and functions; and the status of completed administrative actions, pending proceedings and civil actions, and Inspector General oversight. Prohibits DHS use of any funds derived from the Highway Trust Fund, the Airport and Airway Trust Fund, the Inland Waterway Trust Fund, or the Harbor Maintenance Trust Fund, with a specified exception for certain security-related funds provided to the Federal Aviation Administration.(Sec. 1514) Provides that nothing in this Act shall be construed to authorize the development of a national identification system or card.(Sec. 1516) Authorizes and directs the Director of OMB to make additional necessary incidental dispositions of personnel, assets, and liabilities in connection with the functions transferred by this Act.Title XVI: Corrections to Existing Law Relating to Airline Transportation Security - (Sec. 1601) Amends Federal aviation law to require the Administrator of the Federal Aviation Administration (FAA), along with the Under Secretary of Transportation for Security, to each conduct research (including behavioral research) and development activities to develop, modify, test, and evaluate a system, procedure, facility, or device to protect passengers and property against acts of criminal violence, aircraft piracy, and terrorism and to ensure security.Directs the Secretary of Transportation (currently, the Under Secretary) to prescribe regulations prohibiting disclosure of information obtained or developed in ensuring security under this section if the Secretary of Transportation decides disclosing such information would: (1) be an unwarranted invasion of personal privacy; (2) reveal a trade secret or privileged or confidential commercial or financial information; or (3) be detrimental to the safety of passengers in transportation. Sets forth similar provisions requiring the Under Secretary to prescribe regulations prohibiting the disclosure of information obtained or developed in carrying out security under authority of the Aviation and Transportation Security Act (PL107-71).(Sec. 1602) Increases the maximum civil penalty to $25,000 for a person who violates certain aviation security requirements while operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).(Sec. 1603) Revises certain hiring security screener standards to allow a national (currently, only a citizen) of the United States to become a security screener.Title XVII: Conforming and Technical Amendments - (Sec. 1701) Sets forth technical and conforming amendments.(Sec. 1706) Transfers from the Administrator of General Services to the Secretary of Homeland Security law enforcement authority for the protection of Federal property.(Sec. 1708) Establishes in DOD a National Bio-Weapons Defense Analysis Center to develop countermeasures to potential attacks by terrorists using weapons of mass destruction.(Sec. 1714) Amends the Public Health Service Act to define \"vaccine\" to mean any preparation or suspension, including one containing an attenuated or inactive microorganism or toxin, developed or administered to produce or enhance the body's immune response to a disease and to include all components and ingredients listed in the vaccine's product license application and product label."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Armed Airline Pilots bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Homeland Security Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Arming Pilots Against Terrorism Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Chief Human Capital Officers Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Critical Infrastructure Information Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Cyber Security Enhancement Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Federal Information Security Management Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Homeland Security Information Sharing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Safe Explosives Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "SAFETY Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Support Anti-terrorism by Fostering Effective Technologies Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Homeland Security Information Sharing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Arming Pilots Against Terrorism Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Chief Human Capital Officers Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Critical Infrastructure Information Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Cyber Security Enhancement Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Federal Information Security Management Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Homeland Security Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Homeland Security Information Sharing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Safe Explosives Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "SAFETY Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Support Anti-terrorism by Fostering Effective Technologies Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:45-05:00"
+}

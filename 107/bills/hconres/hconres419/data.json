@@ -1,0 +1,230 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-13", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-06-14", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Fisheries Conservation, Wildlife and Oceans", 
+      "text": "Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-06-27", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Fisheries Conservation, Wildlife and Oceans", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-27", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Fisheries Conservation, Wildlife and Oceans", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-10", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-10", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-07-22T16:08:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 107-598.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-22T16:08:00-04:00", 
+      "calendar": "House", 
+      "number": "198", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 198.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-09-24T15:34:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hansen moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T15:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6495", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T15:34:00-04:00", 
+      "bill_ids": [
+        "hcres419-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 419.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T15:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6495", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-09-24T15:37:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-25", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres419-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Fisheries Conservation, Wildlife, and Oceans", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2002-06-13", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-09-24T15:37:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-06-13", 
+  "number": "419", 
+  "official_title": "Requesting the President to issue a proclamation in observance of the 100th Anniversary of the founding of the International Association of Fish and Wildlife Agencies.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres136-107", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-09-24T15:37:00-04:00", 
+  "subjects": [
+    "Animals", 
+    "Anniversaries", 
+    "Associations, institutions, etc.", 
+    "Canada", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Environmental protection", 
+    "Fishery management", 
+    "Government operations and politics", 
+    "International affairs", 
+    "International cooperation", 
+    "Latin America", 
+    "Marine and coastal resources, fisheries", 
+    "Mexico", 
+    "Public lands and natural resources", 
+    "Wildlife conservation", 
+    "Wildlife management"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2002-07-22", 
+    "text": "Recognizes the significance of the 100th anniversary of the establishment of the International Association of Fish and Wildlife Agencies.Acknowledges the outstanding contributions of its member agencies to fish and wildlife conservation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Requesting the President to issue a proclamation in observance of the 100th Anniversary of the founding of the International Association of Fish and Wildlife Agencies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:58-05:00"
+}

@@ -1,0 +1,183 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-13", 
+      "committee": "House Committee on Science", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:01:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Morella moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:02:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H453-456", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:02:00-05:00", 
+      "bill_ids": [
+        "hcres27-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 27.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:18:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H461", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:37:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H453", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "20", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 20).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:37:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1791", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-03-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres27-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2001-02-13", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-02-28T12:37:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-03-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-13", 
+  "number": "27", 
+  "official_title": "Honoring the National Institute of Standards and Technology and its employees for 100 years of service to the Nation.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Morella, Constance A.", 
+    "state": "MD", 
+    "thomas_id": "00833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-03-01", 
+  "subjects": [
+    "Anniversaries", 
+    "Commemorations", 
+    "Commerce", 
+    "Congress", 
+    "Congressional tributes", 
+    "Department of Commerce", 
+    "Economics and public finance", 
+    "Federal aid to research", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "Industrial standards", 
+    "Laboratories", 
+    "Science, technology, communications", 
+    "Technological innovations", 
+    "Technology transfer", 
+    "Weights and measures"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2001-03-01", 
+    "text": "Honors the National Institute of Standards and Technology and its employees for 100 years of service to the Nation."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the National Institute of Standards and Technology and its employees for 100 years of service to the Nation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:47-05:00"
+}

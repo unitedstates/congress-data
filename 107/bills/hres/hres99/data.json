@@ -1,0 +1,784 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-22", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-06-20", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-20", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-06-25T15:52:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (NJ) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-25T15:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3487-3488", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-25T15:52:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 99.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-25T15:59:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-25T18:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3492-3493", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-25T18:38:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3487", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "187", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 187).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-06-25T18:38:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres99-107", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2001-03-22", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2001-05-03", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldacci, John Elias", 
+      "sponsored_at": "2001-05-03", 
+      "state": "ME", 
+      "thomas_id": "00048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2001-05-03", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berry, Marion", 
+      "sponsored_at": "2001-05-03", 
+      "state": "AR", 
+      "thomas_id": "01462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2001-03-22", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2001-03-22", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Delahunt, William D.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "MA", 
+      "thomas_id": "01480", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2001-03-22", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2001-03-22", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "2001-03-22", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Grucci, Felix J., Jr.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "01662", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Hoeffel, Joseph M.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "PA", 
+      "thomas_id": "01579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2001-03-22", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2001-03-22", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "LaHood, Ray", 
+      "sponsored_at": "2001-03-22", 
+      "state": "IL", 
+      "thomas_id": "00659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2001-05-03", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "LaTourette, Steven C.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "OH", 
+      "thomas_id": "00667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Maloney, James H.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CT", 
+      "thomas_id": "01502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Mollohan, Alan B.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "WV", 
+      "thomas_id": "00824", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2001-05-03", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Rodriguez, Ciro D.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "TX", 
+      "thomas_id": "01518", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2001-05-03", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2001-03-22", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Strickland, Ted", 
+      "sponsored_at": "2001-03-22", 
+      "state": "OH", 
+      "thomas_id": "01118", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Thompson, Mike", 
+      "sponsored_at": "2001-05-03", 
+      "state": "CA", 
+      "thomas_id": "01593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "2001-05-03", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2001-05-03", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Weiner, Anthony D.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "01597", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2001-03-22", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2001-05-03", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-06-25T18:38:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-03-22", 
+  "number": "99", 
+  "official_title": "Expressing the sense of the House of Representatives that Lebanon, Syria, and Iran should call upon Hezbollah to allow representatives of the International Committee of the Red Cross to visit four abducted Israelis, Adi Avitan, Binyamin Avraham, Omar Souad, and Elchanan Tannenbaum, presently held by Hezbollah forces in Lebanon.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Crowley, Joseph", 
+    "state": "NY", 
+    "thomas_id": "01604", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2001-06-25T18:38:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Charities", 
+    "Crime and law enforcement", 
+    "Diplomacy", 
+    "Hostages", 
+    "International affairs", 
+    "Iran", 
+    "Israel", 
+    "Kidnapping", 
+    "Lebanon", 
+    "Middle East and North Africa", 
+    "Military personnel", 
+    "Nongovernmental organizations", 
+    "Social welfare", 
+    "Syria", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-06-25", 
+    "text": "Declares that Lebanon, Syria, and Iran should call upon Hezbollah to allow representatives of the International Committee of the Red Cross to visit four abducted Israelis, Adi Avitan, Binyamin Avraham, Omar Souad, and Elchanan Tannenbaum, presently held by Hezbollah forces in Lebanon."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the House of Representatives that Lebanon, Syria, and Iran should call upon Hezbollah to allow representatives of the International Committee of the Red Cross to visit four abducted Israelis, Adi Avitan, Binyamin Avraham, Omar Souad, and Elchanan Tannenbaum, presently held by Hezbollah forces in Lebanon.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:49-05:00"
+}

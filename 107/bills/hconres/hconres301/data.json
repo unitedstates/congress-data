@@ -1,0 +1,327 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-01-23", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-02-13", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Military Personnel", 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-09-24T14:26:00-04:00", 
+      "references": [], 
+      "text": "Mr. Watts (OK) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T14:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6482-6484", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T14:27:00-04:00", 
+      "bill_ids": [
+        "hcres301-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 301.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T14:41:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T19:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6530-6531", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-24T19:04:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6482-6483", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "405", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 405).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-09-24T19:04:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-25", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres301-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Brown, Henry E., Jr.", 
+      "sponsored_at": "2002-04-10", 
+      "state": "SC", 
+      "thomas_id": "01669", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "sponsored_at": "2002-04-17", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "2002-04-10", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Gekas, George W.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "PA", 
+      "thomas_id": "00432", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "2002-03-13", 
+      "state": "NV", 
+      "thomas_id": "01485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2002-03-20", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2002-03-13", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kingston, Jack", 
+      "sponsored_at": "2002-03-20", 
+      "state": "GA", 
+      "thomas_id": "00636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2002-03-13", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Murtha, John P.", 
+      "sponsored_at": "2002-05-22", 
+      "state": "PA", 
+      "thomas_id": "00844", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Otter, C. L. (Butch)", 
+      "sponsored_at": "2002-03-20", 
+      "state": "ID", 
+      "thomas_id": "01646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "2002-04-10", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "sponsored_at": "2002-04-17", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simmons, Rob", 
+      "sponsored_at": "2002-04-10", 
+      "state": "CT", 
+      "thomas_id": "01642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Skeen, Joe", 
+      "sponsored_at": "2002-03-13", 
+      "state": "NM", 
+      "thomas_id": "01063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2002-04-10", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-09-24T19:04:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-01-23", 
+  "number": "301", 
+  "official_title": "Expressing the sense of Congress regarding American Gold Star Mothers, Incorporated, Blue Star Mothers of America, Incorporated, the service flag, and the service lapel button.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Watts, J. C., Jr.", 
+    "state": "OK", 
+    "thomas_id": "01208", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-09-24T19:04:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Associations, institutions, etc.", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Families", 
+    "Flags", 
+    "Government operations and politics", 
+    "International affairs", 
+    "Military dependents", 
+    "Mothers", 
+    "Nonprofit organizations", 
+    "Signs and symbols", 
+    "Social welfare", 
+    "Terrorism", 
+    "War casualties"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-09-24", 
+    "text": "Expresses the sense of Congress that: (1) the members of American Gold Star Mothers, Inc., and Blue Star Mothers of America, Inc. should be recognized for their sacrifices and for their dedicated and patriotic support of the United States; (2) during the period in which the armed forces are engaged in the war on terrorism, members of the immediate family of individuals serving in the armed forces should be encouraged to display a service flag approved by the Secretary of Defense in the window of their place of residence and to wear a service lapel button approved by the Secretary; and (3) the President should issue a proclamation calling on such members to take such actions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of Congress regarding American Gold Star Mothers, Incorporated, Blue Star Mothers of America, Incorporated, the service flag, and the service lapel button.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:55-05:00"
+}

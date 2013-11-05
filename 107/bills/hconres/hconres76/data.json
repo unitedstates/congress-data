@@ -1,0 +1,241 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-21", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-03-22", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-03-28", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "in_subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-28", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "in_subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-11", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-11", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-05-21T12:25:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation. H. Rept. 107-72.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-21T12:26:00-04:00", 
+      "calendar": "House", 
+      "number": "29", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 29.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-05-21T14:46:00-04:00", 
+      "references": [], 
+      "text": "Mr. LaTourette moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-21T14:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2343-2344", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-21T14:46:00-04:00", 
+      "bill_ids": [
+        "hcres76-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 76.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-21T14:49:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H2344", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-05-21T14:50:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-22", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5483", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-05-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres76-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2001-03-21", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "LaTourette, Steven C.", 
+      "sponsored_at": "2001-03-21", 
+      "state": "OH", 
+      "thomas_id": "00667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "2001-03-21", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-05-21T14:49:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-05-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-03-21", 
+  "number": "76", 
+  "official_title": "Authorizing the use of the East Front of the Capitol Grounds for performances sponsored by the John F. Kennedy Center for the Performing Arts.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-05-22", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Capitol (Washington, D.C.)", 
+    "Congress", 
+    "Cultural centers", 
+    "District of Columbia", 
+    "Performing arts", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2001-05-21", 
+    "text": "Authorizes the John F. Kennedy Center for the Performing Arts to sponsor free public performances on the East Front of the Capitol grounds at such dates and times as the Speaker of the House of Representatives and the Senate Committee on Rules and Administration jointly approve."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the use of the East Front of the Capitol Grounds for performances sponsored by the John F. Kennedy Center for the Performing Arts.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:48-05:00"
+}

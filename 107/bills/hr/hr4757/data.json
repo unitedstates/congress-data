@@ -1,0 +1,764 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-16", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-07-01", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime, Terrorism, and Homeland Security", 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-07-19", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, and Homeland Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-23", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-23", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 2.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-10-15T14:45:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 107-748.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-15T14:46:00-04:00", 
+      "calendar": "Union", 
+      "number": "469", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 469.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-10-15T15:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-15T15:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7910-7917", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-15T15:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4757.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-15T15:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7910-7912", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-10-15T15:50:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-16", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4757-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Blagojevich, Rod R.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "IL", 
+      "thomas_id": "01463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2002-09-11", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2002-05-16", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2002-05-16", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2002-06-05", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2002-06-24", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2002-05-24", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ehrlich, Robert L., Jr.", 
+      "sponsored_at": "2002-09-09", 
+      "state": "MD", 
+      "thomas_id": "00340", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Ferguson, Mike", 
+      "sponsored_at": "2002-06-18", 
+      "state": "NJ", 
+      "thomas_id": "01659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2002-05-22", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Hoeffel, Joseph M.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "PA", 
+      "thomas_id": "01579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Israel, Steve", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NY", 
+      "thomas_id": "01663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2002-05-16", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2002-05-16", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2002-06-05", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2002-06-26", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meehan, Martin T.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MA", 
+      "thomas_id": "00788", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2002-05-16", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2002-05-16", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2002-09-09", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rivers, Lynn N.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "MI", 
+      "thomas_id": "00966", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2002-07-17", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shays, Christopher", 
+      "sponsored_at": "2002-07-12", 
+      "state": "CT", 
+      "thomas_id": "01048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Tauscher, Ellen O.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CA", 
+      "thomas_id": "01533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2002-06-24", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Weiner, Anthony D.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "NY", 
+      "thomas_id": "01597", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2002-05-16", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2002-05-16", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-10-15T15:50:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-05-16", 
+  "number": "4757", 
+  "official_title": "To improve the national instant criminal background check system, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Our Lady of Peace Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCarthy, Carolyn", 
+    "state": "NY", 
+    "thomas_id": "01503", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-10-15T15:50:00-04:00", 
+  "subjects": [
+    "Alcoholism", 
+    "Alcoholism treatment", 
+    "Aliens", 
+    "Armed forces and national security", 
+    "Arrest", 
+    "Automation", 
+    "Civil rights and liberties, minority issues", 
+    "Commerce", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Court records", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "Criminal justice information systems", 
+    "Data banks", 
+    "Disabled", 
+    "Drug abuse", 
+    "Drug addicts", 
+    "Economics and public finance", 
+    "Education", 
+    "Electronic data interchange", 
+    "Electronic government information", 
+    "Expatriation", 
+    "Families", 
+    "Family violence", 
+    "Federal aid to law enforcement", 
+    "Federal-state relations", 
+    "Fines (Penalties)", 
+    "Firearms", 
+    "Firearms control", 
+    "Foreign students", 
+    "Fugitives from justice", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Governmental investigations", 
+    "Health", 
+    "Higher education", 
+    "Identification of criminals", 
+    "Illegal aliens", 
+    "Immigration", 
+    "Injunctions", 
+    "Intergovernmental fiscal relations", 
+    "Law", 
+    "Medical records", 
+    "Mentally disabled", 
+    "Mentally ill", 
+    "Military discharges", 
+    "Right of privacy", 
+    "Science, technology, communications", 
+    "State courts", 
+    "Tourism", 
+    "Transportation and public works", 
+    "User charges", 
+    "Visas", 
+    "Wife abuse", 
+    "Women"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2002-10-15", 
+    "text": "Our Lady of Peace Act - Title I: Transmittal of Records - (Sec. 101) Amends the Brady Handgun Violence Prevention Act to direct the head of each Federal agency: (1) to ascertain whether the agency has any records relating to persons for whom receipt of a firearm would violate Federal or State law and make the record available to the Attorney General for inclusion in the National Instant Criminal Background Check System (NICS); and (2) on being made aware that the basis under which a record was made available does not apply or no longer applies, to transmit to the Attorney General a certification identifying the record for removal from NICS.Directs the Attorney General to notify Congress annually as to whether the Attorney General has obtained such information from each agency. Provides for the furnishing of such information to NICS electronically. Directs the Commissioner of the Immigration and Naturalization Service to cooperate in providing information regarding all relevant records of persons disqualified from acquiring a firearm under Federal law, including illegal aliens, visitors to the United States on student visas and tourist visas, to the Attorney General for inclusion in NICS (INS-related information).(Sec. 102) Makes a State eligible to receive a waiver of the ten percent matching requirement for National Criminal History Improvement Grants under the Crime Identification Technology Act of 1988 if the State provides at least 95 percent of the INS-related information. Limits the length of the waiver to five years.Lists information that the State shall make available to the Attorney General relating to each person disqualified from acquiring a firearm. Limits the uses for which the information may be accessed. Requires the State to certify that at least 95 percent of the relevant identifying information has been provided to the Attorney General.Includes among disqualified individuals a person who has been convicted in any court of a misdemeanor domestic violence crime.States that for purposes of this title, an adjudication as a mental defective occurs when a court, board, commission, or other government entity determines that a person, as a result of marked subnormal intelligence or mental illness, incompetency, condition, or disease: (1) is a danger to himself or to others; or (2) lacks the mental capacity to contract or manage his own affairs. Makes exceptions with respect to: (1) a person in a mental institution for observation or voluntarily committed to a mental institution; or (2) information protected by doctor-patient privilege.Directs the Attorney General, for any information provided under NICS, to work with States and local law enforcement and the mental health community to establish regulations and protocols for protecting the privacy of information provided to NICS. Allows a State to designate records transmitted to be used only to determine eligibility to purchase or possess a firearm.Directs the Attorney General to submit an annual report to the Senate and House Judiciary Committees on the progress of States in automating the databases and in providing information pursuant to Act requirements.(Sec. 103) Requires the Attorney General to make grants to each State to establish or upgrade information and identification technologies for firearms eligibility determinations. Lists as permissible uses of grants: (1) building databases that are directly related to checks under NICS; (2) assisting States in establishing or enhancing their own capacities to perform NICS background checks; (3) improving final dispositions of criminal records; (4) supplying mental health records to NICS; and (5) supplying court-ordered domestic restraining orders and records of domestic violence misdemeanors for inclusion in NICS. Requires a State, as a condition of receiving a grant, to specify the projects for which grant amounts will be used and to use such amounts only as specified. Makes a State that violates this provision liable to the Attorney General for the full amount granted.Prohibits the Federal Bureau of Investigation from charging a user fee for background checks pursuant to the Brady Act.Title II: Focusing Federal Assistance on the Improvement of Relevant Records - Requires the Director of the Bureau of Justice Statistics to: (1) study and evaluate NICS operations, including compilations and analyses of the operations and record systems of the participating agencies and organizations; and (2) report to Congress on implementation and on best practices.Title III: Grants to State Courts for the Improvement in Automation and Transmittal of Disposition Records - Directs the Attorney General to make grants to each State for use by the State's chief judicial officer to improve the handling of proceedings related to criminal history dispositions and restraining orders. Requires that amounts granted be used by such officer only as follows: (1) for FY 2004, to carry out assessments of the capabilities of the State courts for the automation and transmission to State and Federal record repositories of arrest and conviction records; and (2) for fiscal years after 2004, to implement policies, systems, and procedures for the automation and transmission to State and Federal record repositories of such records."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Our Lady of Peace Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Our Lady of Peace Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To improve the national instant criminal background check system, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:19-05:00"
+}

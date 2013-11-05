@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-12-14", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-12-20", 
+      "references": [
+        {
+          "reference": "CR S14080-14081", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S14081", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-20", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-01-23", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-01-23T12:28:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-01-23", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-01-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-17", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Immigration and Claims", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-17", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Immigration and Claims", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-10", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-10", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-07-16T16:10:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 107-578.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-16T16:10:00-04:00", 
+      "calendar": "Private", 
+      "number": "7", 
+      "references": [], 
+      "text": "Placed on the Private Calendar, Calendar No. 7.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-09-17T14:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6260-6261", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered from the Private Calendar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-17T14:02:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H6260-6261", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-09-17T14:03:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-17", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-09-20", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-10-01", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2002-10-01", 
+      "congress": "107", 
+      "law": "private", 
+      "number": "2", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Private Law No: 107-2.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1834-107", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "private", 
+    "number": "2"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2002-10-01", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-09-17T14:02:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-12-20", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-12-14", 
+  "number": "1834", 
+  "official_title": "A bill for the relief of retired Sergeant First Class James D. Benoit and Wan Sook Benoit.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2002-10-01", 
+  "subjects": [
+    "Claims", 
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2001-12-14", 
+    "text": "Directs the Secretary of the Treasury to pay a specified amount to satisfy the claims for compensation and damages of James D. Benoit and Wan Sook Benoit for the wrongful death of David Benoit in military family housing supplied by the Army in Seoul, Korea, in 1983."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill for the relief of retired Sergeant First Class James D. Benoit and Wan Sook Benoit.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:19-05:00"
+}

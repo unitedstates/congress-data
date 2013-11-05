@@ -1,0 +1,274 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-19", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-06-26T11:25:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Agriculture. H. Rept. 107-111.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-26T11:25:00-04:00", 
+      "calendar": "Union", 
+      "number": "60", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 60.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-06-26T11:40:00-04:00", 
+      "references": [], 
+      "text": "Mr. Combest moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-26T11:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3533-3539", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-26T11:40:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2213.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-26T12:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3533-3534", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-06-26T12:19:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-26", 
+      "committee": "Committee on Agriculture, Nutrition, and Forestry", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-08-03", 
+      "references": [
+        {
+          "reference": "CR S8852", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-03", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-08-03", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-03", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-08-08", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-08-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2001-08-13", 
+      "congress": "107", 
+      "law": "public", 
+      "number": "25", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 107-25.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2213-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Agriculture, Nutrition, and Forestry", 
+      "committee_id": "SSAF"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "public", 
+    "number": "25"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2001-08-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-06-26T12:19:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-08-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-06-19", 
+  "number": "2213", 
+  "official_title": "To respond to the continuing economic crisis adversely affecting American agricultural producers.", 
+  "popular_title": "Farm Aid bill", 
+  "related_bills": [
+    {
+      "bill_id": "s1246-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Crop Year 2001 Agricultural Economic Assistance Act", 
+  "sponsor": {
+    "district": "19", 
+    "name": "Combest, Larry", 
+    "state": "TX", 
+    "thomas_id": "00224", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2001-08-13", 
+  "subjects": [
+    "Administrative procedure", 
+    "Agricultural conservation", 
+    "Agricultural credit", 
+    "Agricultural price supports", 
+    "Agricultural subsidies", 
+    "Agriculture and food", 
+    "Animals", 
+    "Apples", 
+    "Barley", 
+    "Business losses", 
+    "Commerce", 
+    "Commodity Credit Corporation", 
+    "Cotton", 
+    "Crop insurance", 
+    "Department of Agriculture", 
+    "Economics and public finance", 
+    "Environmental protection", 
+    "Farmland protection", 
+    "Finance and financial sector", 
+    "Food relief", 
+    "Fruit", 
+    "Fruit trade", 
+    "Georgia", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Government trust funds", 
+    "Grants-in-aid", 
+    "Grazing", 
+    "Indemnity", 
+    "Law", 
+    "Marketing of farm produce", 
+    "Milk", 
+    "Oilseeds", 
+    "Peanuts", 
+    "Potatoes", 
+    "Soybeans", 
+    "Sugar", 
+    "Sugar trade", 
+    "Tobacco", 
+    "Transportation and public works", 
+    "Vegetable trade", 
+    "Vegetables", 
+    "Water resources development", 
+    "Wetland conservation", 
+    "Wheat", 
+    "Wool", 
+    "Wool trade"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-06-26", 
+    "text": "Directs the Secretary of Agriculture to use specified Commodity Credit Corporation (CCC) funds for a market loss assistance payment to farm owners and producers who are eligible for a final FY 2001 production flexibility contract payment (such payment to be proportional to total 2001 flexibility contract payments received).(Sec. 2) Directs the Secretary to use specified CCC funds for supplemental 2000 payments to qualifying: (1) oilseed producers; (2) peanut producers; (3) wool and mohair producers; (4) tobacco producers (payments to Georgia producers may be made only if Georgia provides specified funds for such purpose); and (5) cottonseed producers and first handlers.(Sec. 7) Directs the Secretary to use specified CCC funds for grants to: (1) the States and Puerto Rico for agricultural promotion activities; and (2) the States (in specified amounts) for the value of specialty crop production. Defines \"specialty crop\" as any crop other than wheat, feed grains, oilseeds, cotton, rice, peanuts, and tobacco.(Sec. 8) Directs the Secretary to use specified CCC funds for grants to cover State transportation, processing, and distribution costs under the Emergency Food Assistance Act of 1983.(Sec. 9) Amends the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, as amended by the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, respecting Cotton Producer Indemnity Fund payments to Georgia producers and ginners.(Sec. 10) Establishes a $150,000 individual limitation on 2001 loan deficiency payments and marketing loan gains.(Sec. 11) States that expenditures under this Act shall be made by September 30, 2001. Deems any funds remaining unused as of October 1, 2001, to be unexpendable. Rescinds authority to expend such funds as of that date.States that: (1) total expenditures under this Act shall not exceed $5.5 billion; and (2) payments shall be reduced on a pro rata basis if they would exceed such limitation.(Sec. 12) Directs the Secretary and the CCC to promulgate implementing regulations."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Farm Aid bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": null, 
+      "title": "Farm Assistance bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Crop Year 2001 Agricultural Economic Assistance Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To respond to the continuing economic crisis adversely affecting American agricultural producers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:10-05:00"
+}

@@ -1,0 +1,577 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-27", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-03-21T10:19:00-05:00", 
+      "references": [], 
+      "text": "Mr. Ney moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-21T10:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1017-1022", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-21T10:20:00-05:00", 
+      "bill_ids": [
+        "hcres43-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 43.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-21T10:46:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-21T11:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1035", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-21T11:50:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1017", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "53", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 53).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-03-21T11:50:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-04-06", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3766", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-04-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres43-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2001-02-27", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2001-02-27", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clayton, Eva M.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NC", 
+      "thomas_id": "00204", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Clyburn, James E.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "SC", 
+      "thomas_id": "00208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2001-02-27", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hilliard, Earl F.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "AL", 
+      "thomas_id": "00539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jackson, Jesse L., Jr.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "IL", 
+      "thomas_id": "00587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2001-02-27", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jefferson, William J.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "LA", 
+      "thomas_id": "00592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2001-02-27", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2001-02-27", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2001-02-27", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lewis, John", 
+      "sponsored_at": "2001-02-27", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ney, Robert W.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "OH", 
+      "thomas_id": "00862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2001-02-27", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2001-02-27", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-03-21T11:50:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-04-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-27", 
+  "number": "43", 
+  "official_title": "Authorizing the printing of a revised and updated version of the House document entitled \"Black Americans in Congress, 1870-1989\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Hoyer, Steny H.", 
+    "state": "MD", 
+    "thomas_id": "00566", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-04-06", 
+  "subjects": [
+    "Black Members of Congress", 
+    "Black history", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional publications", 
+    "Government operations and politics", 
+    "History", 
+    "House of Representatives", 
+    "Minorities"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-03-21", 
+    "text": "Authorizes the printing as a House document of an updated version of House Document 101-117 (as revised by the Library of Congress) entitled \"Black Americans in Congress, 1870-1989.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the printing of a revised and updated version of the House document entitled \"Black Americans in Congress, 1870-1989\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:47-05:00"
+}

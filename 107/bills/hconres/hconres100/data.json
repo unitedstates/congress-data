@@ -1,0 +1,221 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-04-04", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-04-30", 
+      "in_committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "subcommittee": "Select Education", 
+      "text": "Referred to the Subcommittee on Select Education.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-06-05T14:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Osborne moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-05T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2853-2856", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-05T14:15:00-04:00", 
+      "bill_ids": [
+        "hcres100-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 100.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-05T14:36:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-05T18:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2859", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-05T18:25:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2853", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "150", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 150).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-06-05T18:25:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-06", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-06-07", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres100-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Select Education", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Hilleary, Van", 
+      "sponsored_at": "2001-06-05", 
+      "state": "TN", 
+      "thomas_id": "00538", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Osborne, Tom", 
+      "sponsored_at": "2001-06-05", 
+      "state": "NE", 
+      "thomas_id": "01658", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2001-06-05", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-06-05T18:25:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-04-04", 
+  "number": "100", 
+  "official_title": "Commending Clear Channel Communications and the American Football Coaches Association for their dedication and efforts for protecting children by providing a vital means for locating the Nation's missing, kidnapped, and runaway children.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres31-107", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Duncan, John J., Jr.", 
+    "state": "TN", 
+    "thomas_id": "00322", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-06-05T18:25:00-04:00", 
+  "subjects": [
+    "Associations, institutions, etc.", 
+    "Business and social problems", 
+    "Child safety", 
+    "Commemorations", 
+    "Commerce", 
+    "Congress", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Families", 
+    "Football", 
+    "Identification devices", 
+    "Kidnapping", 
+    "Missing children", 
+    "Runaway children", 
+    "Science, technology, communications", 
+    "Sports and recreation", 
+    "Telecommunication industry"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-06-05", 
+    "text": "Commends the American Football Coaches Association for its dedication and efforts to protect children and locate the Nation's missing, kidnapped, and runaway children by providing parents with Inkless Child Identification Kits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Commending Clear Channel Communications and the American Football Coaches Association for their dedication and efforts for protecting children by providing a vital means for locating the Nation's missing, kidnapped, and runaway children.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:49-05:00"
+}

@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-15", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-11-27", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime", 
+      "text": "Referred to the Subcommittee on Crime.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-03-01", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Subcommittee on Crime Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-07", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-07", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-04-09T14:40:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 107-384.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-09T14:40:00-04:00", 
+      "calendar": "Union", 
+      "number": "222", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 222.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-06-11T15:41:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-11T15:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3393-3395, H3399-3400", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-11T15:41:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3297.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-11T15:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3393-3394", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-06-11T15:48:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-11T16:21:00-04:00", 
+      "bill_ids": [
+        "s2431-107"
+      ], 
+      "references": [], 
+      "text": "Laid on the table. See S. 2431 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3297-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2001-11-15", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-06-11T15:48:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-11-15", 
+  "number": "3297", 
+  "official_title": "To amend the Omnibus Crime Control and Safe Streets Act of 1968 to ensure that chaplains killed in the line of duty receive public safety officer death benefits.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2431-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Mychal Judge Police and Fire Chaplains Public Safety Officers' Benefit Act of 2002", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Manzullo, Donald A.", 
+    "state": "IL", 
+    "thomas_id": "00733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-06-11T15:48:00-04:00", 
+  "subjects": [
+    "Clergy", 
+    "Crime and law enforcement", 
+    "Emergency management", 
+    "Emergency medical personnel", 
+    "Families", 
+    "Finance and financial sector", 
+    "Fire fighters", 
+    "Government operations and politics", 
+    "Health", 
+    "Labor and employment", 
+    "Law enforcement officers", 
+    "Life insurance", 
+    "Paramedical personnel", 
+    "Police", 
+    "Religion", 
+    "Rescue work", 
+    "Social welfare", 
+    "Survivors' benefits", 
+    "Volunteer workers"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2002-06-11", 
+    "text": "Mychal Judge Police and Fire Chaplains Public Safety Officers' Benefit Act of 2002 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to include police and fire department chaplains killed in the line of duty among persons who qualify to receive public safety officer death benefits.Provides that, if there is no surviving spouse or surviving child, any such benefits shall be paid to the person designated by such officer as beneficiary under that officer's most recently executed life insurance policy, provided that such person survived such officer. (Current law restricts such beneficiaries to the spouse, child, or parent.)"
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Mychal Judge Police and Fire Chaplains Public Safety Officers' Benefit Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Mychal Judge Police and Fire Chaplains Public Safety Officers' Benefit Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Mychal Judge Police and Fire Chaplains Public Safety Officers' Benefit Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Omnibus Crime Control and Safe Streets Act of 1968 to ensure that chaplains killed in the line of duty receive public safety officer death benefits.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:43-05:00"
+}

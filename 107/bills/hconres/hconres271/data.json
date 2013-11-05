@@ -1,0 +1,670 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-15", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-11-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-24", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-05-07T17:17:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Wilson (NM) moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-07T17:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2132-2137", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-07T17:17:00-04:00", 
+      "bill_ids": [
+        "hcres271-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 271.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-07T17:58:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-07T18:58:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2143-2144", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-07T19:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2132", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "128", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 1, 1 Present (Roll no. 128).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-05-07T19:06:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-08", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres271-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Ballenger, Cass", 
+      "sponsored_at": "2001-11-15", 
+      "state": "NC", 
+      "thomas_id": "00050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Blagojevich, Rod R.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "IL", 
+      "thomas_id": "01463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Boehner, John A.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "OH", 
+      "thomas_id": "00102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bryant, Ed", 
+      "sponsored_at": "2001-12-12", 
+      "state": "TN", 
+      "thomas_id": "00141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2001-12-13", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2002-03-06", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2001-11-15", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2002-04-10", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Crane, Philip M.", 
+      "sponsored_at": "2002-04-10", 
+      "state": "IL", 
+      "thomas_id": "00249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Dooley, Calvin M.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CA", 
+      "thomas_id": "00306", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2001-12-04", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "2001-12-04", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2001-11-15", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Ferguson, Mike", 
+      "sponsored_at": "2002-04-30", 
+      "state": "NJ", 
+      "thomas_id": "01659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2001-11-15", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "2001-11-15", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2001-11-15", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "sponsored_at": "2001-11-15", 
+      "state": "MO", 
+      "thomas_id": "01656", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "2002-03-06", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Hoeffel, Joseph M.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "PA", 
+      "thomas_id": "01579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "John, Christopher", 
+      "sponsored_at": "2001-11-15", 
+      "state": "LA", 
+      "thomas_id": "01495", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2002-04-10", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "2001-11-15", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "LaHood, Ray", 
+      "sponsored_at": "2001-11-15", 
+      "state": "IL", 
+      "thomas_id": "00659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, William O.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "IL", 
+      "thomas_id": "00694", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McInnis, Scott", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CO", 
+      "thomas_id": "00775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "2002-04-10", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2002-02-28", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2001-11-15", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Northup, Anne M.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "KY", 
+      "thomas_id": "01508", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ose, Doug", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CA", 
+      "thomas_id": "01585", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2001-11-15", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ryan, Paul", 
+      "sponsored_at": "2001-11-15", 
+      "state": "WI", 
+      "thomas_id": "01560", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2001-11-15", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "sponsored_at": "2001-11-15", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Tanner, John S.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "TN", 
+      "thomas_id": "01137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Tauscher, Ellen O.", 
+      "sponsored_at": "2001-11-15", 
+      "state": "CA", 
+      "thomas_id": "01533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2002-04-10", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2001-11-15", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-05-07T19:06:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-11-15", 
+  "number": "271", 
+  "official_title": "Expressing the sense of the Congress that public awareness and education about the importance of health care coverage is of the utmost priority and that a National Importance of Health Care Coverage Month should be established to promote these goals.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres94-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wilson, Heather", 
+    "state": "NM", 
+    "thomas_id": "01539", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-05-07T19:06:00-04:00", 
+  "subjects": [
+    "Commemorations", 
+    "Economics and public finance", 
+    "Families", 
+    "Federal aid to child health services", 
+    "Finance and financial sector", 
+    "Government operations and politics", 
+    "Government publicity", 
+    "Health", 
+    "Health education", 
+    "Health insurance", 
+    "Medicaid", 
+    "Medically uninsured", 
+    "Poor children", 
+    "Social welfare", 
+    "Special months"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-05-07", 
+    "text": "Expresses the sense of Congress that a National Importance of Health Care Coverage Month should be established to promote a multifaceted educational effort about the importance of health care coverage, to increase awareness of available health care coverage options, and to include efforts to inform eligible persons on how to access public insurance programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the Congress that public awareness and education about the importance of health care coverage is of the utmost priority and that a National Importance of Health Care Coverage Month should be established to promote these goals.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:54-05:00"
+}

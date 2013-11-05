@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-13", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-02-26", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-09-25", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Immigration and Claims", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-25", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Immigration and Claims", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-02", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-02", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-10-08T18:25:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 107-729.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-08T18:25:00-04:00", 
+      "calendar": "Private", 
+      "number": "9", 
+      "references": [], 
+      "text": "Placed on the Private Calendar, Calendar No. 9.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-11-14T13:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8736", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered from the Private Calendar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-14T13:04:00-05:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H8736", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-11-14T13:04:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-14", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11149-11150", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-11-14", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-11-15", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-12-02", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2002-12-02", 
+      "congress": "107", 
+      "law": "private", 
+      "number": "6", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Private Law No: 107-6.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3758-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "private", 
+    "number": "6"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2002-12-02", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-11-14T13:04:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-11-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-02-13", 
+  "number": "3758", 
+  "official_title": "For the relief of So Hyun Jun.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "McCrery, Jim", 
+    "state": "LA", 
+    "thomas_id": "00763", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2002-12-02", 
+  "subjects": [
+    "Immigration", 
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2002-10-08", 
+    "text": "Classifies So Hyun Jun as a child for immediate relative status under the Immigration and Nationality Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "For the relief of So Hyun Jun.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:56-05:00"
+}

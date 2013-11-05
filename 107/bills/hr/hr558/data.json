@@ -1,0 +1,383 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-12", 
+      "committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-13", 
+      "in_committee": "House Committee on Transportation and Infrastructure", 
+      "references": [], 
+      "subcommittee": "Economic Development, Public Buildings and Emergency Management", 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-28T10:30:00-05:00", 
+      "references": [], 
+      "text": "Mr. LaTourette moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T10:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H449-451", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T10:30:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 558.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T10:40:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H460", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:18:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H449", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "18", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 18).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:18:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-01", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-08-03", 
+      "references": [
+        {
+          "reference": "CR S8994", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-03", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-08-03", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-08-06", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-10", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-08-20", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2001-08-20", 
+      "congress": "107", 
+      "law": "public", 
+      "number": "31", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 107-31.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr558-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "English, Phil", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Gekas, George W.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00432", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Greenwood, James C.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Hoeffel, Joseph M.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "01579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Holden, Tim", 
+      "sponsored_at": "2001-02-12", 
+      "state": "PA", 
+      "thomas_id": "00550", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Kanjorski, Paul E.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00615", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Mascara, Frank", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Murtha, John P.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00844", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Peterson, John E.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "01512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Platts, Todd Russell", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "01667", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Sherwood, Don", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "01589", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "public", 
+    "number": "31"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2001-08-20", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-02-28T12:18:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-08-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-12", 
+  "number": "558", 
+  "official_title": "To designate the Federal building and United States courthouse located at 504 West Hamilton Street in Allentown, Pennsylvania, as the \"Edward N. Cahn Federal Building and United States Courthouse\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s757-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Toomey, Patrick J.", 
+    "state": "PA", 
+    "thomas_id": "01594", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2001-08-20", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Courthouses", 
+    "Federal office buildings", 
+    "Law", 
+    "Names", 
+    "Pennsylvania"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-02-28", 
+    "text": "Designates the Federal building and U.S. courthouse located at 504 West Hamilton Street in Allentown, Pennsylvania, as the Edward N. Cahn Federal Building and United States Courthouse."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the Federal building and United States courthouse located at 504 West Hamilton Street in Allentown, Pennsylvania, as the \"Edward N. Cahn Federal Building and United States Courthouse\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:19-05:00"
+}

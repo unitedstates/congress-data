@@ -1,0 +1,684 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-01-03", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-07", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Telecommunications and the Internet", 
+      "text": "Referred to the Subcommittee on Telecommunications and the Internet.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-07", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Subcommittee on Telecommunications and the Internet Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-03-12T14:19:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 107-13.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-12T14:19:00-05:00", 
+      "calendar": "Union", 
+      "number": "8", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 8.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-12-04T15:22:00-05:00", 
+      "references": [], 
+      "text": "Mr. Tauzin moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:22:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8763-8765", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:22:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 90.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:32:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8763-8764", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:32:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-05", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr90-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Telecommunications and the Internet", 
+      "subcommittee_id": "16"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "42", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2001-01-30", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Baird, Brian", 
+      "sponsored_at": "2001-02-26", 
+      "state": "WA", 
+      "thomas_id": "01557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldacci, John Elias", 
+      "sponsored_at": "2001-01-30", 
+      "state": "ME", 
+      "thomas_id": "00048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Bentsen, Ken", 
+      "sponsored_at": "2001-01-30", 
+      "state": "TX", 
+      "thomas_id": "00079", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2001-01-30", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Tom", 
+      "sponsored_at": "2001-01-30", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2001-01-30", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2001-02-26", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2001-01-30", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Gillmor, Paul E.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "OH", 
+      "thomas_id": "00439", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2001-02-28", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2001-02-26", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Greenwood, James C.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "PA", 
+      "thomas_id": "00465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hilleary, Van", 
+      "sponsored_at": "2001-01-30", 
+      "state": "TN", 
+      "thomas_id": "00538", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Holden, Tim", 
+      "sponsored_at": "2001-01-30", 
+      "state": "PA", 
+      "thomas_id": "00550", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Holt, Rush D.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NJ", 
+      "thomas_id": "01580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "2001-01-30", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2001-01-30", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "LoBiondo, Frank A.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NJ", 
+      "thomas_id": "00699", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Lucas, Ken", 
+      "sponsored_at": "2001-01-30", 
+      "state": "KY", 
+      "thomas_id": "01562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2001-01-30", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "McHugh, John M.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NY", 
+      "thomas_id": "00773", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McIntyre, Mike", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NC", 
+      "thomas_id": "01505", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Meeks, Gregory W.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2001-01-30", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2001-03-01", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Phelps, David D.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "IL", 
+      "thomas_id": "01586", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Quinn, Jack", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NY", 
+      "thomas_id": "00938", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Regula, Ralph", 
+      "sponsored_at": "2001-01-30", 
+      "state": "OH", 
+      "thomas_id": "00951", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rivers, Lynn N.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MI", 
+      "thomas_id": "00966", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Ross, Mike", 
+      "sponsored_at": "2001-03-06", 
+      "state": "AR", 
+      "thomas_id": "01632", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2001-01-30", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2001-03-06", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simmons, Rob", 
+      "sponsored_at": "2001-01-30", 
+      "state": "CT", 
+      "thomas_id": "01642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Strickland, Ted", 
+      "sponsored_at": "2001-02-26", 
+      "state": "OH", 
+      "thomas_id": "01118", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "sponsored_at": "2001-02-27", 
+      "state": "MI", 
+      "thomas_id": "01177", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2001-01-30", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "2001-01-30", 
+      "state": "OK", 
+      "thomas_id": "01206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-12-04T15:32:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-01-03", 
+  "number": "90", 
+  "official_title": "To amend the Communications Act of 1934 to prohibit telemarketers from interfering with the caller identification service of any person to whom a telephone solicitation is made, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Know Your Caller Act of 2001", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Frelinghuysen, Rodney P.", 
+    "state": "NJ", 
+    "thomas_id": "00414", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-12-04T15:32:00-05:00", 
+  "subjects": [
+    "Actions and defenses", 
+    "Administrative procedure", 
+    "Caller ID telephone service", 
+    "Commerce", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Consumer education", 
+    "Consumer protection", 
+    "Damages", 
+    "Direct mail advertising", 
+    "Equipment and supplies", 
+    "Federal Communications Commission", 
+    "Government operations and politics", 
+    "Governmental investigations", 
+    "Independent regulatory commissions", 
+    "Injunctions", 
+    "Law", 
+    "Mailing lists", 
+    "Marketing", 
+    "Punitive damages", 
+    "Science, technology, communications", 
+    "State courts", 
+    "State laws", 
+    "Telemarketing", 
+    "Telephone"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-12-04", 
+    "text": "Know Your Caller Act of 2001 - Amends the Communications Act of 1934 to make it unlawful for any person making a telephone solicitation to: (1) interfere with or circumvent a caller identification service from accessing or providing the call recipient with identifying information about the call; or (2) fail to provide caller identification information that is accessible by a caller identification service, if such person has the capability to provide such information.Provides a cause of action for a person or entity, or a State attorney general on behalf of its residents, for violations of such prohibition or regulations.Requires the Federal Communications Commission to study and report to Congress with respect to the transmission capabilities of caller identification information."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Know Your Caller Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Know Your Caller Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Know Your Caller Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Communications Act of 1934 to prohibit telemarketers from interfering with the caller identification service of any person to whom a telephone solicitation is made, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:06-05:00"
+}

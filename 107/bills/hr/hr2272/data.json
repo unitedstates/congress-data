@@ -1,0 +1,381 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-21", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-08-01", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-10-16T14:54:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hyde moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-16T14:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6799-6803", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-16T14:55:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2272.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-16T15:14:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-16T19:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6873-6874", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-16T19:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6799-6801", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "389", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 32 (Roll no. 389).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-10-16T19:45:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-17", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2272-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Acevedo-Vila, Anibal", 
+      "sponsored_at": "2001-06-25", 
+      "state": "PR", 
+      "thomas_id": "01679", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2001-07-31", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Boehlert, Sherwood", 
+      "sponsored_at": "2001-06-21", 
+      "state": "NY", 
+      "thomas_id": "00101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "2001-06-21", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2001-07-17", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2001-06-25", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2001-07-17", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Greenwood, James C.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "PA", 
+      "thomas_id": "00465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hilliard, Earl F.", 
+      "sponsored_at": "2001-07-17", 
+      "state": "AL", 
+      "thomas_id": "00539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Maloney, James H.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "CT", 
+      "thomas_id": "01502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2001-06-25", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2001-06-21", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2001-06-21", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-10-16T19:45:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-06-21", 
+  "number": "2272", 
+  "official_title": "To amend the Foreign Assistance Act of 1961 to provide for debt relief to developing countries who take action to protect critical coral reef habitats.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Coral Reef and Coastal Marine Conservation Act of 2001", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-10-16T19:45:00-04:00", 
+  "subjects": [
+    "Caribbean area", 
+    "Coastal zone", 
+    "Congress", 
+    "Congress and foreign policy", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Coral reef conservation", 
+    "Debt relief", 
+    "Debt-for-nature swaps", 
+    "Department of the Treasury", 
+    "Developing countries", 
+    "Economics and public finance", 
+    "Ecosystem management", 
+    "Environmental protection", 
+    "Executive reorganization", 
+    "Foreign trade and international finance", 
+    "Government operations and politics", 
+    "Government trust funds", 
+    "International affairs", 
+    "International environmental cooperation", 
+    "Latin America", 
+    "Marine and coastal resources, fisheries", 
+    "Marine resources conservation", 
+    "President and foreign policy", 
+    "Presidential appointments", 
+    "Public lands and natural resources", 
+    "Restoration ecology", 
+    "Sustainable development", 
+    "Treaties"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-10-16", 
+    "text": "Coral Reef and Coastal Marine Conservation Act of 2001 - Amends the Foreign Assistance Act of 1961 to establish in the Department of Treasury the Coral Reef and Other Coastal Marine Resources Facility. Authorizes the President, through the exchange by the Facility of new obligations for outstanding obligations of an eligible Latin American or Caribbean country with a coral reef or other coastal marine resource meeting specified requirements, to reduce the amount owed by the country to the United States that is outstanding as of January 1, 1999, as a result of concessional loans. Authorizes the President to sell, reduce, or cancel such loans in order to facilitate a debt-for-nature swap or a debt buyback with an eligible purchaser or eligible country to support activities to conserve, maintain, and restore the country's coral reefs and other coastal marine resources. Authorizes appropriations.Requires each beneficiary country that has entered into a Coral Reef and Other Coastal Marine Resources Agreement with the Secretary of State to establish a Coral Reef and Other Coastal Maine Resources Fund to receive payments of interest on new obligations undertaken by the country to provide grants to certain entities in such country to conserve, maintain, and restore its coral reefs and other coastal marine resources.Requires the Enterprise for the Americas Board to carry out certain duties with respect to implementing this Act.Requires the President to: (1) consult with the appropriate congressional committees on a periodic basis to review the operation of, and the eligibility of countries for benefits from, the Facility; and (2) report annually to Congress on Facility operations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Coral Reef and Coastal Marine Conservation Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Coral Reef and Coastal Marine Conservation Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Foreign Assistance Act of 1961 to provide for debt relief to developing countries who take action to protect critical coral reef habitats.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:12-05:00"
+}

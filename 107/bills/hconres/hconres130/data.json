@@ -1,0 +1,365 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-05-08", 
+      "references": [
+        {
+          "reference": "CR H1932-1934", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-08", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:22:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6427-6429", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:22:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ney moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:22:00-04:00", 
+      "bill_ids": [
+        "hcres130-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 130.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H6427", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:31:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-10", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-11-09", 
+      "references": [
+        {
+          "reference": "CR S11662", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Rules and Administration discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-09", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-11-13", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres130-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2001-05-08", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Becerra, Xavier", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2001-05-08", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2001-05-08", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2001-05-08", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2001-05-08", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-10-09T14:31:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-11-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-05-08", 
+  "number": "130", 
+  "official_title": "Authorizing printing of the book entitled \"Asian and Pacific Islander Americans in Congress\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Underwood, Robert A.", 
+    "state": "GU", 
+    "thomas_id": "01175", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-11-09", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Asian American ethnic groups", 
+    "Books", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional publications", 
+    "Government operations and politics", 
+    "History", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "Minorities", 
+    "Minorities in government", 
+    "Pacific Islanders"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-10-09", 
+    "text": "Authorizes the printing as a House document of the book entitled \"Asian and Pacific Islander Americans in Congress.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing printing of the book entitled \"Asian and Pacific Islander Americans in Congress\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:50-05:00"
+}

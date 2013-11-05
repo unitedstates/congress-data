@@ -1,0 +1,438 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-12-13", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-12-19", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "Water and Power", 
+      "text": "Referred to the Subcommittee on Water and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-12-19", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Executive Comment Requested from Interior.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-07", 
+      "in_committee": "House Committee on Resources", 
+      "in_subcommittee": "Water and Power", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-18", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Executive Comment Received from Interior.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-03-20", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Subcommittee on Water and Power Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-09T14:10:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Resources. H. Rept. 107-388.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-09T14:11:00-04:00", 
+      "calendar": "Union", 
+      "number": "226", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 226.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-04-09T14:53:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hansen moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-09T14:53:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H1101-1104", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-09T14:54:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3480.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-09T15:05:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H1101-1103", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-04-09T15:05:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-10", 
+      "committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-25", 
+      "in_committee": "Committee on Environment and Public Works", 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-06-21", 
+      "committee": "Environment and Public Works", 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Reported by Senator Jeffords without amendment. With written report No. 107-169.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2002-06-21", 
+      "calendar": "Senate Legislative", 
+      "number": "433", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3480-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2001-12-13", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boswell, Leonard L.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "IA", 
+      "thomas_id": "01466", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Costello, Jerry F.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "IL", 
+      "thomas_id": "00238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gilchrest, Wayne T.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "MD", 
+      "thomas_id": "00438", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gutknecht, Gil", 
+      "sponsored_at": "2001-12-13", 
+      "state": "MN", 
+      "thomas_id": "00479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Leach, James A.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "IA", 
+      "thomas_id": "00672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Luther, Bill", 
+      "sponsored_at": "2001-12-13", 
+      "state": "MN", 
+      "thomas_id": "00718", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "IL", 
+      "thomas_id": "00733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Nussle, Jim", 
+      "sponsored_at": "2001-12-13", 
+      "state": "IA", 
+      "thomas_id": "00871", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Petri, Thomas E.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "WI", 
+      "thomas_id": "00912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Phelps, David D.", 
+      "sponsored_at": "2001-12-13", 
+      "state": "IL", 
+      "thomas_id": "01586", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2001-12-13", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2001-12-13", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-04-09T15:05:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-12-13", 
+  "number": "3480", 
+  "official_title": "To promote Department of the Interior efforts to provide a scientific basis for the management of sediment and nutrient loss in the Upper Mississippi River Basin.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Upper Mississippi River Basin Protection Act of 2001", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Kind, Ron", 
+    "state": "WI", 
+    "thomas_id": "01498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-04-09T15:05:00-04:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "Civil rights and liberties, minority issues", 
+    "Commerce", 
+    "Computer simulation", 
+    "Computers and government", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Data banks", 
+    "Economics and public finance", 
+    "Electronic government information", 
+    "Environmental monitoring", 
+    "Environmental protection", 
+    "Environmental research", 
+    "Estuarine area conservation", 
+    "Estuarine pollution", 
+    "Eutrophication", 
+    "Federal aid to water pollution control", 
+    "Federal-Indian relations", 
+    "Federal-local relations", 
+    "Federal-state relations", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publicity", 
+    "Illinois", 
+    "Internet", 
+    "Iowa", 
+    "Land use", 
+    "Landscape protection", 
+    "Marine and coastal resources, fisheries", 
+    "Minnesota", 
+    "Minorities", 
+    "Mississippi River", 
+    "Missouri", 
+    "Nature conservation", 
+    "Performance measurement", 
+    "Public lands and natural resources", 
+    "Public-private partnerships", 
+    "Remote sensing", 
+    "Right of privacy", 
+    "Rivers", 
+    "Science, technology, communications", 
+    "Sediment control", 
+    "Sedimentation", 
+    "Soil conservation", 
+    "Soil erosion", 
+    "Space activities", 
+    "Water pollution control", 
+    "Water pollution measurement", 
+    "Water quality", 
+    "Water resources development", 
+    "Watershed management", 
+    "Wisconsin"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-04-09", 
+    "text": "Upper Mississippi River Basin Protection Act of 2001 - Declares that it is the policy of Congress that Federal investments in the Upper Mississippi River Basin must be guided by sound science.Title I: Sediment and Nutrient Monitoring Network - Directs the Secretary of the Interior, through the United States Geological Survey, to establish a nutrient and sediment monitoring network for the River Basin to: (1) identify and evaluate sources of sediments and nutrients; (2) quantify the processes affecting mobilization, transport, and fate of those sediments and nutrients on land and in water; (3) quantify their transport to and through the Basin; (4) record changes to sediment and nutrient loss; (5) provide coordinated data to be used in computer modeling of the Basin; and (6) identify major sources for targeting resources to reduce sediment and nutrient loss. States that such information shall be headquartered at the Upper Midwest Environmental Sciences Center in La Crosse, Wisconsin.(Sec. 102) Directs the Secretary to establish guidelines for related data collection and storage activities. Requires such data to be released to the public using generic station identifiers and hydrologic codes. Prohibits information regarding the location of a monitoring station on private lands from being disseminated without the landowner's permission.(Sec. 103) Directs the Secretary to inventory the sediment and monitoring efforts of governmental and nongovernmental entities for the purpose of creating a baseline understanding of overlap, data gaps, and redundancies, and based on such inventory, to integrate them into the monitoring network. Requires that such activities be carried out in coordination with the Lower Estuary Assessment Group as authorized under the Estuaries and Clean Waters Act of 2000.(Sec. 104) Directs the Secretary to collaborate with other public and private monitoring efforts in establishing the monitoring program.(Sec. 105) Makes the non-Federal sponsors of the monitoring network responsible for not less than 25 percent of the costs of maintaining it. Permits up to 80 percent of the non-Federal share to be provided through in-kind contributions. Deems a State or local monitoring effort that is adhering to the guidelines specified above to satisfy all such cost-share requirements.(Sec. 106) Requires the Secretary to report to Congress on the development of such network.(Sec. 107) Directs the National Research Council of the National Academy of Sciences to conduct a water resources assessment of the Basin.Title II: Computer Modeling and Research - Requires the Director of the United States Geological Survey to establish a computer modeling program of nutrient and sediment sources in the Basin. Requires such modeling to be used to identify subwatersheds that are significant sources of sediment and nutrient loss and to be made available for targeting public and private sediment and nutrient reduction efforts. Requires sediment and nutrient models to include models to: (1) relate nutrient and sediment loss to landscape, land use, and land management practices; and (2) define river channel nutrient transformation processes. Requires the collection of ancillary information in a GIS format to support modeling and management use of such results. States that such information shall be headquartered at the Center in La Crosse, Wisconsin.(Sec. 202) Requires the Director to establish an Internet-based system to distribute information about nutrient and sediment loss reduction projects and nutrient and sediment levels in the Upper Mississippi River and its tributaries.(Sec. 203) Requires the Director to provide to Congress and the public: (1) annual reports regarding monitoring activities conducted in the Basin; and (2) a progress report regarding modeling activities every three years.Title III: Authorization of Appropriations - Authorizes appropriations to: (1) the Secretary to carry out this Act; and (2) allow the National Research Council to perform the water resources assessment."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Upper Mississippi River Basin Protection Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Upper Mississippi River Basin Protection Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To promote Department of the Interior efforts to provide a scientific basis for the management of sediment and nutrient loss in the Upper Mississippi River Basin.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:49-05:00"
+}

@@ -1,0 +1,360 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-29", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:14:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ney moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:14:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H6425-6427", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:14:00-04:00", 
+      "bill_ids": [
+        "hcres90-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 90.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H6425", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-10-09T14:21:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-10", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-12-08", 
+      "references": [
+        {
+          "reference": "CR 12/7/2001 S12745", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Rules and Administration discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-08", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-12-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres90-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Acevedo-Vila, Anibal", 
+      "sponsored_at": "2001-03-29", 
+      "state": "PR", 
+      "thomas_id": "01679", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2001-03-29", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Becerra, Xavier", 
+      "sponsored_at": "2001-03-29", 
+      "state": "CA", 
+      "thomas_id": "00070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bonilla, Henry", 
+      "sponsored_at": "2001-03-29", 
+      "state": "TX", 
+      "thomas_id": "00107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "2001-03-29", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "IL", 
+      "thomas_id": "00478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2001-03-29", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "2001-03-29", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "2001-03-29", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "2001-03-29", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Rodriguez, Ciro D.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "TX", 
+      "thomas_id": "01518", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2001-03-29", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2001-03-29", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2001-03-29", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Solis, Hilda L.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "CA", 
+      "thomas_id": "01636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Underwood, Robert A.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "GU", 
+      "thomas_id": "01175", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2001-03-29", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-10-09T14:21:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-12-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-03-29", 
+  "number": "90", 
+  "official_title": "Authorizing the printing of a revised and updated version of the House document entitled \"Hispanic Americans in Congress\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "16", 
+    "name": "Serrano, Jose E.", 
+    "state": "NY", 
+    "thomas_id": "01042", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-12-08", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional publications", 
+    "Government operations and politics", 
+    "Hispanic Americans", 
+    "History", 
+    "House of Representatives", 
+    "Members of Congress", 
+    "Minorities", 
+    "Minorities in government"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-10-09", 
+    "text": "Authorizes the printing as a House document of an updated version of House Document 103-299 (as revised by the Library of Congress) entitled \"Hispanic Americans in Congress.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the printing of a revised and updated version of the House document entitled \"Hispanic Americans in Congress\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:49-05:00"
+}

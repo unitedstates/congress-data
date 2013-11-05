@@ -1,0 +1,224 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-27", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-04-02", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-07-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-19", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-19", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-09-05T15:12:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 107-197.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-09-05T15:12:00-04:00", 
+      "calendar": "House", 
+      "number": "72", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 72.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-09-24T18:46:00-04:00", 
+      "references": [], 
+      "text": "Mr. Bilirakis asked unanimous consent to discharge the House Calendar and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-09-24T18:47:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5963-5964", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-09-24T18:51:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": " CR H5964", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-09-24T18:51:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-09-25", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-11-18", 
+      "references": [
+        {
+          "reference": "CR S11339", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-18", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-11-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres84-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-09-24T18:51:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-11-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-03-27", 
+  "number": "84", 
+  "official_title": "Supporting the goals of Red Ribbon Week in promoting drug-free communities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "42", 
+    "name": "Baca, Joe", 
+    "state": "CA", 
+    "thomas_id": "01614", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2002-11-18", 
+  "subjects": [
+    "Commemorations", 
+    "Drug abuse", 
+    "Drug abuse prevention", 
+    "Government operations and politics", 
+    "Signs and symbols", 
+    "Special weeks"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2001-09-05", 
+    "text": "Supports the goals of Red Ribbon Week. Encourages all Americans to promote drug-free communities and to participate in drug prevention activities to show support for healthy, productive, drug-free lifestyles."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Supporting the goals of Red Ribbon Week in promoting drug-free communities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:48-05:00"
+}

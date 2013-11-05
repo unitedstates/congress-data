@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-04-11", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-15", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Commercial and Administrative Law", 
+      "text": "Referred to the Subcommittee on Commercial and Administrative Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-16T15:20:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-16T15:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1302-1305", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-16T15:20:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4167.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-16T15:44:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-16T19:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1307", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-16T19:15:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1302", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "95", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 3 (Roll no. 95).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-04-16T19:15:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-17", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-23", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": " CR S3225", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-04-23", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-04-24", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-26", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-05-07", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2002-05-07", 
+      "congress": "107", 
+      "law": "public", 
+      "number": "170", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 107-170.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4167-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Commercial and Administrative Law", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "public", 
+    "number": "170"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2002-05-07", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-04-16T19:15:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-04-23", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-04-11", 
+  "number": "4167", 
+  "official_title": "To extend for 8 additional months the period for which chapter 12 of title 11 of the United States Code is reenacted.", 
+  "popular_title": "Farmer Bankruptcy bill", 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2002-05-07", 
+  "subjects": [
+    "Agricultural credit", 
+    "Agriculture and food", 
+    "Bankruptcy", 
+    "Debtor and creditor", 
+    "Families", 
+    "Family farms", 
+    "Farm income", 
+    "Farmers", 
+    "Finance and financial sector", 
+    "Law", 
+    "Trusts and trustees"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2002-04-23", 
+    "text": "Amends the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, as amended by other specified Federal law, to extend until June 1, 2002, the reenactment of chapter 12 of the Federal Bankruptcy Code (Adjustment of Debts of a Family Farmer with Regular Annual Income) (thereby extending family farmer bankruptcy relief).Makes this Act effective as of October 1, 2001 (the previous expiration date)."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Farmer Bankruptcy bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To extend for 8 additional months the period for which chapter 12 of title 11 of the United States Code is reenacted.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:07-05:00"
+}

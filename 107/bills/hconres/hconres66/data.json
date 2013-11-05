@@ -1,0 +1,808 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-15", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-04-03T16:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ney moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-03T16:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1380-1384", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-03T16:33:00-04:00", 
+      "bill_ids": [
+        "hcres66-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 66.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-03T17:07:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-04T10:13:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1415-1416", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-04T10:37:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 4/3/2001 H1380", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "79", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 79).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-04-04T10:37:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-05", 
+      "committee": "Committee on Rules and Administration", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-04-24", 
+      "references": [
+        {
+          "reference": "CR S3866", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Rules and Administration discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-24", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-04-25", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres66-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2001-03-15", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2001-03-15", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2001-03-15", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2001-03-15", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2001-03-15", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clayton, Eva M.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NC", 
+      "thomas_id": "00204", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cubin, Barbara", 
+      "sponsored_at": "2001-03-15", 
+      "state": "WY", 
+      "thomas_id": "00254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2001-03-15", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, Jo Ann", 
+      "sponsored_at": "2001-03-15", 
+      "state": "VA", 
+      "thomas_id": "01672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Doolittle, John T.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "00307", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "2001-03-15", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2001-03-15", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2001-03-15", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Harman, Jane", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "00502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hooley, Darlene", 
+      "sponsored_at": "2001-03-15", 
+      "state": "OR", 
+      "thomas_id": "01491", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2001-03-15", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "2001-03-15", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2001-03-15", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Linder, John", 
+      "sponsored_at": "2001-03-15", 
+      "state": "GA", 
+      "thomas_id": "00693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McCarthy, Karen", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MO", 
+      "thomas_id": "00756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Napolitano, Grace F.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ney, Robert W.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "OH", 
+      "thomas_id": "00862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Northup, Anne M.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "KY", 
+      "thomas_id": "01508", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2001-03-15", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "2001-03-15", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Reynolds, Thomas M.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NY", 
+      "thomas_id": "01587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rivers, Lynn N.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "MI", 
+      "thomas_id": "00966", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2001-03-15", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Roybal-Allard, Lucille", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "00997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Solis, Hilda L.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01636", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Tauscher, Ellen O.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Velazquez, Nydia M.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NY", 
+      "thomas_id": "01184", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wilson, Heather", 
+      "sponsored_at": "2001-03-15", 
+      "state": "NM", 
+      "thomas_id": "01539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2001-03-15", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-04-04T10:37:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-04-24", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-03-15", 
+  "number": "66", 
+  "official_title": "Authorizing the printing of a revised and updated version of the House document entitled \"Women in Congress, 1917-1990\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-04-24", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional publications", 
+    "Government operations and politics", 
+    "History", 
+    "House of Representatives", 
+    "Women", 
+    "Women Members of Congress"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-04-04", 
+    "text": "Authorizes the printing as a House document of an updated version of House Document 101-238 (as revised by the Library of Congress) entitled \"Women in Congress, 1917-1990.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the printing of a revised and updated version of the House document entitled \"Women in Congress, 1917-1990\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:48-05:00"
+}

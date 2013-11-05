@@ -1,0 +1,576 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-12-04", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-12-12", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-12", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 1.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-12-19T12:01:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hyde moved to suspend the rules and pass the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-19T12:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10418-10426, H10887", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-19T12:01:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 75.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-19T12:24:00-05:00", 
+      "references": [], 
+      "text": "DEBATE EXTENSION - By unanimous consent, an additional 15 minutes of debate time was allotted.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-19T13:03:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-20T11:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10936", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-20T11:30:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 11/19/2001 H10418-10419", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "511", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 12, 7 Present (Roll no. 511).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-12-20T11:30:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-20T11:30:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-20", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres75-107", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Bachus, Spencer", 
+      "sponsored_at": "2001-12-11", 
+      "state": "AL", 
+      "thomas_id": "00038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Barr, Bob", 
+      "sponsored_at": "2001-12-18", 
+      "state": "GA", 
+      "thomas_id": "00056", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brown, Henry E., Jr.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "SC", 
+      "thomas_id": "01669", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "2001-12-06", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2001-12-11", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2001-12-06", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2001-12-11", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2001-12-11", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooksey, John", 
+      "sponsored_at": "2001-12-06", 
+      "state": "LA", 
+      "thomas_id": "01476", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2001-12-18", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, Jo Ann", 
+      "sponsored_at": "2001-12-11", 
+      "state": "VA", 
+      "thomas_id": "01672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeMint, Jim", 
+      "sponsored_at": "2001-12-13", 
+      "state": "SC", 
+      "thomas_id": "01605", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "English, Phil", 
+      "sponsored_at": "2001-12-11", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Flake, Jeff", 
+      "sponsored_at": "2001-12-11", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2001-12-18", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "2001-12-04", 
+      "state": "FL", 
+      "thomas_id": "00450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Grucci, Felix J., Jr.", 
+      "sponsored_at": "2001-12-18", 
+      "state": "NY", 
+      "thomas_id": "01662", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hilleary, Van", 
+      "sponsored_at": "2001-12-11", 
+      "state": "TN", 
+      "thomas_id": "00538", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "2001-12-11", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "2001-12-04", 
+      "state": "IL", 
+      "thomas_id": "00580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "48", 
+      "name": "Issa, Darrell E.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "CA", 
+      "thomas_id": "01640", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2001-12-13", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2001-12-12", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Kerns, Brian D.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "IN", 
+      "thomas_id": "01650", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2001-12-18", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2001-12-18", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Largent, Steve", 
+      "sponsored_at": "2001-12-11", 
+      "state": "OK", 
+      "thomas_id": "00664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Manzullo, Donald A.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "IL", 
+      "thomas_id": "00733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Dan", 
+      "sponsored_at": "2001-12-11", 
+      "state": "FL", 
+      "thomas_id": "00807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2001-12-11", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Reynolds, Thomas M.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "NY", 
+      "thomas_id": "01587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Riley, Bob", 
+      "sponsored_at": "2001-12-18", 
+      "state": "AL", 
+      "thomas_id": "01517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2001-12-06", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "2001-12-11", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Schrock, Edward L.", 
+      "sponsored_at": "2001-12-06", 
+      "state": "VA", 
+      "thomas_id": "01673", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2001-12-11", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2001-12-12", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Vitter, David", 
+      "sponsored_at": "2001-12-12", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "2001-12-06", 
+      "state": "OK", 
+      "thomas_id": "01206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "2001-12-11", 
+      "state": "FL", 
+      "thomas_id": "01215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-12-20T11:30:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-12-04", 
+  "number": "75", 
+  "official_title": "Regarding inspection and monitoring to prevent the development of weapons of mass destruction in Iraq.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "thomas_id": "00452", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-12-20T11:30:00-05:00", 
+  "subjects": [
+    "Aggression", 
+    "Armed forces and national security", 
+    "Armistices", 
+    "Arms control verification", 
+    "International affairs", 
+    "Iraq", 
+    "Middle East and North Africa", 
+    "Transportation and public works", 
+    "United Nations", 
+    "Weapons of mass destruction"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-12-20", 
+    "text": "Declares that: (1) the United States and the United Nations (UN) Security Council should insist on a complete program of inspection and monitoring to prevent the development of weapons of mass destruction in Iraq; (2) Iraq should allow UN weapons inspectors access to areas, facilities, equipment, records, and means of transportation as required by UN Security Resolutions 707 and 1284; (3) the United States should ensure that the UN does not accept any inspection and monitoring regime that fails to guarantee such access; (4) Iraq, as a result of its refusal to comply with UN Security Council Resolution 687 and subsequent relevant resolutions, remains in breach of its international obligations; and (5) Iraq's refusal to allow UN weapons inspectors access to covered facilities and documents presents a mounting threat to the United States, its friends and allies, and international peace and security."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Regarding the monitoring of weapons development in Iraq, as required by United Nations Security Council Resolution 687 (April 3, 1991).", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "Regarding inspection and monitoring to prevent the development of weapons of mass destruction in Iraq.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:51:15-05:00"
+}

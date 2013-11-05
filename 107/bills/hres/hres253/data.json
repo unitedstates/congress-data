@@ -1,0 +1,592 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-03", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-09-25", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "subcommittee": "Europe", 
+      "text": "Referred to the Subcommittee on Europe.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-09-25", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Europe", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-25", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Europe", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T17:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gallegly moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T17:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7119-7122", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T17:33:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 253.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T17:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7120", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-10-07T17:46:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T17:46:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres253-107", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Europe", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldacci, John Elias", 
+      "sponsored_at": "2002-05-21", 
+      "state": "ME", 
+      "thomas_id": "00048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Barrett, Thomas M.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "WI", 
+      "thomas_id": "00058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2002-07-15", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Capuano, Michael E.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2002-10-07", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "2002-10-07", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Delahunt, William D.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "MA", 
+      "thomas_id": "01480", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2002-05-21", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "2002-05-21", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2002-05-21", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Hoeffel, Joseph M.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "PA", 
+      "thomas_id": "01579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Holden, Tim", 
+      "sponsored_at": "2002-05-21", 
+      "state": "PA", 
+      "thomas_id": "00550", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Inslee, Jay", 
+      "sponsored_at": "2002-05-21", 
+      "state": "WA", 
+      "thomas_id": "00584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "John, Christopher", 
+      "sponsored_at": "2002-05-21", 
+      "state": "LA", 
+      "thomas_id": "01495", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Kanjorski, Paul E.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "PA", 
+      "thomas_id": "00615", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kleczka, Gerald D.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "WI", 
+      "thomas_id": "00637", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2002-07-24", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "LaFalce, John J.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "NY", 
+      "thomas_id": "00657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lipinski, William O.", 
+      "sponsored_at": "2002-07-08", 
+      "state": "IL", 
+      "thomas_id": "00694", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Matheson, Jim", 
+      "sponsored_at": "2002-05-21", 
+      "state": "UT", 
+      "thomas_id": "01671", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCarthy, Carolyn", 
+      "sponsored_at": "2002-05-21", 
+      "state": "NY", 
+      "thomas_id": "01503", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2002-05-21", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2002-06-12", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2002-07-08", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2002-05-21", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Sawyer, Tom", 
+      "sponsored_at": "2002-05-21", 
+      "state": "OH", 
+      "thomas_id": "01022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2002-06-12", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shows, Ronnie", 
+      "sponsored_at": "2002-05-21", 
+      "state": "MS", 
+      "thomas_id": "01565", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Smith, Nick", 
+      "sponsored_at": "2002-09-26", 
+      "state": "MI", 
+      "thomas_id": "01080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "2002-09-17", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Visclosky, Peter J.", 
+      "sponsored_at": "2002-05-21", 
+      "state": "IN", 
+      "thomas_id": "01188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Waxman, Henry A.", 
+      "sponsored_at": "2002-10-07", 
+      "state": "CA", 
+      "thomas_id": "01209", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2002-05-21", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-10-07T17:46:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-10-03", 
+  "number": "253", 
+  "official_title": "Recommending the integration of the Slovak Republic into the North Atlantic Treaty Organization (NATO).", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Stupak, Bart", 
+    "state": "MI", 
+    "thomas_id": "01123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2002-10-07T17:46:00-04:00", 
+  "subjects": [
+    "Alliances", 
+    "Armed forces and national security", 
+    "Collective security agreements", 
+    "Commemorations", 
+    "Commerce", 
+    "Conferences", 
+    "Congress", 
+    "Congressional tributes", 
+    "Czech Republic", 
+    "Democracy", 
+    "Europe", 
+    "Free enterprise", 
+    "Government operations and politics", 
+    "International affairs", 
+    "NATO countries", 
+    "NATO enlargement", 
+    "NATO military forces", 
+    "Peace", 
+    "Slovakia"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2002-10-07", 
+    "text": "Expresses the sense of the House of Representatives that: (1) the Slovak Republic should be commended for its progress toward political and economic liberty and for its efforts to meet the guidelines for prospective North Atlantic Treaty Organization (NATO) members; (2) Slovakia would make significant contributions to furthering NATO goals; (3) extension of NATO to include Slovakia would significantly contribute to security and peace of Europe and the region; and (4) Slovakia should be invited to become a full NATO member at the NATO 2002 summit in Prague."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recommending the integration of the Republic of Slovakia into the North Atlantic Treaty Organization (NATO).", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "Recommending the integration of the Slovak Republic into the North Atlantic Treaty Organization (NATO).", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:53-05:00"
+}

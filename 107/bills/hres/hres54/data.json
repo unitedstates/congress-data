@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-26", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-27", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "subcommittee": "National Parks, Recreation and Public Lands", 
+      "text": "Referred to the Subcommittee on National Parks, Recreation and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:18:00-05:00", 
+      "references": [], 
+      "text": "Mr. Schaffer moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H456-459", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:19:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 54.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T11:29:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:37:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H461-462", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:44:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H456-457", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "21", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 21).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-02-28T12:44:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres54-107", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Recreation, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2001-02-28", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CO", 
+      "thomas_id": "01479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hefley, Joel", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CO", 
+      "thomas_id": "00524", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2001-02-27", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McInnis, Scott", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CO", 
+      "thomas_id": "00775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2001-02-27", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-02-28T12:44:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-26", 
+  "number": "54", 
+  "official_title": "Commemorating African American pioneers in Colorado.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Schaffer, Bob", 
+    "state": "CO", 
+    "thomas_id": "01524", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2001-02-28T12:44:00-05:00", 
+  "subjects": [
+    "Black history", 
+    "Commemorations", 
+    "Historic sites", 
+    "History", 
+    "Minorities", 
+    "Public lands and natural resources", 
+    "West (U.S.)"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-02-28", 
+    "text": "Encourages all Americans to learn about the history of African Americans whose contributions are still too little known. Recognizes that African Americans, like those at Dearfield, Colorado, greatly contributed to settling and shaping the American West. Supports the restoration of the site at Dearfield."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Commemorating African American pioneers in Colorado.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:48-05:00"
+}

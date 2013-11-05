@@ -1,0 +1,292 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-06", 
+      "committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-15", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Executive Comment Requested from Interior.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-15", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Executive Comment Received from Interior.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-17", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-17", 
+      "in_committee": "House Committee on Resources", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-10-30T15:38:00-05:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Resources. H. Rept. 107-257.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-30T15:38:00-05:00", 
+      "calendar": "Union", 
+      "number": "157", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 157.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-10-30T15:54:00-05:00", 
+      "references": [], 
+      "text": "Mr. Walden moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-30T15:54:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7379-7380", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-30T15:54:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 483.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-30T16:01:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H7379", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-10-30T16:01:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-31", 
+      "committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-12-13", 
+      "references": [], 
+      "text": "Senate Committee on Indian Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-13", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S13226", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-12-13", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-12-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-12-27", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2001-12-27", 
+      "congress": "107", 
+      "law": "public", 
+      "number": "102", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 107-102.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr483-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "sponsored_at": "2001-02-06", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hooley, Darlene", 
+      "sponsored_at": "2001-02-06", 
+      "state": "OR", 
+      "thomas_id": "01491", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wu, David", 
+      "sponsored_at": "2001-02-06", 
+      "state": "OR", 
+      "thomas_id": "01598", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "public", 
+    "number": "102"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2001-12-27", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-10-30T16:01:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-12-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-06", 
+  "number": "483", 
+  "official_title": "Regarding the use of the trust land and resources of the Confederated Tribes of the Warm Springs Reservation of Oregon.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s266-107", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "thomas_id": "01596", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2001-12-27", 
+  "subjects": [
+    "Commerce", 
+    "Economics and public finance", 
+    "Electric utilities", 
+    "Energy", 
+    "Federal-Indian relations", 
+    "Housing and community development", 
+    "Indian economic development", 
+    "Indian lands", 
+    "Land use", 
+    "Leases", 
+    "Minorities", 
+    "Native Americans", 
+    "Oregon", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "2001-10-30", 
+    "text": "Allows any restricted lands on the reservation of, and held in trust for, the Confederated Tribes of the Warm Springs Reservation of Oregon to be leased by the Indian owners, with the Secretary of the Interior's approval, for terms of not to exceed 99 years for public, religious, educational, recreational, residential, business, or certain other purposes.Approves and ratifies the use of tribal lands, resources, and other assets for economic development as described in the Long-Term Global Settlement and Compensation Agreement between the Department of the Interior, the Tribes, and the Portland General Electric Company. Approves the authorization, execution, and delivery of such Agreement.Deems the Secretary of the Interior to have the authority to approve the Agreement and to implement the provisions under which the Secretary has obligations as a party. Provides that any agreements approved by the Secretary prior to or after the enactment of this Act under such authority shall not require congressional approval or ratification to be valid and binding.Provides that this Act shall take effect as of April 12, 2000."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Regarding the use of the trust land and resources of the Confederated Tribes of the Warm Springs Reservation of Oregon.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:16-05:00"
+}

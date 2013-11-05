@@ -1,0 +1,243 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-03", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-10-05", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-05", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-10-16T18:16:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Ways and Means. H. Rept. 107-244.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-10-16T18:16:00-04:00", 
+      "calendar": "Union", 
+      "number": "149", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 149.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-12-06T09:44:00-05:00", 
+      "references": [], 
+      "text": "Mr. Thomas moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-06T09:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8953-8960, H8970-8971", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-06T09:45:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3008.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-06T10:32:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-06T11:47:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8953-8954", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "477", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3, 1 Present (Roll no. 477).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-12-06T11:47:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-06T11:47:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-06", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3008-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "2001-10-03", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "English, Phil", 
+      "sponsored_at": "2001-10-03", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "2001-10-05", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-12-06T11:47:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-10-03", 
+  "number": "3008", 
+  "official_title": "To reauthorize the trade adjustment assistance program under the Trade Act of 1974, and for other purposes", 
+  "popular_title": "Import Competition bill", 
+  "related_bills": [
+    {
+      "bill_id": "hr3009-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr3009-107", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1209-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Johnson, Nancy L.", 
+    "state": "CT", 
+    "thomas_id": "00602", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-12-06T11:47:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Authorization", 
+    "Canada", 
+    "Customs unions", 
+    "Department of Labor", 
+    "Dislocated workers", 
+    "EBB Terrorism", 
+    "Economics and public finance", 
+    "Foreign trade and international finance", 
+    "Free trade", 
+    "Government operations and politics", 
+    "International affairs", 
+    "Labor and employment", 
+    "Latin America", 
+    "Law", 
+    "Mexico", 
+    "North America", 
+    "Occupational retraining", 
+    "Trade adjustment assistance", 
+    "Trade agreements"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-12-06", 
+    "text": "Title I: Reauthorization of Trade Adjustment Assistance Program; Related Provisions - Amends the Trade Act of 1974 to authorize appropriations to the Department of Labor through FY 2003 for: (1) trade adjustment assistance for displaced workers and for firms; and (2) the North American Free Trade Agreement (NAFTA) Transitional Adjustment Assistance Program.Increases from 104 to 130 the maximum number of weeks an adversely affected worker who requires a program of remedial education may receive trade readjustment allowances.Reduces from 60 to 40 days the time within which the Secretary of Labor must respond to petitions for certification of eligibility to apply for adjustment assistance.Expresses the sense of Congress that the Secretary, in conjunction with the States, should provide workers with more specific information about benefits, training, and other employment services, and procedures for obtaining them, under the trade adjustment assistance program.Title II: Adjustment Assistance Program for Workers Separated from Employment Due to the Terrorist Attacks of September 11, 2001 - Directs the Secretary to establish a program to provide adjustment assistance for workers separated from employment due to the terrorist attacks of September 11, 2001, in the same manner and to the same extent as assistance provided under NAFTA. Sets forth criteria governing when groups of workers may petition for a certification of eligibility to apply for such adjustment assistance, including that: (1) a significant number or proportion of workers have become separated or threatened with separation from employment; (2) sales or production have decreased absolutely; and (3) the events of September 11, 2001, contributed importantly to such separation and decline.Authorizes appropriations for FY 2002 and 2003."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Import Competition bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To reauthorize the trade adjustment assistance program under the Trade Act of 1974.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "To reauthorize the trade adjustment assistance program under the Trade Act of 1974, and for other purposes", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:35-05:00"
+}

@@ -1,0 +1,641 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-20", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-03-22T14:26:00-05:00", 
+      "references": [], 
+      "text": "Committee on International Relations discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22T14:26:00-05:00", 
+      "references": [], 
+      "text": "Mr. Chabot asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22T14:26:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1087-1088", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1087", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22T14:27:00-05:00", 
+      "bill_ids": [
+        "hcres69-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Con. Res. 69.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22T14:36:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-03-22T14:37:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-22", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-23", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2833", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-03-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h14-107", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "14"
+    }, 
+    {
+      "amendment_id": "h15-107", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "15"
+    }
+  ], 
+  "bill_id": "hconres69-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Baca, Joe", 
+      "sponsored_at": "2001-03-20", 
+      "state": "CA", 
+      "thomas_id": "01614", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Bentsen, Ken", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "00079", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Berkley, Shelley", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NV", 
+      "thomas_id": "01576", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2001-03-22", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2001-03-20", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2001-03-20", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2001-03-22", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Edwards, Chet", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "00335", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2001-03-20", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "2001-03-20", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2001-03-20", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2001-03-20", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Charles A.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "01555", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Greenwood, James C.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "PA", 
+      "thomas_id": "00465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gutknecht, Gil", 
+      "sponsored_at": "2001-03-20", 
+      "state": "MN", 
+      "thomas_id": "00479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Horn, Stephen", 
+      "sponsored_at": "2001-03-20", 
+      "state": "CA", 
+      "thomas_id": "00559", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2001-03-20", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2001-03-20", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "2001-03-20", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McIntyre, Mike", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NC", 
+      "thomas_id": "01505", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Meehan, Martin T.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "MA", 
+      "thomas_id": "00788", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Rodriguez, Ciro D.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "01518", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "sponsored_at": "2001-03-22", 
+      "state": "VT", 
+      "thomas_id": "01010", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sandlin, Max", 
+      "sponsored_at": "2001-03-20", 
+      "state": "TX", 
+      "thomas_id": "01523", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2001-03-22", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2001-03-20", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Tauscher, Ellen O.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "CA", 
+      "thomas_id": "01533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "2001-03-22", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-03-22T14:36:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-03-23", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-03-20", 
+  "number": "69", 
+  "official_title": "Expressing the sense of the Congress on the Hague Convention on the Civil Aspects of International Child Abduction and urging all Contracting States to the Convention to recommend the production of practice guides.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Lampson, Nick", 
+    "state": "TX", 
+    "thomas_id": "01500", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-03-23", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Custody of children", 
+    "Families", 
+    "International affairs", 
+    "International agencies", 
+    "International law", 
+    "Parental kidnapping", 
+    "Treaties"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-03-22", 
+    "text": "Urges all Contracting States to the Hague Convention on the Civil Aspects of International Child Abduction to adopt a resolution recommending that: (1) the Permanent Bureau of The Hague Conference on Private International Law produce and promote practice guides to assist in the implementation and operation of the Convention; and (2) such a proposal to produce practice guides be adopted by the Fourth Special Commission at The Hague in March 2001."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the Congress on the Hague Convention on the Civil Aspects of International Child Abduction and urging all Contracting States to the Convention to recommend the production of practice guides.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:48-05:00"
+}

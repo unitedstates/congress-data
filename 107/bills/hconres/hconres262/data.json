@@ -1,0 +1,318 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-06", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-11-06T15:25:00-05:00", 
+      "references": [], 
+      "text": "Mr. English moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-06T15:25:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7750-7754", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-06T15:25:00-05:00", 
+      "bill_ids": [
+        "hcres262-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 262.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-06T16:05:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-07T13:13:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7877", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-07T13:23:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 11/06/2001 H7750", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "432", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 432).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-11-07T13:23:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-07", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres262-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Berry, Marion", 
+      "sponsored_at": "2001-11-06", 
+      "state": "AR", 
+      "thomas_id": "01462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2001-11-06", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Callahan, Sonny", 
+      "sponsored_at": "2001-11-06", 
+      "state": "AL", 
+      "thomas_id": "00164", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2001-11-06", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2001-11-06", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ehrlich, Robert L., Jr.", 
+      "sponsored_at": "2001-11-06", 
+      "state": "MD", 
+      "thomas_id": "00340", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2001-11-06", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Gekas, George W.", 
+      "sponsored_at": "2001-11-06", 
+      "state": "PA", 
+      "thomas_id": "00432", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Houghton, Amo", 
+      "sponsored_at": "2001-11-06", 
+      "state": "NY", 
+      "thomas_id": "00563", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Jones, Stephanie Tubbs", 
+      "sponsored_at": "2001-11-06", 
+      "state": "OH", 
+      "thomas_id": "01581", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "2001-11-06", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ney, Robert W.", 
+      "sponsored_at": "2001-11-06", 
+      "state": "OH", 
+      "thomas_id": "00862", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Quinn, Jack", 
+      "sponsored_at": "2001-11-06", 
+      "state": "NY", 
+      "thomas_id": "00938", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2001-11-06", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "2001-11-06", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Stupak, Bart", 
+      "sponsored_at": "2001-11-06", 
+      "state": "MI", 
+      "thomas_id": "01123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Visclosky, Peter J.", 
+      "sponsored_at": "2001-11-06", 
+      "state": "IN", 
+      "thomas_id": "01188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-11-07T13:23:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-11-06", 
+  "number": "262", 
+  "official_title": "Expressing the sense of Congress that the President, at the WTO round of negotiations to be held at Doha, Qatar, from November 9-13, 2001, and at any subsequent round of negotiations, should preserve the ability of the United States to enforce rigorously its trade laws and should ensure that United States exports are not subject to the abusive use of trade laws by other countries.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "English, Phil", 
+    "state": "PA", 
+    "thomas_id": "00347", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-11-07T13:23:00-05:00", 
+  "subjects": [
+    "Agriculture and food", 
+    "Agriculture in foreign trade", 
+    "Antidumping", 
+    "Countervailing duties", 
+    "Dumping", 
+    "Exports", 
+    "Foreign trade and international finance", 
+    "International affairs", 
+    "International competitiveness", 
+    "Middle East and North Africa", 
+    "Nontariff trade barriers", 
+    "Qatar", 
+    "Reciprocity", 
+    "Subsidies", 
+    "Trade agreements", 
+    "Trade negotiations"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-11-07", 
+    "text": "Expresses the sense of Congress that the President, at the upcoming World Trade Organization (WTO) round of negotiations at Doha, Qatar, November 9-13, 2001, and at any subsequent round of WTO negotiations, should: (1) preserve the U.S. ability to enforce its trade laws rigorously, including antidumping and countervailing duty laws, and avoid agreements which lessen the effectiveness of domestic and international disciplines on unfair trade, especially dumping and subsidies, in order to ensure that U.S. workers, agricultural producers, and firms can compete fully on fair terms and enjoy the benefits of reciprocal trade concessions; and (2) ensure that U.S. exports are not subject to the abusive use of trade laws, including antidumping and countervailing duty laws, by other countries."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of Congress that the President, at the WTO round of negotiations to be held at Doha, Qatar, from November 9-13, 2001, and at any subsequent round of negotiations, should preserve the ability of the United States to enforce rigorously its trade laws and should ensure that United States exports are not subject to the abusive use of trade laws by other countries.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:54-05:00"
+}

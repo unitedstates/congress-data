@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-02-12", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-02-12T14:47:00-05:00", 
+      "references": [], 
+      "text": "Mr. Hyde moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-12T14:47:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H247-249", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-12T14:47:00-05:00", 
+      "bill_ids": [
+        "hcres324-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 324.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-12T15:01:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H247", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-02-12T15:01:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-02-13", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-29", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres324-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "2002-02-12", 
+      "state": "IL", 
+      "thomas_id": "00580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "2002-02-12", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-02-12T15:01:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-02-12", 
+  "number": "324", 
+  "official_title": "Commending President Pervez Musharraf of Pakistan for his leadership and friendship and welcoming him to the United States.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres322-107", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "hres285-107", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "sconres96-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "16", 
+    "name": "Pitts, Joseph R.", 
+    "state": "PA", 
+    "thomas_id": "01514", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-02-12T15:01:00-05:00", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Foreign leaders", 
+    "Government operations and politics", 
+    "International affairs", 
+    "Pakistan", 
+    "Political leadership", 
+    "South Asia"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-02-12", 
+    "text": "Commends President Pervez Musharraf of Pakistan for his leadership and friendship and welcomes him to the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Commending President Pervez Musharraf of Pakistan for his leadership and friendship and welcoming him to the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:55-05:00"
+}

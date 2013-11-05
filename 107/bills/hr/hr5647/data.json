@@ -1,0 +1,233 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-10-16", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-10-16T20:10:00-04:00", 
+      "references": [], 
+      "text": "Mr. Armey asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-16T20:10:00-04:00", 
+      "references": [], 
+      "text": "Committee on Armed Services discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-16T20:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7964-8009", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-16T20:10:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7964", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-10-16T20:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-17", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10743", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-10-17", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-10-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-23", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-10-29", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2002-10-29", 
+      "congress": "107", 
+      "law": "public", 
+      "number": "254", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 107-254.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5647-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "2002-10-16", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2002-10-16", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "sponsored_at": "2002-10-16", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2002-10-16", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "sponsored_at": "2002-10-16", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "2002-10-16", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "public", 
+    "number": "254"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2002-10-29", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-10-16T20:10:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-10-17", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-10-16", 
+  "number": "5647", 
+  "official_title": "To authorize the duration of the base contract of the Navy-Marine Corps Intranet contract to be more than five years but not more than seven years.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2002-10-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Defense contracts", 
+    "Government operations and politics", 
+    "Intranets", 
+    "Marine corps", 
+    "Naval procurement", 
+    "Navy", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-10-16", 
+    "text": "Amends the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 to authorize the base contract of the Navy-Marine Corps Intranet contract to have a term in excess of five years, but not more than seven years."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To authorize the duration of the base contract of the Navy-Marine Corps Intranet contract to be more than five years but not more than seven years.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:43-05:00"
+}

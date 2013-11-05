@@ -1,0 +1,254 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-03-28", 
+      "committee": "House Committee on Science", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-11-27T14:45:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Morella moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-27T14:45:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8351-8356", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-27T14:45:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1259.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-27T15:06:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-27T18:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8391", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-27T19:02:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H8351-8353", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "449", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 4 (Roll no. 449).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-11-27T19:02:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-11-28", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1259-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Barcia, James A.", 
+      "sponsored_at": "2001-03-28", 
+      "state": "MI", 
+      "thomas_id": "00052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Boehlert, Sherwood", 
+      "sponsored_at": "2001-03-28", 
+      "state": "NY", 
+      "thomas_id": "00101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2001-03-28", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Etheridge, Bob", 
+      "sponsored_at": "2001-03-28", 
+      "state": "NC", 
+      "thomas_id": "01482", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gordon, Bart", 
+      "sponsored_at": "2001-03-28", 
+      "state": "TN", 
+      "thomas_id": "00448", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Gutknecht, Gil", 
+      "sponsored_at": "2001-03-28", 
+      "state": "MN", 
+      "thomas_id": "00479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-11-27T19:02:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-03-28", 
+  "number": "1259", 
+  "official_title": "To amend the National Institute of Standards and Technology Act to enhance the ability of the National Institute of Standards and Technology to improve computer security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Computer Security Enhancement Act of 2001", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Morella, Constance A.", 
+    "state": "MD", 
+    "thomas_id": "00833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-11-27T19:02:00-05:00", 
+  "subjects": [
+    "Administrative procedure", 
+    "Authorization", 
+    "Civil rights and liberties, minority issues", 
+    "Computer networks", 
+    "Computer security measures", 
+    "Computer software", 
+    "Computers", 
+    "Computers and government", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Cryptography", 
+    "Data banks", 
+    "Department of Commerce", 
+    "Economics and public finance", 
+    "Education", 
+    "Electronic government information", 
+    "Employee training", 
+    "Encryption", 
+    "Federal advisory bodies", 
+    "Federal aid to higher education", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government procurement", 
+    "Government publicity", 
+    "Higher education", 
+    "Identification devices", 
+    "Infrastructure", 
+    "Infrastructure (Economics)", 
+    "Internet", 
+    "Labor and employment", 
+    "Laboratories", 
+    "Law", 
+    "Licenses", 
+    "Public meetings of administrative bodies", 
+    "Quality of products", 
+    "Right of privacy", 
+    "Risk assessment", 
+    "Scholarships", 
+    "Science, technology, communications", 
+    "Standards", 
+    "Technical education", 
+    "Technology assessment", 
+    "Web sites"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-11-27", 
+    "text": "Computer Security Enhancement Act of 2001 - Amends the National Institute of Standards and Technology Act to require the Institute to provide assistance to Federal agencies in the protection of computer networks, promote Federal compliance with computer information security and privacy guidelines, and assist Federal response efforts to unauthorized access to Federal systems.(Sec. 4) Requires the Institute to develop uniform standards for the cost-effective security and privacy of sensitive information in certain Federal systems, provide a list of certified commercial computer system security products, and report annually on Federal computer system evaluations.(Sec. 5) Directs the Institute to solicit Computer System Security and Privacy Advisory Board recommendations regarding standards. Authorizes appropriations for FY 2002 and 2003 to enable the Board to identify emerging computer security, privacy, and cryptography issues.(Sec. 6) Prohibits the Institute from adopting encryption and electronic authentication standards for other than Federal computer systems.(Sec. 7) Authorizes (current law requires) the Institute to draw upon National Security Agency computer security guidelines.(Sec. 8) Amends the Computer Security Act of 1987 to require Federal computer security training to emphasize protecting information accessible through public networks.(Sec. 9) Authorizes appropriations for FY 2002 and 2003 for fellowships to students in computer security.(Sec. 10) Requires a National Research Council of the National Academy of Sciences to: (1) conduct a study of electronic authentication technologies; and (2) report to specified congressional committees on its findings, conclusions, and recommendations for public policy related to such technologies. Authorizes appropriations for FY 2002.(Sec. 11) Directs the Under Secretary of Commerce for Technology to promote an increased use of security technologies for the nation's information infrastructure, establish a central repository of information on security vulnerability and risks, and promote the development of national infrastructures for encryption technologies.(Sec. 12) Directs the Institute's Director to develop technology-neutral electronic authentication infrastructure standards for Federal agencies, provide a list of commercially available authentication products, establish core specifications for Federal electronic certification and management technologies, provide a list of conforming systems, and report annually on infrastructure implementation.(Sec. 13) Authorizes appropriations for FY 2002 and 2003."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Computer Security Enhancement Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Computer Security Enhancement Act of 2001", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the National Institute of Standards and Technology Act to enhance the ability of the National Institute of Standards and Technology to improve computer security, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:41-05:00"
+}

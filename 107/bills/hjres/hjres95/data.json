@@ -1,0 +1,203 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-05-23", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-06-18", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Military Personnel", 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-06-18", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Executive Comment Requested from DOD.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-24T18:06:00-04:00", 
+      "references": [], 
+      "text": "Mr. Schrock moved to suspend the rules and pass the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-24T18:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3834-3836", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-24T18:07:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 95.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-24T18:24:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-24T19:04:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3839", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-24T19:12:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3834-3835", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "252", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 252).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-06-24T19:12:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-24T19:12:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-25", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres95-107", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2002-06-24", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McInnis, Scott", 
+      "sponsored_at": "2002-06-24", 
+      "state": "CO", 
+      "thomas_id": "00775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-06-24T19:12:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-05-23", 
+  "number": "95", 
+  "official_title": "Providing for the designation of a Medal of Honor Flag and for presentation of that flag to recipients of the Medal of Honor.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "5", 
+    "name": "Latham, Tom", 
+    "state": "IA", 
+    "thomas_id": "00666", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-06-24T19:12:00-04:00", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional Medal of Honor", 
+    "Flags"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2002-06-24", 
+    "text": "Directs the: (1) Secretary of Defense to design and designate a Medal of Honor Flag, taking into account designs submitted by the general public; and (2) President to provide for the presentation of such Flag to each Medal recipient."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Designating an official flag of the Medal of Honor and providing for presentation of that flag to each recipient of that Medal of Honor.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "Providing for the designation of a Medal of Honor Flag and for presentation of that flag to recipients of the Medal of Honor.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:51:15-05:00"
+}

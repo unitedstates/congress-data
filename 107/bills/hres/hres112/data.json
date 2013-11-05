@@ -1,0 +1,361 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-04-03", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-04-30", 
+      "in_committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "subcommittee": "Education Reform", 
+      "text": "Referred to the Subcommittee on Education Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-05-01T15:40:00-04:00", 
+      "references": [], 
+      "text": "Mr. Keller moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-01T15:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1688-1692", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-01T15:41:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 112.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-05-01T16:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1688", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-05-01T16:09:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres112-107", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Education Reform", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Buyer, Steve", 
+      "sponsored_at": "2001-04-03", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2001-04-04", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Davis, Jo Ann", 
+      "sponsored_at": "2001-04-03", 
+      "state": "VA", 
+      "thomas_id": "01672", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2001-04-03", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hilliard, Earl F.", 
+      "sponsored_at": "2001-04-04", 
+      "state": "AL", 
+      "thomas_id": "00539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "2001-04-24", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2001-04-04", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Keller, Ric", 
+      "sponsored_at": "2001-04-03", 
+      "state": "FL", 
+      "thomas_id": "01644", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "2001-04-03", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Dan", 
+      "sponsored_at": "2001-04-03", 
+      "state": "FL", 
+      "thomas_id": "00807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Mink, Patsy T.", 
+      "sponsored_at": "2001-04-03", 
+      "state": "HI", 
+      "thomas_id": "00815", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Moore, Dennis", 
+      "sponsored_at": "2001-04-03", 
+      "state": "KS", 
+      "thomas_id": "01561", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Otter, C. L. (Butch)", 
+      "sponsored_at": "2001-05-01", 
+      "state": "ID", 
+      "thomas_id": "01646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2001-05-01", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Putnam, Adam H.", 
+      "sponsored_at": "2001-05-01", 
+      "state": "FL", 
+      "thomas_id": "01645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Sherwood, Don", 
+      "sponsored_at": "2001-04-03", 
+      "state": "PA", 
+      "thomas_id": "01589", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2001-04-24", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simmons, Rob", 
+      "sponsored_at": "2001-04-03", 
+      "state": "CT", 
+      "thomas_id": "01642", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "2001-04-03", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Sweeney, John E.", 
+      "sponsored_at": "2001-04-03", 
+      "state": "NY", 
+      "thomas_id": "01591", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Terry, Lee", 
+      "sponsored_at": "2001-04-04", 
+      "state": "NE", 
+      "thomas_id": "01566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thune, John R.", 
+      "sponsored_at": "2001-04-03", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "2001-04-03", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wilson, Heather", 
+      "sponsored_at": "2001-04-03", 
+      "state": "NM", 
+      "thomas_id": "01539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-05-01T16:09:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-04-03", 
+  "number": "112", 
+  "official_title": "Recognizing the upcoming 100th anniversary of the 4-H Youth Development Program and commending such program for service to the youth of the world.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres472-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "16", 
+    "name": "Foley, Mark", 
+    "state": "FL", 
+    "thomas_id": "00396", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2001-05-01T16:09:00-04:00", 
+  "subjects": [
+    "Agricultural education", 
+    "Agricultural societies", 
+    "Agriculture and food", 
+    "Anniversaries", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Education", 
+    "Families", 
+    "Youth services"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-05-01", 
+    "text": "Recognizes the upcoming 100th anniversary of the 4-H Youth Development Program and commends it for service to the youth of the world."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the upcoming 100th anniversary of the 4-H Youth Development Program and commending such program for service to the youth of the world.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:47:50-05:00"
+}

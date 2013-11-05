@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-05", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-06-18", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Commercial and Administrative Law", 
+      "text": "Referred to the Subcommittee on Commercial and Administrative Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-03-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-03-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-08", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-08", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-05-16T17:04:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 107-469.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-16T17:04:00-04:00", 
+      "calendar": "Union", 
+      "number": "280", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 280.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-06-11T15:48:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-11T15:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3395-3399", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-11T15:48:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2054.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-11T16:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H3395-3396", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-06-11T16:20:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-12", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2054-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Commercial and Administrative Law", 
+      "subcommittee_id": "09"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "2001-06-05", 
+      "state": "NV", 
+      "thomas_id": "01485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-06-11T16:20:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-06-05", 
+  "number": "2054", 
+  "official_title": "To give the consent of Congress to an agreement or compact between Utah and Nevada regarding a change in the boundaries of those States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hansen, James V.", 
+    "state": "UT", 
+    "thomas_id": "00498", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-06-11T16:20:00-04:00", 
+  "subjects": [
+    "Airports", 
+    "Boundaries", 
+    "Congress", 
+    "Congressional oversight", 
+    "Government operations and politics", 
+    "Interstate compacts", 
+    "Land transfers", 
+    "Nevada", 
+    "Public lands and natural resources", 
+    "Referendum", 
+    "State laws", 
+    "Transportation and public works", 
+    "Utah"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2002-06-11", 
+    "text": "Gives the consent of Congress to Utah and Nevada entering into an agreement or compact to change such States' boundaries so that the lands located within the city of Wendover, Utah, including the municipal airport, will be located within Nevada, if such agreement: (1) is consented to by the State's legislatures as evidenced through Acts enacted by December 31, 2006; (2) is not in conflict with any Federal law; (3) does not change any other State's boundary; (4) does not result in the transfer to Nevada of more than a total of 10,000 acres of lands that are located within Utah; and (5) is consented to by a majority of the registered qualified electors who cast a vote on the agreement in each of the cities of West Wendover, Nevada, and Wendover, Utah, on the date of the regularly scheduled general election for Federal office in 2002."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To give the consent of Congress to an agreement or compact between Utah and Nevada regarding a change in the boundaries of those States, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:05-05:00"
+}

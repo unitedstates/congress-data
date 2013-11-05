@@ -1,0 +1,384 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-06", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-06T14:43:00-05:00", 
+      "references": [], 
+      "text": "Mr. Platts moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-06T14:45:00-05:00", 
+      "references": [
+        {
+          "reference": " CR H178-179", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-06T14:45:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 395.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-06T14:55:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": " CR H178", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-02-06T14:55:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-02-07", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-21", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S2679-2680", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-03-21", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-03-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-04-05", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2001-04-12", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2001-04-12", 
+      "congress": "107", 
+      "law": "public", 
+      "number": "7", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 107-7.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr395-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyd, Allen", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01467", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Deutsch, Peter", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00291", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Keller, Ric", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01644", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Dan", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Putnam, Adam H.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scarborough, Joe", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Young, C.W. Bill", 
+      "sponsored_at": "2001-02-06", 
+      "state": "FL", 
+      "thomas_id": "01255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "public", 
+    "number": "7"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2001-04-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-02-06T14:55:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-03-21", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-06", 
+  "number": "395", 
+  "official_title": "To designate the facility of the United States Postal Service located at 2305 Minton Road in West Melbourne, Florida, as the \"Ronald W. Reagan Post Office of West Melbourne, Florida\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Weldon, Dave", 
+    "state": "FL", 
+    "thomas_id": "01215", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2001-04-12", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Ex-presidents", 
+    "Florida", 
+    "Government operations and politics", 
+    "History", 
+    "Names", 
+    "Postal facilities", 
+    "Reagan Administration"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-02-06", 
+    "text": "Designates the U.S. Postal Service facility located at 2305 Minton Road in West Melbourne, Florida, as the Ronald W. Reagan Post Office of West Melbourne, Florida."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the facility of the United States Postal Service located at 2305 Minton Road in West Melbourne, Florida, as the \"Ronald W. Reagan Post Office of West Melbourne, Florida\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:14-05:00"
+}

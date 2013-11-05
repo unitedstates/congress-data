@@ -1,0 +1,325 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-06-26", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-07-10T15:38:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ney moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-10T15:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3824-3827", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-10T15:39:00-04:00", 
+      "bill_ids": [
+        "hcres174-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 174.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-10T16:00:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-10T18:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3828-3829", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-10T18:42:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H3824", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "213", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 213).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-07-10T18:42:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7534", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-07-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres174-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "10", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cannon, Chris", 
+      "sponsored_at": "2001-06-26", 
+      "state": "UT", 
+      "thomas_id": "01470", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Gephardt, Richard A.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "MO", 
+      "thomas_id": "00433", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2001-07-10", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Largent, Steve", 
+      "sponsored_at": "2001-06-26", 
+      "state": "OK", 
+      "thomas_id": "00664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2001-06-26", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2001-06-26", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Rohrabacher, Dana", 
+      "sponsored_at": "2001-06-26", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Skeen, Joe", 
+      "sponsored_at": "2001-06-26", 
+      "state": "NM", 
+      "thomas_id": "01063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Mark", 
+      "sponsored_at": "2001-06-26", 
+      "state": "CO", 
+      "thomas_id": "01595", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "2001-06-26", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-07-10T18:42:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-07-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-06-26", 
+  "number": "174", 
+  "official_title": "Authorizing the Rotunda of the Capitol to be used on July 26, 2001, for a ceremony to present Congressional Gold Medals to the original 29 Navajo Code Talkers.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres54-107", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "sconres54-107", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-07-11", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Capitol (Washington, D.C.)", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional gold medals", 
+    "Cryptography", 
+    "Government operations and politics", 
+    "History", 
+    "Language and languages", 
+    "Marines", 
+    "Military history", 
+    "Minorities", 
+    "Native Americans", 
+    "World War II"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2001-07-10", 
+    "text": "Authorizes use of the Rotunda of the Capitol on July 26, 2001, to present Congressional Gold Medals to the original 29 Navajo Code Talkers."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Authorizing the Rotunda of the Capitol to be used on July 26, 2001, for a ceremony to present Congressional Gold Medals to the original 29 Navajo Code Talkers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:51-05:00"
+}

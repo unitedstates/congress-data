@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-07-24", 
+      "committee": "House Committee on Government Reform", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-09-04T15:48:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Morella moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-04T15:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6016-6018", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-04T15:49:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5207.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-04T16:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6016", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-09-04T16:02:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-05", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8328", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-09-05", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-09-06", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2002-09-24", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2002-09-24", 
+      "congress": "107", 
+      "law": "public", 
+      "number": "227", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 107-227.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5207-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Gutknecht, Gil", 
+      "sponsored_at": "2002-07-26", 
+      "state": "MN", 
+      "thomas_id": "00479", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2002-07-26", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Luther, Bill", 
+      "sponsored_at": "2002-07-26", 
+      "state": "MN", 
+      "thomas_id": "00718", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2002-07-26", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "2002-07-26", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Peterson, John E.", 
+      "sponsored_at": "2002-07-26", 
+      "state": "PA", 
+      "thomas_id": "01512", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sabo, Martin Olav", 
+      "sponsored_at": "2002-07-26", 
+      "state": "MN", 
+      "thomas_id": "01007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "107", 
+    "law_type": "public", 
+    "number": "227"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2002-09-24", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-09-04T16:02:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-09-05", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-07-24", 
+  "number": "5207", 
+  "official_title": "To designate the facility of the United States Postal Service located at 6101 West Old Shakopee Road in Bloomington, Minnesota, as the \"Thomas E. Burnett, Jr. Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2900-107", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "3", 
+    "name": "Ramstad, Jim", 
+    "state": "MN", 
+    "thomas_id": "00942", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2002-09-24", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Government operations and politics", 
+    "Minnesota", 
+    "Names", 
+    "Postal facilities"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-09-04", 
+    "text": "Designates the U.S. Postal Service facility located 6101 West Old Shakopee Road in Bloomington, Minnesota, as the Thomas E. Burnett, Jr. Post Office Building."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the facility of the United States Postal Service located at 6101 West Old Shakopee Road in Bloomington, Minnesota, as the \"Thomas E. Burnett, Jr. Post Office Building\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:32-05:00"
+}

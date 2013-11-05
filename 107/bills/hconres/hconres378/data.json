@@ -1,0 +1,1111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-04-16", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-23T19:19:00-04:00", 
+      "references": [], 
+      "text": "Mr. Ney moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-23T19:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1516-1519", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-23T19:20:00-04:00", 
+      "bill_ids": [
+        "hcres378-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 378.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-23T19:40:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1516", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-04-23T19:40:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-07-12", 
+      "references": [
+        {
+          "reference": "CR S6727", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-12", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-07-15", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres378-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "2002-04-23", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Baird, Brian", 
+      "sponsored_at": "2002-04-23", 
+      "state": "WA", 
+      "thomas_id": "01557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2002-04-23", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Ballenger, Cass", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NC", 
+      "thomas_id": "00050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Barcia, James A.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MI", 
+      "thomas_id": "00052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Berman, Howard L.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00082", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Biggert, Judy", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IL", 
+      "thomas_id": "01577", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Boozman, John", 
+      "sponsored_at": "2002-04-23", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2002-04-23", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "2002-04-23", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Brown, Henry E., Jr.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "SC", 
+      "thomas_id": "01669", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bryant, Ed", 
+      "sponsored_at": "2002-04-23", 
+      "state": "TN", 
+      "thomas_id": "00141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cannon, Chris", 
+      "sponsored_at": "2002-04-23", 
+      "state": "UT", 
+      "thomas_id": "01470", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Capps, Lois", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Castle, Michael N.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "DE", 
+      "thomas_id": "00183", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "sponsored_at": "2002-04-23", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Chambliss, Saxby", 
+      "sponsored_at": "2002-04-23", 
+      "state": "GA", 
+      "thomas_id": "00188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christensen, Donna M.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Collins, Mac", 
+      "sponsored_at": "2002-04-23", 
+      "state": "GA", 
+      "thomas_id": "00222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Condit, Gary A.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Coyne, William J.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "PA", 
+      "thomas_id": "00245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Jim", 
+      "sponsored_at": "2002-04-23", 
+      "state": "FL", 
+      "thomas_id": "01478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ehlers, Vernon J.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MI", 
+      "thomas_id": "00339", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ehrlich, Robert L., Jr.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MD", 
+      "thomas_id": "00340", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Eshoo, Anna G.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2002-04-23", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Ferguson, Mike", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NJ", 
+      "thomas_id": "01659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Fletcher, Ernie", 
+      "sponsored_at": "2002-04-23", 
+      "state": "KY", 
+      "thomas_id": "01563", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "2002-04-23", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "sponsored_at": "2002-04-23", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "FL", 
+      "thomas_id": "00450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2002-04-23", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hall, Tony P.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "OH", 
+      "thomas_id": "00487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Harman, Jane", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hayes, Robin", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NC", 
+      "thomas_id": "01600", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2002-04-16", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Jackson, Jesse L., Jr.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IL", 
+      "thomas_id": "00587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "2002-04-23", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "2002-04-23", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Keller, Ric", 
+      "sponsored_at": "2002-04-23", 
+      "state": "FL", 
+      "thomas_id": "01644", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kennedy, Mark R.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MN", 
+      "thomas_id": "01652", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2002-04-23", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lynch, Stephen F.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MA", 
+      "thomas_id": "01686", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Maloney, James H.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CT", 
+      "thomas_id": "01502", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "McNulty, Michael R.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NY", 
+      "thomas_id": "00785", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "37", 
+      "name": "Millender-McDonald, Juanita", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Dan", 
+      "sponsored_at": "2002-04-23", 
+      "state": "FL", 
+      "thomas_id": "00807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Miller, Gary G.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "01584", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Nadler, Jerrold", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "2002-04-23", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Oxley, Michael G.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "OH", 
+      "thomas_id": "00885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pence, Mike", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IN", 
+      "thomas_id": "01649", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Pickering, Charles W. \"Chip\"", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MS", 
+      "thomas_id": "01513", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Radanovich, George", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "00939", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "2002-04-23", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "2002-04-23", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Sawyer, Tom", 
+      "sponsored_at": "2002-04-23", 
+      "state": "OH", 
+      "thomas_id": "01022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Schiff, Adam B.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Serrano, Jose E.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "2002-04-23", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "2002-04-23", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2002-04-23", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Weiner, Anthony D.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NY", 
+      "thomas_id": "01597", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2002-04-23", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2002-04-23", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2002-04-23", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wilson, Heather", 
+      "sponsored_at": "2002-04-23", 
+      "state": "NM", 
+      "thomas_id": "01539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Joe", 
+      "sponsored_at": "2002-04-23", 
+      "state": "SC", 
+      "thomas_id": "01688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Woolsey, Lynn C.", 
+      "sponsored_at": "2002-04-23", 
+      "state": "CA", 
+      "thomas_id": "01242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "2002-04-23", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-04-23T19:40:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-07-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-04-16", 
+  "number": "378", 
+  "official_title": "Commending the District of Columbia National Guard, the National Guard Bureau, and the entire Department of Defense for the assistance provided to the United States Capitol Police and the entire Congressional community in response to the terrorist and anthrax attacks of September and October 2001.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres374-107", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "18", 
+    "name": "Ney, Robert W.", 
+    "state": "OH", 
+    "thomas_id": "00862", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2002-07-12", 
+  "subjects": [
+    "Anthrax", 
+    "Armed forces and national security", 
+    "Capitol (Washington, D.C.)", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional employees", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Department of Defense", 
+    "District of Columbia", 
+    "Environmental protection", 
+    "Government operations and politics", 
+    "International affairs", 
+    "Members of Congress", 
+    "National Guard", 
+    "Protection of officials", 
+    "September 11, 2001", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-04-23", 
+    "text": "Commends the District of Columbia National Guard, the National Guard Bureau, and the entire Department of Defense for the assistance provided to the U.S. Capitol Police and the entire Congressional community in response to the terrorist and anthrax attacks of September and October 2001."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Commending the District of Columbia National Guard, the National Guard Bureau, and the entire Department of Defense for the assistance provided to the United States Capitol Police and the entire Congressional community in response to the terrorist and anthrax attacks of September and October 2001.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:57-05:00"
+}

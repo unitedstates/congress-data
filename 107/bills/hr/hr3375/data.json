@@ -1,0 +1,658 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-11-29", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-01-14", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-15", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Subcommittee on Immigration and Claims Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-24", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-05-20T19:30:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 107-477.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-20T19:30:00-04:00", 
+      "calendar": "Union", 
+      "number": "287", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 287.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-05-21T11:36:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-21T11:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2680-2685", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-21T11:36:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3375.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-21T12:08:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-21T14:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2746-2747", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-21T14:10:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2680-2681", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "176", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 18 (Roll no. 176).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-05-21T14:10:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-05-22", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-07-11", 
+      "in_committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee on the Judiciary. Committee consideration and Mark Up Session held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3375-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "2002-02-13", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "2002-03-05", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boyd, Allen", 
+      "sponsored_at": "2001-11-29", 
+      "state": "FL", 
+      "thomas_id": "01467", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2002-04-18", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cantor, Eric", 
+      "sponsored_at": "2002-03-20", 
+      "state": "VA", 
+      "thomas_id": "01674", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "2002-02-14", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Crane, Philip M.", 
+      "sponsored_at": "2002-02-13", 
+      "state": "IL", 
+      "thomas_id": "00249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Delahunt, William D.", 
+      "sponsored_at": "2002-02-27", 
+      "state": "MA", 
+      "thomas_id": "01480", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2001-12-19", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "English, Phil", 
+      "sponsored_at": "2002-02-13", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Faleomavaega, Eni F.H.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "AS", 
+      "thomas_id": "00367", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2002-03-20", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E., Jr.", 
+      "sponsored_at": "2001-12-19", 
+      "state": "TN", 
+      "thomas_id": "01483", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "2001-11-29", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Honda, Michael M.", 
+      "sponsored_at": "2001-12-19", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "2001-12-19", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2001-11-29", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2002-02-13", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2002-02-13", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Kucinich, Dennis J.", 
+      "sponsored_at": "2001-12-19", 
+      "state": "OH", 
+      "thomas_id": "01499", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lampson, Nick", 
+      "sponsored_at": "2002-02-13", 
+      "state": "TX", 
+      "thomas_id": "01500", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Lofgren, Zoe", 
+      "sponsored_at": "2002-02-14", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2002-02-13", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCrery, Jim", 
+      "sponsored_at": "2002-02-13", 
+      "state": "LA", 
+      "thomas_id": "00763", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2002-02-13", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "2001-12-19", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2002-02-27", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Obey, David R.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "WI", 
+      "thomas_id": "00877", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "2002-02-27", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "sponsored_at": "2001-11-29", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "2002-02-13", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "2002-02-13", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "2002-02-13", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Tiahrt, Todd", 
+      "sponsored_at": "2001-12-19", 
+      "state": "KS", 
+      "thomas_id": "01158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2001-12-19", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "35", 
+      "name": "Waters, Maxine", 
+      "sponsored_at": "2001-11-29", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2002-02-13", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2001-11-29", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "2001-11-29", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-05-21T14:10:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-11-29", 
+  "number": "3375", 
+  "official_title": "To provide compensation for the United States citizens who were victims of the bombings of United States embassies in East Africa on August 7, 1998, on the same basis as compensation is provided to victims of the terrorist-related aircraft crashes on September 11, 2001.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Embassy Employee Compensation Act", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blunt, Roy", 
+    "state": "MO", 
+    "thomas_id": "01464", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-05-21T14:10:00-04:00", 
+  "subjects": [
+    "Administrative remedies", 
+    "Africa (Sub-Saharan)", 
+    "Americans employed in foreign countries", 
+    "Appropriations", 
+    "Bombings", 
+    "Claims", 
+    "Compensation (Law)", 
+    "Compensation for victims of crime", 
+    "Crime and law enforcement", 
+    "Damages", 
+    "Department of Justice", 
+    "EBB Terrorism", 
+    "Economics and public finance", 
+    "Embassies", 
+    "Families", 
+    "Finance and financial sector", 
+    "Foreign service", 
+    "Gifts", 
+    "Government operations and politics", 
+    "International affairs", 
+    "Judicial review of administrative acts", 
+    "Kenya", 
+    "Labor and employment", 
+    "Law", 
+    "Life insurance", 
+    "Limitation of actions", 
+    "Negligence", 
+    "Punitive damages", 
+    "Survivors' benefits", 
+    "Tanzania", 
+    "Terrorism", 
+    "Victims of terrorism"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Reported to House without amendment", 
+    "date": "2002-05-20", 
+    "text": "Embassy Employee Compensation Act - Directs the Attorney General, through the Special Master appointed under the September 11th Victim Compensation Fund of 2001, to administer compensation to American victims of the August 7, 1998, bombings of the U.S. embassies in Kenya and Tanzania. Authorizes appropriations.(Sec. 5) Requires claimants to provide information to the Special Master concerning the physical harm suffered and any possible economic and noneconomic losses incurred from the bombings, as well as the \"collateral sources\" of compensation received or entitled to be received, defined as life insurance, pension funds, death benefit programs and payments by Federal, State, or local governments. Sets a two-year limit on filing claims, beginning after the promulgation of regulations to implement the Act.Directs the Special Master to determine whether a claimant is eligible for compensation and, if so, the amount to be disbursed based on harm suffered, facts of the claim, and individual circumstances of the claimant.Prohibits the Special Master from considering negligence or any other theory of liability with regard to claimants. Requires completion of the review and determination of a claim within 120 days after it is filed. Makes the Special Master's decision on a claim final and not subject to judicial review.Specifies that punitive damages may not be awarded. Requires that any award be reduced by collateral source compensation a claimant has received or is entitled to receive.Makes eligible to receive compensation any U.S. citizens who suffered physical harm from the bombing of the United States embassy in Nairobi, Kenya, or from the bombing of the embassy in Dar es Salaam, Tanzania. Permits personal representatives of U.S. citizens killed by either bombing to receive compensation on behalf of the deceased.Limits claims to one per individual. Provides that upon filing a claim, an individual waives the right to seek damages in civil suits in Federal or State courts, except for pursuing collateral source compensation.(Sec. 6) Requires the Special Master to authorize payments to eligible claimants not later than 20 days after the date on which the determination of the amount has been made.Declares that this Act constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government to provide for the payment of compensation under the Act.Authorizes the Attorney General to accept contributions from individuals, business concerns, and other entities to carry out the Act, and directs the Attorney General to use donated funds before appropriated funds.(Sec. 8) Declares that the United States has the right of subrogation with respect to any claim paid from U.S. funds under the Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Embassy Employee Compensation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Embassy Employee Compensation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To provide compensation for the United States citizens who were victims of the bombings of United States embassies in East Africa on August 7, 1998, on the same basis as compensation is provided to victims of the terrorist-related aircraft crashes on September 11, 2001.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:46-05:00"
+}

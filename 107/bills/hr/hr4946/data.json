@@ -1,0 +1,319 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-06-17", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-06-19", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-19", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2002-07-15T14:59:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 107-572.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-15T14:59:00-04:00", 
+      "calendar": "Union", 
+      "number": "342", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 342.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2002-07-23T11:57:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hayworth moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-23T11:57:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5107-5114", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-23T11:57:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4946.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-23T12:38:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-25T13:37:00-04:00", 
+      "references": [
+        {
+          "reference": " CR H5608-5609", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-25T13:46:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": " CR 7/23/2002 H5107-5109", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "351", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 362 - 61 (Roll no. 351).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-07-25T13:46:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-25T13:46:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-07-25", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4946-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2002-06-18", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "English, Phil", 
+      "sponsored_at": "2002-06-17", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "2002-06-17", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McInnis, Scott", 
+      "sponsored_at": "2002-06-18", 
+      "state": "CO", 
+      "thomas_id": "00775", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2002-06-18", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Ramstad, Jim", 
+      "sponsored_at": "2002-06-17", 
+      "state": "MN", 
+      "thomas_id": "00942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "2002-06-17", 
+      "state": "OK", 
+      "thomas_id": "01206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2002-06-17", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-07-25T13:46:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-06-17", 
+  "number": "4946", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to provide health care incentives.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Improving Access to Long-Term Care Act of 2002", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Hayworth, J. D.", 
+    "state": "AZ", 
+    "thomas_id": "00520", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-07-25T13:46:00-04:00", 
+  "subjects": [
+    "Business income tax", 
+    "Chronically ill", 
+    "Clinical trials", 
+    "Commerce", 
+    "Consumer education", 
+    "Consumer protection", 
+    "Cost of living adjustments", 
+    "Disabled", 
+    "Drug industry", 
+    "Economics and public finance", 
+    "Employee health benefits", 
+    "Excise tax", 
+    "Families", 
+    "Finance and financial sector", 
+    "Health", 
+    "Health insurance", 
+    "Health maintenance organizations", 
+    "Hepatitis", 
+    "Income tax", 
+    "Indexing (Economic policy)", 
+    "Insurance premiums", 
+    "Insurance rates", 
+    "Labor and employment", 
+    "Long-term care insurance", 
+    "Managed care", 
+    "Married people", 
+    "Medical economics", 
+    "Medical savings accounts", 
+    "Medicare", 
+    "Medicare managed care", 
+    "Orphan drugs", 
+    "Personal income tax", 
+    "Pharmaceutical research", 
+    "Science, technology, communications", 
+    "Social welfare", 
+    "Standards", 
+    "Tax credits", 
+    "Tax deductions", 
+    "Tax exemption", 
+    "Tax penalties", 
+    "Tax returns", 
+    "Taxation", 
+    "Vaccines"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2002-07-25", 
+    "text": "Improving Access to Long-Term Care Act of 2002 - Amends the Internal Revenue Code to permit a deduction for an applicable percentage of eligible long-term care premiums paid by a taxpayer for coverage for the taxpayer, spouse and dependents. Sets percentages beginning at 25 percent for 2003 and increasing gradually to 50 percent for 2012 and thereafter. Reduces amounts if the modified gross income of the taxpayer exceeds $20,000 (or $40,000 for a joint return, with such values adjusted for inflation).Prohibits an individual from utilizing the deduction for any month in which the taxpayer is covered for long-term care under a health plan maintained by any employer of the taxpayer or of the taxpayer's spouse in which 50 percent or more of the cost is incurred by the employer. Forbids any amount taken into account for the purposes of the long-term care deduction from also being taken into account for a deduction for medical expenses or self-employed health care expenses. Requires married couples to file a joint return to receive the deduction. Permits the deduction whether or not a taxpayer itemizes.(Sec. 3) Allows an additional personal exemption for each \"qualified family member\" with \"long-term needs\" who resides in a taxpayer's home.Defines an individual with \"long-term care needs\" as someone who: (1) has been certified by a physician as being unable, for at least 180 consecutive days, to perform at least two activities of daily living due to loss of functional capacity; or (2) requires substantial supervision due to severe cognitive impairment and needs reminding or cuing assistance to perform at least one activity of daily living; or (3) is unable to engage in age appropriate activities. Sets the amount of exemption at $500 for 2003, rising gradually to $2,500 for 2011.Prohibits the exemption unless a taxpayer includes with a return the name and taxpayer identification number of the physician certifying the member of the household in need. Allows exception to such requirement if due diligence in attempting to provide such information is shown.(Sec. 4) Modifies consumer protection provisions for long-term care insurance. Revises provisions pertaining to the excise tax on providers of long-term care insurance who fail to meet certain standards, adding requirements about disclosure of rating practices to the consumer and about suitability.(Sec. 5) Expands qualifying expenses for the 50-percent tax credit related to human clinical testing of drugs for the treatment of certain rare diseases and conditions. Includes for the purpose of calculating the credit expenses incurred after the date on which a taxpayer files an application with the Food and Drug Administration for designation of a drug as a potential treatment for a rare disease or disorder under the Federal Food, Drug, and Cosmetic Act. Allows the credit to be taken when a drug is designated as such not later than the due date (including extensions) for the individual's tax return for the year in which the application was filed (currently only expenses incurred after a drug is approved as a potential treatment qualify for the credit).(Sec. 6) Includes any vaccine against hepatitis A under the 75-cents-per-dose manufacturer's excise tax.(Sec. 7) Treats individuals covered under a Medicare+Choice medical savings account (MSA) plan as having high deductible health plans for purposes of archer MSA, thus permitting such Medicare+Choice individuals to qualify for Archer MSA. Sets a figure of 100 percent of the deductible under the Medicare+Choice policy as the maximum deductible contribution that can be made to an Archer MSA with respect to a Medicare-eligible individual."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Improving Access to Long-Term Care Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Improving Access to Long-Term Care Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Improving Access to Long-Term Care Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Internal Revenue Code to provide health care incentives related to long-term care.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "To amend the Internal Revenue Code of 1986 to provide health care incentives.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:25-05:00"
+}

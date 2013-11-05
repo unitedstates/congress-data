@@ -1,0 +1,518 @@
+{
+  "actions": [
+    {
+      "acted_at": "2002-03-20", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-03-21", 
+      "references": [
+        {
+          "reference": "CR E420-421", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-25", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Social Security", 
+      "text": "Referred to the Subcommittee on Social Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-04-25", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Social Security", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-04-25", 
+      "in_committee": "House Committee on Ways and Means", 
+      "in_subcommittee": "Social Security", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-25T14:51:00-04:00", 
+      "references": [], 
+      "text": "Mr. Shaw moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-25T14:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3888-3900", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-25T14:51:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4070.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-25T15:32:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Shaw objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-26T12:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3949-3950", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-26T12:55:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR 6/25/2002 H3888-3895", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "260", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 425 - 0 (Roll no. 260).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-06-26T12:55:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-06-27", 
+      "committee": "Committee on Finance", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-11-18", 
+      "references": [], 
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-18", 
+      "references": [
+        {
+          "reference": "CR S11343-11352", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-11-18", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-11-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s4967-107", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "4967"
+    }
+  ], 
+  "bill_id": "hr4070-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Social Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Allen, Thomas H.", 
+      "sponsored_at": "2002-05-14", 
+      "state": "ME", 
+      "thomas_id": "01461", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Barcia, James A.", 
+      "sponsored_at": "2002-05-22", 
+      "state": "MI", 
+      "thomas_id": "00052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Becerra, Xavier", 
+      "sponsored_at": "2002-03-20", 
+      "state": "CA", 
+      "thomas_id": "00070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "2002-03-20", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2002-05-14", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "sponsored_at": "2002-06-21", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "2002-05-14", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Grucci, Felix J., Jr.", 
+      "sponsored_at": "2002-05-14", 
+      "state": "NY", 
+      "thomas_id": "01662", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hart, Melissa A.", 
+      "sponsored_at": "2002-05-14", 
+      "state": "PA", 
+      "thomas_id": "01666", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "2002-03-20", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "2002-03-20", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "2002-03-20", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "2002-03-20", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pomeroy, Earl", 
+      "sponsored_at": "2002-03-20", 
+      "state": "ND", 
+      "thomas_id": "00922", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Rodriguez, Ciro D.", 
+      "sponsored_at": "2002-06-25", 
+      "state": "TX", 
+      "thomas_id": "01518", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ryan, Paul", 
+      "sponsored_at": "2002-03-20", 
+      "state": "WI", 
+      "thomas_id": "01560", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Schaffer, Bob", 
+      "sponsored_at": "2002-05-22", 
+      "state": "CO", 
+      "thomas_id": "01524", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2002-05-14", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-06-26T12:55:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-11-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2002-03-20", 
+  "number": "4070", 
+  "official_title": "To amend the Social Security Act and the Internal Revenue Code of 1986 to provide additional safeguards for Social Security and Supplemental Security Income beneficiaries with representative payees, to enhance program protections, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Social Security Program Protection Act of 2002", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Shaw, E. Clay, Jr.", 
+    "state": "FL", 
+    "thomas_id": "01047", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "2002-11-18", 
+  "subjects": [
+    "Age", 
+    "Aliens", 
+    "Armed forces and national security", 
+    "Auditing", 
+    "Blind", 
+    "Business income tax", 
+    "Church property", 
+    "Civil service pensions", 
+    "Clergy", 
+    "Collection of accounts", 
+    "Commerce", 
+    "Community property", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Consumer education", 
+    "Consumer protection", 
+    "Court records", 
+    "Crime and law enforcement", 
+    "Criminal justice information", 
+    "Deceptive advertising", 
+    "Deportation", 
+    "Disability evaluation", 
+    "Disabled", 
+    "Divorce", 
+    "Earnings", 
+    "Economics and public finance", 
+    "Emblems", 
+    "Employment of the disabled", 
+    "Employment tax credits", 
+    "Ex-offenders", 
+    "Families", 
+    "Federal advisory bodies", 
+    "Federal employees", 
+    "Federal officials", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Fines (Penalties)", 
+    "Forfeiture", 
+    "Fraud", 
+    "Fugitives from justice", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government trust funds", 
+    "Governmental investigations", 
+    "Health", 
+    "History", 
+    "Household workers", 
+    "Housing and community development", 
+    "Identification of criminals", 
+    "Illegal aliens", 
+    "Immigration", 
+    "Income tax", 
+    "International affairs", 
+    "Judicial review of administrative acts", 
+    "Kentucky", 
+    "Labor and employment", 
+    "Law", 
+    "Lawyers", 
+    "Legal ethics", 
+    "Legal fees", 
+    "Legal services", 
+    "Liability (Law)", 
+    "Licenses", 
+    "Married people", 
+    "Medicare", 
+    "Mentally disabled", 
+    "Municipal employees", 
+    "Names", 
+    "Nonprofit organizations", 
+    "Obstruction of justice", 
+    "Old age, survivors and disability insurance", 
+    "Parole", 
+    "Partnerships", 
+    "Pension funds", 
+    "Personal income tax", 
+    "Probation", 
+    "Protection of officials", 
+    "Religion", 
+    "Remarriage", 
+    "Rental housing", 
+    "Salaries", 
+    "Self-employed", 
+    "Signs and symbols", 
+    "Smuggling", 
+    "Social Security Administration", 
+    "Social security beneficiaries", 
+    "Social security eligibility", 
+    "Social security numbers", 
+    "Social security taxes", 
+    "Social welfare", 
+    "Sunset legislation", 
+    "Supplemental security income program", 
+    "Surety and fidelity", 
+    "Tax deductions", 
+    "Tax exemption", 
+    "Tax treaties", 
+    "Taxation", 
+    "Trusts and trustees", 
+    "Veterans' pensions", 
+    "Vocational rehabilitation", 
+    "Welfare eligibility", 
+    "Welfare fraud", 
+    "Widowers", 
+    "Widows", 
+    "Women", 
+    "World War II"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "2002-11-18", 
+    "text": "Social Security Program Protection Act of 2002 - Title I: Protection of Beneficiaries - Subtitle A: Representative Payees - Amends titles II (Old Age, Survivors and Disability Insurance) (OASDI), VIII (Special Benefits for Certain World War II Veterans), and XVI (Supplemental Security Income) (SSI) of the Social Security Act to direct the Commissioner of Social Security to fully reimburse Social Security beneficiaries for any part of their title II, VIII, or XVI benefits that was misused by a representative payee that is either: (1) not an individual; or (2) an individual serving 15 or more beneficiaries during any month. Defines misuse of benefits as occurring when a representative payee receives payment for the use and benefit of another person or of another qualified individual and uses any part of it other than for the use and benefit of such person or qualified individual. Excludes reissued benefits from an individual's resources.(Sec. 102) Requires non-governmental representative payees to certify annually that they are bonded and State-licensed.Directs the Commissioner to: (1) provide for the periodic onsite review of certain representative payees; and (2) report to Congress on the number of cases in which a representative payee was changed and the number of times in which a misuse of funds was discovered.(Sec. 103) Forbids a prospective representative payee from receiving anyone's title II, VIII, or XVI benefit if the prospective representative payee: (1) has been convicted of any offense under Federal or State law resulting in imprisonment for more than one year (unless the Commissioner deems such payment would be appropriate notwithstanding such conviction); (2) is a person fleeing prosecution, custody, or confinement for a felony; or (3) is violating probation or parole. Forbids a fugitive felon from serving as a representative payee.Directs the Commissioner to evaluate and report to specified congressional committees on whether the existing procedures and reviews for the qualification and disqualification of representative payees are sufficient to guard against misuse of benefits.(Sec. 104) Prohibits a representative payee from collecting a fee for services under titles II and XVI for any month if the Commissioner or a court of competent jurisdiction determines that the representative payee has misused any amount of a benefit for such month. Declares that any amount so collected by a representative payee shall be counted as a misused part of the benefit.(Sec. 105) Provides that a representative payee that is not a Federal, State, or local government agency will be held liable for misuse of funds collected under titles II, VIII, and XVI, and that any misused amount recovered by the Commissioner shall be refunded to the beneficiary or the alternative representative payee.(Sec. 106) Permits the Commissioner to require a representative payee to receive payments at the local Social Security field office if such representative has failed to furnish an annual report or a report requested by the Commissioner.Subtitle B: Enforcement - Provides that each misuse of benefits under titles II, VIII and XVI by a representative payee shall be punishable by a civil penalty of up to $5,000, as well as an assessment of not more than twice the value of any misused payments.Title II: Program Protections - Directs the Commissioner, until a centralized computer file recording the date of information submission is in place, to issue a receipt to the beneficiary or representative each time such individual submits documentation or reports to the Commissioner on a change in status.(Sec. 202) Amends SSA title II to declare that an individual fleeing prosecution or confinement after conviction of an act or attempted act that constitutes a felony (in New Jersey, a high misdemeanor) shall not be allowed OASDI benefits. (The Commissioner currently can deny fugitive felons SSI benefits.) Allows the Commissioner to pay such withheld OASDI benefits for good cause shown. Forbids benefits for those violating probation or parole imposed under Federal or State law.Requires the Commissioner to furnish any law enforcement officer with personal information about any beneficiary upon request if: (1) the beneficiary is fleeing prosecution or confinement, or violating a condition of probation or parole, and has information necessary for the officer to conduct his duties; and (2) the location or apprehension of the beneficiary is within the officer's duties.(Sec. 203) Amends SSA title XI to prohibit anyone from offering for a fee information provided free of charge by the Social Security Administration unless such individual makes clear that the information is available free of charge and complies with standards prescribed by the Commissioner regarding placement, visibility, and legibility of such notice. Specifies that such restriction does not apply to offers to serve as a claimant representative or to help prepare an individual's plan for achieving self-support.(Sec. 204) Amends SSA title II to permit the Commissioner to: (1) refuse to recognize as a representative payee or to disqualify as a representative payee already recognized any attorney who has been disbarred or suspended from any court or bar, or who has been disqualified from participating in or appearing before any Federal program or agency; and (2) refuse to recognize or to disqualify as a nonattorney representative any attorney who has been disbarred or suspended from any court or bar to which he or she was previously admitted to practice. Declares that a representative payee disqualified or suspended for collecting or receiving a fee in excess of the authorized amount: (1) shall be barred from serving again until full restitution to the claimant is made; and (2) may then be considered for reinstatement only under rules prescribed by the Commissioner.(Sec. 205) Amends SSA title XI to establish a fine of up to $5,000 and a prison sentence of not more than three years for using force or attempting to use force to obstruct or impede any SSA officer, employee, or contractor while carrying out their official activities. Makes the penalties for a mere threat of force a maximum fine of $3,000 and a prison sentence of not more than one year.(Sec. 206) Adds specified terms to the prohibition on misuse of symbols, emblems, or names in reference to Social Security and Medicare.(Sec. 207) Amends SSA title II to provide for disqualification from payment of any disability benefit upon conviction by a Federal court that an individual has fraudulently concealed work activity during a period of trial work.Title III: Attorney Fee Payment System Improvements - Amends SSA title II to set a cap on the assessment owed by attorney representatives upon receiving payments for past-due OASDI benefits, a cap that may not exceed the greater of $75 or the adjusted amount as provided for by this Act.Title IV: Miscellaneous and Technical Amendments - Subtitle A: Amendments Relating to the Ticket to Work and Work Incentives Improvement Act of 1999 - Terminates after December 17, 2004, the Commissioner's authority to initiate demonstration projects with respect to alternative methods of treating the work activity of individuals entitled to disability insurance benefits.(Sec. 402) Authorizes the Commissioner to waive certain Ticket to Work and Self-Sufficiency Program requirements with respect to certain title II demonstration projects providing for reductions in disability benefits based on earnings.(Sec. 403) Amends the Ticket to Work and Work Incentives Improvement Act of 1999 to revise funding of such demonstration projects.(Sec. 404) Amends SSA title XI to extend the definition of disabled beneficiary for the Federal Work Incentives outreach program and State grants for work incentives assistance to individuals who: (1) are blind or disabled and receiving SSI payments; (2) receive a State Supplementary payment; or (3) are in an extended period of Medicare eligibility under title VIII after a period of title II disability has ended.Permits services under State grants for work incentives assistance to disabled beneficiaries to include advocacy or other necessary services to maintain gainful employment in addition to those for securing or regaining such employment.(Sec 405) Declares that an individual work plan established under the Act shall be treated under the Internal Revenue Code as an individualized written plan for employment under a State plan for vocational rehabilitation services approved under the Rehabilitation Act of 1973 (thus providing that employers who hire disabled workers through a referral by employment networks under the Ticket to Work program also qualify for the Work Opportunity Tax Credit).Subtitle B: Miscellaneous Amendments - Amends SSA title II to eliminate the obligation for the Social Security Administration (SSA) to file a transcript with the court when it makes a remand decision fully favorable to a claimant.(Sec. 412) Terminates benefits under the Act for an individual upon deportation from the United States for smuggling aliens.(Sec. 413) Amends the Federal Reports Elimination and Sunset Act of 1995 to reinstate certain reports eliminated by such Act, including the annual reports of the Board of Trustees on the OASDI, Hospital Insurance, and Supplementary Medical Insurance trust funds, continuing disability reviews, and disability determinations.(Sec. 414) Amends SSA title II to create an exception to the nine-month marriage requirement for survivor benefits under the Act to treat as an eligible widow or widower the spouse of a deceased man or woman whom the deceased spouse would have married earlier but for the fact that a prior spouse's institutionalization for mental incompetence or similar incapacity made a divorce illegal.(Sec. 416) Extends coverage under a divided retirement system for public employees in Kentucky.(Sec. 417) Amends SSA title VII to declare that members of the Social Security Advisory Board shall be compensated at the rate of pay for level IV of the Executive Schedule.(Sec. 418) Amends SSA title II with respect to survivors insurance benefits to provide for a 60-month period of employment requirement for application of the Government pension offset exemption.Subtitle C: Technical Amendments - Amends SSA title XI to make the Commissioner, instead of the Secretary of Health and Human Services, responsible for sending periodic Social Security statements to individuals.(Sec. 422) Makes technical amendments with respect to: (1) retirement benefits of ministers; (2) domestic employment; and (3) self-employment income in community property State.(Sec. 426) Amends the Railroad Retirement Act of 1974 to make technical amendments relating to the Railroad Retirement and Survivors Improvement Act of 2001."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Social Security Program Protection Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Social Security Program Protection Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Social Security Program Protection Act of 2002", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Social Security Act and the Internal Revenue Code of 1986 to provide additional safeguards for Social Security and Supplemental Security Income beneficiaries with representative payees, to enhance program protections, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:05-05:00"
+}

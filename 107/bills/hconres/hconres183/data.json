@@ -1,0 +1,245 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-07-10", 
+      "committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-08-10", 
+      "in_committee": "House Committee on Education and the Workforce", 
+      "references": [], 
+      "subcommittee": "Education Reform", 
+      "text": "Referred to the Subcommittee on Education Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-09-04T14:14:00-04:00", 
+      "references": [], 
+      "text": "Mr. Castle moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-04T14:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6003-6005", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-04T14:14:00-04:00", 
+      "bill_ids": [
+        "hcres183-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 183.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-04T14:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H6003", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-09-04T14:21:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-05", 
+      "committee": "Committee on the Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2002-09-12", 
+      "references": [
+        {
+          "reference": " CR S8580", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-09-12", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2002-09-13", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres183-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Education Reform", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "2001-07-10", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2001-07-10", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "2001-07-10", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "2001-07-10", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Schaffer, Bob", 
+      "sponsored_at": "2001-07-10", 
+      "state": "CO", 
+      "thomas_id": "01524", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Smith, Nick", 
+      "sponsored_at": "2001-07-10", 
+      "state": "MI", 
+      "thomas_id": "01080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-09-04T14:21:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2002-09-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-07-10", 
+  "number": "183", 
+  "official_title": "Expressing the sense of Congress regarding the United States Congressional Philharmonic Society and its mission of promoting musical excellence throughout the educational system and encouraging people of all ages to commit to the love and expression of musical performance.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Davis, Tom", 
+    "state": "VA", 
+    "thomas_id": "00274", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2002-09-12", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Cultural relations", 
+    "Democracy", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Government operations and politics", 
+    "Higher education", 
+    "Music", 
+    "Patriotism", 
+    "Symphony orchestras"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-09-04", 
+    "text": "Expresses the sense of Congress applauding the U.S. Congressional Philharmonic Society for its choral society and orchestra, and for its promotion of: (1) cultural communication and understanding in performances throughout the District of Columbia, the United States, and the world; and (2) musical excellence at all levels of the educational system."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of Congress regarding the United States Congressional Philharmonic Society and its mission of promoting musical excellence throughout the educational system and encouraging people of all ages to commit to the love and expression of musical performance.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:51-05:00"
+}

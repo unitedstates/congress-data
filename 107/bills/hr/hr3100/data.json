@@ -1,0 +1,188 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-10-11", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-10-12", 
+      "references": [
+        {
+          "reference": "CR E1866", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T19:23:00-04:00", 
+      "references": [], 
+      "text": "Committee on Ways and Means discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T19:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7132-7133", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T19:23:00-04:00", 
+      "references": [], 
+      "text": "Mr. Houghton asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-07T19:28:00-04:00", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7133", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2002-10-07T19:28:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2002-10-08", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3100-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "31", 
+      "name": "Houghton, Amo", 
+      "sponsored_at": "2002-03-19", 
+      "state": "NY", 
+      "thomas_id": "00563", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Quinn, Jack", 
+      "sponsored_at": "2001-10-11", 
+      "state": "NY", 
+      "thomas_id": "00938", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Reynolds, Thomas M.", 
+      "sponsored_at": "2001-10-11", 
+      "state": "NY", 
+      "thomas_id": "01587", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "2002-05-21", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2002-10-07T19:28:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-10-11", 
+  "number": "3100", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to allow for the expansion of areas designated as renewal communities based on 2000 census data.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1740-107", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "29", 
+    "name": "LaFalce, John J.", 
+    "state": "NY", 
+    "thomas_id": "00657", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2002-10-07T19:28:00-04:00", 
+  "subjects": [
+    "Business income tax", 
+    "Capital gains tax", 
+    "Census", 
+    "Commerce", 
+    "Depreciation and amortization", 
+    "Depressed areas", 
+    "Economics and public finance", 
+    "Government operations and politics", 
+    "Income tax", 
+    "Personal income tax", 
+    "Population statistics", 
+    "Poverty", 
+    "Social welfare", 
+    "Tax deductions", 
+    "Taxation", 
+    "Urban affairs"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Passed House without amendment", 
+    "date": "2002-10-07", 
+    "text": "Amends the Internal Revenue Code to allow for the expansion of areas designated as renewal communities based upon 2000 census population and poverty rate data, effective as if included in the Community Renewal Tax Relief Act of 2000."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Internal Revenue Code of 1986 to allow for the expansion of areas designated as renewal communities based on 2000 census data.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:49:37-05:00"
+}

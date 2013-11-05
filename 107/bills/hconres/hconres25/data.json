@@ -1,0 +1,566 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-08", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-14", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-07-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-11", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Health", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-19", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-07-19", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-08-01T20:42:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 107-181.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-08-01T20:42:00-04:00", 
+      "calendar": "House", 
+      "number": "67", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 67.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-12-04T15:38:00-05:00", 
+      "references": [], 
+      "text": "Mr. Bilirakis moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H8766-8768", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:39:00-05:00", 
+      "bill_ids": [
+        "hcres25-107"
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 25.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:52:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H8766-8767", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-12-04T15:52:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-05", 
+      "committee": "Committee on Health, Education, Labor, and Pensions", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-12-12", 
+      "references": [], 
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-12-12", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S13078", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2001-12-13", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres25-107", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "2001-05-25", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "2001-06-26", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Carson, Julia", 
+      "sponsored_at": "2001-03-06", 
+      "state": "IN", 
+      "thomas_id": "01473", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "47", 
+      "name": "Cox, Christopher", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Coyne, William J.", 
+      "sponsored_at": "2001-07-30", 
+      "state": "PA", 
+      "thomas_id": "00245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Crane, Philip M.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "IL", 
+      "thomas_id": "00249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "English, Phil", 
+      "sponsored_at": "2001-03-07", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fossella, Vito", 
+      "sponsored_at": "2001-03-07", 
+      "state": "NY", 
+      "thomas_id": "01484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "sponsored_at": "2001-03-06", 
+      "state": "IL", 
+      "thomas_id": "00478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hill, Baron P.", 
+      "sponsored_at": "2001-04-04", 
+      "state": "IN", 
+      "thomas_id": "01578", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hilliard, Earl F.", 
+      "sponsored_at": "2001-02-14", 
+      "state": "AL", 
+      "thomas_id": "00539", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2001-03-20", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lee, Barbara", 
+      "sponsored_at": "2001-05-25", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Luther, Bill", 
+      "sponsored_at": "2001-07-18", 
+      "state": "MN", 
+      "thomas_id": "00718", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Maloney, Carolyn B.", 
+      "sponsored_at": "2001-03-27", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2001-03-06", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "2001-06-14", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "2001-02-27", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2001-06-14", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "2001-02-14", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Rivers, Lynn N.", 
+      "sponsored_at": "2001-02-14", 
+      "state": "MI", 
+      "thomas_id": "00966", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Rothman, Steven R.", 
+      "sponsored_at": "2001-04-24", 
+      "state": "NJ", 
+      "thomas_id": "01520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "46", 
+      "name": "Sanchez, Loretta", 
+      "sponsored_at": "2001-05-08", 
+      "state": "CA", 
+      "thomas_id": "01522", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "2001-02-27", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "2001-04-24", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tancredo, Thomas G.", 
+      "sponsored_at": "2001-03-06", 
+      "state": "CO", 
+      "thomas_id": "01592", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Walsh, James T.", 
+      "sponsored_at": "2001-02-14", 
+      "state": "NY", 
+      "thomas_id": "01197", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "2001-06-26", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "2001-03-20", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "2001-04-24", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Wexler, Robert", 
+      "sponsored_at": "2001-05-08", 
+      "state": "FL", 
+      "thomas_id": "01537", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "2001-06-14", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-12-04T15:52:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2001-12-12", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-08", 
+  "number": "25", 
+  "official_title": "Expressing the sense of the Congress regarding tuberous sclerosis.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres69-107", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "19", 
+    "name": "Kelly, Sue W.", 
+    "state": "NY", 
+    "thomas_id": "00624", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2001-12-12", 
+  "subjects": [
+    "Access to health care", 
+    "Community health services", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Department of Health and Human Services", 
+    "Economics and public finance", 
+    "Federal aid to medical research", 
+    "Government operations and politics", 
+    "Health", 
+    "Health education", 
+    "Hereditary diseases", 
+    "Medical research", 
+    "Medical screening", 
+    "Medical tests", 
+    "Planning", 
+    "Quality of care", 
+    "Research centers", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-12-04", 
+    "text": "Expresses the sense of Congress regarding the fight against tuberous sclerosis with respect to the role of: (1) all Americans; (2) national and community organizations and health care providers; (3) the Federal Government; and (4) the National Institutes of Health."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the Congress regarding tuberous sclerosis.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:50:46-05:00"
+}

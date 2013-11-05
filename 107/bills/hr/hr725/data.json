@@ -1,0 +1,223 @@
+{
+  "actions": [
+    {
+      "acted_at": "2001-02-26", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2001-02-28", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2001-03-13T19:03:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 107-21.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-13T19:03:00-05:00", 
+      "calendar": "Union", 
+      "number": "16", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 16.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2001-03-14T10:17:00-05:00", 
+      "references": [], 
+      "text": "Mr. Stearns moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-14T10:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H883-885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-14T10:17:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 725.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-14T10:31:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-14T11:47:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H902-903", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-14T12:10:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H883-884", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "48", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 3 (Roll no. 48).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2001-03-14T12:10:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-14T12:10:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2001-03-15", 
+      "committee": "Committee on Commerce, Science, and Transportation", 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr725-107", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "107", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Barrett, Thomas M.", 
+      "sponsored_at": "2001-02-26", 
+      "state": "WI", 
+      "thomas_id": "00058", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2001-03-14T12:10:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2001-02-26", 
+  "number": "725", 
+  "official_title": "To direct the Secretary of Commerce to provide for the establishment of a toll-free telephone number to assist consumers in determining whether products are American-made.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Made in America Information Act", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Traficant, James A., Jr.", 
+    "state": "OH", 
+    "thomas_id": "01166", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2001-03-14T12:10:00-05:00", 
+  "subjects": [
+    "Administrative fees", 
+    "Administrative procedure", 
+    "Buy American", 
+    "Commerce", 
+    "Consumer education", 
+    "Department of Commerce", 
+    "Economics and public finance", 
+    "Fines (Penalties)", 
+    "Foreign trade and international finance", 
+    "Fraud", 
+    "Government and business", 
+    "Government operations and politics", 
+    "Government procurement", 
+    "Government publicity", 
+    "Law", 
+    "Manufacturing industries", 
+    "Science, technology, communications", 
+    "Telephone"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2001-03-14", 
+    "text": "Made in America Information Act - Directs the Secretary of Commerce, upon a determination that there is sufficient manufacturer interest and that manufacturers will provide fees so the program will operate without Federal Government cost, to establish a three-year toll-free telephone number pilot program solely to help inform consumers whether a product with a retail value of at least $250 is made in America.Requires the Secretary to contract for the establishment and operation of such pilot program. Requires consumers to be informed that registration does not mean that: (1) the product is endorsed or approved by the Government; (2) the Secretary has conducted any investigation to confirm that the product meets the definition of \"American made\" in this Act; or (3) the product contains 100 percent U.S. content.Directs the Secretary to propose regulations to: (1) establish a voluntary product registration procedure; (2) establish and collect a fee to cover registration costs; (3) establish the pilot program; and (4) assess manufacturer interest in the program.Sets forth registration fee amount, crediting, and collection provisions.Imposes civil monetary and Federal procurement penalties for knowingly registering a product that is not American made."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Made in America Information Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Made in America Information Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Made in America Information Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To establish a toll free number under the Federal Trade Commission to assist consumers in determining if products are American-made.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "title": "To direct the Secretary of Commerce to provide for the establishment of a toll-free telephone number to assist consumers in determining whether products are American-made.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:48:25-05:00"
+}
