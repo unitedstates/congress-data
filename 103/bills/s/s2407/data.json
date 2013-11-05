@@ -1,0 +1,269 @@
+{
+  "actions": [
+    {
+      "acted_at": "1994-08-18", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S12104-12107", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1994-08-19", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-08-19T10:02:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-08-19", 
+      "committee": "House Committee on Judiciary", 
+      "references": [], 
+      "text": "Referred to the House Committee on Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-09-21", 
+      "in_committee": "House Committee on Judiciary", 
+      "references": [], 
+      "subcommittee": "Intellectual Property and Judicial Administration", 
+      "text": "Referred to the Subcommittee on Intellectual Property and Judicial Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-10-07T18:01:00-04:00", 
+      "references": [], 
+      "text": "Committee on Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07T18:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11295-11297", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07T18:01:00-04:00", 
+      "references": [], 
+      "text": "Mr. Brooks asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07T18:07:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1994-10-07T18:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1994-10-17", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1994-10-25", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1994-10-25", 
+      "congress": "103", 
+      "law": "public", 
+      "number": "420", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 103-420.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2407-103", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Intellectual Property and Judicial Administration", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "103", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Biden, Joseph R., Jr.", 
+      "sponsored_at": "1994-08-18", 
+      "state": "DE", 
+      "thomas_id": "01284", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "1994-08-18", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "1994-08-18", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Specter, Arlen", 
+      "sponsored_at": "1994-08-18", 
+      "state": "PA", 
+      "thomas_id": "01437", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "103", 
+    "law_type": "public", 
+    "number": "420"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1994-10-25", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1994-10-07T18:07:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1994-08-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1994-08-18", 
+  "number": "2407", 
+  "official_title": "A bill to make improvements in the operation and administration of the Federal courts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1102-103", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1102-103", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Judicial Amendments Act of 1994", 
+  "sponsor": {
+    "district": null, 
+    "name": "Heflin, Howell", 
+    "state": "AL", 
+    "thomas_id": "01358", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1994-10-25", 
+  "subjects": [
+    "Administration of justice", 
+    "Administrative fees", 
+    "Appellate courts", 
+    "Authorization", 
+    "Commercial arbitration", 
+    "Computer networks", 
+    "Computers and government", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Cost overruns", 
+    "Court congestion and delay", 
+    "District courts", 
+    "Economics and public finance", 
+    "Electronic data processing", 
+    "Electronic data processing personnel", 
+    "Federal employees", 
+    "Government operations and politics", 
+    "Government procurement", 
+    "Government trust funds", 
+    "Judicial officers", 
+    "Law", 
+    "Mediation", 
+    "Planning-programming-budgeting", 
+    "Reprogramming of appropriated funds", 
+    "Science, technology, communications", 
+    "Strategic planning"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1994-08-18", 
+    "text": "Judicial Amendments Act of 1994 - Amends the Federal judicial code to make moneys in the Judiciary Automation Fund available to the Director of the Administrative Office of the United States Courts for: (1) the procurement of automatic data processing equipment (equipment) for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch; and (2) support personnel in the courts and in the Administrative Office. Authorizes all agencies of the judiciary to make deposits into the Fund. Requires the Director to develop and annually revise a long range plan for meeting the equipment needs of the activities funded, including an annual estimate of certain fees that may be collected under the Judiciary Appropriations Act, 1991. Provides for the deposit into the Fund of such fees. Requires the Director's annual report to the Congress on the operation of the Fund to include: (1) the specific actions taken and progress made to improve the plan developed, the long range automation plan, and the strategic business plan; and (2) a comparison of planned and actual Fund expenditures and accomplishments and reasons for any delays in scheduled systems development or budget overruns. Authorizes the Director to transfer amounts up to $1 million from the Fund into the account to which the Funds were originally appropriated, with amounts in excess of that sum in any fiscal year permitted to be transferred only by following specified reprogramming procedures. Requires the Director to: (1) develop an overall strategic business plan which would identify the judiciary's missions, goals, and objectives, and a long range automation plan based on the strategic business plan and user needs assessments; (2) establish effective Administrative Office oversight of court automation efforts; (3) expedited efforts to complete the development and implementation of life cycle management standards; (4) utilize the standards in developing the next generation of case management and financial systems; and (5) assess the current utilization and future user requirements of the data communications network. Amends: (1) the Judicial Improvements and Access to Justice Act to authorize appropriations for court arbitration; and (2) the Civil Justice Reform Act of 1990 to extend civil justice expense and delay reduction pilot programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Judicial Amendments Act of 1994", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Judicial Amendments Act of 1994", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to make improvements in the operation and administration of the Federal courts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:28:31-05:00"
+}

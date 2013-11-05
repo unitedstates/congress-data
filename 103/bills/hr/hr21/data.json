@@ -1,0 +1,613 @@
+{
+  "actions": [
+    {
+      "acted_at": "1993-01-05", 
+      "references": [
+        {
+          "reference": "CR E21-23", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-01-05", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1993-01-05", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1993-01-15", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1993-02-24", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health and the Environment", 
+      "text": "Referred to the Subcommittee on Health and the Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1993-08-10", 
+      "bill_ids": [
+        "hr2264-103"
+      ], 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "See H.R.2264.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr21-103", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health and Environment", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "103", 
+  "cosponsors": [
+    {
+      "district": "15", 
+      "name": "Bacchus, Jim", 
+      "sponsored_at": "1993-03-11", 
+      "state": "FL", 
+      "thomas_id": "00037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "1993-02-17", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brewster, Bill K.", 
+      "sponsored_at": "1993-03-11", 
+      "state": "OK", 
+      "thomas_id": "00123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Camp, Dave", 
+      "sponsored_at": "1993-05-04", 
+      "state": "MI", 
+      "thomas_id": "00166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chapman, Jim", 
+      "sponsored_at": "1993-02-04", 
+      "state": "TX", 
+      "thomas_id": "00190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clinger, William F., Jr.", 
+      "sponsored_at": "1993-05-19", 
+      "state": "PA", 
+      "thomas_id": "00207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Danner, Pat", 
+      "sponsored_at": "1993-02-17", 
+      "state": "MO", 
+      "thomas_id": "00265", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Bill", 
+      "sponsored_at": "1993-03-11", 
+      "state": "MO", 
+      "thomas_id": "00342", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Furse, Elizabeth", 
+      "sponsored_at": "1993-11-22", 
+      "state": "OR", 
+      "thomas_id": "00423", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gingrich, Newt", 
+      "sponsored_at": "1993-06-28", 
+      "state": "GA", 
+      "thomas_id": "00441", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Grandy, Fred", 
+      "sponsored_at": "1993-02-04", 
+      "state": "IA", 
+      "thomas_id": "00455", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hayes, James A.", 
+      "sponsored_at": "1993-03-03", 
+      "state": "LA", 
+      "thomas_id": "00517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Holden, Tim", 
+      "sponsored_at": "1993-04-20", 
+      "state": "PA", 
+      "thomas_id": "00550", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "31", 
+      "name": "Houghton, Amo", 
+      "sponsored_at": "1993-02-04", 
+      "state": "NY", 
+      "thomas_id": "00563", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "1993-04-20", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "1993-04-20", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kleczka, Gerald D.", 
+      "sponsored_at": "1993-02-04", 
+      "state": "WI", 
+      "thomas_id": "00637", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Klink, Ron", 
+      "sponsored_at": "1993-06-28", 
+      "state": "PA", 
+      "thomas_id": "00639", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "LaFalce, John J.", 
+      "sponsored_at": "1993-02-17", 
+      "state": "NY", 
+      "thomas_id": "00657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "LaRocco, Larry", 
+      "sponsored_at": "1993-02-04", 
+      "state": "ID", 
+      "thomas_id": "00665", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Machtley, Ronald K.", 
+      "sponsored_at": "1993-03-11", 
+      "state": "RI", 
+      "thomas_id": "00720", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McDade, Joseph M.", 
+      "sponsored_at": "1993-02-04", 
+      "state": "PA", 
+      "thomas_id": "00765", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "1993-02-04", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "McHugh, John M.", 
+      "sponsored_at": "1993-02-17", 
+      "state": "NY", 
+      "thomas_id": "00773", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Mollohan, Alan B.", 
+      "sponsored_at": "1993-03-03", 
+      "state": "WV", 
+      "thomas_id": "00824", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Murphy, Austin J.", 
+      "sponsored_at": "1993-05-04", 
+      "state": "PA", 
+      "thomas_id": "00841", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Murtha, John P.", 
+      "sponsored_at": "1993-03-03", 
+      "state": "PA", 
+      "thomas_id": "00844", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "1993-04-20", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pickett, Owen B.", 
+      "sponsored_at": "1993-05-19", 
+      "state": "VA", 
+      "thomas_id": "00916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Porter, John Edward", 
+      "sponsored_at": "1993-05-04", 
+      "state": "IL", 
+      "thomas_id": "00923", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Poshard, Glenn", 
+      "sponsored_at": "1993-02-17", 
+      "state": "IL", 
+      "thomas_id": "00925", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Ridge, Thomas J.", 
+      "sponsored_at": "1993-05-04", 
+      "state": "PA", 
+      "thomas_id": "00960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rose, Charlie", 
+      "sponsored_at": "1993-02-04", 
+      "state": "NC", 
+      "thomas_id": "00986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schiff, Steven", 
+      "sponsored_at": "1993-04-20", 
+      "state": "NM", 
+      "thomas_id": "01030", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schroeder, Patricia", 
+      "sponsored_at": "1993-03-11", 
+      "state": "CO", 
+      "thomas_id": "01033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Shepherd, Karen", 
+      "sponsored_at": "1993-05-19", 
+      "state": "UT", 
+      "thomas_id": "01050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Smith, Robert", 
+      "sponsored_at": "1993-02-17", 
+      "state": "OR", 
+      "thomas_id": "01083", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Stark, Fortney Pete", 
+      "sponsored_at": "1993-01-05", 
+      "state": "CA", 
+      "thomas_id": "01101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Valentine, Tim", 
+      "sponsored_at": "1993-02-17", 
+      "state": "NC", 
+      "thomas_id": "01178", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Volkmer, Harold L.", 
+      "sponsored_at": "1993-03-11", 
+      "state": "MO", 
+      "thomas_id": "01189", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "1993-05-04", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Wheat, Alan", 
+      "sponsored_at": "1993-02-17", 
+      "state": "MO", 
+      "thomas_id": "01218", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Williams, Pat", 
+      "sponsored_at": "1993-03-03", 
+      "state": "MT", 
+      "thomas_id": "01231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Charles", 
+      "sponsored_at": "1993-03-03", 
+      "state": "TX", 
+      "thomas_id": "01232", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1993-01-05", 
+  "number": "21", 
+  "official_title": "To amend title XVIII of the Social Security Act to make miscellaneous and technical changes to the medicare program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2264-103", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Miscellaneous and Technical Medicare Amendments of 1993", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Rostenkowski, Dan", 
+    "state": "IL", 
+    "thomas_id": "00988", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1993-01-05", 
+  "subjects": [
+    "Alzheimer's disease", 
+    "Ambulatory care", 
+    "Anesthetics", 
+    "Budget deficits", 
+    "Cancer", 
+    "Case mix (Medical care)", 
+    "Child health", 
+    "Community health services", 
+    "Community hospitals", 
+    "Conflict of interests", 
+    "Congressional reporting requirements", 
+    "Counseling", 
+    "Drugs", 
+    "Education", 
+    "Employee health benefits", 
+    "Eye care", 
+    "Eye diseases", 
+    "Federal budgets", 
+    "Government spending reductions", 
+    "Hawaii", 
+    "Health", 
+    "Health insurance", 
+    "Health maintenance organizations", 
+    "Hearing disorders", 
+    "Heart diseases", 
+    "Hemophilia", 
+    "Home care services", 
+    "Hospices (Terminal care)", 
+    "Hospital care", 
+    "Hospitals", 
+    "Immunosuppressive drugs", 
+    "Indian medical care", 
+    "Influenza", 
+    "Information services", 
+    "Interest", 
+    "Kidney diseases", 
+    "Medicaid", 
+    "Medical centers", 
+    "Medical education", 
+    "Medical ethics", 
+    "Medical fees", 
+    "Medical laboratories", 
+    "Medical residents", 
+    "Medical supplies", 
+    "Medical tests", 
+    "Medicare", 
+    "Medicare fraud", 
+    "Military hospitals", 
+    "New Jersey", 
+    "Nurses", 
+    "Nursing homes", 
+    "Nutrition", 
+    "Patients' rights", 
+    "Peer review organizations (Medicine)", 
+    "Physicians", 
+    "Prosthesis", 
+    "Psychologists", 
+    "Public assistance programs", 
+    "Rural hospitals", 
+    "Rural public health", 
+    "Social security taxes", 
+    "Speech disorders", 
+    "Standards", 
+    "Surgery", 
+    "Taxation", 
+    "Telemarketing", 
+    "Telephone", 
+    "User charges", 
+    "Vaccination", 
+    "Veterans' hospitals", 
+    "Wages"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1993-01-05", 
+    "text": "TABLE OF CONTENTS: Title I: Provisions Relating to Part A Title II: Provisions Relating to Part B Subtitle A: Physicians' Services Subtitle B: Ambulatory Surgical Services Subtitle C: Durable Medical Equipment Subtitle D: Other Provisions Title III: Provisions Relating to Parts A and B Title IV: Provisions Relating to Medicare Supplemental Insurance Policies Miscellaneous and Technical Medicare Amendments of 1993 - Amends title XVIII (Medicare) of the Social Security Act (SSA) parts A (Hospital Insurance) and B (Supplementary Medical Insurance). Title I: Provisions Relating to Part A - (Sec. 101) Requires the Secretary of Health and Human Services (HHS) to use the day outlier methodology in effect for: (1) FY 1992 for payment of discharges occurring on or after April 1, 1993, and before September 30, 1993; and (2) the first six months of FY 1993 for payment of discharges occurring during FY 1994. (Sec. 102) Modifies the Essential Access Community Hospital program. (Sec. 103) Provides that a change in classification of hospitals from one area to another may not result in a reduction in the wage index for an urban area under certain circumstances. (Sec. 104) Amends the Omnibus Budget Reconciliation Act of 1987 (OBRA-1987) to extend authorized appropriations for the rural health transition grant program. (The Omnibus Budget Reconciliation Acts of different years amended by this Act shall be denoted \"OBRA-(year).\") (Sec. 105) Permits hospitals to decline reclassification from rural to urban referral centers. (Sec. 106) Revises Medicare-dependent, small rural hospital payment provisions. (Sec. 107) Amends OBRA-1989 to extend additional Medicare payments for the hemophilia clotting factor. (Sec. 108) Prohibits the Secretary from recouping from or otherwise reducing Medicare payments to hospitals in New Jersey because of alleged overpayments during a hospital reimbursement demonstration project, until all relevant data are given to the State and hospitals located in it. (Sec. 109) Allows the care of hospital inpatients receiving qualified psychologist services to be supervised by a clinical psychologist to the extent such supervision is permitted under State law. (Sec. 110) Allows graduate medical education to be provided in a hospital-owned community health center. (Sec. 111) Requires a study on the feasibility and desirability of establishing joint medical facilities among the Department of Defense, the Department of Veterans' Affairs, and other public and private entities. (Sec. 112) Requires home health agencies and skilled nursing facilities to notify Medicare beneficiaries of the hospice benefit, except in certain circumstances. (Sec. 113) Directs the Secretary to begin collecting data on employee compensation and paid hours of employment in skilled nursing facilities (SNFs) to compute a wage index to adjust Medicare SNFs payments. (Sec. 115) Amends OBRA-1990 to require the Secretary to continue any rural hospital demonstration project at least through December 31, 1995. Title II: Provisions Relating to Part B - Subtitle A: Physicians' Services - (Sec. 201) Reinstates separate payment for electrocardiogram interpretations performed or ordered to be performed as part of or in conjunction with a visit to or consultation with a physician. (Sec. 202) Repeals provisions for reduced Medicare payments to new physicians and other practitioners during their first four years of practice. (Sec. 203) Prohibits the Secretary from modifying the methodology for determining the amount of time that may be billed under Medicare for anesthesia services. (Sec. 204) Requires the Secretary to study and report to specified congressional committees on the data necessary to review and revise geographical indices. (Sec. 205) Prohibits nonparticipating physicians and suppliers from billing or collecting an actual charge in excess of the Medicare limiting charge. (Sec. 206) Requires the Secretary to study, develop, and report to the Congress on relative values for pediatric services. (Sec. 208) Prohibits the Secretary and carriers from imposing user fees. Subtitle B: Ambulatory Surgical Services - (Sec. 211) Extends eligibility for designation as eye or eye and ear hospitals to certain hospitals. (Sec. 212) Amends OBRA-1990 to extend the cap on payments for intraocular lenses. Subtitle C: Durable Medical Equipment - (Sec. 221) Requires the Secretary to prescribe national standards which suppliers of medical equipment and supplies must meet to receive payment under Medicare for items furnished. (Sec. 222) Prohibits carrier forum shopping by suppliers filing claims. (Sec. 223) Prohibits unsolicited telephone contacts from suppliers of durable medical equipment to Medicare beneficiaries. (Sec. 224) Modifies SSA anti-kickback provisions. (Sec. 225) Specifies the circumstances under which Medicare beneficiaries are not liable for covered items furnished by suppliers on an unassigned basis. (Sec. 226) Revises special payment rules for particular items and services to provide for adjustments to final payment amounts for inherent reasonableness. (Sec. 227) Freezes reasonable charges for parenteral and enteral nutrients, supplies, and equipment. (Sec. 228) Removes aspirators and nebulizers from the category of durable medical equipment (DME) items requiring frequent and substantial servicing and includes accessories relating to aspirators and nebulizers in the category of inexpensive and other routinely purchased equipment. (Sec. 229) Adds payment rules for ostomy supplies, tracheostomy supplies, urologicals, and surgical dressings. (Sec. 230) Changes payment rates for tens devices. Subtitle D: Other Provisions - (Sec. 241) Revises payment conversion factors for services furnished by a medically directed certified registered nurse anesthetist. (Sec. 242) Amends OBRA-1990 to extend Alzheimer's disease demonstration projects. (Sec. 243) Modifies the limitation on the late enrollment penalty. (Secs. 244 and 245) Provides for Medicare coverage of: (1) oral cancer drugs that contain the same active ingredients as anticancer drugs covered by Medicare when administered intravenously; and (2) speech-language pathology and audiology services. (Sec. 246) Amends OBRA-1985, as amended by OBRA-1989, to extend municipal health service demonstration projects. (Sec. 247) Treats certain Indian health programs and facilities as federally-qualified health centers. (Sec. 248) Amends OBRA-1987 to extend the influenza vaccination demonstration project. Title III: Provisions Relating to Parts A and B - (Sec. 301) Modifies provisions relating to physician ownership and referral. Requires the Comptroller General to study and report to the Congress on shared facility arrangements. (Sec. 302) Adjusts procedures to determine graduate medical education costs. (Sec. 303) Extends the periods during which Medicare covers immunosuppressive drug therapy following a transplant procedure. Reduces Medicare payments for erythropoietin. (Sec. 304) Revises provisions with respect to Medicare secondary payers. (Secs. 305 and 306) Requires the Secretary to: (1) establish a method for obtaining information with a view to Medicaid payment of the Medicare out-of-pocket expenses of eligible Medicare beneficiaries; and (2) extend waivers for social health maintenance organization (HMO) demonstration projects. (Sec. 307) Repeals peer review organization precertification requirements for certain surgical procedures. (Sec. 308) Modifies hospital conditions of participation with respect to discharge planning under Medicare to require informing a patient of his or her entitlement to hospice services. (Sec. 309) Provides that there must be interest payments on clean claims if the claims are not paid within 30 days of receipt. (Sec. 311) Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to adjust discretionary spending limits with respect to Medicare administrative costs. (Sec. 312) Adjusts Medicare capitation payments with respect to HMOs to account for regional variations in application of the secondary payor provisions. (Sec. 313) Amends the Employee Retirement Income Security Act of 1974 with regard to certain health care programs of the State of Hawaii. Title IV: Provisions Relating to Medicare Supplemental Insurance Policies - (Sec. 401) Revises certain standards for Medicare supplemental insurance policies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Miscellaneous and Technical Medicare Amendments of 1993", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title XVIII of the Social Security Act to make miscellaneous and technical changes to the medicare program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:28:50-05:00"
+}

@@ -1,0 +1,496 @@
+{
+  "actions": [
+    {
+      "acted_at": "1994-05-12", 
+      "committee": "House Committee on Government Operations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Operations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-05-12", 
+      "committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "text": "Referred to the House Committee on Post Office and Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-05-17", 
+      "in_committee": "House Committee on Government Operations", 
+      "references": [], 
+      "subcommittee": "Legislation and National Security", 
+      "text": "Referred to the Subcommittee on Legislation and National Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-06-02", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "subcommittee": "Postal Operations and Services", 
+      "text": "Referred to the Subcommittee on Postal Operations and Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-06-15", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "in_subcommittee": "Postal Operations and Services", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-15", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "in_subcommittee": "Postal Operations and Services", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-15", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "in_subcommittee": "Postal Operations and Services", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-22", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-22", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1994-06-27T12:53:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Post Office and Civil Service. H. Rept. 103-561, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-27T13:40:00-04:00", 
+      "references": [], 
+      "text": "Ms. Collins (MI) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-27T13:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5085-5088", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-27T13:42:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-27T13:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1994-06-27T13:50:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-06-29", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-06-30", 
+      "references": [], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4400-103", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Operations", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Operations", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Legislation and National Security", 
+      "subcommittee_id": "06"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO", 
+      "subcommittee": "Subcommittee on Postal Operations and Services", 
+      "subcommittee_id": "06"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "103", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bilbray, James H.", 
+      "sponsored_at": "1994-05-25", 
+      "state": "NV", 
+      "thomas_id": "00088", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "1994-05-20", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "42", 
+      "name": "Brown, George E., Jr.", 
+      "sponsored_at": "1994-06-14", 
+      "state": "CA", 
+      "thomas_id": "00134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "1994-05-26", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Byrne, Leslie L.", 
+      "sponsored_at": "1994-05-12", 
+      "state": "VA", 
+      "thomas_id": "00161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Collins, Barbara-Rose", 
+      "sponsored_at": "1994-05-12", 
+      "state": "MI", 
+      "thomas_id": "00219", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "1994-05-23", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Dellums, Ronald V.", 
+      "sponsored_at": "1994-05-25", 
+      "state": "CA", 
+      "thomas_id": "00284", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Engel, Eliot L.", 
+      "sponsored_at": "1994-06-10", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Fish, Hamilton, Jr.", 
+      "sponsored_at": "1994-06-23", 
+      "state": "NY", 
+      "thomas_id": "00384", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1994-05-25", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "1994-05-20", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1994-06-13", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCloskey, Frank", 
+      "sponsored_at": "1994-05-25", 
+      "state": "IN", 
+      "thomas_id": "00758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "1994-06-08", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "1994-05-20", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "1994-05-26", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "1994-06-10", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Poshard, Glenn", 
+      "sponsored_at": "1994-05-19", 
+      "state": "IL", 
+      "thomas_id": "00925", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Romero-Barcelo, Carlos A.", 
+      "sponsored_at": "1994-05-19", 
+      "state": "PR", 
+      "thomas_id": "00980", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Sawyer, Thomas C.", 
+      "sponsored_at": "1994-05-20", 
+      "state": "OH", 
+      "thomas_id": "01022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Stokes, Louis", 
+      "sponsored_at": "1994-05-12", 
+      "state": "OH", 
+      "thomas_id": "01115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1994-06-10", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Unsoeld, Jolene", 
+      "sponsored_at": "1994-06-10", 
+      "state": "WA", 
+      "thomas_id": "01176", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "1994-05-20", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "1994-05-26", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1994-06-27T13:50:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1994-05-12", 
+  "number": "4400", 
+  "official_title": "To amend title 39, United States Code, to prevent the use of paid confidential informants by the United States Postal Service in certain narcotics investigations; to require that the appointment of the Inspector General of the United States Postal Service be made by the President, with the advice and consent of the Senate; and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Postal Inspection Service and Inspector General Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clay, William (Bill)", 
+    "state": "MO", 
+    "thomas_id": "00203", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1994-06-27T13:50:00-04:00", 
+  "subjects": [
+    "Advice and consent of the Senate", 
+    "Arrest", 
+    "Auditing", 
+    "Collective bargaining in government", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Crime and law enforcement", 
+    "Criminal investigation", 
+    "Drug abuse", 
+    "Employee rights", 
+    "Executive reorganization", 
+    "Federal officials", 
+    "Finance and financial sector", 
+    "Government employee unions", 
+    "Government operations and politics", 
+    "Informers", 
+    "Inspectors general", 
+    "Labor and employment", 
+    "Labor unions", 
+    "Narcotic traffic", 
+    "Postal crimes", 
+    "Postal employees", 
+    "Postal service", 
+    "Presidential appointments", 
+    "United States Postal Service"
+  ], 
+  "subjects_top_term": "Postal service", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1994-06-27", 
+    "text": "Postal Inspection Service and Inspector General Act - Prohibits the Postal Service from retaining the services of a paid confidential informant for purposes of investigations concerning the possible violation of laws relating to controlled substances unless the unlawful use of the mails is involved. Directs the Postal Service to render a semiannual report to the Congress concerning any investigation: (1) in which the Postal Service retains the services of a paid confidential informant; and (2) which results in the arrest of one or more individuals for violating any law relating to controlled substances. Creates a Chief Postal Inspector within the Postal Service. Amends the Inspector General Act of 1978 to transfer internal audit and program review functions of the Postal Inspection Service to the Office of the Inspector General of the Postal Service. Confers oversight responsibility for all activities of the Postal Inspection Service on the Inspector General. Requires the Chief Postal Inspector to report significant activities being carried out by the Postal Inspection Service to the Inspector General. Applies all provisions of the Inspector General Act of 1978 to the Postal Service. Declares that nothing in such Act shall adversely affect any of the rights, privileges, or benefits of either employees of the Postal Service or labor organizations representing such employees."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Postal Inspection Service and Inspector General Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Postal Inspection Service and Inspector General Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 39, United States Code, to prevent the use of paid confidential informants by the United States Postal Service in certain narcotics investigations; to require that the appointment of the Inspector General of the United States Postal Service be made by the President, with the advice and consent of the Senate; and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:30:53-05:00"
+}

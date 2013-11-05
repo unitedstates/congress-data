@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "1993-11-22", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-22", 
+      "references": [
+        {
+          "reference": "CR S16982", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-22", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with amendments by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1993-11-22T23:20:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-23T01:46:00-05:00", 
+      "references": [
+        {
+          "reference": "11/22/93 CR H10955-10956", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-23T01:46:00-05:00", 
+      "references": [], 
+      "text": "Mr. Gonzalez asked unanimous consent to take from the Speaker's table and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-23T01:47:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1993-11-23T01:47:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-23", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-24", 
+      "references": [
+        {
+          "reference": "CR S17230", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate agreed the House amendment by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-24", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1993-11-26", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-12-08", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1993-12-14", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1993-12-14", 
+      "congress": "103", 
+      "law": "public", 
+      "number": "195", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 103-195.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h422-103", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "422"
+    }, 
+    {
+      "amendment_id": "s1236-103", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1236"
+    }, 
+    {
+      "amendment_id": "s1237-103", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1237"
+    }, 
+    {
+      "amendment_id": "s1238-103", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1238"
+    }
+  ], 
+  "bill_id": "s1769-103", 
+  "bill_type": "s", 
+  "committees": [], 
+  "congress": "103", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Breaux, John B.", 
+      "sponsored_at": "1993-11-22", 
+      "state": "LA", 
+      "thomas_id": "00120", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "103", 
+    "law_type": "public", 
+    "number": "195"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1993-12-14", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1993-11-23T01:47:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1993-11-22", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1993-11-22", 
+  "number": "1769", 
+  "official_title": "A bill to make a technical correction, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Johnston, J. Bennett", 
+    "state": "LA", 
+    "thomas_id": "01373", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1993-12-14", 
+  "subjects": [
+    "Apartment houses", 
+    "Block grants", 
+    "Federal aid to community development", 
+    "Federal aid to housing", 
+    "Fire prevention", 
+    "Government paperwork", 
+    "Housing and community development", 
+    "Louisiana", 
+    "Michigan", 
+    "New York City", 
+    "Pennsylvania", 
+    "Rent subsidies", 
+    "Rental housing"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1993-11-23", 
+    "text": "Authorizes the city of Slidell, Louisiana, to submit a final statement of objectives, within ten days of enactment of this Act, with respect to a FY 1994 community development block grant (CDBG). Directs the Secretary of Housing and Urban Development to consider and accept such final statement. Amends the Housing and Community Development Act of 1974 to permit Pittsburgh, Pennsylvania, to use up to 20 percent of FY 1994 CDBG assistance for public service. Authorizes the Secretary to convert the Leonard Terrace Apartments in Grand Rapids, Michigan, from a leased housing contract to a project-based rental assistance contract upon the repayment of certain funds received by the concerned public housing agency. Considers newly constructed multifamily property in New York City, New York, to have met certain Federal Fire Prevention and Control Act of 1974 automatic sprinkler requirements if equivalent safety levels have been met."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to make a technical correction, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:28:15-05:00"
+}

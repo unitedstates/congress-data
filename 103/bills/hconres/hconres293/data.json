@@ -1,0 +1,202 @@
+{
+  "actions": [
+    {
+      "acted_at": "1994-09-22", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-09-23", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "subcommittee": "Personnel and Police", 
+      "text": "Referred to the Subcommittee on Personnel and Police.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-09-27", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Personnel and Police", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-09-27", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Personnel and Police", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-04", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-04", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1994-10-07T02:37:00-04:00", 
+      "references": [], 
+      "text": "Committee on House Administration discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07T02:37:00-04:00", 
+      "references": [], 
+      "text": "Mr. Manton asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07T02:37:00-04:00", 
+      "references": [
+        {
+          "reference": "CR 10/6/1994 H11164-11165", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07T02:38:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07T02:39:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1994-10-07T02:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-07", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S14667", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1994-10-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h928-103", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "928"
+    }
+  ], 
+  "bill_id": "hconres293-103", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA", 
+      "subcommittee": "Subcommittee on Personnel and Police", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "103", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1994-10-07T02:39:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1994-10-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1994-09-22", 
+  "number": "293", 
+  "official_title": "Providing for the printing of the book entitled \"History of the United States House of Representatives\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Rose, Charlie", 
+    "state": "NC", 
+    "thomas_id": "00986", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1994-10-07", 
+  "subjects": [
+    "Books", 
+    "Congress", 
+    "Congressional publications", 
+    "Government operations and politics", 
+    "History", 
+    "House of Representatives"
+  ], 
+  "subjects_top_term": "House of Representatives", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1994-10-07", 
+    "text": "Provides for the printing of a revised edition of the book entitled \"History of the United States House of Representatives\" as a House document."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Providing for the printing of the book entitled \"History of the United States House of Representatives\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:31:32-05:00"
+}

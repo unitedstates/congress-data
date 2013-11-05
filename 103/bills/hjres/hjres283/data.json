@@ -1,0 +1,205 @@
+{
+  "actions": [
+    {
+      "acted_at": "1993-10-27", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1993-10-27T17:02:00-04:00", 
+      "bill_ids": [
+        "hres287-103"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 287 Reported to House. Rule provides for consideration of H.J. Res. 283 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration of the joint resolution in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28T12:19:00-04:00", 
+      "bill_ids": [
+        "hres287-103"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 287 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28T12:19:00-04:00", 
+      "bill_ids": [
+        "hres287-103"
+      ], 
+      "references": [
+        {
+          "reference": "CR H8606-8609", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 287.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28T12:19:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 283 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Providing for the consideration of the joint resolution in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28T12:20:00-04:00", 
+      "bill_ids": [
+        "hres287-103"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 287, the House proceeded with one hour of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28T12:36:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28T12:55:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "536", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 256 - 157 (Roll no. 536).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1993-10-28T12:55:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-28", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S14625", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1993-10-28", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1993-10-28", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1993-10-29", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1993-10-29", 
+      "congress": "103", 
+      "law": "public", 
+      "number": "128", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 103-128.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres283-103", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "103", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "103", 
+    "law_type": "public", 
+    "number": "128"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1993-10-29", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1993-10-28T12:55:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1993-10-28", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1993-10-27", 
+  "number": "283", 
+  "official_title": "Making further continuing appropriations for the fiscal year 1994, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres287-103", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Natcher, William H.", 
+    "state": "KY", 
+    "thomas_id": "00853", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1993-10-29", 
+  "subjects": [
+    "Appropriations", 
+    "Continuing resolutions", 
+    "Defense budgets", 
+    "Economics and public finance", 
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Appropriations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1993-10-27", 
+    "text": "Extends the law making further continuing appropriations for FY 1994."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Making further continuing appropriations for the fiscal year 1994, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:31:59-05:00"
+}

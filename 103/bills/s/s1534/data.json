@@ -1,0 +1,231 @@
+{
+  "actions": [
+    {
+      "acted_at": "1993-10-07", 
+      "references": [
+        {
+          "reference": "CR S13253-13254", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-07", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S13253", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1993-10-13", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-13T10:02:00-04:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-13T11:56:00-04:00", 
+      "references": [], 
+      "text": "Held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-10-27", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1993-11-16T13:51:00-05:00", 
+      "references": [], 
+      "text": "Committee on Veterans' Affairs discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-16T13:51:00-05:00", 
+      "references": [], 
+      "text": "Mr. Montgomery asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-16T13:52:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H9721-9723", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-16T13:52:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1993-11-16T13:52:00-05:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-16T13:53:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1993-11-18", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendments to Senate bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-03-25", 
+      "references": [], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-03-25", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S3936", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Senate concurred in the House amendments with an amendment (SP 1604) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1994-04-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h393-103", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "393"
+    }, 
+    {
+      "amendment_id": "s1604-103", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1604"
+    }
+  ], 
+  "bill_id": "s1534-103", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }
+  ], 
+  "congress": "103", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Murkowski, Frank H.", 
+      "sponsored_at": "1993-10-07", 
+      "state": "AK", 
+      "thomas_id": "01408", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1993-11-16T13:52:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1994-03-25", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1993-10-07", 
+  "number": "1534", 
+  "official_title": "A bill to amend title 38, United States Code, to repeal a requirement that the Under Secretary for Health in the Department of Veterans Affairs be a doctor of medicine.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3338-103", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "1994-03-25", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Department of Veterans Affairs", 
+    "Federal advisory bodies", 
+    "Federal officials", 
+    "Government operations and politics", 
+    "Health", 
+    "Physicians", 
+    "Presidential appointments", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Senate agreed to House amendment with amendment", 
+    "date": "1994-03-25", 
+    "text": "Allows the position of Under Secretary, Deputy Under Secretary, or Associate Deputy Under Secretary for Health in the Veterans Health Administration of the Department of Veterans Affairs to be filled by someone who is not a doctor of medicine if, at the time of any such appointment, the remaining two positions are filled by doctors of medicine. Requires at least five of the ten members of any commission established to select a new Under Secretary to be doctors of medicine."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to amend title 38, United States Code, to repeal a requirement that the Under Secretary for Health in the Department of Veterans Affairs be a doctor of medicine.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:28:10-05:00"
+}

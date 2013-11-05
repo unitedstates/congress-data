@@ -1,0 +1,247 @@
+{
+  "actions": [
+    {
+      "acted_at": "1994-10-05", 
+      "references": [], 
+      "text": "Referred jointly to the House Committee on Public Works + Transportation.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-05", 
+      "references": [], 
+      "text": "Referred jointly to the House Committee on Merchant Marine and Fisheries.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-05", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REFERRED", 
+      "subcommittee": "Environment and Natural Resources", 
+      "text": "Referred to the Subcommittee on Environment and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1994-10-05T18:52:00-04:00", 
+      "references": [], 
+      "text": "Committee on Public Works + Transportation discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-05T18:54:00-04:00", 
+      "references": [], 
+      "text": "Committee on Merchant Marine and Fisheries discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-05T19:06:00-04:00", 
+      "references": [], 
+      "text": "Mr. Filner asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-05T19:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H10944-10945", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-05T19:07:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1994-10-05T19:07:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-06", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-08", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S15022", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1994-10-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1994-10-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1994-10-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1994-10-31", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1994-10-31", 
+      "congress": "103", 
+      "law": "public", 
+      "number": "431", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 103-431.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5176-103", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Merchant Marine and Fisheries", 
+      "committee_id": "HSMM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Merchant Marine and Fisheries", 
+      "committee_id": "HSMM", 
+      "subcommittee": "Subcommittee on Environment and Natural Resources", 
+      "subcommittee_id": "22"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Public Works and Transportation", 
+      "committee_id": "HSPW"
+    }
+  ], 
+  "congress": "103", 
+  "cosponsors": [
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "1994-10-05", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Schenk, Lynn", 
+      "sponsored_at": "1994-10-05", 
+      "state": "CA", 
+      "thomas_id": "01027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "103", 
+    "law_type": "public", 
+    "number": "431"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1994-10-31", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1994-10-05T19:07:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1994-10-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1994-10-05", 
+  "number": "5176", 
+  "official_title": "To amend the Federal Water Pollution Control Act relating to San Diego ocean discharge and waste water reclamation.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ocean Pollution Reduction Act", 
+  "sponsor": {
+    "district": "50", 
+    "name": "Filner, Bob", 
+    "state": "CA", 
+    "thomas_id": "00381", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1994-10-31", 
+  "subjects": [
+    "Administrative procedure", 
+    "California", 
+    "Environmental Protection Agency", 
+    "Environmental protection", 
+    "Government operations and politics", 
+    "Marine and coastal resources, fisheries", 
+    "Municipal services", 
+    "Sewage treatment", 
+    "Waste disposal in the ocean", 
+    "Waste water treatment", 
+    "Water pollution control"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1994-10-05", 
+    "text": "Ocean Pollution Reduction Act - Amends the Federal Water Pollution Control Act to authorize the city of San Diego, California, to apply for a modification of secondary treatment requirements with respect to biological oxygen demand and total suspended solids in the effluent discharged into marine waters. Includes within such application a commitment by the applicant to implement a waste water reclamation program meeting specified minimum requirements. Prohibits the Administrator of the Environmental Protection Agency from granting a modification unless such modification will result in removal of at least 58 percent of the biological oxygen demand (on an annual average) and at least 80 percent of total suspended solids (on a monthly average) in the discharge to which the application applies."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Ocean Pollution Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Ocean Pollution Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Federal Water Pollution Control Act relating to San Diego ocean discharge and waste water reclamation.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:31:20-05:00"
+}
