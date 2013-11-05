@@ -1,0 +1,272 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-06-09", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-06-10", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "subcommittee": "Energy and Power", 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-06-11", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Energy and Power", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-06-11", 
+      "in_committee": "House Committee on Commerce", 
+      "in_subcommittee": "Energy and Power", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-08-05", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-08-05", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1998-09-17T21:11:00-04:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Commerce. H. Rept. 105-727.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17T21:11:00-04:00", 
+      "calendar": "Union", 
+      "number": "417", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 417.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1998-09-28T12:40:00-04:00", 
+      "references": [], 
+      "text": "Mr. Schaefer, Dan moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-28T12:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9096-9104", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-28T12:40:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-28T13:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1998-09-28T13:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-28T13:17:00-04:00", 
+      "bill_ids": [
+        "s417-105"
+      ], 
+      "references": [
+        {
+          "reference": "CR  H9104", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Laid on the table. See S. 417 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4017-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "1998-06-09", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1998-09-28T13:13:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1998-06-09", 
+  "number": "4017", 
+  "official_title": "To extend certain programs under the Energy Policy and Conservation Act and the Energy Conservation and Production Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s417-105", 
+      "reason": "unknown"
+    }
+  ], 
+  "short_title": "Energy Conservation Reauthorization Act of 1998", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Schaefer, Dan", 
+    "state": "CO", 
+    "thomas_id": "01026", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1998-09-28T13:13:00-04:00", 
+  "subjects": [
+    "Alternative energy sources", 
+    "Alternative fuels", 
+    "Authorization", 
+    "Biomass energy", 
+    "Commerce", 
+    "Commercialization", 
+    "Computers and government", 
+    "Congress", 
+    "Congressional agencies", 
+    "Congressional reporting requirements", 
+    "Department of Energy", 
+    "Diesel motor", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Elementary schools", 
+    "Energy", 
+    "Energy conservation", 
+    "Energy consumption", 
+    "Energy efficiency", 
+    "Exports", 
+    "Federal advisory bodies", 
+    "Federal aid to education", 
+    "Federal aid to health facilities", 
+    "Federal aid to higher education", 
+    "Federal aid to housing", 
+    "Foreign trade and international finance", 
+    "Foreign trade promotion", 
+    "Government operations and politics", 
+    "Government procurement", 
+    "Government publications", 
+    "Government publicity", 
+    "Government vehicles", 
+    "Grants-in-aid", 
+    "Health", 
+    "High schools", 
+    "Higher education", 
+    "Hospitals", 
+    "Housing and community development", 
+    "Internet", 
+    "Labor and employment", 
+    "Lighting", 
+    "Planning", 
+    "Printing", 
+    "Residential energy conservation", 
+    "School buildings", 
+    "Science, technology, communications", 
+    "Secondary education", 
+    "Small business", 
+    "Technological innovations", 
+    "Traffic engineering", 
+    "Transportation and public works", 
+    "Trucks", 
+    "Vocational education"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1998-09-28", 
+    "text": "Energy Conservation Reauthorization Act of 1998 - Amends the Energy Policy and Conservation Act to authorize appropriations for FY 1999 through 2003 for: (1) State energy conservation programs; and (2) the energy conservation program for schools and hospitals. (Sec. 3) Amends the Energy Conservation and Production Act to authorize appropriations for FY 1999 through 2003 to implement the weatherization program. (Sec. 4) Amends the National Energy Conservation Policy Act to extend until October 1, 2003, Federal agency authority to enter into new energy savings performance contracts. (Sec. 6) Repeals termination of the President's authority to require either allocation or priority contract performance of materials supplies and equipment in order to maximize domestic energy supplies under certain energy contingencies (thereby making such authority permanent). (Sec. 7) Amends the Energy Policy Act of 1992 to set forth a statutory mechanism for the allocation of credit for specified biodiesel fuel use by a fleet or covered person. Requires the Secretary to allocate one credit to a fleet or covered person for each qualifying volume of the biodiesel component of fuel containing at least 20 percent biodiesel by volume (B-20) purchased for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating. Permits the Secretary to lower the B-20 requirement for reasons related to cold start, safety, or vehicle function considerations. Prohibits the allocation of credits for a purchase of biodiesel: (1) for use in alternative fueled vehicles; or (2) that is required by Federal or State law. Requires the Secretary, upon the request of a fleet or covered person receiving a credit allocation, to treat that purchase as the acquisition of one alternative fueled vehicle which the fleet or covered person is required to acquire by such Act. (Sec. 8) Requires the head of each Federal agency to report annually to the Congress on compliance with the alternative fuel purchasing requirements for Federal fleets, including a plan with specific dates for achieving compliance. Requires public dissemination of such reports in the Federal Register and on the Internet."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Energy Conservation Reauthorization Act of 1998", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Energy Conservation Reauthorization Act of 1998", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Energy Conservation Reauthorization Act of 1998", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To extend certain programs under the Energy Policy and Conservation Act and the Energy Conservation and Production Act, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:58-05:00"
+}

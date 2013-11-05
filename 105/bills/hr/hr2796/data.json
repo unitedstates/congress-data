@@ -1,0 +1,666 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-11-04", 
+      "committee": "House Committee on National Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on National Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-11-13T16:14:00-05:00", 
+      "references": [], 
+      "text": "Mr. Bateman moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13T16:15:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10892-10894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13T16:15:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13T16:29:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-11-13T16:29:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12711", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1997-11-13", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1997-11-14", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-17", 
+      "in_committee": "House Committee on National Security", 
+      "references": [], 
+      "subcommittee": "Military Readiness", 
+      "text": "Referred to the Subcommittee on Military Readiness.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-12-05", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1997-12-17", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1997-12-17", 
+      "congress": "105", 
+      "law": "public", 
+      "number": "152", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 105-152.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2796-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House National Security", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House National Security", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Readiness", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "1997-11-04", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Ballenger, Cass", 
+      "sponsored_at": "1997-11-04", 
+      "state": "NC", 
+      "thomas_id": "00050", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bateman, Herbert H.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "VA", 
+      "thomas_id": "00064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Bilbray, Brian P.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "CA", 
+      "thomas_id": "00087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Bliley, Tom", 
+      "sponsored_at": "1997-11-04", 
+      "state": "VA", 
+      "thomas_id": "00097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "1997-11-08", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Buyer, Stephen E.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Calvert, Ken", 
+      "sponsored_at": "1997-11-08", 
+      "state": "CA", 
+      "thomas_id": "00165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Christian-Green, Donna M.", 
+      "sponsored_at": "1997-11-13", 
+      "state": "VI", 
+      "thomas_id": "01474", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, William (Bill)", 
+      "sponsored_at": "1997-11-04", 
+      "state": "MO", 
+      "thomas_id": "00203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Coble, Howard", 
+      "sponsored_at": "1997-11-04", 
+      "state": "NC", 
+      "thomas_id": "00211", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cramer, Robert E. (Bud), Jr.", 
+      "sponsored_at": "1997-11-12", 
+      "state": "AL", 
+      "thomas_id": "00247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "51", 
+      "name": "Cunningham, Randy (Duke)", 
+      "sponsored_at": "1997-11-13", 
+      "state": "CA", 
+      "thomas_id": "00258", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Dellums, Ronald V.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "CA", 
+      "thomas_id": "00284", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "1997-11-04", 
+      "state": "FL", 
+      "thomas_id": "00404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1997-11-12", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1997-11-04", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Furse, Elizabeth", 
+      "sponsored_at": "1997-11-04", 
+      "state": "OR", 
+      "thomas_id": "00423", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "1997-11-08", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gibbons, Jim", 
+      "sponsored_at": "1997-11-04", 
+      "state": "NV", 
+      "thomas_id": "01485", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Goode, Virgil H., Jr.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "VA", 
+      "thomas_id": "01486", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "sponsored_at": "1997-11-08", 
+      "state": "IL", 
+      "thomas_id": "00478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hansen, James V.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "UT", 
+      "thomas_id": "00498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hefner, W. G. (Bill)", 
+      "sponsored_at": "1997-11-04", 
+      "state": "NC", 
+      "thomas_id": "00525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hilleary, Van", 
+      "sponsored_at": "1997-11-12", 
+      "state": "TN", 
+      "thomas_id": "00538", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hostettler, John N.", 
+      "sponsored_at": "1997-11-13", 
+      "state": "IN", 
+      "thomas_id": "00562", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "1997-11-12", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennedy, Patrick J.", 
+      "sponsored_at": "1997-11-08", 
+      "state": "RI", 
+      "thomas_id": "00627", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Kilpatrick, Carolyn C.", 
+      "sponsored_at": "1997-11-12", 
+      "state": "MI", 
+      "thomas_id": "01497", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Mascara, Frank", 
+      "sponsored_at": "1997-11-08", 
+      "state": "PA", 
+      "thomas_id": "00745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "McGovern, James P.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "McHale, Paul", 
+      "sponsored_at": "1997-11-04", 
+      "state": "PA", 
+      "thomas_id": "00772", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McIntyre, Mike", 
+      "sponsored_at": "1997-11-08", 
+      "state": "NC", 
+      "thomas_id": "01505", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Cynthia A.", 
+      "sponsored_at": "1997-11-08", 
+      "state": "GA", 
+      "thomas_id": "00780", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "sponsored_at": "1997-11-12", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "1997-11-08", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "1997-11-04", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "1997-11-04", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Stokes, Louis", 
+      "sponsored_at": "1997-11-12", 
+      "state": "OH", 
+      "thomas_id": "01115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Stupak, Bart", 
+      "sponsored_at": "1997-11-13", 
+      "state": "MI", 
+      "thomas_id": "01123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Taylor, Charles H.", 
+      "sponsored_at": "1997-11-13", 
+      "state": "NC", 
+      "thomas_id": "01141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Taylor, Gene", 
+      "sponsored_at": "1997-11-12", 
+      "state": "MS", 
+      "thomas_id": "01142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "1997-11-12", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1997-11-08", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Watt, Melvin L.", 
+      "sponsored_at": "1997-11-12", 
+      "state": "NC", 
+      "thomas_id": "01207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "1997-11-08", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "105", 
+    "law_type": "public", 
+    "number": "152"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1997-12-17", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1997-11-13T16:29:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1997-11-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-11-04", 
+  "number": "2796", 
+  "official_title": "To authorize the reimbursement of members of the Army deployed to Europe in support of operations in Bosnia for certain out-of-pocket expenses incurred by the members during the period beginning on October 1, 1996, and ending on May 31, 1997.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Army Reserve-National Guard Equity Reimbursement Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clayton, Eva M.", 
+    "state": "NC", 
+    "thomas_id": "00204", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1997-12-17", 
+  "subjects": [
+    "Armed forces abroad", 
+    "Armed forces and national security", 
+    "Army personnel", 
+    "Bosnia and Herzegovina", 
+    "Europe", 
+    "International affairs", 
+    "Military pay", 
+    "Military transportation", 
+    "Transportation and public works", 
+    "Travel costs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1997-11-13", 
+    "text": "Army Reserve-National Guard Equity Reimbursement Act - Authorizes the Secretary of the Army to reimburse individuals who, as members of the Army, were deployed to or from Europe during the period beginning on October 1, 1996, and ending on May 31, 1997, in support of operations in Bosnia for expenses incurred in the shipment of personal property if such shipment, if made on June 1, 1997, would otherwise have been covered by a temporary change of station weight allowance authorized by the Department of the Army."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Army Reserve-National Guard Equity Reimbursement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Army Reserve-National Guard Equity Reimbursement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Army Reserve-National Guard Equity Reimbursement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To authorize the reimbursement of members of the Army deployed to Europe in support of operations in Bosnia for certain out-of-pocket expenses incurred by the members during the period beginning on October 1, 1996, and ending on May 31, 1997.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:24-05:00"
+}

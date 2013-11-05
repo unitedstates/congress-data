@@ -1,0 +1,180 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-11-04", 
+      "committee": "House Committee on National Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on National Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-11-08T17:13:00-05:00", 
+      "references": [], 
+      "text": "Mrs. Fowler moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-08T17:14:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10406-10409", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-08T17:51:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "619", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 619).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-11-08T17:51:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-09", 
+      "references": [], 
+      "text": "Received in the Senate, read the first time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-10", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12495", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1997-11-10", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1997-11-12", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1997-11-20", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1997-11-20", 
+      "congress": "105", 
+      "law": "public", 
+      "number": "103", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 105-103.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2813-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House National Security", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "105", 
+    "law_type": "public", 
+    "number": "103"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1997-11-20", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1997-11-08T17:51:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1997-11-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-11-04", 
+  "number": "2813", 
+  "official_title": "To waive time limitations specified by law in order to allow the Medal of Honor to be awarded to Robert R. Ingram of Jacksonville, Florida, for acts of valor while a Navy Hospital Corpsman in the Republic of Vietnam during the Vietnam conflict.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1428-105", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Fowler, Tillie", 
+    "state": "FL", 
+    "thomas_id": "00404", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1997-11-20", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional Medal of Honor", 
+    "History", 
+    "Military medals, decorations, etc.", 
+    "Naval personnel", 
+    "Private legislation", 
+    "Vietnam veterans", 
+    "Vietnamese Conflict"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1997-11-04", 
+    "text": "Waives time limitations with respect to the awarding of the Medal of Honor to a named individual."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To waive time limitations specified by law in order to allow the Medal of Honor to be awarded to Robert R. Ingram of Jacksonville, Florida, for acts of valor while a Navy Hospital Corpsman in the Republic of Vietnam during the Vietnam conflict.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:24-05:00"
+}

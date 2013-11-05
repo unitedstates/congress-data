@@ -1,0 +1,454 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-02-04", 
+      "committee": "House Committee on Government Reform and Oversight", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform and Oversight.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-02-05", 
+      "in_committee": "House Committee on Government Reform and Oversight", 
+      "references": [], 
+      "subcommittee": "Postal Service", 
+      "text": "Referred to the Subcommittee on Postal Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-02-05T11:23:00-05:00", 
+      "references": [], 
+      "text": "Mr. McHugh moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-02-05T11:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H292-297", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-02-05T11:23:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-02-05T12:27:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "9", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 9).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-02-05T12:27:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-02-06", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-02-26", 
+      "references": [], 
+      "text": "Senate Committee on Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-02-26", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1650-1651", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1997-02-26", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1997-02-27", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-02-27", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1997-03-03", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1997-03-03", 
+      "congress": "105", 
+      "law": "public", 
+      "number": "4", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 105-4.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr499-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform and Oversight", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform and Oversight", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Postal Service", 
+      "subcommittee_id": "11"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Archer, Bill", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Bentsen, Ken", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00079", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Combest, Larry", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Edwards, Chet", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00335", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Henry B.", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00445", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Green, Gene", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Jackson-Lee, Sheila", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lampson, Nick", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01500", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "1997-02-04", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Paul, Ron", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "00900", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Sandlin, Max", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01523", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Sessions, Pete", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Turner, Jim", 
+      "sponsored_at": "1997-02-05", 
+      "state": "TX", 
+      "thomas_id": "01536", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "105", 
+    "law_type": "public", 
+    "number": "4"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1997-03-03", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1997-02-05T12:27:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1997-02-26", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-02-04", 
+  "number": "499", 
+  "official_title": "To designate the facility of the United States Postal Service under construction at 7411 Barlite Boulevard in San Antonio, Texas, as the \"Frank M. Tejeda Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "23", 
+    "name": "Bonilla, Henry", 
+    "state": "TX", 
+    "thomas_id": "00107", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1997-03-03", 
+  "subjects": [
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Government operations and politics", 
+    "Names", 
+    "Postal facilities", 
+    "Texas"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1997-02-04", 
+    "text": "Designates the U.S. Postal Service facility under construction at 7411 Barlite Boulevard in San Antonio, Texas, as the Frank M. Tejeda Post Office Building."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To designate the facility of the United States Postal Service under construction at 7411 Barlite Boulevard in San Antonio, Texas, as the \"Frank M. Tejeda Post Office Building\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:38:12-05:00"
+}

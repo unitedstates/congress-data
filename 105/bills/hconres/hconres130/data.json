@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-07-29", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-08-21", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "subcommittee": "Africa", 
+      "text": "Referred to the Subcommittee on Africa.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-10-01", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Africa", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-01", 
+      "in_committee": "House Committee on International Relations", 
+      "in_subcommittee": "Africa", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-08", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Executive Comment Requested from State.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-09", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-09", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1997-11-13T15:07:00-05:00", 
+      "references": [], 
+      "text": "Mr. Royce moved to suspend the rules and agree to the resolution, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13T15:07:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H10880-10882", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13T15:07:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13T15:15:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-11-13T15:15:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-13", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres130-105", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Africa", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "1997-10-09", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Menendez, Robert", 
+      "sponsored_at": "1997-10-08", 
+      "state": "NJ", 
+      "thomas_id": "00791", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Payne, Donald M.", 
+      "sponsored_at": "1997-10-08", 
+      "state": "NJ", 
+      "thomas_id": "00902", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "1997-10-08", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1997-11-13T15:15:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-07-29", 
+  "number": "130", 
+  "official_title": "Concerning the situation in Kenya.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "23", 
+    "name": "Hastings, Alcee L.", 
+    "state": "FL", 
+    "thomas_id": "00511", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1997-11-13T15:15:00-05:00", 
+  "subjects": [
+    "Africa (Sub-Saharan)", 
+    "Civil rights and liberties, minority issues", 
+    "Clergy", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "Crime and law enforcement", 
+    "Democracy", 
+    "Destruction of property", 
+    "Election law", 
+    "Foreign leaders", 
+    "Government operations and politics", 
+    "Human rights", 
+    "International affairs", 
+    "International cooperation", 
+    "Kenya", 
+    "Law", 
+    "Legislation", 
+    "Opposition (Political science)", 
+    "Peace", 
+    "Political persecution", 
+    "Political violence", 
+    "Public demonstrations", 
+    "Religion", 
+    "Violence"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1997-11-13", 
+    "text": "Recognizes those Kenyans who have demonstrated their love of peace, law, and order and condemns those who are inciting others to violence, looting, and destroying property. Urges: (1) an immediate cessation to the violence in Kenya; (2) the Government of Kenya to take all necessary and lawful steps to avoid more violence in the future; (3) rapid progress toward conducting free and fair elections; and (4) the U.S. Government and the international community to work with all parties to encourage the Kenyan Government to ensure a lasting and committed transition to democracy, including an immediate review of the propriety of the time of the next elections. Recognizes President Daniel Arap Moi's response to domestic and international pressure to allow meaningful constitutional and legal electoral process reform through the current package of legislation agreed to by the ruling party and the opposition party representatives. Calls for the prodemocracy movement to remain unified in working toward implementing constitutional, statutory, and administrative reforms."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Concerning the situation in Kenya.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:24-05:00"
+}

@@ -1,0 +1,281 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-03-04", 
+      "committee": "House Committee on Science", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-05-13", 
+      "in_committee": "House Committee on Science", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-05-13", 
+      "in_committee": "House Committee on Science", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1998-09-14T12:29:00-04:00", 
+      "references": [], 
+      "text": "Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-14T12:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7643-7646", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-14T12:29:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-14T12:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1998-09-14T12:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-14T12:39:00-04:00", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-15", 
+      "committee": "Committee on Commerce", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-10-08", 
+      "references": [], 
+      "text": "Senate Committee on Commerce discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12051-12052", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1998-10-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1998-10-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-20", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1998-10-28", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1998-10-28", 
+      "congress": "105", 
+      "law": "public", 
+      "number": "305", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 105-305.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3332-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Science", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "42", 
+      "name": "Brown, George E., Jr.", 
+      "sponsored_at": "1998-03-04", 
+      "state": "CA", 
+      "thomas_id": "00134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "105", 
+    "law_type": "public", 
+    "number": "305"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1998-10-28", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1998-09-14T12:39:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1998-10-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1998-03-04", 
+  "number": "3332", 
+  "official_title": "To amend the High-Performance Computing Act of 1991 to authorize appropriations for fiscal years 1999 and 2000 for the Next Generation Internet program, to require the Advisory Committee on High-Performance Computing and Communications, Information Technology, and the Next Generation Internet to monitor and give advice concerning the development and implementation of the Next Generation Internet program and report to the President and the Congress on its activities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1609-105", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Next Generation Internet Research Act of 1998", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Sensenbrenner,  James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1998-10-28", 
+  "subjects": [
+    "Authorization", 
+    "Black colleges", 
+    "Colleges", 
+    "Commerce", 
+    "Commercial arbitration", 
+    "Computer networks", 
+    "Computer security measures", 
+    "Computers and government", 
+    "Computers in education", 
+    "Congress", 
+    "Congressional reporting requirements", 
+    "Data banks", 
+    "Economic growth", 
+    "Economics and public finance", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Federal advisory bodies", 
+    "Federal aid to research", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Health", 
+    "Higher education", 
+    "Hispanic Americans", 
+    "Housing and community development", 
+    "Intellectual property", 
+    "Internet", 
+    "Law", 
+    "Legislation", 
+    "Liability (Law)", 
+    "Minorities", 
+    "Minority education", 
+    "Research and development", 
+    "Science, technology, communications", 
+    "Sparsely populated areas", 
+    "Standards", 
+    "Supercomputers", 
+    "Technological innovations", 
+    "Technology assessment", 
+    "Technology transfer", 
+    "Telecommunication rates", 
+    "Telemedicine", 
+    "Trademarks", 
+    "Web sites", 
+    "World Wide Web"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1998-09-14", 
+    "text": "Next Generation Internet Research Act of 1998 - Declares the purposes of this Act to be to: (1) authorize research programs related to high-end computing and computation, human-centered systems, high confidence systems, and education, training, and human resources; and (2) provide for the development and coordination of a comprehensive and integrated U.S. research program which will focus on a computer network infrastructure that promotes interoperability among advanced Federal computer networks, high-speed data access that is economical and that does not impose a geographic penalty, and flexible and extensible networking technology. Amends the High-Performance Computing Act of 1991 to include among its purposes: (1) promoting the more rapid development and wider distribution of networking management and development tools; and (2) promoting the rapid adoption of open network standards. Directs that the National High-Performance Computing Program provide for: (1) the development of technologies to advance Internet capacity and capabilities; and (2) high-performance testbed networks to enable the research, development, and demonstration of advanced networking technologies and to develop and demonstrate advanced applications. Authorizes the National Science Foundation, the Department of Energy, the National Institutes of Health, the National Aeronautics and Space Administration, and the National Institute of Standards and Technology (the supporting agencies) to support the Next Generation Internet Program (Program). Includes among Program objectives: (1) increasing Internet capabilities and improving Internet performance; (2) developing an advanced testbed network connecting research sites; and (3) developing advanced Internet applications that meet national goals and agency mission needs. Directs the President's Information Technology Advisory Committee to assess the extent to which: (1) the Program carries out the purposes of this Act and addresses concerns relating to geographic penalties (costs imposed on Internet users in rural or other locations that are greater than those imposed on users in large population areas or areas closer to network facilities), technology transfer to and from the private sector, and the adequacy of Internet access by historically Black colleges and universities, Hispanic serving institutions, and small colleges and universities; (2) the roles of Federal departments and agencies involved in implementing the Program are clear, complementary, and non-duplicative; and (3) Federal support in fundamental research in computing is sufficient to maintain U.S. leadership in the field. Requires the Advisory Committee to assess Program implementation and report on its findings and recommendations at least annually to the President and specified congressional committees. Authorizes appropriations to the supporting agencies for FY 1999 and 2000 for the Program. Directs the Secretary of Commerce to request the National Research Council of the National Academy of Sciences to conduct a comprehensive study of specified matters relating to the short and long term effects on trademark rights of adding new generic top-level domains and related dispute resolution procedures, including: (1) trademark rights clearance processes for domain names; (2) domain name trademark rights dispute resolution; (3) infringement liability for registrars or technical management bodies; and (4) technical and policy options for Internet addressing schemes. Requires: (1) an interim and final report from the Council to the Secretary; and (2) the submission of such reports to specified congressional committees. Authorizes appropriations for the study."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Next Generation Internet Research Act of 1998", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Next Generation Internet Research Act of 1998", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Next Generation Internet Research Act of 1998", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the High-Performance Computing Act of 1991 to authorize appropriations for fiscal years 1999 and 2000 for the Next Generation Internet program, to require the Advisory Committee on High-Performance Computing and Communications, Information Technology, and the Next Generation Internet to monitor and give advice concerning the development and implementation of the Next Generation Internet program and report to the President and the Congress on its activities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:39:39-05:00"
+}

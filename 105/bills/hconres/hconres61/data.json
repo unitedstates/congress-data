@@ -1,0 +1,226 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-04-15", 
+      "committee": "House Committee on Government Reform and Oversight", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Government Reform and Oversight.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-04-15", 
+      "in_committee": "House Committee on Government Reform and Oversight", 
+      "references": [], 
+      "subcommittee": "Civil Service", 
+      "text": "Referred to the Subcommittee on Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-04-16T14:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Horn moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-04-16T14:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H1576-1580, H1582", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-04-16T14:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-04-16T14:47:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-04-16T15:13:00-04:00", 
+      "references": [], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-04-16T15:22:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "81", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 81).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-04-16T15:22:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-04-17", 
+      "committee": "Committee on Commerce", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-05-01", 
+      "references": [], 
+      "text": "Senate Committee on Commerce discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-05-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3929", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1997-05-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres61-105", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform and Oversight", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Government Reform and Oversight", 
+      "committee_id": "HSGO", 
+      "subcommittee": "Subcommittee on Civil Service", 
+      "subcommittee_id": "09"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Bunning, Jim", 
+      "sponsored_at": "1997-04-15", 
+      "state": "KY", 
+      "thomas_id": "00146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Largent, Steve", 
+      "sponsored_at": "1997-04-15", 
+      "state": "OK", 
+      "thomas_id": "00664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1997-04-16T15:22:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1997-05-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-04-15", 
+  "number": "61", 
+  "official_title": "Honoring the lifetime achievements of Jackie Robinson.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres23-105", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Watts, J. C., Jr.", 
+    "state": "OK", 
+    "thomas_id": "01208", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1997-05-01", 
+  "subjects": [
+    "Anniversaries", 
+    "Bankers", 
+    "Baseball", 
+    "Black athletes", 
+    "Black businesses", 
+    "Civil rights and liberties, minority issues", 
+    "Civil rights movements", 
+    "Civil rights workers", 
+    "Commemorations", 
+    "Commerce", 
+    "Congress", 
+    "Congressional tributes", 
+    "Finance and financial sector", 
+    "Foundations", 
+    "Minorities", 
+    "New York City", 
+    "Professional sports", 
+    "Segregation", 
+    "Social welfare", 
+    "Sports and recreation"
+  ], 
+  "subjects_top_term": "Commemorations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1997-04-15", 
+    "text": "Honors the achievements and contributions of Jackie Robinson."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Honoring the lifetime achievements of Jackie Robinson.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:22-05:00"
+}

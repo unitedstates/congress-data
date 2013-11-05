@@ -1,0 +1,655 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-05-07", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-05-12T14:44:00-04:00", 
+      "references": [], 
+      "text": "Mr. Hastert moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-05-12T14:46:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3036-3040", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-05-12T14:46:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-05-12T15:23:00-04:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-05-12T17:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3065", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-05-12T18:13:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "138", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 2 (Roll No. 138).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1998-05-12T18:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres423-105", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Aderholt, Robert B.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "AL", 
+      "thomas_id": "01460", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Armey, Richard K.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "TX", 
+      "thomas_id": "00028", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Barr, Bob", 
+      "sponsored_at": "1998-05-07", 
+      "state": "GA", 
+      "thomas_id": "00056", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "sponsored_at": "1998-05-07", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "1998-05-07", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Boehner, John A.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "OH", 
+      "thomas_id": "00102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bonilla, Henry", 
+      "sponsored_at": "1998-05-07", 
+      "state": "TX", 
+      "thomas_id": "00107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bono Mack, Mary", 
+      "sponsored_at": "1998-05-07", 
+      "state": "CA", 
+      "thomas_id": "01465", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Burr, Richard", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Collins, Mac", 
+      "sponsored_at": "1998-05-07", 
+      "state": "GA", 
+      "thomas_id": "00222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "DeLay, Tom", 
+      "sponsored_at": "1998-05-07", 
+      "state": "TX", 
+      "thomas_id": "00282", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Doolittle, John T.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "CA", 
+      "thomas_id": "00307", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "1998-05-07", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ensign, John", 
+      "sponsored_at": "1998-05-11", 
+      "state": "NV", 
+      "thomas_id": "00348", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ewing, Thomas W.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "IL", 
+      "thomas_id": "00366", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Forbes, Michael P.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NY", 
+      "thomas_id": "00398", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "1998-05-07", 
+      "state": "FL", 
+      "thomas_id": "00404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Franks, Bob", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NJ", 
+      "thomas_id": "00409", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "1998-05-12", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gingrich, Newt", 
+      "sponsored_at": "1998-05-07", 
+      "state": "GA", 
+      "thomas_id": "00441", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Goodling, William F.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "PA", 
+      "thomas_id": "00447", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hayworth, J. D.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "AZ", 
+      "thomas_id": "00520", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "1998-05-12", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hutchinson, Asa", 
+      "sponsored_at": "1998-05-07", 
+      "state": "AR", 
+      "thomas_id": "01493", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "LaHood, Ray", 
+      "sponsored_at": "1998-05-07", 
+      "state": "IL", 
+      "thomas_id": "00659", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Lewis, Ron", 
+      "sponsored_at": "1998-05-07", 
+      "state": "KY", 
+      "thomas_id": "00689", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Linder, John", 
+      "sponsored_at": "1998-05-07", 
+      "state": "GA", 
+      "thomas_id": "00693", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "1998-05-07", 
+      "state": "FL", 
+      "thomas_id": "00761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "McKeon, Howard P. \"Buck\"", 
+      "sponsored_at": "1998-05-12", 
+      "state": "CA", 
+      "thomas_id": "00778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Dan", 
+      "sponsored_at": "1998-05-11", 
+      "state": "FL", 
+      "thomas_id": "00807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "1998-05-11", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Nethercutt, George R., Jr.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "WA", 
+      "thomas_id": "00860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Northup, Anne M.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "KY", 
+      "thomas_id": "01508", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Pappas, Michael", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NJ", 
+      "thomas_id": "01509", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Pease, Edward A.", 
+      "sponsored_at": "1998-05-11", 
+      "state": "IN", 
+      "thomas_id": "01511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Porter, John Edward", 
+      "sponsored_at": "1998-05-07", 
+      "state": "IL", 
+      "thomas_id": "00923", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Portman, Rob", 
+      "sponsored_at": "1998-05-07", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Pryce, Deborah", 
+      "sponsored_at": "1998-05-07", 
+      "state": "OH", 
+      "thomas_id": "00933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "1998-05-07", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Shadegg, John B.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "AZ", 
+      "thomas_id": "01043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Snowbarger, Vince", 
+      "sponsored_at": "1998-05-07", 
+      "state": "KS", 
+      "thomas_id": "01529", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Solomon, Gerald B. H.", 
+      "sponsored_at": "1998-05-11", 
+      "state": "NY", 
+      "thomas_id": "01088", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Souder, Mark E.", 
+      "sponsored_at": "1998-05-12", 
+      "state": "IN", 
+      "thomas_id": "01089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wamp, Zach", 
+      "sponsored_at": "1998-05-07", 
+      "state": "TN", 
+      "thomas_id": "01199", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "1998-05-07", 
+      "state": "OK", 
+      "thomas_id": "01206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Weller, Jerry", 
+      "sponsored_at": "1998-05-07", 
+      "state": "IL", 
+      "thomas_id": "01216", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "1998-05-07", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "1998-05-11", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1998-05-12T18:13:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1998-05-07", 
+  "number": "423", 
+  "official_title": "Expressing the sense of the House with respect to winning the war on drugs to protect our children.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "14", 
+    "name": "Hastert, J. Dennis", 
+    "state": "IL", 
+    "thomas_id": "00510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "1998-05-12T18:13:00-04:00", 
+  "subjects": [
+    "Athletes", 
+    "Church and social problems", 
+    "Community organization", 
+    "Congress", 
+    "Crime and law enforcement", 
+    "Drug abuse", 
+    "Drug abuse prevention", 
+    "Drug addiction", 
+    "Drug law enforcement", 
+    "Drug traffic", 
+    "Drugs and youth", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Families", 
+    "Government operations and politics", 
+    "Law enforcement officers", 
+    "Legislation", 
+    "Local officials", 
+    "Members of Congress (House)", 
+    "Parent and child", 
+    "Religion", 
+    "Sports and recreation", 
+    "Teachers", 
+    "Urban affairs", 
+    "Violence"
+  ], 
+  "subjects_top_term": "Drug abuse", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1998-05-07", 
+    "text": "Declares the commitment of the House of Representatives to create a drug-free America. Urges House Members to work personally to mobilize kids, parents, faith-based and community organizations, educators, local officials, law enforcement officers, coaches, and athletes to wage a winning war on drugs. Pledges to pass legislation that provides the weapons and tools necessary to protect children and communities from the dangers of drug addiction and violence. Declares that the United States will fight this war on three major battlefronts: deterring demand; stopping supply; and increasing accountability."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Expressing the sense of the House with respect to winning the war on drugs to protect our children.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:37:52-05:00"
+}

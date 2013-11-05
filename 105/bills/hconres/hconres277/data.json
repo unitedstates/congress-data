@@ -1,0 +1,278 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-05-14", 
+      "committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on International Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-07-21", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-07-21", 
+      "in_committee": "House Committee on International Relations", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1998-09-09T14:06:00-04:00", 
+      "references": [], 
+      "text": "Mr. Gilman moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-09T14:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7457-7459", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-09T14:06:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-09T14:13:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1998-09-09T14:13:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-10", 
+      "committee": "Committee on Foreign Relations", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-10-21", 
+      "references": [], 
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-21", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12947", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1998-10-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres277-105", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House International Relations", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "sponsored_at": "1998-05-14", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "1998-05-14", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "1998-05-22", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "1998-05-14", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1998-05-14", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hutchinson, Asa", 
+      "sponsored_at": "1998-05-22", 
+      "state": "AR", 
+      "thomas_id": "01493", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "1998-05-14", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "sponsored_at": "1998-05-14", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Sherman, Brad", 
+      "sponsored_at": "1998-07-22", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "1998-05-22", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1998-09-09T14:13:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1998-10-21", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1998-05-14", 
+  "number": "277", 
+  "official_title": "Concerning the New Tribes Mission hostage crisis.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blunt, Roy", 
+    "state": "MO", 
+    "thomas_id": "01464", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1998-10-21", 
+  "subjects": [
+    "Americans in foreign countries", 
+    "Churches", 
+    "Civil rights and liberties, minority issues", 
+    "Colombia", 
+    "Crime and law enforcement", 
+    "Criminal investigation", 
+    "Evidence (Law)", 
+    "Hostages", 
+    "Human rights", 
+    "Informers", 
+    "International affairs", 
+    "Kidnapping", 
+    "Latin America", 
+    "Law", 
+    "Missionaries", 
+    "Nongovernmental organizations", 
+    "Panama", 
+    "Religion", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1998-05-14", 
+    "text": "Expresses the sense of the Congress that: (1) the President and his emissaries should raise the kidnapping of Mark Rich, David Mankins, and Rick Tenenoff of the New Tribes Mission and other American victims in Colombia to all relevant foreign governments, nongovernmental organizations, and religious institutions at every opportunity until a favorable outcome is achieved; (2) the international community should encourage groups believed to have information on this case to come forward; and (3) all appropriate information obtained should be turned over in a timely basis to the New Tribes Mission crisis response team."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Concerning the New Tribes Mission hostage crisis.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:28-05:00"
+}

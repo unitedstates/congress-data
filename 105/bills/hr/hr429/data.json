@@ -1,0 +1,242 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-01-09", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-01-28", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-05-13", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Immigration and Claims", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Immigration and Claims", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-06", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Immigration and Claims", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-29", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-10-29", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1998-02-03T14:32:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 105-410.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-02-03T14:32:00-05:00", 
+      "calendar": "Union", 
+      "number": "237", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 237.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1998-02-24T14:19:00-05:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-02-24T14:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H510-512", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-02-24T14:20:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-02-24T14:33:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1998-02-24T14:33:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-02-25", 
+      "committee": "Committee on Judiciary", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-05-15", 
+      "in_committee": "Committee on Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration", 
+      "text": "Referred to Subcommittee on Immigration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr429-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU", 
+      "subcommittee": "Subcommittee on Immigration", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1998-02-24T14:33:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-01-09", 
+  "number": "429", 
+  "official_title": "To amend the Immigration and Nationality Act to provide for special immigrant status for NATO civilian employees in the same manner as for employees of international organizations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "NATO Special Immigrant Amendments of 1998", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Pickett, Owen B.", 
+    "state": "VA", 
+    "thomas_id": "00916", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1998-02-24T14:33:00-05:00", 
+  "subjects": [
+    "Aliens", 
+    "Armed forces and national security", 
+    "Collective security agreements", 
+    "Government operations and politics", 
+    "Immigrants", 
+    "Immigration", 
+    "International affairs", 
+    "International agencies", 
+    "International employees", 
+    "NATO countries", 
+    "NATO military forces", 
+    "Visas"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1998-02-24", 
+    "text": "NATO Special Immigrant Amendments of 1998 - Amends the Immigration and Nationality Act to provide special immigrant status for certain North Atlantic Treaty Organization civilian employees and their dependents."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "NATO Special Immigrant Amendments of 1997", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "NATO Special Immigrant Amendments of 1997", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "NATO Special Immigrant Amendments of 1998", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend the Immigration and Nationality Act to provide for special immigrant status for NATO civilian employees in the same manner as for employees of international organizations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:38:10-05:00"
+}

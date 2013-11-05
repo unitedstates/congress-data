@@ -1,0 +1,211 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-10-01", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-10-01", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration and Claims", 
+      "text": "Referred to the Subcommittee on Immigration and Claims.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-10-01T17:25:00-04:00", 
+      "references": [], 
+      "text": "Committee on Judiciary discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-01T17:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H9204", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-01T17:25:00-04:00", 
+      "references": [], 
+      "text": "Mr. Smith (TX) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-01T17:26:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1998-10-01T17:26:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-01", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-08", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S12056", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1998-10-08", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1998-10-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-10-14", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1998-10-15", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1998-10-15", 
+      "congress": "105", 
+      "law": "public", 
+      "number": "259", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 105-259.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4658-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Claims", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "105", 
+    "law_type": "public", 
+    "number": "259"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1998-10-15", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1998-10-01T17:26:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1998-10-08", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1998-10-01", 
+  "number": "4658", 
+  "official_title": "To extend the date by which an automated entry-exit control system must be developed.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2540-105", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s2540-105", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1998-10-15", 
+  "subjects": [
+    "Admission of nonimmigrants", 
+    "Aliens", 
+    "Boundaries", 
+    "Commerce", 
+    "Computer matching", 
+    "Computers and government", 
+    "Data banks", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Identification devices", 
+    "Immigration", 
+    "International affairs", 
+    "Science, technology, communications", 
+    "Tourism"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1998-10-01", 
+    "text": "Amends the Omnibus Appropriations Act, 1997 to extend until October 15, 1998, the deadline for the Attorney General to develop an automated entry and exit control system (that will collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States and enable the Attorney General to identify lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To extend the date by which an automated entry-exit control system must be developed.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:16-05:00"
+}

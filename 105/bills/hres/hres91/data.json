@@ -1,0 +1,251 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-03-11", 
+      "committee": "House Committee on House Oversight", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Oversight.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-03-12", 
+      "in_committee": "House Committee on House Oversight", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-12", 
+      "in_committee": "House Committee on House Oversight", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1997-03-17T20:20:00-05:00", 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on House Oversight. H. Rept. 105-30. Filed late, pursuant to previous special order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-17T20:20:00-05:00", 
+      "calendar": "House", 
+      "number": "9", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 9.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1997-03-19T21:51:00-05:00", 
+      "bill_ids": [
+        "hres101-105"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 101 Reported to House. Rule provides for consideration of H. Res. 91 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The measure will be considered in the House and the amendment in the nature of a substitute recommended by the Committee on House Oversight now printed in the resolution shall be considered as adopted. Measure will be considered read. Specified amendments are in order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-20T18:25:00-05:00", 
+      "bill_ids": [
+        "hres101-105"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 101 failed passage of House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-20T23:53:00-05:00", 
+      "bill_ids": [
+        "hres105-105"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 105 Reported to House. Rule provides for consideration of H. Res. 91 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T11:53:00-05:00", 
+      "bill_ids": [
+        "hres105-105"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 105 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T11:53:00-05:00", 
+      "bill_ids": [
+        "hres101-105"
+      ], 
+      "references": [
+        {
+          "reference": "CR H1273-1279", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 101.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T11:53:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H. Res. 91 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The measure will be considered in the House and the amendment in the nature of a substitute recommended by the Committee on House Oversight now printed in the resolution shall be considered as adopted. Measure will be considered read. Specified amendments are in order.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T11:54:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T12:34:00-05:00", 
+      "references": [], 
+      "text": "Mr. Gejdenson moved to recommit with instructions to House Oversight.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T12:34:00-05:00", 
+      "references": [], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T12:55:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1279", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 176 - 214 (Roll no. 70).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-03-21T13:04:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "71", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by recorded vote: 213 - 179 (Roll No. 71).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-03-21T13:04:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h20-105", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "20"
+    }
+  ], 
+  "bill_id": "hres91-105", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Oversight", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1997-03-21T13:04:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-03-11", 
+  "number": "91", 
+  "official_title": "Providing amounts for the expenses of certain committees of the House of Representatives in the One Hundred Fifth Congress.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres101-105", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "hres105-105", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "21", 
+    "name": "Thomas, William M.", 
+    "state": "CA", 
+    "thomas_id": "01148", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "1997-03-21T13:04:00-05:00", 
+  "subjects": [
+    "Appropriations", 
+    "Congress", 
+    "Congressional committee staffing", 
+    "Congressional committees (House)", 
+    "Congressional employees", 
+    "Deficit reduction", 
+    "Economics and public finance", 
+    "Employee training", 
+    "Federal budgets", 
+    "Government consultants", 
+    "Government operations and politics", 
+    "Government spending reductions", 
+    "House Agriculture", 
+    "House Banking and Financial Services", 
+    "House Budget", 
+    "House Commerce", 
+    "House Education and the Workforce", 
+    "House Government Reform and Oversight", 
+    "House Intelligence", 
+    "House International Relations", 
+    "House Judiciary", 
+    "House National Security", 
+    "House Oversight", 
+    "House Resources", 
+    "House Rules", 
+    "House Science", 
+    "House Small Business", 
+    "House Standards of Official Conduct", 
+    "House Transportation and Infrastructure", 
+    "House Veterans' Affairs", 
+    "House Ways and Means", 
+    "Labor and employment", 
+    "Salaries"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1997-03-21", 
+    "text": "Makes necessary amounts available for continuing expenses of standing and select committees of the House of Representatives (other than the Committee on Government Reform and Oversight) for the period of April 1, 1997, through May 2, 1997, on the same terms and conditions as amounts were available to such committees for the period of January 3, 1997, through March 31, 1997. Makes a specified amount available for expenses of the House Committee on Government Reform and Oversight, including the expenses of staff salaries, for the 105th Congress. Sets forth first and second session limitations. Establishes a reserve fund for unanticipated expenses of committees for the 105th Congress to be paid to them pursuant to allocations approved by the Committee on House Oversight. Grants such Committee the authority to make adjustments in the amount made available for the Committee on Government Reform and Oversight if necessary to comply with a presidential sequestration order or to conform to any reduction in appropriations with respect to the other standing and select committees. Provides that any net increase in the aggregate amount of committees expenses for the 105th Congress over the aggregate amount of funds appropriated for such expenses for the 104th Congress shall be offset by reductions in expenses for other legislative branch activities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Providing amounts for the expenses of certain committees of the House of Representatives in the One Hundred Fifth Congress.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:37:44-05:00"
+}

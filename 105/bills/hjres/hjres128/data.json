@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "1998-09-16", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1998-09-16T21:57:00-04:00", 
+      "bill_ids": [
+        "hres541-105"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 541 Reported to House. Rule provides for consideration of H.J. Res. 128 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17T10:46:00-04:00", 
+      "bill_ids": [
+        "hres541-105"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 541 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17T10:47:00-04:00", 
+      "bill_ids": [
+        "hres541-105"
+      ], 
+      "references": [
+        {
+          "reference": "CR H7931-7937", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 541.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17T10:47:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 128 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17T10:47:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17T11:25:00-04:00", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17T11:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "445", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 421 - 0 (Roll No. 445).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1998-09-17T11:46:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-17", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S10499-10500", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1998-09-17", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1998-09-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1998-09-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1998-09-25", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1998-09-25", 
+      "congress": "105", 
+      "law": "public", 
+      "number": "240", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 105-240.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres128-105", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "105", 
+    "law_type": "public", 
+    "number": "240"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1998-09-25", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1998-09-17T11:46:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1998-09-17", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1998-09-16", 
+  "number": "128", 
+  "official_title": "Making continuing appropriations for the fiscal year 1999, and for other purposes.", 
+  "popular_title": "Continuing Appropriation FY99 (First)", 
+  "related_bills": [
+    {
+      "bill_id": "hres541-105", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Livingston, Bob", 
+    "state": "LA", 
+    "thomas_id": "00696", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1998-09-25", 
+  "subjects": [
+    "Administrative fees", 
+    "Appropriations", 
+    "Armed forces and national security", 
+    "Census", 
+    "Commerce", 
+    "Computers and government", 
+    "Congress", 
+    "Continuing resolutions", 
+    "Defense budgets", 
+    "Defense procurement", 
+    "Economics and public finance", 
+    "Emergency management", 
+    "Federally-guaranteed loans", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Flood insurance", 
+    "Government lending", 
+    "Government operations and politics", 
+    "Intellectual property", 
+    "Mining claims", 
+    "Patents", 
+    "Public lands and natural resources", 
+    "Science, technology, communications", 
+    "Water resources development", 
+    "Year 2000 computer problem"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1998-09-16", 
+    "text": "Makes appropriations for FY 1999 for continuing projects or activities, including the costs of direct loans and loan guarantees, which were conducted in FY 1998 and for which appropriations, funds, or other authority would be available in: (1) the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999; (2) the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999; (3) the Department of Defense Appropriations Act, 1999; (4) the District of Columbia Appropriations Act, 1999; (5) the Energy and Water Development Appropriations Act, 1999; (6) the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999; (7) the Department of the Interior and Related Agencies Appropriations Act, 1999; (8) the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1999; (9) the Legislative Branch Appropriations Act, 1999; (10) the Department of Transportation and Related Agencies Appropriations Act, 1999; (11) the Treasury and General Government Appropriations Act, 1999; and (12) the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999. Sets forth the rates of (current rates, with specified exceptions), and limitations on, such funding. Provides funding under this resolution until enactment into law of any covered appropriation or the applicable appropriations Act (without any provision for the covered appropriation) or October 9, 1998, whichever occurs first. Continues certain activities authorized by the National Flood Insurance Act of 1968 through the date for which funding is provided under this resolution. Amends Federal law to extend provisions regarding claim maintenance fees to be paid by holders of unpatented mining claims, mills, or tunnel sites and location fees to be paid by locators. Continues the time for locating such claims, mills, or tunnel sites through the date for which funding is provided under this resolution. Requires the amounts charged for patent fees through the date for which funding is provided under this resolution to be the amounts charged by the Patent and Trademark Office on September 30, 1998. Authorizes, until 30 days after the date for which funding is provided under this resolution, the use of funds to initiate or resume projects or activities at a rate exceeding the current rate to achieve Year 2000 (Y2K) computer conversion."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Continuing Appropriation FY99 (First)", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making continuing appropriations for the fiscal year 1999, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:45-05:00"
+}

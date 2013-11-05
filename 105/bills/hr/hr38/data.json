@@ -1,0 +1,584 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-01-07", 
+      "committee": "House Committee on National Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on National Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-02-03", 
+      "in_committee": "House Committee on National Security", 
+      "references": [], 
+      "subcommittee": "Military Personnel", 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1997-02-03", 
+      "in_committee": "House Committee on National Security", 
+      "references": [], 
+      "text": "Executive Comment Requested from DOD.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-11-18", 
+      "bill_ids": [
+        "hr1119-105"
+      ], 
+      "in_committee": "House Committee on National Security", 
+      "references": [], 
+      "text": "See H.R.1119.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr38-105", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House National Security", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House National Security", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "105", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Andrews, Robert E.", 
+      "sponsored_at": "1997-07-11", 
+      "state": "NJ", 
+      "thomas_id": "00021", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Barcia, James A.", 
+      "sponsored_at": "1997-03-11", 
+      "state": "MI", 
+      "thomas_id": "00052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "49", 
+      "name": "Bilbray, Brian P.", 
+      "sponsored_at": "1997-06-03", 
+      "state": "CA", 
+      "thomas_id": "00087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1997-03-11", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "1997-02-04", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clement, Bob", 
+      "sponsored_at": "1997-06-03", 
+      "state": "TN", 
+      "thomas_id": "00205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Collins, Mac", 
+      "sponsored_at": "1997-11-06", 
+      "state": "GA", 
+      "thomas_id": "00222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "sponsored_at": "1997-07-11", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Davis, Thomas M.", 
+      "sponsored_at": "1997-02-13", 
+      "state": "VA", 
+      "thomas_id": "00274", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "DeLauro, Rosa L.", 
+      "sponsored_at": "1997-05-06", 
+      "state": "CT", 
+      "thomas_id": "00281", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Deutsch, Peter", 
+      "sponsored_at": "1997-04-15", 
+      "state": "FL", 
+      "thomas_id": "00291", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "1997-02-13", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "English, Phil", 
+      "sponsored_at": "1997-02-04", 
+      "state": "PA", 
+      "thomas_id": "00347", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Farr, Sam", 
+      "sponsored_at": "1997-02-26", 
+      "state": "CA", 
+      "thomas_id": "00368", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "1997-02-26", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fox, Jon D.", 
+      "sponsored_at": "1997-07-17", 
+      "state": "PA", 
+      "thomas_id": "00406", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1997-02-04", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Gallegly, Elton", 
+      "sponsored_at": "1997-04-15", 
+      "state": "CA", 
+      "thomas_id": "00425", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Henry B.", 
+      "sponsored_at": "1997-02-13", 
+      "state": "TX", 
+      "thomas_id": "00445", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "1997-10-24", 
+      "state": "FL", 
+      "thomas_id": "00450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "1997-03-19", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hefley, Joel", 
+      "sponsored_at": "1997-09-25", 
+      "state": "CO", 
+      "thomas_id": "00524", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hefner, W. G. (Bill)", 
+      "sponsored_at": "1997-04-15", 
+      "state": "NC", 
+      "thomas_id": "00525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Hinchey, Maurice D.", 
+      "sponsored_at": "1997-02-04", 
+      "state": "NY", 
+      "thomas_id": "00541", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "1997-03-05", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Lampson, Nick", 
+      "sponsored_at": "1997-04-15", 
+      "state": "TX", 
+      "thomas_id": "01500", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Lucas, Frank D.", 
+      "sponsored_at": "1997-06-12", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Manton, Thomas J.", 
+      "sponsored_at": "1997-02-26", 
+      "state": "NY", 
+      "thomas_id": "00732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McIntyre, Mike", 
+      "sponsored_at": "1997-07-11", 
+      "state": "NC", 
+      "thomas_id": "01505", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "1997-02-26", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "sponsored_at": "1997-05-06", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "1997-06-26", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "1997-05-06", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Norwood, Charles W.", 
+      "sponsored_at": "1997-01-07", 
+      "state": "GA", 
+      "thomas_id": "00869", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "sponsored_at": "1997-04-24", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Parker, Mike", 
+      "sponsored_at": "1997-03-05", 
+      "state": "MS", 
+      "thomas_id": "00889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pascrell, Bill, Jr.", 
+      "sponsored_at": "1997-05-06", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pastor, Ed", 
+      "sponsored_at": "1997-02-26", 
+      "state": "AZ", 
+      "thomas_id": "00893", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "sponsored_at": "1997-06-26", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Reyes, Silvestre", 
+      "sponsored_at": "1997-09-04", 
+      "state": "TX", 
+      "thomas_id": "01516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "1997-02-04", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schiff, Steven", 
+      "sponsored_at": "1997-03-05", 
+      "state": "NM", 
+      "thomas_id": "01030", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "1997-02-04", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "1997-02-13", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "1997-07-31", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Stupak, Bart", 
+      "sponsored_at": "1997-04-24", 
+      "state": "MI", 
+      "thomas_id": "01123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "1997-07-11", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Underwood, Robert A.", 
+      "sponsored_at": "1997-02-04", 
+      "state": "GU", 
+      "thomas_id": "01175", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Watts, J. C., Jr.", 
+      "sponsored_at": "1997-02-04", 
+      "state": "OK", 
+      "thomas_id": "01208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "1997-02-26", 
+      "state": "FL", 
+      "thomas_id": "01215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wise, Robert E., Jr.", 
+      "sponsored_at": "1997-05-06", 
+      "state": "WV", 
+      "thomas_id": "01237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Wynn, Albert Russell", 
+      "sponsored_at": "1997-03-05", 
+      "state": "MD", 
+      "thomas_id": "01251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-01-07", 
+  "number": "38", 
+  "official_title": "To provide a minimum survivor annuity for the unremarried surviving spouses of retired members of the Armed Forces who died before having an opportunity to participate in the Survivor Benefit Plan.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1119-105", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Bilirakis, Michael", 
+    "state": "FL", 
+    "thomas_id": "00089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1997-01-07", 
+  "subjects": [
+    "Annuities", 
+    "Armed forces and national security", 
+    "Families", 
+    "Labor and employment", 
+    "Married people", 
+    "Military dependents", 
+    "Military pay", 
+    "Military pensions", 
+    "Survivors' benefits", 
+    "Veterans' benefits", 
+    "Veterans' pensions"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1997-01-07", 
+    "text": "Directs the Secretary of the military department concerned to pay an annuity to the qualified surviving spouse of any member of the armed forces who: (1) died before March 21, 1974, and was entitled to retired or retainer pay on the date of death; or (2) was a member of the reserves, died during the period beginning on September 21, 1972, and ending on October 1, 1978, and at the time of death would have been entitled to retired or retainer pay but for the fact that the member was under 60 years of age. Defines a qualified surviving spouse as one who has not remarried and who is not eligible for an annuity under the Survivor Benefit Plan. Provides the annuity amount and reduces such amount by the amount of any dependency and indemnity compensation to which the survivor is entitled."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To provide a minimum survivor annuity for the unremarried surviving spouses of retired members of the Armed Forces who died before having an opportunity to participate in the Survivor Benefit Plan.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:37:59-05:00"
+}

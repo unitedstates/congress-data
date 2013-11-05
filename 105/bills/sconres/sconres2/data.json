@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "1997-01-07", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-01-07", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1997-01-07T17:05:00-05:00", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-01-07T17:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H29", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1997-01-07T17:31:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1997-01-07T17:31:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres2-105", 
+  "bill_type": "sconres", 
+  "committees": [], 
+  "congress": "105", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1997-01-07T17:31:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1997-01-07", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1997-01-07", 
+  "number": "2", 
+  "official_title": "A concurrent resolution to extend the life of the Joint Congressional Committee on Inaugural Ceremonies and the provisions of S.Con.Res.48.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres21-105", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Lott, Trent", 
+    "state": "MS", 
+    "thomas_id": "00707", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1997-01-07T17:31:00-05:00", 
+  "subjects": [
+    "Capitol (Washington, D.C.)", 
+    "Congress", 
+    "Congressional joint committees", 
+    "Government operations and politics", 
+    "Presidential inaugurations"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1997-01-07", 
+    "text": "Provides that effective January 3, 1997, the Joint Committee on Inaugural Ceremonies, created by S. Con. Res. 47 of the 104th Congress, and the provisions of S. Con. Res. 48, to authorize the rotunda of the Capitol to be used in connection with inaugural proceedings and ceremonies, are continued with the same power and authority."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution to extend the life of the Joint Congressional Committee on Inaugural Ceremonies and the provisions of S.Con.Res.48.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:40:38-05:00"
+}
