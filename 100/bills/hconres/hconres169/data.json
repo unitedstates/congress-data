@@ -1,0 +1,781 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-07-29", 
+      "committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-07-29", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-08-03", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "subcommittee": "Immigration, Refugees, and International Law", 
+      "text": "Referred to Subcommittee on Immigration, Refugees, and International Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-08-11", 
+      "in_committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "subcommittee": "International Operations", 
+      "text": "Referred to Subcommittee on International Operations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-08-11", 
+      "in_committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "subcommittee": "Europe and the Middle East", 
+      "text": "Referred to Subcommittee on Europe and the Middle East.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-08-11", 
+      "in_committee": "House Committee on Foreign Affairs", 
+      "references": [], 
+      "subcommittee": "Asian and Pacific Affairs", 
+      "text": "Referred to Subcommittee on Asian and Pacific Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres169-100", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on International Operations", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Europe and the Middle East", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Asian and Pacific Affairs", 
+      "subcommittee_id": "05"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration, Refugees, and International Law", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": "40", 
+      "name": "Badham, Robert E.", 
+      "sponsored_at": "1987-10-29", 
+      "state": "CA", 
+      "thomas_id": "00039", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bentley, Helen Delich", 
+      "sponsored_at": "1987-12-03", 
+      "state": "MD", 
+      "thomas_id": "00078", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1988-04-19", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "1988-03-10", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Burton, Dan", 
+      "sponsored_at": "1987-10-13", 
+      "state": "IN", 
+      "thomas_id": "00154", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bustamante, Albert G.", 
+      "sponsored_at": "1987-10-21", 
+      "state": "TX", 
+      "thomas_id": "00158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Byron, Beverly B.", 
+      "sponsored_at": "1988-02-16", 
+      "state": "MD", 
+      "thomas_id": "00162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "1987-10-21", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Courter, Jim", 
+      "sponsored_at": "1987-12-03", 
+      "state": "NJ", 
+      "thomas_id": "00241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Daub, Hal", 
+      "sponsored_at": "1988-04-13", 
+      "state": "NE", 
+      "thomas_id": "00268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Davis, Jack", 
+      "sponsored_at": "1988-04-19", 
+      "state": "IL", 
+      "thomas_id": "00270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "de Lugo, Ron", 
+      "sponsored_at": "1987-10-13", 
+      "state": "VI", 
+      "thomas_id": "00275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "DeWine, Mike", 
+      "sponsored_at": "1988-02-16", 
+      "state": "OH", 
+      "thomas_id": "00293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "DioGuardi, Joseph J.", 
+      "sponsored_at": "1987-10-29", 
+      "state": "NY", 
+      "thomas_id": "00300", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "38", 
+      "name": "Dornan, Robert K.", 
+      "sponsored_at": "1987-10-29", 
+      "state": "CA", 
+      "thomas_id": "00310", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Dreier, David", 
+      "sponsored_at": "1987-12-03", 
+      "state": "CA", 
+      "thomas_id": "00317", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Edwards, Mickey", 
+      "sponsored_at": "1987-10-21", 
+      "state": "OK", 
+      "thomas_id": "00338", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "1988-03-10", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fawell, Harris W.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "IL", 
+      "thomas_id": "00373", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Feighan, Edward F.", 
+      "sponsored_at": "1988-02-16", 
+      "state": "OH", 
+      "thomas_id": "00375", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1987-07-29", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Green, S. William", 
+      "sponsored_at": "1987-10-13", 
+      "state": "NY", 
+      "thomas_id": "00463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "1988-04-13", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hastert, J. Dennis", 
+      "sponsored_at": "1988-02-25", 
+      "state": "IL", 
+      "thomas_id": "00510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Herger, Wally", 
+      "sponsored_at": "1987-10-13", 
+      "state": "CA", 
+      "thomas_id": "00533", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Holloway, Clyde", 
+      "sponsored_at": "1988-02-25", 
+      "state": "LA", 
+      "thomas_id": "00554", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hyde, Henry J.", 
+      "sponsored_at": "1988-02-25", 
+      "state": "IL", 
+      "thomas_id": "00580", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Inhofe, James M.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Lagomarsino, Robert J.", 
+      "sponsored_at": "1987-07-29", 
+      "state": "CA", 
+      "thomas_id": "00658", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lancaster, H. Martin", 
+      "sponsored_at": "1987-12-03", 
+      "state": "NC", 
+      "thomas_id": "00660", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "1987-10-21", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Levine, Mel", 
+      "sponsored_at": "1987-10-13", 
+      "state": "CA", 
+      "thomas_id": "00684", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lipinski, William O.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "IL", 
+      "thomas_id": "00694", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Lukens, Donald E.", 
+      "sponsored_at": "1988-02-25", 
+      "state": "OH", 
+      "thomas_id": "00715", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1988-03-10", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "1988-04-13", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "McEwen, Bob", 
+      "sponsored_at": "1988-02-16", 
+      "state": "OH", 
+      "thomas_id": "00768", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Miller, John R.", 
+      "sponsored_at": "1988-02-25", 
+      "state": "WA", 
+      "thomas_id": "00809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Moakley, John Joseph", 
+      "sponsored_at": "1987-10-21", 
+      "state": "MA", 
+      "thomas_id": "00820", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Molinari, Guy", 
+      "sponsored_at": "1988-02-25", 
+      "state": "NY", 
+      "thomas_id": "00822", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Montgomery, G. V. (Sonny)", 
+      "sponsored_at": "1988-02-25", 
+      "state": "MS", 
+      "thomas_id": "00827", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Neal, Stephen L.", 
+      "sponsored_at": "1987-10-29", 
+      "state": "NC", 
+      "thomas_id": "00855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Nielson, Howard C.", 
+      "sponsored_at": "1988-02-25", 
+      "state": "UT", 
+      "thomas_id": "00865", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Parris, Stanford E. (Stan)", 
+      "sponsored_at": "1988-03-10", 
+      "state": "VA", 
+      "thomas_id": "00890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Porter, John Edward", 
+      "sponsored_at": "1987-10-13", 
+      "state": "IL", 
+      "thomas_id": "00923", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pursell, Carl D.", 
+      "sponsored_at": "1988-02-25", 
+      "state": "MI", 
+      "thomas_id": "00934", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ravenel, Arthur, Jr.", 
+      "sponsored_at": "1987-10-21", 
+      "state": "SC", 
+      "thomas_id": "00947", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rhodes, John J., III", 
+      "sponsored_at": "1988-02-16", 
+      "state": "AZ", 
+      "thomas_id": "00956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Richardson, Bill", 
+      "sponsored_at": "1988-02-25", 
+      "state": "NM", 
+      "thomas_id": "00958", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "1987-10-21", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Shumway, Norman D.", 
+      "sponsored_at": "1988-02-25", 
+      "state": "CA", 
+      "thomas_id": "01054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "1988-03-10", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "1988-02-16", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "1988-03-29", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1987-10-13", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Solomon, Gerald B. H.", 
+      "sponsored_at": "1987-10-29", 
+      "state": "NY", 
+      "thomas_id": "01088", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Stenholm, Charles W.", 
+      "sponsored_at": "1988-03-10", 
+      "state": "TX", 
+      "thomas_id": "01110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Stratton, Samuel S.", 
+      "sponsored_at": "1988-02-16", 
+      "state": "NY", 
+      "thomas_id": "01117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "1988-02-25", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Swindall, Patrick L.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "GA", 
+      "thomas_id": "01130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Tauzin, W. J. (Billy)", 
+      "sponsored_at": "1988-03-10", 
+      "state": "LA", 
+      "thomas_id": "01140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Walker, Robert S.", 
+      "sponsored_at": "1988-02-25", 
+      "state": "PA", 
+      "thomas_id": "01196", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Weldon, Curt", 
+      "sponsored_at": "1988-02-25", 
+      "state": "PA", 
+      "thomas_id": "01214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Charles", 
+      "sponsored_at": "1987-07-29", 
+      "state": "TX", 
+      "thomas_id": "01232", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Wolf, Frank R.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "VA", 
+      "thomas_id": "01238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wolpe, Howard E.", 
+      "sponsored_at": "1987-12-03", 
+      "state": "MI", 
+      "thomas_id": "01240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Wortley, George C.", 
+      "sponsored_at": "1987-10-13", 
+      "state": "NY", 
+      "thomas_id": "01243", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1987-07-29", 
+  "number": "169", 
+  "official_title": "A concurrent resolution to express the sense of the Congress concerning Soviet prisoners of war in Afghanistan.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "15", 
+    "name": "Ritter, Don", 
+    "state": "PA", 
+    "thomas_id": "00965", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1987-07-29", 
+  "subjects": [
+    "Afghanistan", 
+    "Communications and Broadcasting", 
+    "Defectors", 
+    "Immigration", 
+    "International affairs", 
+    "International broadcasting", 
+    "Prisoners of war", 
+    "Refugees", 
+    "Right of asylum", 
+    "U.S.S.R.", 
+    "War"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1987-07-29", 
+    "text": "Expresses the sense of the Congress that: (1) the President should direct the appropriate agencies to establish a systematic method for encouraging, screening, and processing Soviet defectors and prisoners of war in Afghanistan; (2) Soviet defectors and prisoners of war who request political asylum should be granted such asylum and transported to the United States; (3) the President should seek to establish a framework under which Soviet defectors would be helped in adapting to American life; and (4) the President should direct the appropriate agencies to broadcast into the Soviet Union and Afghanistan information concerning the Soviet Union's actions in Afghanistan and the provisions of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution to express the sense of the Congress concerning Soviet prisoners of war in Afghanistan.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:03:56-05:00"
+}

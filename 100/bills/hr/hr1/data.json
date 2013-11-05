@@ -1,0 +1,1890 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-01-06", 
+      "committee": "House Committee on Public Works and Transportation", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Public Works and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-01-06", 
+      "committee": "House Committee on Merchant Marine and Fisheries", 
+      "references": [], 
+      "text": "Referred to House Committee on Merchant Marine and Fisheries.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-01-07", 
+      "references": [], 
+      "text": "Committee on Rules Granted a Rule Providing for One Hour of Debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-01-08", 
+      "references": [], 
+      "text": "Rule Passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-01-08", 
+      "references": [], 
+      "text": "Called up by House by Rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-01-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "8", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House by Yea-Nay Vote: 406 - 8 (Record Vote No: 8).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1987-01-12", 
+      "calendar": "Senate Legislative", 
+      "number": "3", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1987-01-14", 
+      "references": [], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-01-16", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-01-20", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-01-21", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-01-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "4", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 93-6. Record Vote No: 4.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1987-01-21", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-01-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-01-30", 
+      "references": [], 
+      "status": "PROV_KILL:VETO", 
+      "text": "Vetoed by President.", 
+      "type": "vetoed"
+    }, 
+    {
+      "acted_at": "1987-02-03", 
+      "references": [], 
+      "text": "Passed House Over Veto by Yea-Nay Vote: 401 - 26 (Record Vote No: 14).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-03", 
+      "references": [], 
+      "text": "Veto message received in Senate. Ordered held at the desk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-04", 
+      "references": [], 
+      "text": "Veto message laid before the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-04", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "19", 
+      "text": "Passed Senate over veto by Yea-Nay Vote. 86-14. Record Vote No: 19.", 
+      "type": "vote", 
+      "vote_type": "override", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1987-02-04", 
+      "congress": "100", 
+      "law": "public", 
+      "number": "4", 
+      "references": [], 
+      "status": "ENACTED:VETO_OVERRIDE", 
+      "text": "Became Public Law No: 100-4.", 
+      "type": "enacted"
+    }, 
+    {
+      "acted_at": "1987-02-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s1-100", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1"
+    }
+  ], 
+  "bill_id": "hr1-100", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Public Works and Transportation", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Merchant Marine and Fisheries", 
+      "committee_id": "HSMM"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": "32", 
+      "name": "Anderson, Glenn M.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00016", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Andrews, Michael", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Applegate, Douglas", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OH", 
+      "thomas_id": "00025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Archer, Bill", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Atkins, Chester G.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MA", 
+      "thomas_id": "00034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bateman, Herbert H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "VA", 
+      "thomas_id": "00064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bentley, Helen Delich", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MD", 
+      "thomas_id": "00078", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Bevill, Tom", 
+      "sponsored_at": "1987-01-06", 
+      "state": "AL", 
+      "thomas_id": "00084", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Bliley, Tom", 
+      "sponsored_at": "1987-01-06", 
+      "state": "VA", 
+      "thomas_id": "00097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Boehlert, Sherwood", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bosco, Douglas H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Brown, George E., Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bustamante, Albert G.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Callahan, Sonny", 
+      "sponsored_at": "1987-01-06", 
+      "state": "AL", 
+      "thomas_id": "00164", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "98", 
+      "name": "Carper, Thomas R.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "DE", 
+      "thomas_id": "00179", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Chandler, Rod D.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WA", 
+      "thomas_id": "00189", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Chapman, Jim", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Clarke, James McC.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NC", 
+      "thomas_id": "00200", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Clinger, William F., Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "00207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Coleman, Ronald D.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00217", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Collins, Cardiss", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "00220", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Courter, Jim", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Crockett, George W., Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "00252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Darden, George (Buddy)", 
+      "sponsored_at": "1987-01-06", 
+      "state": "GA", 
+      "thomas_id": "00266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "de Lugo, Ron", 
+      "sponsored_at": "1987-01-06", 
+      "state": "VI", 
+      "thomas_id": "00275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dicks, Norman D.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WA", 
+      "thomas_id": "00297", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Dingell, John D.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "00299", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "DioGuardi, Joseph J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00300", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Dorgan, Byron L.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "ND", 
+      "thomas_id": "00308", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Downey, Thomas J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00314", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dwyer, Bernard J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00327", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Dyson, Roy", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MD", 
+      "thomas_id": "00329", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Eckart, Dennis E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OH", 
+      "thomas_id": "00331", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Espy, Mike", 
+      "sponsored_at": "1987-01-08", 
+      "state": "MS", 
+      "thomas_id": "00356", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Fascell, Dante B.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "00370", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fazio, Vic", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00374", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Feighan, Edward F.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OH", 
+      "thomas_id": "00375", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Fields, Jack", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00380", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Fish, Hamilton, Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00384", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Florio, James J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00392", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Ford, William D.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "00401", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Gallo, Dean A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00426", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gingrich, Newt", 
+      "sponsored_at": "1987-01-08", 
+      "state": "GA", 
+      "thomas_id": "00441", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Henry B.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00445", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Goodling, William F.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "00447", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gradison, Willis D., Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OH", 
+      "thomas_id": "00451", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Grant, Bill", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "00456", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Green, S. William", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00463", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Guarini, Frank J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00472", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Gunderson, Steve", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WI", 
+      "thomas_id": "00476", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hamilton, Lee H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IN", 
+      "thomas_id": "00489", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hammerschmidt, John P.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "AR", 
+      "thomas_id": "00490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hayes, James A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "LA", 
+      "thomas_id": "00517", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Henry, Paul B.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "00532", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Horton, Frank J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00560", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Hoyer, Steny H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MD", 
+      "thomas_id": "00566", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Jontz, Jim", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IN", 
+      "thomas_id": "00613", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Kanjorski, Paul E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "00615", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kastenmeier, Robert W.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WI", 
+      "thomas_id": "00620", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennelly, Barbara B.", 
+      "sponsored_at": "1987-01-08", 
+      "state": "CT", 
+      "thomas_id": "00628", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kleczka, Gerald D.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WI", 
+      "thomas_id": "00637", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "32", 
+      "name": "LaFalce, John J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00657", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Lehman, William", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "00680", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Leland, Mickey", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "00681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Lewis, Thomas F.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "00690", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lightfoot, Jim", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IA", 
+      "thomas_id": "00691", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lipinski, William O.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "00694", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Lowery, Bill", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Luken, Thomas A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OH", 
+      "thomas_id": "00713", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "MacKay, Buddy", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "00722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Manton, Thomas J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "1987-01-08", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Martin, Lynn M.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "00742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "00761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "McDade, Joseph M.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "00765", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "McGrath, Raymond J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00771", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "McHugh, Matthew F.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Stewart B.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CT", 
+      "thomas_id": "00781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "McMillan, J. Alex", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NC", 
+      "thomas_id": "00782", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Mineta, Norman Y.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00812", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Molinari, Guy", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00822", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Moody, Jim", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WI", 
+      "thomas_id": "00828", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Morella, Constance A.", 
+      "sponsored_at": "1987-01-08", 
+      "state": "MD", 
+      "thomas_id": "00833", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mrazek, Robert J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Murphy, Austin J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "00841", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Natcher, William H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "KY", 
+      "thomas_id": "00853", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Neal, Stephen L.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NC", 
+      "thomas_id": "00855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Nowak, Henry", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00870", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Oakar, Mary Rose", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OH", 
+      "thomas_id": "00875", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Olin, James R.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "VA", 
+      "thomas_id": "00878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "43", 
+      "name": "Packard, Ron", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00886", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Panetta, Leon", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "00888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perkins, Carl C.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "KY", 
+      "thomas_id": "00909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Price, David E.", 
+      "sponsored_at": "1987-01-08", 
+      "state": "NC", 
+      "thomas_id": "00930", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Ravenel, Arthur, Jr.", 
+      "sponsored_at": "1987-01-08", 
+      "state": "SC", 
+      "thomas_id": "00947", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Richardson, Bill", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NM", 
+      "thomas_id": "00958", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rinaldo, Matthew J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00963", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Rodino, Peter W., Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Roe, Robert A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00974", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rose, Charlie", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NC", 
+      "thomas_id": "00986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rostenkowski, Dan", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "00988", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Rowland, J. Roy", 
+      "sponsored_at": "1987-01-06", 
+      "state": "GA", 
+      "thomas_id": "00993", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Rowland, John G.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CT", 
+      "thomas_id": "00994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Russo, Martin A.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "01004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Savage, Gus", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "01020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Sawyer, Thomas C.", 
+      "sponsored_at": "1987-01-08", 
+      "state": "OH", 
+      "thomas_id": "01022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Saxton, Jim", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "01023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scheuer, James H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "01029", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Schneider, Claudine", 
+      "sponsored_at": "1987-01-06", 
+      "state": "RI", 
+      "thomas_id": "01032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schuette, Bill", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "01034", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Sensenbrenner,  James, Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bud", 
+      "sponsored_at": "1987-01-06", 
+      "state": "PA", 
+      "thomas_id": "01055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Sikorski, Gerry E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MN", 
+      "thomas_id": "01057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Skaggs, David E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CO", 
+      "thomas_id": "01062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Slaughter, Louise McIntosh", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "sponsored_at": "1987-01-08", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Smith, Neal Edward", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IA", 
+      "thomas_id": "01079", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Solomon, Gerald B. H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "01088", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "St Germain, Fernand J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "RI", 
+      "thomas_id": "01093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Stallings, Richard H.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "ID", 
+      "thomas_id": "01097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Stangeland, Arlan", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MN", 
+      "thomas_id": "01098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Stratton, Samuel S.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "01117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Studds, Gerry E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MA", 
+      "thomas_id": "01121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Sundquist, Don", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TN", 
+      "thomas_id": "01125", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sunia, Foto I. F.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "AS", 
+      "thomas_id": "01126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Swift, Al", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WA", 
+      "thomas_id": "01129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Thomas, Lindsay", 
+      "sponsored_at": "1987-01-06", 
+      "state": "GA", 
+      "thomas_id": "01150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Torres, Estaban Edward", 
+      "sponsored_at": "1987-01-06", 
+      "state": "CA", 
+      "thomas_id": "01162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Torricelli, Robert G.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NJ", 
+      "thomas_id": "01163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Valentine, Tim", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NC", 
+      "thomas_id": "01178", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Visclosky, Peter J.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IN", 
+      "thomas_id": "01188", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Williams, Pat", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MT", 
+      "thomas_id": "01231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Charles", 
+      "sponsored_at": "1987-01-06", 
+      "state": "TX", 
+      "thomas_id": "01232", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wise, Robert E., Jr.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "WV", 
+      "thomas_id": "01237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wolpe, Howard E.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "MI", 
+      "thomas_id": "01240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Wortley, George C.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "NY", 
+      "thomas_id": "01243", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "1987-01-06", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Yates, Sidney R.", 
+      "sponsored_at": "1987-01-06", 
+      "state": "IL", 
+      "thomas_id": "01252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Yatron, Gus", 
+      "sponsored_at": "1987-01-08", 
+      "state": "PA", 
+      "thomas_id": "01253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "public", 
+    "number": "4"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1987-02-05", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1987-01-08", 
+    "senate_override_result": "pass", 
+    "senate_override_result_at": "1987-02-04", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1987-01-21", 
+    "vetoed": true, 
+    "vetoed_at": "1987-01-30"
+  }, 
+  "introduced_at": "1987-01-06", 
+  "number": "1", 
+  "official_title": "A bill to amend the Federal Water Pollution Control Act to provide for the renewal of the quality of the Nation's waters, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr498-100", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr500-100", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1-100", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s1-100", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": "Water Quality Act of 1987", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Howard, James J.", 
+    "state": "NJ", 
+    "thomas_id": "00564", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:VETO_OVERRIDE", 
+  "status_at": "1987-02-04", 
+  "subjects": [
+    "Administrative fees", 
+    "Agricultural pollution", 
+    "Arizona", 
+    "Arkansas", 
+    "Auditing", 
+    "Authorization", 
+    "California", 
+    "Chesapeake Bay", 
+    "Citizen lawsuits", 
+    "Coal", 
+    "Conferences", 
+    "Congressional oversight", 
+    "Connecticut", 
+    "Consent decrees", 
+    "Construction costs", 
+    "Dams", 
+    "Delaware", 
+    "Department of Commerce", 
+    "Economics and public finance", 
+    "Environmental Protection Agency", 
+    "Environmental assessment", 
+    "Environmental health", 
+    "Environmental monitoring", 
+    "Environmental protection", 
+    "Equipment and supplies", 
+    "Estuarine area conservation", 
+    "Estuarine ecology", 
+    "Estuarine pollution", 
+    "Executive reorganization", 
+    "Federal aid to water pollution control", 
+    "Federal preemption", 
+    "Fines (Penalties)", 
+    "Fisheries", 
+    "Florida", 
+    "Gas industry", 
+    "Government operations and politics", 
+    "Government records, documents, and information", 
+    "Great Lakes", 
+    "Groundwater", 
+    "Harbors", 
+    "Hazardous waste disposal", 
+    "Hazardous wastes", 
+    "Idaho", 
+    "Illinois", 
+    "Indian lands", 
+    "Industrial pollution", 
+    "Information services", 
+    "Intergovernmental relations", 
+    "Interstate commissions", 
+    "Interstate relations", 
+    "Iowa", 
+    "Iron", 
+    "Judicial review of administrative acts", 
+    "Jurisdiction", 
+    "Kentucky", 
+    "Lakes", 
+    "Landfills", 
+    "Legal fees", 
+    "Liability for water pollution damages", 
+    "Licenses", 
+    "Limitation of actions", 
+    "Local taxation", 
+    "Management", 
+    "Manganese", 
+    "Marine pollution", 
+    "Marine resources conservation", 
+    "Maryland", 
+    "Massachusetts", 
+    "Mexico", 
+    "Mine wastes", 
+    "Mines and mineral resources", 
+    "Minnesota", 
+    "Montana", 
+    "Native Americans", 
+    "New Hampshire", 
+    "New Jersey", 
+    "New York City", 
+    "New York State", 
+    "North Carolina", 
+    "Northern Mariana Islands", 
+    "Ocean", 
+    "Pennsylvania", 
+    "Petroleum industry", 
+    "Planning", 
+    "Pollution taxes", 
+    "Poor", 
+    "Potable water", 
+    "Public health", 
+    "Recreation", 
+    "Regional planning", 
+    "Research", 
+    "Research and development", 
+    "Reservoirs", 
+    "Revolving funds", 
+    "Rhode Island", 
+    "Rivers", 
+    "Sewage disposal", 
+    "Sewage sludge", 
+    "Sewage treatment plants", 
+    "Standards", 
+    "State finance", 
+    "States", 
+    "Storm drains", 
+    "Technological innovations", 
+    "Texas", 
+    "Toxic substances legislation", 
+    "Tunnels", 
+    "User charges", 
+    "Vermont", 
+    "Virginia", 
+    "Washington State", 
+    "Waste disposal in rivers, lakes, etc.", 
+    "Waste disposal in the ocean", 
+    "Waste water treatment", 
+    "Water and Water Resources Development", 
+    "Water pollution control", 
+    "Water pollution measurement", 
+    "Water quality", 
+    "Water rates", 
+    "Water supply", 
+    "Water treatment plants", 
+    "Watersheds"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1987-01-06", 
+    "text": "Water Quality Act of 1987 - Title I: Amendments to Title I - Amends the Federal Water Pollution Control Act (the Clean Water Act) to authorize appropriations for FY 1983 through 1990 for: (1) specified research, investigation, and training programs in water pollution control; (2) State and interstate pollution control programs; (3) undergraduate programs in water quality control; (4) grants for developing waste treatment management plans for areas with substantial water quality control problems; (5) water pollution control programs in agricultural areas; (6) agreements among Government agencies providing for maximum use of existing programs for water quality control; (7) grants to States for lake pollution control; and (8) carrying out the Clean Water Act generally. Directs the Administrator of the Environmental Protection Agency to award an annual grant to support a National Clearinghouse on small flows (of sewage) and innovative or alternative technologies information. Directs the Administrator of the Environmental Protection Agency (EPA) to continue the Chesapeake Bay Program and establish such an Office within EPA to: (1) collect and disseminate research and other information on the environmental quality of the Bay; (2) coordinate Federal research efforts; (3) conduct research on sediment deposition in the Bay; and (4) conduct research on how environmental changes effect the living resources of the Bay, with particular emphasis on the impact of pollutant loading. Directs the Administrator to make a grant to a State affected by the interstate management plan developed under the Bay Program to implement management mechanisms in the plan if the State has approved and is committed to implementing all or substantially all aspects of the plan. Requires a State or combination of the States, in order to qualify for such grants, to submit a plan of proposed abatement actions to reduce Bay pollution and meet applicable water quality standards and of estimated costs for the approval of the Administrator. Limits such grants to 50 percent of the plan implementation costs. Limits administrative costs. Requires States to submit progress reports biennially to the Administrator for transmittal to the Congress. Authorizes appropriations for FY 1987 through 1990. Establishes the already existing Great Lakes National Program Office within EPA. Requires such Office to be located in a Great Lakes State. Requires such Office to carry out the responsibilities of the United States under the Great Lakes Water Quality Agreement of 1978, monitor the water quality of the Great Lakes, and serve as a liaison with the International Joint Commission Canadian members. Directs the Office to develop a five-year plan for reducing the amount of nutrients introduced into the Lakes and a five-year study and demonstration project program for the control and removal of toxic pollutants. Directs the Administrator to report annually to the Congress on Great Lakes water quality. Establishes, within the National Oceanic and Atmospheric Administration, the Great Lakes Research Office to develop, coordinate, and report on research on issues related to the Great Lakes resources. Require such Office to be located in a Great Lakes State. Requires the Program and Research Offices to prepare annually a joint research plan. Requires interagency cooperation and reporting with respect to such program. Authorizes appropriations for FY 1987 through 1991, earmarking funds for specified purposes. Directs the Administrator to research the harmful effects on the health and welfare of persons caused by pollutants in water, especially the bioaccumulation of these pollutants in aquatic species and any reduction in the value of aquatic industries. Title II: Construction Grants Amendments - Sets a time limit on resolving treatment works construction contract disputes. Limits the 75 percent Federal share of treatment works construction costs to grants made by a State before FY 1991. Makes the Wyoming Valley Sanitary Authority project eligible for grants of 75 percent of construction costs. Authorizes the Administrator to make a grant to fund all the costs of modifying or replacing bio disc equipment (rotating biological contractors) in any publicly owned treatment works if deficiencies are not attributable to negligence. Deems the activated bio-filter feature of the project for treatment works of Little Falls, Minnesota, an innovative wastewater process and technique entitled to an 85 percent grant. Permits the use of Farmers Home Administration funds for the nonfederal share of construction costs for publicly owned treatment works under this Act. Directs the Administrator to make preconstruction agreements with grant applicants for treatment work construction assistance to specify which costs are eligible for Federal payments. Sets forth contract terms and conditions concerning design approval and payments including interest payments. Qualifies for purposes of treatment works grants a system of user charges imposing lower charges for low-income residential users. Requires the Administrator to reallot to States treatment works construction grants for FY 1987 through 1990. Extends through FY 1990 the authorization of appropriations for minimum allotments to States and specified U.S. territories and possessions. Increases the allotment for specified U.S. territories and possessions. Extends through FY 1994 the reservation of certain amounts from State allotments for State administrative expenses. Extends through FY 1990 the use of funds to control pollutants from storm sewers. Increases the mandatory set-aside for rural States and other States to up to seven and one-half percent. Extends through FY 1990 specified provisions relating to minimum expenditures for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques. Requires a State to allocate at least 40 percent of its water quality management planning grant to regional and interstate public comprehensive organizations if it would significantly assist in encouraging such organizations' participation in developing wastewater treatment programs. Increases the amount of additional funds which the Administrator shall have available for addressing water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impact of discharges from combined storm water and sanitary sewer overflows. Authorizes appropriations for FY 1986 through 1990 for the construction grant program. Adds a new title VI: Grants for Water Pollution Control Revolving Funds to the Clean Water Act. Authorizes appropriations for FY 1989 through 1994 for capitalization grants to States which establish Water Pollution Control Revolving Funds which would gradually take over the Federal program. Requires a participating State to: (1) enter into agreements with the Administrator; (2) establish the required Fund; (3) deposit in its Fund from State monies an amount equal to 20 percent of the capitalization grant; (4) make loan commitments for publicly owned waste treatment plants within one year which commit all of the Fund; (5) submit required annual and intended use reports; and (6) comply with generally accepted procedures and standards. Sets forth permitted uses of the Fund. Authorizes the Administrator to reallot a noncomplying State's capitalization grant. Sets forth required accounting procedures. Directs the Administrator to review annually each State plan and report for using the Fund. Authorizes a State to use Federal grant funds to set up a Water Pollution Control Revolving Fund upon request. Directs the Administrator to report to the Congress by February 10, 1990, on the operation of the State Funds. Directs the Administrator to make grants for treatment works improvement programs for: (1) Avalon, California; (2) Walker and Smithfield Townships, Pennsylvania; (3) Taylor Mill, Kentucky; and (4) Watsonville, California. Directs the Administrator to make a grant to the State of California for the construction of a collection system for specified areas of Nevada County. Directs the Administrator to make grants to the Wanaque Valley Regional Sewage Authority, New Jersey, for the construction of treatment works of a specified capacity. Limits the Federal share to 75 percent of construction costs. Directs the Administrator to make grants to Lena, Illinois, for the construction of a replacement moving bed filter press for the treatment works. Limits the Federal share to 75 percent of construction costs. Requires Pennsylvania to give Federal funding priority to the Wyoming Valley Sanitary Authority secondary treatment project and to a project for wastewater treatment for Altoona, Pennsylvania. Authorizes the Chicago tunnel and reservoir project to receive grants without regard to allocation limitation if the Administrator determines that such project is cost-effective without redesign or reconstruction and the Governor of Illinois demonstrates the water quality benefits accruing from such project. Permits the towns of Hampton and Nashua, New Hampshire, to continue using an ad valorem tax user charge system for collecting the costs of operation and maintenance of sewage treatment works in satisfaction of specified requirements for grants for treatment works. Requires the Administrator to review such system for compliance with other requirements. Title III: Standards and Enforcements - Extends the compliance date for specified priority toxic pollutants, all other toxic pollutants, and the application of best practicable technology for all other pollutants to no later than three years after effluent limitations are established or by March 31, 1989, whichever is earlier. Directs the Administrator of EPA to promulgate final regulations by the end of 1986 establishing effluent limitations for direct dischargers and limitations requiring pretreatment for all the priority toxic pollutants which are discharged from certain categories of point sources in accordance with a specified schedule. Permits the Administrator to modify the effluent limitations for nonconventional pollutants such as ammonia, chlorine, color, iron, and total phenols. Permits the Administrator to add or delete from the list of pollutants for which such modification is permitted as indicated by current evidence or the lack of it. Requires that such modifications not interfere, alone or in combination, with the prescribed water quality standard. Requires as new conditions for the modification of treatment requirements with respect to the discharges of pollutants from a publicly owned treatment works that an applicant for such modification demonstrate that: (1) in the case of a treatment works serving a population of 50,000 or more, there is in effect a specified pretreatment program for toxic pollutants introduced into such works for which there is no pretreatment requirement in effect; and (2) the effluent which is discharged from such works is receiving primary treatment and meets the criteria for water established by the Administrator. Prohibits the discharge of a pollutant into saline estuarine waters that do not support fish and wildlife or whose quality is below applicable standards. Prohibits dumping in the New York Bight Apex. Extends the filing deadline for treatment works modification. Extends the innovative technology compliance deadlines for direct dischargers. Permits variances from an otherwise applicable effluent limitation or pretreatment standard if an applicant can demonstrate during the rulemaking (or did not have an opportunity to demonstrate) that factors relating the facilities, equipment, and processes of such person are fundamentally different from the factors considered in the rulemaking. Requires the Administrator to assess and collect fees for variance applications. Requires the Administrator to report biannually to the appropriate congressional committees on the status of variance applications. Permits the modifications of ph levels and the amount of iron and manganese in discharges from remined areas of coal remining operations if such operations provide potential for water quality improvement and use the best available technology (BAT). Requires States within two years to identify bodies of water within or adjacent to them which will not meet State water quality standards because of toxic pollutants after the implementation of BAT. Requires each State to develop an individual control for each such body to achieve the applicable standard within three years. Requires that Administrator, within nine months of this Act's enactment, to develop guidelines for such identification and for measuring water quality criteria for toxic pollutants on other than pollutant-by-pollutant criteria, using biomonitoring and assessment techniques. Directs the States to establish numerical criteria, based on EPA's national water quality criteria, for toxic pollutants which could otherwise interfere with designated water uses. Permits such criteria to include the use of biological monitoring or assessment methods. Permits the Administrator, with State concurrence, to modify effluent limitations: (1) if a non-toxic polluter demonstrates that complete compliance does not satisfy a reasonable cost-benefit analysis; or (2) for five years if a toxic polluter demonstrates that a modified maximum limitation within the polluter's economic means will result in reasonable progress to post-BAT water quality standards. Directs the Administrator, within one year of this Act's enactment and then biennially, to publish guidelines for effluent limitations for toxic pollutants for industrial categories currently without such guidelines and to establish a schedule for the review, revision, and promulgation of other effluent guidelines. Directs the Administrator to study and report to the Congress on water quality improvements achieved through the application of BAT economically achievable. Authorizes a two-year extension for a treatment works to comply with a categorical pretreatment standard if it uses an innovative treatment system which has potential for industry-wide application and the treatment works can still comply with the terms of its permit. Establishes criminal penalties for the knowing disclosure of confidential information gained by authorized personnel in the course of inspection of treatment facilities. Permits a State to adopt more stringent standards for marine sanitation devices on a houseboat than those required under Federal law. Increases criminal and civil penalties. Adds administrative civil penalties for specified violations. Establishes criminal penalties for the knowing endangerment of a person through violations of specified provisions. Requires the Secretary of the Army and the Administrator to each report to the Congress by December 1, 1988, on the enforcement mechanisms available and on improving enforcement. Directs each State to report biennially to the Administrator on the water quality of the publicly owned lakes. Requires the Administrator to then report such information to the appropriate congressional committees, including an evaluation of methods and procedures used. Authorizes the Administrator to conduct lake water quality demonstration programs at: (1) Lake Houston, Texas; (2) Beaver Lake, Arkansas; (3) Greenwood Lake and Belcher Creek, New Jersey; (4) Deal Lake, New Jersey, (5) Alcyon Lake, New Jersey; (6) Gorton's Pond, Rhode Island; (7) Lake Washington, Rhode Island; (8) Lake Bomoseen, Vermont; (9) Sauk Lake, Minnesota; and (10) Lake Worth, Texas. Directs the Administrator to publish within one year of enactment and update biennially a lake restoration guidance manual. Directs the Governor of each State to submit to the Administrator for approval a report: (1) identifying navigable waters not meeting applicable water quality standards because of pollution from nonpoint sources (e.g., rainfall runoff as opposed to identifiable pipes); (2) identifying categories of significantly polluting nonpoint sources; (3) identifying State and local programs for controlling such pollution and improving the water quality of the navigable waters; and (4) describing administrative measures to be taken. Requires each Governor to develop Administrator-approved nonpoint source pollution management programs identifying: (1) the best management practices to institute; (2) an implementation schedule; (3) any additional State authorities necessary for the program including an implementation schedule for acquiring such authorities; (4) available financial assistances; and (5) the effect of existing Federal programs on such program. Provides for resubmission of rejected programs which are subsequently modified. Directs the Administrator to develop a program for any State which fails to do so and report on such actions to the Congress. Authorizes the Administrator to provide technical assistance to a local agency to develop a four-year plan if a State fails to submit a satisfactory plan and the local agency is of sufficient geographical size. Treats such local agency as a State agency for implementation assistance purposes after such plan has been approved. Directs the Administrator to convene a management conference of the affected States when any State is unable to meet its applicable water quality standards because of pollution from nonpoint sources in another State. Requires the offending State to modify its management program to reflect an agreement reached in such conference. Directs the Administrator to provide grants to States to assist in the implementation of approved four-year plans. Limits the Federal share to a maximum of 60 percent of costs. Sets forth other terms and conditions for such grants, including reporting and administrative requirements. Limits each grant per State to a maximum of 15 percent of total authorizations. Authorizes the Administrator to give priority in making grants to States with management programs with particularly difficult nonpoint pollution problems, innovative technologies, or which address essential groundwater quality protection problems. Authorizes appropriations for FY 1988 through 1991. Directs the Administrator to transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by States for which individual assistance applications and projects will be reviewed. Requires each Federal department and agency to modify existing regulations to allow States to conduct such review and accommodate the concerns of the State regarding the consistency of such applications or projects with the State program. Directs the Administrator to collect and make available information pertaining to management practices and implementation methods. Directs the Administrator to report annually, and finally by January 1, 1990, to the Congress on the State management programs and the grants. Earmarks funds for such programs. Authorizes the Governor of any State to nominate to the Administrator an estuary within the State's jurisdiction which is of national significance and to request a management conference to develop a comprehensive management plan. Directs the Administrator to convene such conference if the need for it is sufficiently documented. Gives priority to: (1) Long Island Sound, New York and Connecticut; (2) Narragansett Bay, Rhode Island; (3) Buzzards Bay, Massachusetts; (4) Puget Sound; Washington; (5) New York-New Jersey Harbor, New York and New Jersey; (6) Delaware Bay, Delaware and New Jersey; (7) Albemarle Sound, North Carolina; (8) Sarasota Bay, Florida; (9) San Francisco Bay, California; and (10) Galveston Bay, Texas. Prohibits convening such a conference before a final adjudication has been made in any pending State boundary dispute involving such estuary. Requires a management conference to assess the relevant ecological data and develop a comprehensive conservation and management plan which recommends priority corrective actions and compliance schedules and coordinates intergovernmental efforts. Requires each conference to include the Administrator and affected governmental and private interests. Limits the terms of a conference to five years. Requires Administrator approval of any plan. Permits the use of construction grant or State revolving fund monies for implementation approval of any plan. Authorizes the Administrator to provide up to 75 percent of research and study costs through State grants. Requires such State to report to the Administrator biennially. Earmarks funds for the Administrator of the National Oceanic and Atmospheric Administration to coordinate and implement an assessment, research, and water quality sampling program for pollutants and ecosystems to determine when an estuarine management conference should be called. Requires the Administrators to report to the Congress biennially on estuarine health and research. Authorizes appropriations for FY 1987 through 1991. Prohibits the location or placing of a landfill, surface impoundment, waste pile, injection well, or land treatment facility, or the placement of solid waste in any of these if they are located over the Unconsolidated Quarternary Aquifer, or the recharge zone of such aquifer in the Rockaway River Basin, New Jersey. Title IV: Permits and Licenses - Exempts from permit requirements and effluent limitations certain stormwater runoff discharges from mining operations or oil or gas exploration, production, processing, or treatment operations. Requires exempted run-offs to be a product of precipitation flows or systems designed to collect or convey such water. Requires that such run-offs be uncontaminated (as determined by the Administrator). Prohibits the Administrator from requiring additional pretreatment by a discharger of conventional pollutants when its publicly owned treatment works is not meeting NPDES permit requirements because of inadequate design or operation. Authorizes a partial NPDES permit program covering a portion of the discharges into the navigable waters in such State if it covers administration of a major category of such discharges or a major component of the State's NPDES permit program. Provides that a State may return, or the Administrator may withdraw approval of, delegated NPDES permit program responsibilities. Sets forth anti-backsliding requirements relating to renewal or reissuance of NPDES permits. Permits limited exceptions. Requires the Administrator to report to the Congress within two years on the extent to which States have modified water quality standards or NPDES permits should be modifiable to permit less stringent effluent limitations. States that prior to FY 1993 no permit shall be required for discharges composed entirely of stormwater other than: (1) those associated with industrial activity or municipal separate storm sewers; or (2) those which are determined to be in violation of a water quality standard or contribute significantly to water pollution. Requires the Administrator to report to the Congress on the nature of most stormwater discharges and which classes of such discharges should have permits. Revises the sewage sludge disposal timetable. Directs the Administrator to identify in two stages those toxic pollutants which may be present in sewage sludge in concentrations which may adversely affect public health or the environment. Directs the Administrator to publish regulations specifying acceptable management practices and establishing numerical limitations for each such pollutant and requiring compliance within 12 months after publication. Authorizes the Administrator to promulgate a design, equipment, management practice, or operational standard for certain pollutants if a numerical limitation is not feasible and the same protection can be achieved. Requires NPDES permits to include requirements for the use and disposal of sludge, and provides for implementing such regulations. Authorizes the Administrator to issue a permit to implement such regulations to a facility not subject to NPDES. Authorizes the Administrator to initiate studies and projects to promote the safe and beneficial use of sewage sludge. Authorizes appropriations. Stays the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency concerning revised pretreatment requirements for certain publicly owned treatment works. Prohibits the authorization of removal credits until final regulations are issued. Permits the merger of permit requirements for log transfer facilities subject to both EPA's and the Army's jurisdiction so long as certain requirements are satisfied. Title V: Miscellaneous Provisions - Permits the Administrator to enter into noncompetitive procurement contracts with State audit organizations for audits of recipients of Federal assistance under this Act. Includes the Commonwealth of the Northern Mariana Islands within the definition of \"State.\" Excludes agricultural stormwater discharges from the definition of \"point source\" pollution. Requires that the Attorney General and the Administrator receive notice of any citizen suits or proposed consent judgments. Revises venue provisions to permit an applicant for judicial review of certain Administrator actions to bring suit in the U.S. Court of Appeals for the Federal district in which such applicant has its principal place of business or where such applicant transacts the business which is directly affected by the action in question. Increases the appeal period. Provides a random selection procedure to determine the forum when reviews of a particular EPA action have been filed in more than one court. Empowers the court to award attorney's fees to a prevailing or substantially prevailing party. Directs the Administrator to assess the sewage treatment needs of Indian tribes, reporting to the Congress within one year. Authorizes the Administrator to reserve one-half of one percent of specified funds for Indian needs after FY 1986. Authorizes the Administrator to treat Indian tribes specially or as States as required to meet such tribes' sewage treatment needs. Defines \"point source\" to include a landfill leachate collection system. Amends the Marine Protection Research and Sanctuaries Act of 1972 to prohibit the issuance of any new permit to non-eligible authorities now presently permitted to use the New York Bight Apex to dump or transport municipal sludge. Prohibits anyone but an eligible authority from dumping or transporting municipal sludge within the 106-mile Ocean Waste Dump Site. Authorizes the Administrator to issue a research permit to the Orange County, California, Sanitation Districts for the discharge of preconditioned municipal sewage sludge into the ocean to analyze the effects of disposing of such sludge by way of pipelines. Limits such permit to five years. Limits the amount of sludge which may be discharged. Requires such districts to report to the Congress on the results of such program. Authorizes the Administrator to make grants to the State of California, for construction of a project consisting of publicly owned treatment works in San Diego to provide primary or advanced treatment of municipal sewage and industrial waste for the city of Tijuana, Mexico, and for San Diego. Requires the Administrator to make additional grants for defensive treatment works in case of breakdown. Authorizes the Administrator to permit ocean discharge of certain specially-treated pollutants. Imposes a cap on raw sewage discharges from the drainage areas of the North River Plant, Manhattan, New York, and the Red Hook Plant, Brooklyn, New York, into navigable waters (the Hudson-Raritan Estuary) if New York City fails to meet the deadlines for achieving advanced preliminary treatment contained in the consent decree of December 30, 1982 (August 1, 1986, for the North River plant; August 1, 1987, for the Red Hook Plant). Permits the Administrator to raise such cap for seasonal variation or natural disasters, or other circumstances beyond the control of the city of New York. States that violations of this Act shall be considered violations of the Clean Water Act, as well as of the consent decree. Expresses the sense of the Congress that the Administrator should not agree to any further modification of the advanced preliminary treatment schedule in the consent decree. Directs the Administrator to implement monitoring activities for both plans and commence enforcement actions in the event of unexcused violations. Directs the Administrator to pay, in the same proportion as the Federal share of other project costs, all expenses for the relocation of facilities for the distribution of natural gas with respect to the entire waste water treatment works known as Oakwood Beach and Red Hook projects, New York. Authorizes appropriations. Directs the Administrator to make grants of up to 75 percent of costs to the Massachusetts Water Resource Authority for the construction of necessary secondary waste water treatment works to improve the water quality of Boston Harbor and adjacent waters. Authorizes the Administrator to make a grant up to 85 percent of costs to the San Diego Water Reclamation Agency, California, to demonstrate innovations in wastewater reclamation. Authorizes appropriations. Authorizes the Administrator to make a grant of 75 percent of construction costs to the city of Des Moines, Iowa, for construction of the Central Sewage Treatment Plant. Authorizes appropriations. Directs the Administrator to study the feasibility and desirability of eliminating the regulation of de minimus discharges of pollutants into navigable waters. Directs the Administrator to report on such study to specified congressional committees within one year after enactment of this Act. Directs the Administrator to study the effectiveness of specified innovative and alternative wastewater treatment processes and techniques which have been used in treatment works constructed under the Clean Water Act. Directs the Administrator to report within one year on such study to specified congressional committees. Directs the Administrator to study the testing procedures for analysis of pollutants established under specified provisions of such Act. Directs the Administrator to report on such study to specified congressional committees within one year after the enactment of this Act. Directs the Administrator to study the pretreatment of toxic pollutants and report to the appropriate congressional committees within four years after enactment of this Act. Directs the Administrator to study methods for controlling point and nonpoint sources of pollution in specified groundwater systems and aquifers, including: (1) the Upper Santa Cruz Basin and the Avra-Altar Basin of Pima, Pinal, and Santa Cruz Counties, Arizona; (2) the Spokane-Rathdrum Valley Aquifer, Washington and Idaho; (3) the Nassau and Suffolk Counties Aquifer, New York; (4) the Whidbey Island Aquifer, Washington; (5) the Unconsolidated Quarternary Aquifer, Rockaway River area, New Jersey; and (6) groundwater in Litchfield, Hartford, Fairfield, Tolland, and New Haven Counties, Connecticut; and (7) the Sparta Aquifer, Arkansas. Directs the Administrator to report to the Congress within two years on the final status of such studies and plans. Authorizes appropriations. Authorizes the Secretary of the Army to undertake a study on consumptive uses of Great Lakes water, focussing on control measures which would reduce the quantity of water consumed without adversely affecting the projected growith of the region. Requires that such study include an analysis of both existing and new technology, including assessments of water quality assessment methodologies, the economic and environmental affects of manufacturing uses, and regulation of such uses. Authorizes appropriations. Directs the Administrator to study the problem of the corrosive effects of sulfides in collection and treatment systems, the extent to which the uniform imposition of categorical pretreatment standards will exacerbate this problem, and the range of available options to deal with the effects. Requires that such study be conducted in consultation with the Los Angeles City and County sanitation agencies which have observed examples of corrosion probably caused by sulfides. Directs the Administrator to report on such study to specified congressional committees within one year after enactment of this Act. Authorizes appropriations. Directs the Administrator to study and report to the Congress within one year on the problems of rainfall induced infiltration into wastewater treatment sewer systems. Directs the Administrator to report to the Congress on the effects of dams on water quality and the performance of State revolving loan funds. Directs the Administrator to conduct and report to the Congress on a comprehensive study of pollution in Lake Pend Oreille, Montana and Idaho, and the Clark Fork River, Idaho, Montana, and Washington."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Water Quality Act of 1987", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Water Quality Act of 1987", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Federal Water Pollution Control Act to provide for the renewal of the quality of the Nation's waters, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:01:22-05:00"
+}

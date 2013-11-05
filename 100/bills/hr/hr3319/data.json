@@ -1,0 +1,229 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-09-21", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-09-25", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "subcommittee": "Administrative Law and Governmental Relations", 
+      "text": "Referred to Subcommittee on Administrative Law and Governmental Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-10-07", 
+      "in_committee": "House Committee on The Judiciary", 
+      "in_subcommittee": "Administrative Law and Governmental Relations", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-07", 
+      "in_committee": "House Committee on The Judiciary", 
+      "in_subcommittee": "Administrative Law and Governmental Relations", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-20", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-20", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1987-10-27", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-399.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-27", 
+      "references": [], 
+      "text": "Placed on Private Calendar No: 31.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-03", 
+      "references": [], 
+      "text": "Called up by House on Call of Private Calendar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-03", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1987-11-04", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-12-09", 
+      "references": [], 
+      "text": "Senate Committee on Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-12-09", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1987-12-09", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-12-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-12-10", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-12-16", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-12-22", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1987-12-22", 
+      "congress": "100", 
+      "law": "private", 
+      "number": "6", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Private Law No: 100-6.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3319-100", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Administrative Law and Governmental Relations", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "private", 
+    "number": "6"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1987-12-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1987-11-03", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1987-12-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1987-09-21", 
+  "number": "3319", 
+  "official_title": "A bill for the relief of Susan A. Sampeck.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Pickle, J. J.", 
+    "state": "TX", 
+    "thomas_id": "00917", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1987-12-22", 
+  "subjects": [
+    "Federal employees", 
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1987-09-21", 
+    "text": "Authorizes an employee of the Internal Revenue Service who is stationed in a specified district to transfer, with the approval of the director of such district, accumulated annual and sick leave to a named Internal Revenue Service employee stationed in such district."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill for the relief of Susan A. Sampeck.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:02:52-05:00"
+}

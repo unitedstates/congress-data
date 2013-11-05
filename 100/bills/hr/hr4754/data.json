@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "1988-06-07", 
+      "committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Interior and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1988-06-17", 
+      "in_committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "subcommittee": "National Parks and Public Lands", 
+      "text": "Referred to Subcommittee on National Parks and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1988-08-03", 
+      "in_committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "text": "Subcommittee on National Parks and Public Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-08-03", 
+      "in_committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-08-03", 
+      "in_committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1988-08-08", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-836.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-08-08", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 507.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-08-08", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-08-08", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1988-08-09", 
+      "bill_ids": [
+        "s2318-100"
+      ], 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed in lieu of S. 2318 without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1988-08-09", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-08-10", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-08-11", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-08-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-08-22", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1988-08-22", 
+      "congress": "100", 
+      "law": "public", 
+      "number": "415", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 100-415.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4754-100", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Interior and Insular Affairs", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Interior and Insular Affairs", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks and Public Lands", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1988-06-07", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "public", 
+    "number": "415"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1988-08-22", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1988-08-08", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1988-08-09", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1988-06-07", 
+  "number": "4754", 
+  "official_title": "A bill to amend the Pennsylvania Avenue Development Corporation Act of 1972 to authorize appropriations for implementation of the development plan for Pennsylvania Avenue between the Capitol and the White House, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2318-100", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Udall, Morris K.", 
+    "state": "AZ", 
+    "thomas_id": "01173", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1988-08-22", 
+  "subjects": [
+    "Authorization", 
+    "Community development", 
+    "Corporations and Stocks", 
+    "District of Columbia", 
+    "Economics and public finance", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Pennsylvania Avenue Development Corporation", 
+    "Streets", 
+    "Urban affairs", 
+    "Urban areas", 
+    "Urban economic development", 
+    "Urban renewal"
+  ], 
+  "subjects_top_term": "Urban areas", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1988-08-08", 
+    "text": "(Measure passed House, amended) Amends the Pennsylvania Avenue Development Corporation Act of 1972 to authorize appropriations for operating and administrative expenses for FY 1989 through 1992."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Pennsylvania Avenue Development Corporation Act of 1972 to authorize appropriations for implementation of the development plan for Pennsylvania Avenue between the Capitol and the White House, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:03:31-05:00"
+}

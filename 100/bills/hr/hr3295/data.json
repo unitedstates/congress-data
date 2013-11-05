@@ -1,0 +1,223 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-09-16", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-09-23", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "subcommittee": "Administrative Law and Governmental Relations", 
+      "text": "Referred to Subcommittee on Administrative Law and Governmental Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-10-07", 
+      "in_committee": "House Committee on The Judiciary", 
+      "in_subcommittee": "Administrative Law and Governmental Relations", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-07", 
+      "in_committee": "House Committee on The Judiciary", 
+      "in_subcommittee": "Administrative Law and Governmental Relations", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-20", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-20", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1987-10-27", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-398.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-27", 
+      "references": [], 
+      "text": "Placed on Private Calendar No: 38.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-03", 
+      "references": [], 
+      "text": "Called up by House on Call of Private Calendar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-03", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1987-11-04", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-05", 
+      "calendar": "Senate Legislative", 
+      "number": "429", 
+      "references": [], 
+      "text": "Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 429.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1987-11-06", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1987-11-06", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-11-09", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-10", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-13", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-11-23", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1987-11-23", 
+      "congress": "100", 
+      "law": "private", 
+      "number": "3", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Private Law No: 100-3.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3295-100", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Administrative Law and Governmental Relations", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "private", 
+    "number": "3"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1987-11-23", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1987-11-03", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1987-11-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1987-09-16", 
+  "number": "3295", 
+  "official_title": "A bill for the relief of Nancy L. Brady.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "25", 
+    "name": "Boehlert, Sherwood", 
+    "state": "NY", 
+    "thomas_id": "00101", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1987-11-23", 
+  "subjects": [
+    "Federal employees", 
+    "Private legislation"
+  ], 
+  "subjects_top_term": "Private legislation", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1987-09-16", 
+    "text": "Authorizes an employee of Griffiss Air Force Base, New York, to transfer, with the approval of the personnel director at such base, accumulated annual leave to another named employee of such base."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill for the relief of Nancy L. Brady.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:02:51-05:00"
+}

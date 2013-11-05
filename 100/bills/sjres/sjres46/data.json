@@ -1,0 +1,667 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-02-04", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1987-02-09", 
+      "committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "text": "Referred to House Committee on Post Office and Civil Service.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-02-18", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "text": "Subcommittee on Census and Population Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-18", 
+      "in_committee": "House Committee on Post Office and Civil Service", 
+      "references": [], 
+      "subcommittee": "Census and Population", 
+      "text": "Referred to Subcommittee on Census and Population.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-02-24", 
+      "references": [], 
+      "text": "House Committee on Post Office and Civil Service Discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-24", 
+      "references": [], 
+      "text": "Called up by House by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-24", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1987-02-26", 
+      "references": [], 
+      "text": "Message on House action received in Senate and held at desk: House amendments to Senate bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-26", 
+      "references": [], 
+      "text": "Senate agreed to the House amendments. By Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-02-26", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-03-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-03-04", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-03-04", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1987-03-12", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1987-03-12", 
+      "congress": "100", 
+      "law": "public", 
+      "number": "10", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 100-10.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h4-100", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "4"
+    }
+  ], 
+  "bill_id": "sjres46-100", 
+  "bill_type": "sjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Post Office and Civil Service", 
+      "committee_id": "HSPO", 
+      "subcommittee": "Subcommittee on Census and Population", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Adams, Brock", 
+      "sponsored_at": "1987-02-04", 
+      "state": "WA", 
+      "thomas_id": "00005", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bentsen, Lloyd M.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "TX", 
+      "thomas_id": "01282", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Biden, Joseph R., Jr.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "DE", 
+      "thomas_id": "01284", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bingaman, Jeff", 
+      "sponsored_at": "1987-02-04", 
+      "state": "NM", 
+      "thomas_id": "01285", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boren, David L.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "OK", 
+      "thomas_id": "01287", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boschwitz, Rudy", 
+      "sponsored_at": "1987-02-04", 
+      "state": "MN", 
+      "thomas_id": "01288", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Bumpers, Dale", 
+      "sponsored_at": "1987-02-04", 
+      "state": "AR", 
+      "thomas_id": "01295", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Burdick, Quentin N.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "ND", 
+      "thomas_id": "01297", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chafee, John H.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "RI", 
+      "thomas_id": "01303", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chiles, Lawton", 
+      "sponsored_at": "1987-02-04", 
+      "state": "FL", 
+      "thomas_id": "01304", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "1987-02-04", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cohen, William S.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "ME", 
+      "thomas_id": "00215", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Conrad, Kent", 
+      "sponsored_at": "1987-02-04", 
+      "state": "ND", 
+      "thomas_id": "01307", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cranston, Alan", 
+      "sponsored_at": "1987-02-04", 
+      "state": "CA", 
+      "thomas_id": "01311", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "D'Amato, Alfonse", 
+      "sponsored_at": "1987-02-04", 
+      "state": "NY", 
+      "thomas_id": "01313", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Domenici, Pete V.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "NM", 
+      "thomas_id": "01319", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Evans, Daniel J.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "WA", 
+      "thomas_id": "01327", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Ford, Wendell H.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "KY", 
+      "thomas_id": "01334", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Garn, E. J. (Jake)", 
+      "sponsored_at": "1987-02-04", 
+      "state": "UT", 
+      "thomas_id": "01338", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gore, Albert, Jr.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "TN", 
+      "thomas_id": "00449", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "1987-02-04", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hecht, Chic", 
+      "sponsored_at": "1987-02-04", 
+      "state": "NV", 
+      "thomas_id": "01357", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heflin, Howell", 
+      "sponsored_at": "1987-02-04", 
+      "state": "AL", 
+      "thomas_id": "01358", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Helms, Jesse", 
+      "sponsored_at": "1987-02-04", 
+      "state": "NC", 
+      "thomas_id": "01359", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hollings, Ernest F.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "SC", 
+      "thomas_id": "01361", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Humphrey, Gordon J.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "NH", 
+      "thomas_id": "01365", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inouye, Daniel K.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "HI", 
+      "thomas_id": "01369", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnston, J. Bennett", 
+      "sponsored_at": "1987-02-04", 
+      "state": "LA", 
+      "thomas_id": "01373", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kassebaum, Nancy Landon", 
+      "sponsored_at": "1987-02-04", 
+      "state": "KS", 
+      "thomas_id": "01375", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "1987-02-04", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Matsunaga, Spark M.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "HI", 
+      "thomas_id": "00749", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCain, John", 
+      "sponsored_at": "1987-02-04", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Melcher, John", 
+      "sponsored_at": "1987-02-04", 
+      "state": "MT", 
+      "thomas_id": "00790", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Metzenbaum, Howard M.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "OH", 
+      "thomas_id": "01400", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murkowski, Frank H.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "AK", 
+      "thomas_id": "01408", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Nickles, Don", 
+      "sponsored_at": "1987-02-04", 
+      "state": "OK", 
+      "thomas_id": "01412", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Proxmire, William", 
+      "sponsored_at": "1987-02-04", 
+      "state": "WI", 
+      "thomas_id": "01419", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pryor, David H.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "AR", 
+      "thomas_id": "01420", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Quayle, Dan", 
+      "sponsored_at": "1987-02-04", 
+      "state": "IN", 
+      "thomas_id": "00935", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "1987-02-04", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Riegle, Donald W., Jr.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "MI", 
+      "thomas_id": "00961", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stafford, Robert T.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "VT", 
+      "thomas_id": "01438", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stennis, John C.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "MS", 
+      "thomas_id": "01439", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Symms, Steven D.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "ID", 
+      "thomas_id": "01132", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thurmond, Strom", 
+      "sponsored_at": "1987-02-04", 
+      "state": "SC", 
+      "thomas_id": "01448", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Trible, Paul S., Jr.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "VA", 
+      "thomas_id": "01169", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, John", 
+      "sponsored_at": "1987-02-04", 
+      "state": "VA", 
+      "thomas_id": "01452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Weicker, Lowell P., Jr.", 
+      "sponsored_at": "1987-02-04", 
+      "state": "CT", 
+      "thomas_id": "01453", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wilson, Pete", 
+      "sponsored_at": "1987-02-04", 
+      "state": "CA", 
+      "thomas_id": "01456", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "public", 
+    "number": "10"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1987-03-12", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1987-02-24", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1987-02-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1987-02-04", 
+  "number": "46", 
+  "official_title": "A joint resolution to recognize and acknowledge that February 14, 1987 will mark the 75th Anniversary of Arizona's Statehood, and to designate the year 1987 as Arizona's Diamond Jubilee.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres39-100", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "hjres39-100", 
+      "reason": "identical"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "DeConcini, Dennis", 
+    "state": "AZ", 
+    "thomas_id": "01315", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1987-03-12", 
+  "subjects": [
+    "Anniversaries", 
+    "Arizona", 
+    "Commemorations", 
+    "Special days", 
+    "Special years", 
+    "Statehood (American politics)"
+  ], 
+  "subjects_top_term": "Anniversaries", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1987-02-24", 
+    "text": "(Measure passed House, amended) Declares and acknowledges 1987 as Arizona Diamond Jubilee Year in honor of the 75th anniversary of Arizona statehood."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A joint resolution to recognize and acknowledge that February 14, 1987 will mark the 75th Anniversary of Arizona's Statehood, and to designate the year 1987 as Arizona's Diamond Jubilee.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:04:04-05:00"
+}

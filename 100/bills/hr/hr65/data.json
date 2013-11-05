@@ -1,0 +1,880 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-01-06", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-01-06", 
+      "committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "text": "Referred to House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-01-16", 
+      "in_committee": "House Committee on Ways and Means", 
+      "references": [], 
+      "subcommittee": "Health", 
+      "text": "Referred to Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-01-22", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health and the Environment", 
+      "text": "Referred to Subcommittee on Health and the Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr65-100", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health and Environment", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Ackerman, Gary L.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NY", 
+      "thomas_id": "00004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Annunzio, Frank", 
+      "sponsored_at": "1987-04-22", 
+      "state": "IL", 
+      "thomas_id": "00023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Applegate, Douglas", 
+      "sponsored_at": "1987-03-18", 
+      "state": "OH", 
+      "thomas_id": "00025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Biaggi, Mario", 
+      "sponsored_at": "1987-04-22", 
+      "state": "NY", 
+      "thomas_id": "00085", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "1987-04-22", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Brown, George E., Jr.", 
+      "sponsored_at": "1987-04-22", 
+      "state": "CA", 
+      "thomas_id": "00134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bustamante, Albert G.", 
+      "sponsored_at": "1987-05-07", 
+      "state": "TX", 
+      "thomas_id": "00158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Clay, William (Bill)", 
+      "sponsored_at": "1987-03-18", 
+      "state": "MO", 
+      "thomas_id": "00203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Collins, Cardiss", 
+      "sponsored_at": "1987-03-18", 
+      "state": "IL", 
+      "thomas_id": "00220", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Crockett, George W., Jr.", 
+      "sponsored_at": "1987-04-22", 
+      "state": "MI", 
+      "thomas_id": "00252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Dellums, Ronald V.", 
+      "sponsored_at": "1987-10-06", 
+      "state": "CA", 
+      "thomas_id": "00284", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "Dixon, Julian C.", 
+      "sponsored_at": "1987-05-18", 
+      "state": "CA", 
+      "thomas_id": "00301", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dwyer, Bernard J.", 
+      "sponsored_at": "1987-05-07", 
+      "state": "NJ", 
+      "thomas_id": "00327", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "English, Glenn", 
+      "sponsored_at": "1987-05-07", 
+      "state": "OK", 
+      "thomas_id": "00345", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Espy, Mike", 
+      "sponsored_at": "1987-05-18", 
+      "state": "MS", 
+      "thomas_id": "00356", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fauntroy, Walter E.", 
+      "sponsored_at": "1987-05-18", 
+      "state": "DC", 
+      "thomas_id": "00372", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Feighan, Edward F.", 
+      "sponsored_at": "1987-04-28", 
+      "state": "OH", 
+      "thomas_id": "00375", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Flake, Floyd H.", 
+      "sponsored_at": "1987-10-06", 
+      "state": "NY", 
+      "thomas_id": "00388", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Florio, James J.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NJ", 
+      "thomas_id": "00392", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1987-10-06", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1987-04-28", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Garcia, Robert", 
+      "sponsored_at": "1987-04-22", 
+      "state": "NY", 
+      "thomas_id": "00429", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gaydos, Joseph M.", 
+      "sponsored_at": "1987-04-28", 
+      "state": "PA", 
+      "thomas_id": "00430", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Gephardt, Richard A.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "MO", 
+      "thomas_id": "00433", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Grant, Bill", 
+      "sponsored_at": "1987-03-18", 
+      "state": "FL", 
+      "thomas_id": "00456", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Gray, Kenneth J.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "IL", 
+      "thomas_id": "00459", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Hall, Ralph M.", 
+      "sponsored_at": "1987-05-18", 
+      "state": "TX", 
+      "thomas_id": "00484", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "29", 
+      "name": "Hawkins, Augustus F.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "CA", 
+      "thomas_id": "00515", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hertel, Dennis M.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "MI", 
+      "thomas_id": "00534", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hochbrueckner, George J.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NY", 
+      "thomas_id": "00546", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Howard, James J.", 
+      "sponsored_at": "1987-04-22", 
+      "state": "NJ", 
+      "thomas_id": "00564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Huckaby, Thomas J. (Jerry)", 
+      "sponsored_at": "1987-03-18", 
+      "state": "LA", 
+      "thomas_id": "00569", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Johnson, Tim", 
+      "sponsored_at": "1987-05-18", 
+      "state": "SD", 
+      "thomas_id": "00604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Jones, Walter B.", 
+      "sponsored_at": "1987-10-06", 
+      "state": "NC", 
+      "thomas_id": "00611", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Jontz, Jim", 
+      "sponsored_at": "1987-06-15", 
+      "state": "IN", 
+      "thomas_id": "00613", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "1987-04-22", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Kolter, Joseph P.", 
+      "sponsored_at": "1987-05-07", 
+      "state": "PA", 
+      "thomas_id": "00646", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Lehman, William", 
+      "sponsored_at": "1987-03-18", 
+      "state": "FL", 
+      "thomas_id": "00680", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "1987-05-07", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Mavroules, Nicholas", 
+      "sponsored_at": "1987-04-28", 
+      "state": "MA", 
+      "thomas_id": "00751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McKinney, Stewart B.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "CT", 
+      "thomas_id": "00781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mfume, Kweisi", 
+      "sponsored_at": "1987-03-18", 
+      "state": "MD", 
+      "thomas_id": "00798", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Mica, Daniel Andrew", 
+      "sponsored_at": "1987-05-18", 
+      "state": "FL", 
+      "thomas_id": "00799", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Mineta, Norman Y.", 
+      "sponsored_at": "1987-04-28", 
+      "state": "CA", 
+      "thomas_id": "00812", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Moakley, John Joseph", 
+      "sponsored_at": "1987-05-07", 
+      "state": "MA", 
+      "thomas_id": "00820", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Murphy, Austin J.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "PA", 
+      "thomas_id": "00841", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Nelson, Bill", 
+      "sponsored_at": "1987-05-18", 
+      "state": "FL", 
+      "thomas_id": "00859", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Oakar, Mary Rose", 
+      "sponsored_at": "1987-03-18", 
+      "state": "OH", 
+      "thomas_id": "00875", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Ortiz, Solomon P.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "TX", 
+      "thomas_id": "00880", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "1987-06-15", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "1987-06-15", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Perkins, Carl C.", 
+      "sponsored_at": "1987-06-15", 
+      "state": "KY", 
+      "thomas_id": "00909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Price, Melvin", 
+      "sponsored_at": "1987-03-18", 
+      "state": "IL", 
+      "thomas_id": "00929", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "1987-03-18", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Rodino, Peter W., Jr.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NJ", 
+      "thomas_id": "00973", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Roe, Robert A.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NJ", 
+      "thomas_id": "00974", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rose, Charlie", 
+      "sponsored_at": "1987-04-28", 
+      "state": "NC", 
+      "thomas_id": "00986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "25", 
+      "name": "Roybal, Edward R.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "CA", 
+      "thomas_id": "00996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Savage, Gus", 
+      "sponsored_at": "1987-05-07", 
+      "state": "IL", 
+      "thomas_id": "01020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Sawyer, Thomas C.", 
+      "sponsored_at": "1987-06-15", 
+      "state": "OH", 
+      "thomas_id": "01022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scheuer, James H.", 
+      "sponsored_at": "1987-05-07", 
+      "state": "NY", 
+      "thomas_id": "01029", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1987-03-18", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Snowe, Olympia J.", 
+      "sponsored_at": "1987-04-22", 
+      "state": "ME", 
+      "thomas_id": "01085", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Solarz, Stephen J.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NY", 
+      "thomas_id": "01087", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "St Germain, Fernand J.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "RI", 
+      "thomas_id": "01093", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Stangeland, Arlan", 
+      "sponsored_at": "1987-03-18", 
+      "state": "MN", 
+      "thomas_id": "01098", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Tallon, Robert M. (Robin)", 
+      "sponsored_at": "1987-05-07", 
+      "state": "SC", 
+      "thomas_id": "01136", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Torricelli, Robert G.", 
+      "sponsored_at": "1987-04-28", 
+      "state": "NJ", 
+      "thomas_id": "01163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Traxler, Bob", 
+      "sponsored_at": "1987-03-18", 
+      "state": "MI", 
+      "thomas_id": "01167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1987-03-18", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Vucanovich, Barbara F.", 
+      "sponsored_at": "1987-04-28", 
+      "state": "NV", 
+      "thomas_id": "01190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Weiss, Ted", 
+      "sponsored_at": "1987-03-18", 
+      "state": "NY", 
+      "thomas_id": "01213", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wilson, Charles", 
+      "sponsored_at": "1987-05-07", 
+      "state": "TX", 
+      "thomas_id": "01232", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wise, Robert E., Jr.", 
+      "sponsored_at": "1987-05-18", 
+      "state": "WV", 
+      "thomas_id": "01237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wolpe, Howard E.", 
+      "sponsored_at": "1987-05-07", 
+      "state": "MI", 
+      "thomas_id": "01240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Yates, Sidney R.", 
+      "sponsored_at": "1987-04-22", 
+      "state": "IL", 
+      "thomas_id": "01252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Yatron, Gus", 
+      "sponsored_at": "1987-03-18", 
+      "state": "PA", 
+      "thomas_id": "01253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1987-01-06", 
+  "number": "65", 
+  "official_title": "A bill to amend title XVIII of the Social Security Act to provide for a part C program to furnish comprehensive catastrophic and preventive benefits through prepaid plans.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Medicare Part C: Catastrophic Health Insurance Act of 1987", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Pepper, Claude", 
+    "state": "FL", 
+    "thomas_id": "00907", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1987-01-06", 
+  "subjects": [
+    "Administrative procedure", 
+    "Administrative remedies", 
+    "Catastrophic health insurance", 
+    "Comprehensive health care", 
+    "Courts and Civil Procedure", 
+    "Dental care", 
+    "Department of Health and Human Services", 
+    "Drugs", 
+    "Economics and public finance", 
+    "Eye care", 
+    "Fines (Penalties)", 
+    "Geriatrics", 
+    "Government trust funds", 
+    "Health", 
+    "Health education", 
+    "Hearing", 
+    "Hearing aids", 
+    "Hearing disorders", 
+    "Judicial review", 
+    "Judicial review of administrative acts", 
+    "Medicaid", 
+    "Medical supplies", 
+    "Medicare", 
+    "Peer review organizations (Medicine)", 
+    "Physical examinations", 
+    "Preventive medicine", 
+    "Public assistance programs", 
+    "Social security taxes", 
+    "Social welfare", 
+    "Taxation", 
+    "Vision disorders"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1987-01-06", 
+    "text": "Medicare Part C: Catastrophic Health Insurance Act of 1987 - Amends title XVIII (Medicare) of the Social Security Act to add a new part C entitled \"Program for Comprehensive Catastrophic Coverage, and Certain Preventive Benefits.\" (Redesignates the current part C as part D.) Provides coverage for individuals who are entitled to part A (Hospital Insurance) benefits by enrolling with an organization having a contract with the Secretary of Health and Human Services to provide part C services (part C organizations). Requires part C organizations to provide services without imposing deductibles, copayments, or coinsurance, or imposing time restrictions on benefits for inpatient hospital services or extended care services. Requires, in addition, that part C organizations provide: (1) annual physical examinations; (2) routine eye care, including an annual vision examination and prescription eyeglasses; (3) dental services, including teeth cleaning, extractions, examinations, and dentures; (4) hearing examinations and aids; (5) comprehensive long-term care services provided in the least restrictive environment; (6) health promotion and disease prevention information; and (7) prescription drugs and biologicals. Requires the Secretary to establish a program for certifying the safety and efficacy of hearing aids covered under part C. Directs part C organizations to provide additional health benefits to enrollees if the adjusted community payment rate for required services is less than the average per capita payment to the organization for the annual contract period. Authorizes the Secretary's contract with part C organizations to provide additional optional services if such services will not substantially discourage enrollments. Requires part C organizations to reimburse other organizations which provide medically and immediately necessary services to their enrollees in circumstances where such services could not reasonably have been obtained through the enrollee's organization. Requires the Secretary to make advance monthly payments to part C organizations in accordance with a per capita rate of payment for each class of enrollee, such rates to be determined annually pursuant to a specified formula. Authorizes retroactive payment adjustments to account for any difference between: (1) the actual number of individuals enrolled and the number estimated to be enrolled in determining the advance payment; or (2) the premium required of part C enrollees and the per capita rate of payment for such enrollees. Authorizes part C organizations to charge or permit providers to charge liable third parties or enrollees, to the extent they have been paid by third parties, for the organizations' services. Requires the Secretary's part C payments to be made exclusively to part C organizations. Provides that, where an individual receiving inpatient hospital services enrolls in a part C organization, such organization shall not be financially responsible for those services. Provides, however, that where part C enrollment is terminated while inpatient hospital services are being provided, the organization is financially responsible for such services from the date of enrollment to the date of discharge. Provides part C enrollees with protection against the risk of, and responsibility for, a part C organization's insolvency. Requires part C organizations to promptly pay provider claims. Requires part C organizations to provide meaningful procedures for hearing and resolving grievances between the organization, or its service providers, and enrollees. Authorizes enrollee appeal to a local review board, at least one-half of which is composed of representatives of part C eligible individuals. Provides for further appeal to the Secretary where the amount in controversy is at least $100 and judicial review of the Secretary's determination if that amount equals or exceeds $1,000. Requires part C organizations to have an ongoing quality assurance program which stresses health outcomes and provides for the review of its health care services by health care professionals. Requires peer review organizations to review part C health care services. Directs the Secretary to annually review such services. Sets forth miscellaneous terms required in a part C organization's contract with the Secretary, including provisions facilitating the flow of information from such organizations. Subjects part C organizations to civil money penalties if they substantially fail to provide required medically necessary items and services and such failure adversely affects part C enrollees. Requires each organization to have an annual 30-day open enrollment period and the Secretary to establish a single 30-day period where several organizations service the same area. Requires part C organizations to inform individuals at the time of enrollment and at least annually thereafter regarding benefits provided, premiums required, and such other information as the Secretary may require. Prohibits an organization's distribution of applications or promotional and informational materials unless such materials have been submitted to the Secretary at least 45 days before distribution and have not been disapproved. Terminates an individual's enrollment upon such individual's: (1) loss of entitlement to part A (Hospital Insurance) benefits; or (2) failure to pay part C premiums. Sets forth the procedure to be used in determining the monthly premium required of part C enrollees. Limits the monthly premium which may be required to a specified percentage of an individual's gross income. Deposits such payments in the Federal Medicare Part C Trust Fund. Requires the Secretary to enter into agreements with States in order to effect the part C enrollment of eligible groups covered under certain State public assistance programs. Authorizes the Secretary to enter into similar agreements with other Government entities through which health care benefits are provided. Establishes the Medicare Part C Trust Fund in the Treasury. Transfers to such trust fund those amounts in other Medicare trust funds which would have been expended under parts A and B had the enrollee chosen coverage under those programs. Amends title II (Old Age, Survivors and Disability Insurance) of the Act to increase the Medicare hospital insurance tax base. Amends the Medicare program to provide for the deposit of the resultant increase in tax revenues into the Part C Trust Fund. Amends title XIX (Medicaid) of the Act to reduce Federal Medicaid payments to States to the extent to which State assistance to Medicare-eligible needy individuals is reduced due to the enactment of part C. Sets forth effective date provisions and miscellaneous technical and conforming amendments."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Medicare Part C: Catastrophic Health Insurance Act of 1987", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend title XVIII of the Social Security Act to provide for a part C program to furnish comprehensive catastrophic and preventive benefits through prepaid plans.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:01:25-05:00"
+}

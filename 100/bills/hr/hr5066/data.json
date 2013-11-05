@@ -1,0 +1,238 @@
+{
+  "actions": [
+    {
+      "acted_at": "1988-07-14", 
+      "committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Interior and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1988-09-14", 
+      "in_committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-09-14", 
+      "in_committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1988-09-15", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-921.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-09-15", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 554.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-09-15", 
+      "references": [], 
+      "text": "Placed on Consent Calendar No: 30.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-09-22", 
+      "references": [], 
+      "text": "Called up by House on Call of Consent Calendar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-09-22", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1988-09-23", 
+      "committee": "Committee on Indian Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1988-10-14", 
+      "references": [], 
+      "text": "Senate Committee on Indian Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-10-14", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1988-10-14", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-10-18", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-10-20", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-10-21", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-10-28", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1988-10-28", 
+      "congress": "100", 
+      "law": "public", 
+      "number": "544", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 100-544.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h904-100", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "904"
+    }
+  ], 
+  "bill_id": "hr5066-100", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Interior and Insular Affairs", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Indian Affairs (Permanent Select)", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "1988-08-03", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Rhodes, John J., III", 
+      "sponsored_at": "1988-07-14", 
+      "state": "AZ", 
+      "thomas_id": "00956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Morris K.", 
+      "sponsored_at": "1988-07-14", 
+      "state": "AZ", 
+      "thomas_id": "01173", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "public", 
+    "number": "544"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1988-10-28", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1988-09-22", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1988-10-14", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1988-07-14", 
+  "number": "5066", 
+  "official_title": "A bill to modify a portion of the South boundary of the Salt River Pima-Maricopa Indian Reservation in Arizona, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1988-10-28", 
+  "subjects": [
+    "Arizona", 
+    "Indian lands", 
+    "Land transfers", 
+    "Native Americans", 
+    "Public Lands and Real Property"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1988-09-22", 
+    "text": "(Measure passed House, amended) Directs the Secretary of the Interior to exchange certain lands between Arizona, the Bureau of Land Management, and the Salt River Pima-Maricopa Indian community. Provides for the revocation of reclamation withdrawals in order to expedite the transfers. Reserves to the Salt River project an easement for electric transmission lines. Absolves the United States and the Salt River project from liability for damages to revoked lands which may be caused by flooding in conjunction with the Salt River project. Reserves to the United States a right-of-way for road purposes. Modifies the boundary of the Salt River Pima-Maricopa Indian Reservation to add tribal lands."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to modify a portion of the South boundary of the Salt River Pima-Maricopa Indian Reservation in Arizona, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:03:39-05:00"
+}

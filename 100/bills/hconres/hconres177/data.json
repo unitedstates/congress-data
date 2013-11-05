@@ -1,0 +1,225 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-08-07", 
+      "committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on House Administration.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-08-07", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "subcommittee": "Procurement and Printing", 
+      "text": "Referred to Subcommittee on Procurement and Printing.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-10-01", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Procurement and Printing", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-01", 
+      "in_committee": "House Committee on House Administration", 
+      "in_subcommittee": "Procurement and Printing", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-14", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-14", 
+      "in_committee": "House Committee on House Administration", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1987-10-22", 
+      "references": [], 
+      "text": "House Committee on House Administration Discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-22", 
+      "references": [], 
+      "text": "Called up by House by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-22", 
+      "references": [], 
+      "text": "Resolution Agreed to in House by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-10-27", 
+      "committee": "Committee on Rules", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Rules.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-11-04", 
+      "references": [], 
+      "text": "Senate Committee on Rules discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1987-11-04", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1987-11-05", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres177-100", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "discharged"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA", 
+      "subcommittee": "Subcommittee on Procurement and Printing", 
+      "subcommittee_id": "02"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Foglietta, Thomas M.", 
+      "sponsored_at": "1987-08-07", 
+      "state": "PA", 
+      "thomas_id": "00395", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gingrich, Newt", 
+      "sponsored_at": "1987-08-07", 
+      "state": "GA", 
+      "thomas_id": "00441", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Henry, Paul B.", 
+      "sponsored_at": "1987-08-07", 
+      "state": "MI", 
+      "thomas_id": "00532", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Sharp, Philip R.", 
+      "sponsored_at": "1987-08-07", 
+      "state": "IN", 
+      "thomas_id": "01046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Shuster, Bud", 
+      "sponsored_at": "1987-08-07", 
+      "state": "PA", 
+      "thomas_id": "01055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1987-11-04", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1987-08-07", 
+  "number": "177", 
+  "official_title": "A concurrent resolution authorizing the printing of the compilation of materials entitled \"Guide to Records of the United States House of Representatives at the National Archives, 1789-1989: Bicentennial Edition\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Boggs, Corinne C. (Lindy)", 
+    "state": "LA", 
+    "thomas_id": "00103", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1987-11-04", 
+  "subjects": [
+    "Archives", 
+    "Congressional publications", 
+    "House of Representatives", 
+    "Printing", 
+    "Records management"
+  ], 
+  "subjects_top_term": "House of Representatives", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1987-08-07", 
+    "text": "Provides for the printing of the compilation of materials entitled \"Guide to Records of the United States House of Representatives at the National Archives, 1789-1989: Bicentennial Edition\" as a House document, to be prepared under the supervision of the Commission on the United States House of Representatives Bicentenary with the editorial assistance of the Historian of the House. Authorizes the printing of additional copies of such document for the use of the Office for the Bicentennial of the House of Representatives."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A concurrent resolution authorizing the printing of the compilation of materials entitled \"Guide to Records of the United States House of Representatives at the National Archives, 1789-1989: Bicentennial Edition\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:03:56-05:00"
+}

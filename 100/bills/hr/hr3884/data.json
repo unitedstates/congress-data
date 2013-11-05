@@ -1,0 +1,166 @@
+{
+  "actions": [
+    {
+      "acted_at": "1988-02-01", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1988-02-02", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-02-02", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "4", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House by Yea-Nay Vote: 384 - 1 (Record Vote No: 4).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1988-02-02", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1988-02-02", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-02-03", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-02-04", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-02-05", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-02-16", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1988-02-16", 
+      "congress": "100", 
+      "law": "public", 
+      "number": "251", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 100-251.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3884-100", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Edwards, Mickey", 
+      "sponsored_at": "1988-02-01", 
+      "state": "OK", 
+      "thomas_id": "00338", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "public", 
+    "number": "251"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1988-02-16", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1988-02-02", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1988-02-02", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1988-02-01", 
+  "number": "3884", 
+  "official_title": "A bill to rescind certain budget authority recommended in P.L. 100-202.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Obey, David R.", 
+    "state": "WI", 
+    "thomas_id": "00877", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1988-02-16", 
+  "subjects": [
+    "American economic assistance", 
+    "Appropriations", 
+    "Department of State", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational facilities", 
+    "Executive impoundment of appropriated funds", 
+    "France", 
+    "International affairs", 
+    "Jews", 
+    "North Africa", 
+    "Refugees", 
+    "Schools"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1988-02-01", 
+    "text": "Rescinds funds appropriated to the Department of State by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 for the construction of educational facilities for North African Jewish refugees in France."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "A bill to rescind certain budget authority recommended in P.L. 100-202.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:03:07-05:00"
+}

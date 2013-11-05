@@ -1,0 +1,386 @@
+{
+  "actions": [
+    {
+      "acted_at": "1987-11-05", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1987-12-15", 
+      "in_committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Subcommittee on Government Efficiency, Federalism. Hearings held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-04-14", 
+      "in_committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Governmental Affairs. Ordered to be reported with amendments favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1988-05-09", 
+      "references": [], 
+      "text": "Committee on Governmental Affairs. Reported to Senate by Senator Glenn with amendments. With written report No. 100-330.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-05-09", 
+      "calendar": "Senate Legislative", 
+      "number": "651", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 651.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1988-06-13", 
+      "references": [], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-06-13", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with amendments by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1988-06-15", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-06-30", 
+      "references": [], 
+      "text": "Called up by House by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-06-30", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "suspension": null, 
+      "text": "Passed House by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1988-06-30", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-07-06", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1988-07-06", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1988-07-13", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1988-07-13", 
+      "congress": "100", 
+      "law": "public", 
+      "number": "365", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 100-365.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s2346-100", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "2346"
+    }
+  ], 
+  "bill_id": "s1856-100", 
+  "bill_type": "s", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA", 
+      "subcommittee": "Subcommittee on Government Efficiency, Federalism, and the District of Columbia", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "100", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Chafee, John H.", 
+      "sponsored_at": "1988-02-19", 
+      "state": "RI", 
+      "thomas_id": "01303", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Chiles, Lawton", 
+      "sponsored_at": "1987-12-16", 
+      "state": "FL", 
+      "thomas_id": "01304", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "sponsored_at": "1988-02-19", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Glenn, John H., Jr.", 
+      "sponsored_at": "1987-11-05", 
+      "state": "OH", 
+      "thomas_id": "01339", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hatfield, Mark O.", 
+      "sponsored_at": "1987-11-05", 
+      "state": "OR", 
+      "thomas_id": "01352", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heflin, Howell", 
+      "sponsored_at": "1988-02-19", 
+      "state": "AL", 
+      "thomas_id": "01358", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heinz, John", 
+      "sponsored_at": "1987-11-05", 
+      "state": "PA", 
+      "thomas_id": "00528", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Inouye, Daniel K.", 
+      "sponsored_at": "1988-04-27", 
+      "state": "HI", 
+      "thomas_id": "01369", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "1988-04-12", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Matsunaga, Spark M.", 
+      "sponsored_at": "1988-05-13", 
+      "state": "HI", 
+      "thomas_id": "00749", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Mitchell, George J.", 
+      "sponsored_at": "1988-03-14", 
+      "state": "ME", 
+      "thomas_id": "01401", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Pell, Claiborne", 
+      "sponsored_at": "1988-04-27", 
+      "state": "RI", 
+      "thomas_id": "01417", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reid, Harry", 
+      "sponsored_at": "1988-02-19", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sarbanes, Paul S.", 
+      "sponsored_at": "1988-02-19", 
+      "state": "MD", 
+      "thomas_id": "01017", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shelby, Richard C.", 
+      "sponsored_at": "1987-12-16", 
+      "state": "AL", 
+      "thomas_id": "01049", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Simon, Paul", 
+      "sponsored_at": "1988-02-19", 
+      "state": "IL", 
+      "thomas_id": "01059", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Thurmond, Strom", 
+      "sponsored_at": "1987-12-16", 
+      "state": "SC", 
+      "thomas_id": "01448", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "100", 
+    "law_type": "public", 
+    "number": "365"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1988-07-13", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1988-06-30", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1988-06-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1987-11-05", 
+  "number": "1856", 
+  "official_title": "A bill to amend chapter 25 of title 44, United States Code, to provide an authorization for the National Historical Publications and Records Commission programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "National Historical Publications and Records Commission Amendments of 1988", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sasser, Jim", 
+    "state": "TN", 
+    "thomas_id": "01428", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1988-07-13", 
+  "subjects": [
+    "Archives", 
+    "Authorization", 
+    "Economics and public finance", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government publications", 
+    "Government records, documents, and information", 
+    "Historians", 
+    "History", 
+    "Information services", 
+    "National Archives and Records Administration", 
+    "Presidential appointments", 
+    "Presidential powers", 
+    "Presidents and Vice Presidents", 
+    "Professional associations", 
+    "Records management"
+  ], 
+  "subjects_top_term": "Government paperwork", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1988-06-13", 
+    "text": "(Measure passed Senate, amended) National Historical Publications and Records Commission Amendments of 1988 - Revises the membership of the National Historical Publications and Records Commission. Changes its composition from two members to one member from each of the following organizations: (1) the American Historical Association; (2) the Organization of American Historians; (3) the Society of American Archivists; and (4) the American Association for State and Local History. Adds to the Commission one member from the Association for Documentary Editing and one member from the National Association for Government Archives and Records Administrators. Provides for staggering the terms of certain appointees to the Commission. Entitles all Commission members to travel expenses, including per diem in lieu of subsistence. Requires the chairman of the Commission to transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by it. Authorizes the Commission to conduct institutes, training, and educational programs and to sponsor fellowships related to its activities. Authorizes the Commission to disseminate information about documentary sources through guides, directories, and other technical publications. Authorizes the Commission to recommend the expenditure of appropriated or donated funds for the collecting, describing, preserving, compiling, and publishing of significant documentary sources. Authorizes the Archivist of the United States to make allocations to Federal agencies and grants to State and local public and nonprofit entities after considering the advice and recommendations of the Commission. Authorizes appropriations to the Commission for FY 1989 through 1993."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "National Historical Publications and Records Commission Amendment Act of 1987", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "title": "National Historical Publications and Records Commission Amendment Act of 1987", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "National Historical Publications and Records Commission Amendments of 1988", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "National Historical Publications and Records Commission Amendments of 1988", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend chapter 25 of title 44, United States Code, to provide an authorization for the National Historical Publications and Records Commission programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:00:46-05:00"
+}
