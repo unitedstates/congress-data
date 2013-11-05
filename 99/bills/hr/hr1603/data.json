@@ -1,0 +1,274 @@
+{
+  "actions": [
+    {
+      "acted_at": "1985-03-20", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-03-21", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Telecommunications, Consumer Protection and Finance", 
+      "text": "Referred to Subcommittee on Telecommunications, Consumer Protection and Finance.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-03-21", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Telecommunications, Consumer Protection and Finance", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-09", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Telecommunications, Consumer Protection and Finance", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-09", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "in_subcommittee": "Telecommunications, Consumer Protection and Finance", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-22", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-22", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1985-06-26", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 99-181.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-06-26", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 124.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-07-22", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-07-22", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1985-07-24", 
+      "committee": "Committee on Banking", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Banking.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-12-18", 
+      "references": [], 
+      "text": "Senate Committee on Banking discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-12-18", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1985-12-18", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1985-12-19", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-12-19", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1985-12-28", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1985-12-28", 
+      "congress": "99", 
+      "law": "public", 
+      "number": "222", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 99-222.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1603-99", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Telecommunications, Consumer Protection and Finance", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "99", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Rinaldo, Matthew J.", 
+      "sponsored_at": "1985-03-20", 
+      "state": "NJ", 
+      "thomas_id": "00963", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "99", 
+    "law_type": "public", 
+    "number": "222"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1985-12-28", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1985-07-22", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1985-12-18", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1985-03-20", 
+  "number": "1603", 
+  "official_title": "A bill to amend the Securities Exchange Act of 1934 to authorize the Securities and Exchange Commission to subject banks, associations, and other entities that exercise fiduciary powers, to the same regulations as broker-dealers, pursuant to section 14(b) of the Securities Exchange Act of 1934.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s918-99", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Shareholder Communications Act of 1985", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wirth, Timothy", 
+    "state": "CO", 
+    "thomas_id": "01236", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1985-12-28", 
+  "subjects": [
+    "Bank deposits", 
+    "Corporations and Stocks", 
+    "Finance and financial sector", 
+    "Financial institutions", 
+    "Information disclosure (Securities law)", 
+    "Securities", 
+    "Securities and Investments", 
+    "Securities regulation", 
+    "Stocks"
+  ], 
+  "subjects_top_term": "Securities", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1985-07-22", 
+    "text": "(Measure passed House, amended) Shareholder Communications Act of 1985 - Amends the Securities Exchange Act of 1934 to subject banks, associations, and other entities that exercise fiduciary powers to Securities and Exchange Commission regulations with respect to giving or refraining from giving a proxy, consent, or authorization in respect of any registered security carried for the account of a customer. Prohibits such regulations from requiring banks to disclose the names of beneficial owners of securities held in bank accounts without such owner's consent, provided the banks make a good faith effort to obtain such consent."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Shareholder Communications Act of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Shareholder Communications Act of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Shareholder Communications Act of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Shareholder Communications Act of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend the Securities Exchange Act of 1934 to authorize the Securities and Exchange Commission to subject banks, associations, and other entities that exercise fiduciary powers, to the same regulations as broker-dealers, pursuant to section 14(b) of the Securities Exchange Act of 1934.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:57:01-05:00"
+}

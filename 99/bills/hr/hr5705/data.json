@@ -1,0 +1,249 @@
+{
+  "actions": [
+    {
+      "acted_at": "1986-10-15", 
+      "committee": "House Committee on Agriculture", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-10-15", 
+      "committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "text": "Referred to House Committee on Interior and Insular Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-10-15", 
+      "in_committee": "House Committee on Interior and Insular Affairs", 
+      "references": [], 
+      "subcommittee": "National Parks and Recreation", 
+      "text": "Referred to Subcommittee on National Parks and Recreation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-10-16", 
+      "bill_ids": [
+        "hres596-99"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H.Res.596 Reported to House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1986-10-16", 
+      "references": [], 
+      "text": "Rule Passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1986-10-16", 
+      "references": [], 
+      "text": "Called up by House by Rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1986-10-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "482", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Yea-Nay Vote: 290 - 91 (Record Vote No: 482).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1986-10-16", 
+      "calendar": "Senate Legislative", 
+      "number": "1101", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1101.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1986-10-17", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1986-10-17", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1986-11-05", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1986-11-17", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1986-11-17", 
+      "congress": "99", 
+      "law": "public", 
+      "number": "663", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 99-663.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h1304-99", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "1304"
+    }, 
+    {
+      "amendment_id": "h1305-99", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "1305"
+    }, 
+    {
+      "amendment_id": "h1306-99", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "1306"
+    }
+  ], 
+  "bill_id": "hr5705-99", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Interior and Insular Affairs", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Interior and Insular Affairs", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks and Recreation", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "99", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "99", 
+    "law_type": "public", 
+    "number": "663"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1986-11-17", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1986-10-16", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1986-10-17", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1986-10-15", 
+  "number": "5705", 
+  "official_title": "A bill to protect and provide for the enhancement of the resources of the Columbia River Gorge, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres596-99", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "hr5625-99", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Columbia River Gorge National Scenic Area Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Weaver, James H.", 
+    "state": "OR", 
+    "thomas_id": "01210", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1986-11-17", 
+  "subjects": [
+    "Federal-local relations", 
+    "Grants-in-aid", 
+    "Historic sites", 
+    "Interstate commissions", 
+    "Interstate compacts", 
+    "Interstate rivers", 
+    "Land use", 
+    "Local and Municipal Government", 
+    "Oregon", 
+    "Parks and Natural Areas", 
+    "Public Lands and Real Property", 
+    "Public lands and natural resources", 
+    "Rivers", 
+    "Roads and highways", 
+    "States", 
+    "Washington State", 
+    "Water and Water Resources Development", 
+    "Water resources development", 
+    "Wild rivers", 
+    "Zoning and zoning law"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1986-10-16", 
+    "text": "(Measure passed House, amended, roll call #482 (290-91)) Columbia River Gorge National Scenic Area Act - Establishes the Columbia River Gorge National Scenic Area in Washington and Oregon. Designates special management and urban areas within such scenic area. Permits minor revisions in such areas, as specified. Provides for the establishment by Oregon and Washington of the Columbia River Gorge Commission to manage such area. Includes representatives from affected counties within both States on the Commission. Requires the Commission to complete a resource inventory, economic opportunity study, and a recreation assessment of such area within one year. Requires the Commission to develop land use designations for non-Federal lands within the area within two years. Requires the Commission to adopt a management plan for the area within three years. Sets forth standards for the plan, land use ordinances, and interim guidelines designed to protect such area. Requires intergovernmental involvement in and Secretarial approval of such plan. Provides for plan revision and amendment. Requires each affected county to submit to the Commission zoning ordinances consistent with prescribed guidelines for all area lands. Sets forth submittal, approval, and amendment procedures for such ordinances. Directs the Secretary to administer the Federal lands within the special management areas according to forest and multiple-use management regulations applicable to the national forests. Requires the Secretary to develop land use designations within such areas within three years, a resource inventory within one year, and a recreation assessment within two years. Authorizes the Secretary to acquire non-Federal lands within such special management areas. Requires the Secretary to report periodically to the appropriate congressional committee on the status of land acquisitions. Limits the use of eminent domain in acquiring such lands. Directs the Secretary to adopt interim guidelines for land use activities for the scenic area outside Urban Areas. Authorizes the Secretary to make grants to each State for grants and loans for economic development in counties which have adopted conforming land use ordinances. Sets forth other terms and restrictions. Directs the Oregon Department of Transportation to prepare a program to preserve and restore the Old Columbia River Highway for public use as an historic road. Restricts the licensing and the construction of water resource projects on rivers which flow through the scenic area. Amends the Wild and Scenic Rivers Act to include a segment of the White Salmon River and the Klickitat River, Washington. Directs the Secretary to provide technical assistance to counties to develop land use ordinances under this Act. Sets forth terms and restrictions on the provision of such assistance. Allocates timber receipts from special management area funds. Directs the Secretary to make payments to local governments to compensate for lost real property taxes from federally acquired lands. Sets forth limitations on other Federal expenditures in such area. Requires the Commission to monitor activities of counties pursuant to this Act, empowering the Commission to institute civil actions to enforce the requirements of this Act. Authorizes citizen suits as specified. Establishes civil penalties for violations and grants U.S. district courts in Oregon and Washington jurisdiction over criminal actions and appeals brought pursuant to this Act for activities of the Secretary. Empowers the State courts of Oregon and Washington to review actions or appeals brought for activities of the Commission pursuant to this Act. Authorizes appropriations. States which rights and responsibilities remain unchanged by this Act. States that the validity of provisions under this Act are severable."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Columbia River Gorge National Scenic Area Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Columbia River Gorge National Scenic Area Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Columbia River Gorge National Scenic Area Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to protect and provide for the enhancement of the resources of the Columbia River Gorge, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:58:47-05:00"
+}

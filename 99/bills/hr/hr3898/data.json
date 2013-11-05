@@ -1,0 +1,784 @@
+{
+  "actions": [
+    {
+      "acted_at": "1985-12-11", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-01-10", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Executive Comment Requested from DOD.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1986-01-10", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Investigations", 
+      "text": "Referred to Subcommittee on Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3898-99", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Investigations", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "99", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Akaka, Daniel K.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "HI", 
+      "thomas_id": "00007", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "AuCoin, Les", 
+      "sponsored_at": "1986-05-13", 
+      "state": "OR", 
+      "thomas_id": "00036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "44", 
+      "name": "Bates, Jim", 
+      "sponsored_at": "1985-12-11", 
+      "state": "CA", 
+      "thomas_id": "00065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Bennett, Charles E.", 
+      "sponsored_at": "1986-06-23", 
+      "state": "FL", 
+      "thomas_id": "00077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Bevill, Tom", 
+      "sponsored_at": "1986-05-13", 
+      "state": "AL", 
+      "thomas_id": "00084", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Bonior, David E.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "MI", 
+      "thomas_id": "00108", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1986-03-17", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bosco, Douglas H.", 
+      "sponsored_at": "1985-12-11", 
+      "state": "CA", 
+      "thomas_id": "00112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Brown, George E., Jr.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "CA", 
+      "thomas_id": "00134", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Bryant, John W.", 
+      "sponsored_at": "1985-12-11", 
+      "state": "TX", 
+      "thomas_id": "00142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bustamante, Albert G.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "TX", 
+      "thomas_id": "00158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Coelho, Anthony Lee", 
+      "sponsored_at": "1985-12-11", 
+      "state": "CA", 
+      "thomas_id": "00214", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Crockett, George W., Jr.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "MI", 
+      "thomas_id": "00252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "de Lugo, Ron", 
+      "sponsored_at": "1986-06-23", 
+      "state": "VI", 
+      "thomas_id": "00275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "DioGuardi, Joseph J.", 
+      "sponsored_at": "1986-03-17", 
+      "state": "NY", 
+      "thomas_id": "00300", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dwyer, Bernard J.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NJ", 
+      "thomas_id": "00327", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Edgar, Robert W.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "PA", 
+      "thomas_id": "00334", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Edwards, Don", 
+      "sponsored_at": "1986-02-18", 
+      "state": "CA", 
+      "thomas_id": "00336", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Erdreich, Ben", 
+      "sponsored_at": "1986-02-18", 
+      "state": "AL", 
+      "thomas_id": "00350", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fazio, Vic", 
+      "sponsored_at": "1985-12-11", 
+      "state": "CA", 
+      "thomas_id": "00374", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1986-02-18", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Frost, Martin", 
+      "sponsored_at": "1986-05-13", 
+      "state": "TX", 
+      "thomas_id": "00419", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Garcia, Robert", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NY", 
+      "thomas_id": "00429", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "1986-03-17", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Glickman, Dan", 
+      "sponsored_at": "1986-05-13", 
+      "state": "KS", 
+      "thomas_id": "00443", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Guarini, Frank J.", 
+      "sponsored_at": "1986-03-17", 
+      "state": "NJ", 
+      "thomas_id": "00472", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Hertel, Dennis M.", 
+      "sponsored_at": "1986-06-23", 
+      "state": "MI", 
+      "thomas_id": "00534", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Jones, Walter B.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NC", 
+      "thomas_id": "00611", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "1986-03-17", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Kolbe, Jim", 
+      "sponsored_at": "1986-02-18", 
+      "state": "AZ", 
+      "thomas_id": "00645", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kostmayer, Peter H.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "PA", 
+      "thomas_id": "00649", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Leland, Mickey", 
+      "sponsored_at": "1986-05-13", 
+      "state": "TX", 
+      "thomas_id": "00681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Levine, Mel", 
+      "sponsored_at": "1985-12-11", 
+      "state": "CA", 
+      "thomas_id": "00684", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Lipinski, William O.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "IL", 
+      "thomas_id": "00694", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lloyd, Marilyn", 
+      "sponsored_at": "1986-03-17", 
+      "state": "TN", 
+      "thomas_id": "00698", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Lowry, Mike", 
+      "sponsored_at": "1986-06-23", 
+      "state": "WA", 
+      "thomas_id": "00710", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Lundine, Stanley N.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NY", 
+      "thomas_id": "00716", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Manton, Thomas J.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NY", 
+      "thomas_id": "00732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "1985-12-11", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Mineta, Norman Y.", 
+      "sponsored_at": "1986-03-17", 
+      "state": "CA", 
+      "thomas_id": "00812", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mitchell, Parren J.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "MD", 
+      "thomas_id": "00818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Moakley, John Joseph", 
+      "sponsored_at": "1986-02-18", 
+      "state": "MA", 
+      "thomas_id": "00820", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Morrison, Bruce A.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "CT", 
+      "thomas_id": "00835", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mrazek, Robert J.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "NY", 
+      "thomas_id": "00840", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Neal, Stephen L.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NC", 
+      "thomas_id": "00855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Oberstar, James L.", 
+      "sponsored_at": "1986-03-17", 
+      "state": "MN", 
+      "thomas_id": "00876", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Olin, James R.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "VA", 
+      "thomas_id": "00878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Porter, John Edward", 
+      "sponsored_at": "1986-05-13", 
+      "state": "IL", 
+      "thomas_id": "00923", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "1986-02-18", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Reid, Harry", 
+      "sponsored_at": "1986-05-13", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Richardson, Bill", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NM", 
+      "thomas_id": "00958", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Ridge, Thomas J.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "PA", 
+      "thomas_id": "00960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Russo, Martin A.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "IL", 
+      "thomas_id": "01004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Savage, Gus", 
+      "sponsored_at": "1986-02-18", 
+      "state": "IL", 
+      "thomas_id": "01020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Scheuer, James H.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "NY", 
+      "thomas_id": "01029", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Schneider, Claudine", 
+      "sponsored_at": "1986-04-08", 
+      "state": "RI", 
+      "thomas_id": "01032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schroeder, Patricia", 
+      "sponsored_at": "1985-12-11", 
+      "state": "CO", 
+      "thomas_id": "01033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Seiberling, John F.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "OH", 
+      "thomas_id": "01040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Sikorski, Gerry E.", 
+      "sponsored_at": "1985-12-11", 
+      "state": "MN", 
+      "thomas_id": "01057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Smith, Denny", 
+      "sponsored_at": "1986-05-13", 
+      "state": "OR", 
+      "thomas_id": "01072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Synar, Mike", 
+      "sponsored_at": "1986-03-17", 
+      "state": "OK", 
+      "thomas_id": "01133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Torricelli, Robert G.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "NJ", 
+      "thomas_id": "01163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1986-03-17", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Traxler, Bob", 
+      "sponsored_at": "1986-02-18", 
+      "state": "MI", 
+      "thomas_id": "01167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Udall, Morris K.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "AZ", 
+      "thomas_id": "01173", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1986-05-13", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Volkmer, Harold L.", 
+      "sponsored_at": "1986-03-17", 
+      "state": "MO", 
+      "thomas_id": "01189", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Weaver, James H.", 
+      "sponsored_at": "1986-02-18", 
+      "state": "OR", 
+      "thomas_id": "01210", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Wirth, Timothy", 
+      "sponsored_at": "1986-04-08", 
+      "state": "CO", 
+      "thomas_id": "01236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wolpe, Howard E.", 
+      "sponsored_at": "1986-03-17", 
+      "state": "MI", 
+      "thomas_id": "01240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "1986-05-13", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1985-12-11", 
+  "number": "3898", 
+  "official_title": "A bill entitled the \"Military Whistleblowers Protection Act\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Military Whistle Blowers Protection Act", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1985-12-11", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congress and Members of Congress", 
+    "Congressional oversight", 
+    "Military personnel", 
+    "Whistle blowing"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1985-12-11", 
+    "text": "Military Whistle Blowers Protection Act - Amends Federal law concerning the armed forces to prohibit any civilian officer or employee or any member of the armed forces from taking action against a member as a reprisal for such member's complaint or disclosure of information to a Member of Congress concerning possible violations of law, mismanagement of funds, abuse of authority, or substantial and specific danger to public health or safety. Amends Federal law concerning the correction of military records to grant an immediate hearing to members of the armed forces who believe they are victims of reprisals by their superiors. Requires a final decision regarding such a claim within six months of the date on which the claim is presented. Allows the member to bring a civil suit if such claim is not decided within such period. Directs the board considering such a claim to refer the matter to the Secretary concerned and the Inspector General of the Department of Defense if the board finds reason to believe that such a reprisal has occurred. Directs the Inspector General to investigate any matter so referred and submit a report, including recommendations for proposed action, to the Secretary concerned. Directs the Secretary concerned to then take appropriate action. Directs the Inspector General, at the same time a report is submitted to the Secretary concerned, to submit copies of such report to specified congressional committees. Permits the claimant to seek judicial review of any final decision made."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Military Whistle Blowers Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill entitled the \"Military Whistleblowers Protection Act\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:58:01-05:00"
+}

@@ -1,0 +1,743 @@
+{
+  "actions": [
+    {
+      "acted_at": "1985-05-07", 
+      "committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-05-14", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "subcommittee": "Investigations", 
+      "text": "Referred to Subcommittee on Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-05-20", 
+      "in_committee": "House Committee on Armed Services", 
+      "in_subcommittee": "Investigations", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-21", 
+      "in_committee": "House Committee on Armed Services", 
+      "in_subcommittee": "Investigations", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-21", 
+      "in_committee": "House Committee on Armed Services", 
+      "in_subcommittee": "Investigations", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-22", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-05-22", 
+      "in_committee": "House Committee on Armed Services", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1985-06-11", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Armed Services. Report No: 99-169.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-06-11", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 115.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2397-99", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Investigations", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "99", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "AuCoin, Les", 
+      "sponsored_at": "1985-05-14", 
+      "state": "OR", 
+      "thomas_id": "00036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Beilenson, Anthony C.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "CA", 
+      "thomas_id": "00072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Bennett, Charles E.", 
+      "sponsored_at": "1985-05-07", 
+      "state": "FL", 
+      "thomas_id": "00077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Bereuter, Doug", 
+      "sponsored_at": "1985-05-14", 
+      "state": "NE", 
+      "thomas_id": "00080", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Bevill, Tom", 
+      "sponsored_at": "1985-05-14", 
+      "state": "AL", 
+      "thomas_id": "00084", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Boggs, Corinne C. (Lindy)", 
+      "sponsored_at": "1985-05-20", 
+      "state": "LA", 
+      "thomas_id": "00103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Bonker, Don", 
+      "sponsored_at": "1985-06-04", 
+      "state": "WA", 
+      "thomas_id": "00109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Boucher, Rick", 
+      "sponsored_at": "1985-05-14", 
+      "state": "VA", 
+      "thomas_id": "00113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Bustamante, Albert G.", 
+      "sponsored_at": "1985-05-22", 
+      "state": "TX", 
+      "thomas_id": "00158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Carney, William", 
+      "sponsored_at": "1985-05-16", 
+      "state": "NY", 
+      "thomas_id": "00178", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Carr, Bob", 
+      "sponsored_at": "1985-06-05", 
+      "state": "MI", 
+      "thomas_id": "00180", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Clinger, William F., Jr.", 
+      "sponsored_at": "1985-06-05", 
+      "state": "PA", 
+      "thomas_id": "00207", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Coleman, Ronald D.", 
+      "sponsored_at": "1985-06-04", 
+      "state": "TX", 
+      "thomas_id": "00217", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Collins, Cardiss", 
+      "sponsored_at": "1985-05-14", 
+      "state": "IL", 
+      "thomas_id": "00220", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Coughlin, Lawrence", 
+      "sponsored_at": "1985-05-14", 
+      "state": "PA", 
+      "thomas_id": "00240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Courter, Jim", 
+      "sponsored_at": "1985-05-22", 
+      "state": "NJ", 
+      "thomas_id": "00241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Crockett, George W., Jr.", 
+      "sponsored_at": "1985-06-04", 
+      "state": "MI", 
+      "thomas_id": "00252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Dickinson, William L.", 
+      "sponsored_at": "1985-05-20", 
+      "state": "AL", 
+      "thomas_id": "00296", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dicks, Norman D.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "WA", 
+      "thomas_id": "00297", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Downey, Thomas J.", 
+      "sponsored_at": "1985-05-16", 
+      "state": "NY", 
+      "thomas_id": "00314", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "1985-06-11", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Eckart, Dennis E.", 
+      "sponsored_at": "1985-06-04", 
+      "state": "OH", 
+      "thomas_id": "00331", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Edgar, Robert W.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "PA", 
+      "thomas_id": "00334", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Fowler, Wyche, Jr.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "GA", 
+      "thomas_id": "00405", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Frank, Barney", 
+      "sponsored_at": "1985-05-20", 
+      "state": "MA", 
+      "thomas_id": "00407", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "1985-05-14", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Gibbons, Sam", 
+      "sponsored_at": "1985-05-20", 
+      "state": "FL", 
+      "thomas_id": "00437", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Grotberg, John E.", 
+      "sponsored_at": "1985-05-22", 
+      "state": "IL", 
+      "thomas_id": "00470", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Hamilton, Lee H.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "IN", 
+      "thomas_id": "00489", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Hopkins, Larry J.", 
+      "sponsored_at": "1985-05-07", 
+      "state": "KY", 
+      "thomas_id": "00557", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "1985-06-04", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Kanjorski, Paul E.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "PA", 
+      "thomas_id": "00615", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kastenmeier, Robert W.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "WI", 
+      "thomas_id": "00620", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Kennelly, Barbara B.", 
+      "sponsored_at": "1985-05-22", 
+      "state": "CT", 
+      "thomas_id": "00628", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Kildee, Dale E.", 
+      "sponsored_at": "1985-05-20", 
+      "state": "MI", 
+      "thomas_id": "00631", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Kostmayer, Peter H.", 
+      "sponsored_at": "1985-05-22", 
+      "state": "PA", 
+      "thomas_id": "00649", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "1985-05-14", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Lloyd, Marilyn", 
+      "sponsored_at": "1985-05-14", 
+      "state": "TN", 
+      "thomas_id": "00698", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Madigan, Edward R.", 
+      "sponsored_at": "1985-05-16", 
+      "state": "IL", 
+      "thomas_id": "00724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "1985-06-11", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Mavroules, Nicholas", 
+      "sponsored_at": "1985-05-14", 
+      "state": "MA", 
+      "thomas_id": "00751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCloskey, Frank", 
+      "sponsored_at": "1985-05-20", 
+      "state": "IN", 
+      "thomas_id": "00758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "28", 
+      "name": "McHugh, Matthew F.", 
+      "sponsored_at": "1985-05-20", 
+      "state": "NY", 
+      "thomas_id": "00774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Miller, George", 
+      "sponsored_at": "1985-05-14", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Montgomery, G. V. (Sonny)", 
+      "sponsored_at": "1985-05-14", 
+      "state": "MS", 
+      "thomas_id": "00827", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Nowak, Henry", 
+      "sponsored_at": "1985-05-14", 
+      "state": "NY", 
+      "thomas_id": "00870", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Olin, James R.", 
+      "sponsored_at": "1985-05-16", 
+      "state": "VA", 
+      "thomas_id": "00878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Panetta, Leon", 
+      "sponsored_at": "1985-05-22", 
+      "state": "CA", 
+      "thomas_id": "00888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Roe, Robert A.", 
+      "sponsored_at": "1985-05-16", 
+      "state": "NJ", 
+      "thomas_id": "00974", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Savage, Gus", 
+      "sponsored_at": "1985-05-14", 
+      "state": "IL", 
+      "thomas_id": "01020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schroeder, Patricia", 
+      "sponsored_at": "1985-05-14", 
+      "state": "CO", 
+      "thomas_id": "01033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Seiberling, John F.", 
+      "sponsored_at": "1985-05-20", 
+      "state": "OH", 
+      "thomas_id": "01040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Shelby, Richard C.", 
+      "sponsored_at": "1985-06-04", 
+      "state": "AL", 
+      "thomas_id": "01049", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Skelton, Ike", 
+      "sponsored_at": "1985-05-14", 
+      "state": "MO", 
+      "thomas_id": "01064", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Slattery, Jim", 
+      "sponsored_at": "1985-06-06", 
+      "state": "KS", 
+      "thomas_id": "01067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1985-05-14", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Solomon, Gerald B. H.", 
+      "sponsored_at": "1985-05-20", 
+      "state": "NY", 
+      "thomas_id": "01088", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Spratt, John M., Jr.", 
+      "sponsored_at": "1985-05-22", 
+      "state": "SC", 
+      "thomas_id": "01092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Staggers, Harley O., Jr.", 
+      "sponsored_at": "1985-06-04", 
+      "state": "WV", 
+      "thomas_id": "01095", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stokes, Louis", 
+      "sponsored_at": "1985-05-20", 
+      "state": "OH", 
+      "thomas_id": "01115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Torres, Estaban Edward", 
+      "sponsored_at": "1985-05-14", 
+      "state": "CA", 
+      "thomas_id": "01162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Wolpe, Howard E.", 
+      "sponsored_at": "1985-05-20", 
+      "state": "MI", 
+      "thomas_id": "01240", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Young, C.W. Bill", 
+      "sponsored_at": "1985-06-04", 
+      "state": "FL", 
+      "thomas_id": "01255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1985-05-07", 
+  "number": "2397", 
+  "official_title": "A bill to limit the payment of costs to defense contractors.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Allowable Cost Reform Act", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Nichols, Bill", 
+    "state": "AL", 
+    "thomas_id": "00863", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "1985-05-22", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Civilian personnel positions", 
+    "Cost control", 
+    "Costs", 
+    "Defense contracts", 
+    "Federal officials", 
+    "Fines (Penalties)", 
+    "Government operations and politics", 
+    "Public Contracts, Procurement, and Property", 
+    "Subpoena"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Reported to House amended", 
+    "date": "1985-06-11", 
+    "text": "(Reported to House from the Committee on Armed Services with amendment, H. Rept. 99-169) Allowable Cost Reform Act - Requires that a contract with the Department of Defense (DOD) for an amount of more than $25,000 that is flexibly priced or for which certain cost or pricing data is required must: (1) disallow those costs expressly specified by statute or regulation as unallowable; and (2) impose a penalty on a contractor who submits a claim for reimbursement of such a cost. Lists the following costs as disallowed under such a contract: (1) entertainment and social activities; (2) costs incurred to influence action on legislation or appropriation matters pending before the Congress; (3) costs of the defense of any fraud proceeding; (4) fines and penalties imposed for noncompliance with Federal, State, or local laws and regulations; (5) costs of membership in any social or dining club or organization; (6) alcoholic beverages; (7) contributions or donations; (8) advertising; (9) models, gifts, souvenirs, or other memorabilia; and (10) aircraft travel to the extent such costs exceed the standard commercial fare. Allows such noncommercial air travel in specified limited circumstances. Requires the Secretary of Defense, within 150 days after the enactment of this Act, to issue regulations concerning the allowability of indirect contractor costs under DOD contracts. Requires such regulations to: (1) define in detail unallowable costs; and (2) provide that specific costs unallowable under one cost principle shall not be allowable under any other cost principle. Provides that such regulations shall require that a contractor provide current, accurate, and complete documentation to support the allowability of an indirect cost. Requires a defense contract auditor, whenever feasible and practicable, to be present at any meeting or negotiation regarding the allowability of an indirect cost. Requires a contractor to certify that all indirect costs included in a final settlement proposal are allowable. Requires the Secretary, within 90 days after the enactment of this Act, to submit to the House and Senate Armed Services Committees: (1) a copy of proposed regulations; and (2) a report identifying the nature of the proposed changes to be made to current cost principles and the potential effect of such changes on future requests for reimbursement of indirect contractor costs. Authorizes the Secretary to require by subpoena the production of any books, documents, papers, or records of a contract for purposes of enforcing the provisions of this Act. Limits the tour of duty and reassignment of principal contracting officers representing DOD with a particular contract. Allows for the waiver of such limitations in specified circumstances."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Allowable Cost Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Allowable Cost Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to limit the payment of costs to defense contractors.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:57:22-05:00"
+}

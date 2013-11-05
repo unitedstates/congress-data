@@ -1,0 +1,283 @@
+{
+  "actions": [
+    {
+      "acted_at": "1985-09-26", 
+      "committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Education and Labor.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-09-30", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "subcommittee": "Select Education", 
+      "text": "Referred to Subcommittee on Select Education.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-10-23", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "text": "Subcommittee on Select Education Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-10-23", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-10-23", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended).", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1985-10-24", 
+      "references": [], 
+      "text": "Reported to House (Amended) by House Committee on Education and Labor.  Report No: 99-327.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-10-24", 
+      "references": [], 
+      "text": "Placed on Union Calendar No: 195.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-10-28", 
+      "references": [], 
+      "text": "Called up by House Under Suspension of Rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-10-28", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "Passed House (Amended) by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1985-10-29", 
+      "committee": "Committee on Governmental Affairs", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-11-13", 
+      "references": [], 
+      "text": "Senate Committee on Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-11-13", 
+      "references": [], 
+      "text": "Measure laid before Senate by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-11-13", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with amendments by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1985-11-14", 
+      "references": [], 
+      "text": "House Agreed to Senate Amendments by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-11-14", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1985-11-15", 
+      "references": [], 
+      "text": "Measure Signed in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-11-15", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1985-11-25", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1985-11-25", 
+      "congress": "99", 
+      "law": "public", 
+      "number": "161", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 99-161.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s1037-99", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1037"
+    }, 
+    {
+      "amendment_id": "s1038-99", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "1038"
+    }
+  ], 
+  "bill_id": "hr3447-99", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Select Education", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "Senate Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "99", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Howard, James J.", 
+      "sponsored_at": "1985-09-26", 
+      "state": "NJ", 
+      "thomas_id": "00564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "99", 
+    "law_type": "public", 
+    "number": "161"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1985-11-25", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1985-10-28", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1985-11-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1985-09-26", 
+  "number": "3447", 
+  "official_title": "A bill to amend and extend the Congressional Award Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Congressional Award Amendments of 1985", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Williams, Pat", 
+    "state": "MT", 
+    "thomas_id": "01231", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1985-11-25", 
+  "subjects": [
+    "Advisory bodies", 
+    "Awards, medals, prizes", 
+    "Commemorations", 
+    "Congressional oversight", 
+    "Congressional tributes", 
+    "Cost accounting", 
+    "Education", 
+    "Federal advisory bodies", 
+    "Fiscal policy", 
+    "Members of Congress", 
+    "Scholarships", 
+    "Student aid"
+  ], 
+  "subjects_top_term": "Congressional tributes", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1985-11-13", 
+    "text": "(Measure passed Senate, amended) Congressional Award Amendments of 1985 - Amends the Congressional Award Act to require the congressional leaders responsible for appointing members to the Congressional Award Board to each appoint a Member of Congress to such Board. Changes the present staggered terms of Board members to terms of four years, unless such members are reappointed. Changes the termination date of the Board from November 16, 1985 to November 16, 1988. Limits the annual salary of Board members to a specified amount. Allows, after calendar year 1986, an increase in such amount in proportion to the Consumer Price Index. Authorizes the Board to award scholarships to recipients of Congressional Award Gold, Silver, and Bronze Medals. (Currently, scholarships are awarded only to recipients of gold medals.) Requires the Board to report the administrative expenditures of each member, officer, employee, and consultant in its annual report. Requires the Board to meet at least twice a year with at least one meeting in the District of Columbia. (Currently, the Board is required to meet once annually.) Requires the Board's bylaws and regulations to include provisions to prevent any conflict of interest in procurement and employment actions. Requires such bylaws to include appropriate fiscal control, funds accountability, and operating principles to ensure compliance with the general operating and expenditure authority of the Board. Requires that a copy of such bylaws be submitted to the Congress within 90 days of enactment of this Act, and not later than ten days after revisions. Authorizes the Board to permit donors to use its name or the name \"Congressional Award Program\" in advertising. Requires the General Accounting Office to audit and evaluate the Board at least biennially and report on the first audit after the enactment of this Act by May 15, 1988."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Congressional Award Amendments", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "title": "Congressional Award Amendments of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "title": "Congressional Award Amendments of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "title": "Congressional Award Amendments of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Congressional Award Amendments of 1985", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to amend and extend the Congressional Award Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:57:49-05:00"
+}

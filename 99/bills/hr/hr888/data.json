@@ -1,0 +1,574 @@
+{
+  "actions": [
+    {
+      "acted_at": "1985-01-31", 
+      "committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Education and Labor.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-03-04", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "subcommittee": "Select Education", 
+      "text": "Referred to Subcommittee on Select Education.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-03-04", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "subcommittee": "Employment Opportunities", 
+      "text": "Referred to Subcommittee on Employment Opportunities.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1985-09-25", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "text": "Executive Comment Requested from Education, Labor, HHS, ACTION.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1985-09-25", 
+      "in_committee": "House Committee on Education and Labor", 
+      "references": [], 
+      "text": "Executive Comment Received From Education, Labor, HHS, ACTION.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr888-99", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Select Education", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Employment Opportunities", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "99", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Abercrombie, Neil", 
+      "sponsored_at": "1986-10-08", 
+      "state": "HI", 
+      "thomas_id": "00002", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Barnes, Michael D.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "MD", 
+      "thomas_id": "00055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Beilenson, Anthony C.", 
+      "sponsored_at": "1985-01-31", 
+      "state": "CA", 
+      "thomas_id": "00072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blaz, Ben G.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "GU", 
+      "thomas_id": "00096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "1986-10-08", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Bryant, John W.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "TX", 
+      "thomas_id": "00142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Collins, Cardiss", 
+      "sponsored_at": "1985-09-26", 
+      "state": "IL", 
+      "thomas_id": "00220", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Conyers, John, Jr.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Crockett, George W., Jr.", 
+      "sponsored_at": "1985-03-06", 
+      "state": "MI", 
+      "thomas_id": "00252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Edgar, Robert W.", 
+      "sponsored_at": "1985-06-05", 
+      "state": "PA", 
+      "thomas_id": "00334", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Edwards, Don", 
+      "sponsored_at": "1985-02-21", 
+      "state": "CA", 
+      "thomas_id": "00336", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fauntroy, Walter E.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "DC", 
+      "thomas_id": "00372", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fazio, Vic", 
+      "sponsored_at": "1985-02-21", 
+      "state": "CA", 
+      "thomas_id": "00374", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Ford, Harold E.", 
+      "sponsored_at": "1985-04-04", 
+      "state": "TN", 
+      "thomas_id": "00400", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fuster, Jamie B.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "PR", 
+      "thomas_id": "00424", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Henry B.", 
+      "sponsored_at": "1985-09-26", 
+      "state": "TX", 
+      "thomas_id": "00445", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Guarini, Frank J.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "NJ", 
+      "thomas_id": "00472", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hayes, Charles A.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "IL", 
+      "thomas_id": "00516", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Heftel, Cecil", 
+      "sponsored_at": "1985-02-21", 
+      "state": "HI", 
+      "thomas_id": "00526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "98", 
+      "name": "Jeffords, James M.", 
+      "sponsored_at": "1985-01-31", 
+      "state": "VT", 
+      "thomas_id": "00593", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "sponsored_at": "1985-03-06", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Levin, Sander M.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "27", 
+      "name": "Levine, Mel", 
+      "sponsored_at": "1986-10-08", 
+      "state": "CA", 
+      "thomas_id": "00684", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Manton, Thomas J.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "NY", 
+      "thomas_id": "00732", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "30", 
+      "name": "Martinez, Matthew G.", 
+      "sponsored_at": "1985-01-31", 
+      "state": "CA", 
+      "thomas_id": "00743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Matsui, Robert T.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "CA", 
+      "thomas_id": "00748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Mikulski, Barbara A.", 
+      "sponsored_at": "1985-09-26", 
+      "state": "MD", 
+      "thomas_id": "00802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Mineta, Norman Y.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "CA", 
+      "thomas_id": "00812", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mitchell, Parren J.", 
+      "sponsored_at": "1985-03-06", 
+      "state": "MD", 
+      "thomas_id": "00818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Moody, Jim", 
+      "sponsored_at": "1985-02-21", 
+      "state": "WI", 
+      "thomas_id": "00828", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Morrison, Sid", 
+      "sponsored_at": "1985-03-06", 
+      "state": "WA", 
+      "thomas_id": "00836", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Murphy, Austin J.", 
+      "sponsored_at": "1985-03-06", 
+      "state": "PA", 
+      "thomas_id": "00841", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Neal, Stephen L.", 
+      "sponsored_at": "1985-03-06", 
+      "state": "NC", 
+      "thomas_id": "00855", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Owens, Major R.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "NY", 
+      "thomas_id": "00883", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rahall, Nick J., II", 
+      "sponsored_at": "1985-09-26", 
+      "state": "WV", 
+      "thomas_id": "00940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Richardson, Bill", 
+      "sponsored_at": "1986-10-08", 
+      "state": "NM", 
+      "thomas_id": "00958", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Rose, Charlie", 
+      "sponsored_at": "1985-02-21", 
+      "state": "NC", 
+      "thomas_id": "00986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Sikorski, Gerry E.", 
+      "sponsored_at": "1985-06-05", 
+      "state": "MN", 
+      "thomas_id": "01057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Stokes, Louis", 
+      "sponsored_at": "1985-02-21", 
+      "state": "OH", 
+      "thomas_id": "01115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sunia, Foto I. F.", 
+      "sponsored_at": "1985-03-06", 
+      "state": "AS", 
+      "thomas_id": "01126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "34", 
+      "name": "Torres, Estaban Edward", 
+      "sponsored_at": "1985-03-06", 
+      "state": "CA", 
+      "thomas_id": "01162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Towns, Edolphus", 
+      "sponsored_at": "1985-02-21", 
+      "state": "NY", 
+      "thomas_id": "01165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Traficant, James A., Jr.", 
+      "sponsored_at": "1986-10-08", 
+      "state": "OH", 
+      "thomas_id": "01166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Vento, Bruce F.", 
+      "sponsored_at": "1985-02-21", 
+      "state": "MN", 
+      "thomas_id": "01185", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Weiss, Ted", 
+      "sponsored_at": "1985-04-04", 
+      "state": "NY", 
+      "thomas_id": "01213", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Williams, Pat", 
+      "sponsored_at": "1985-02-21", 
+      "state": "MT", 
+      "thomas_id": "01231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1985-01-31", 
+  "number": "888", 
+  "official_title": "A bill to authorize the Secretary of Health and Human Services to provide grants to States and units of general local government for youth service projects, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Voluntary National Youth Service Act", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Panetta, Leon", 
+    "state": "CA", 
+    "thomas_id": "00888", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1985-01-31", 
+  "subjects": [
+    "Children and youth", 
+    "Employment and training programs", 
+    "Grants-in-aid", 
+    "Labor and employment", 
+    "Local and Municipal Government", 
+    "Local finance", 
+    "Nondiscrimination provisions", 
+    "Poor", 
+    "Public service employment", 
+    "State finance", 
+    "States", 
+    "Unemployed", 
+    "Volunteer workers", 
+    "Youth employment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1985-01-31", 
+    "text": "Voluntary National Youth Service Act - Authorizes the Secretary of Health and Human Services to make grants to eligible States and local governments for youth service projects. Requires the Secretary to designate specified activities as service categories in which project participants may serve. Sets forth criteria for such designations. Sets forth types of positions which such service categories may include. Sets forth grant eligibility requirements for States and local governments, including requirements for plans and matching funds. Requires that specified percentages of poor persons and of unemployed persons participate in such projects. Sets forth requirements relating to the amount of wages, benefits, and subsistence allowances for project participants. Requires the Secretary to distribute such grants among eligible States and local governments on the basis of which ones will best use such funds, as determined on the basis of the plans submitted. Sets forth nondiscrimination provisions. Requires that project participants be not less than 17 and not more than 24 years old. Prohibits any person from serving on such a project for more than a two-year period. Requires participants to agree to serve for at least a six-month period. Prohibits acceptance for project service of any person who does not hold a high school diploma or its equivalent, unless such person has not been enrolled as a high school student during the three-month period before the date of such acceptance. Limits to 15 percent of any such grant the amount which may be used for administrative expenses. Sets forth project grant review and reporting requirements. Directs the Secretary to report annually to the President and the Congress on the activities conducted under this Act. Authorizes appropriations for FY 1986 and succeeding fiscal years."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Voluntary National Youth Service Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to authorize the Secretary of Health and Human Services to provide grants to States and units of general local government for youth service projects, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:56:41-05:00"
+}

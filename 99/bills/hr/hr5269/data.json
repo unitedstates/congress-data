@@ -1,0 +1,433 @@
+{
+  "actions": [
+    {
+      "acted_at": "1986-07-29", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-07-29", 
+      "committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "Referred to House Committee on The Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-08-05", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Health and the Environment", 
+      "text": "Referred to Subcommittee on Health and the Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-08-07", 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "subcommittee": "Crime", 
+      "text": "Referred to Subcommittee on Crime.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1986-08-07", 
+      "in_committee": "House Committee on The Judiciary", 
+      "in_subcommittee": "Crime", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1986-10-27", 
+      "bill_ids": [
+        "hr5484-99"
+      ], 
+      "in_committee": "House Committee on The Judiciary", 
+      "references": [], 
+      "text": "See H.R.5484.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5269-99", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health and Environment", 
+      "subcommittee_id": "04"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime", 
+      "subcommittee_id": "06"
+    }
+  ], 
+  "congress": "99", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "AuCoin, Les", 
+      "sponsored_at": "1986-08-14", 
+      "state": "OR", 
+      "thomas_id": "00036", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Bennett, Charles E.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "FL", 
+      "thomas_id": "00077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Bryant, John W.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "TX", 
+      "thomas_id": "00142", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Coleman, Ronald D.", 
+      "sponsored_at": "1986-07-29", 
+      "state": "TX", 
+      "thomas_id": "00217", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Daniel, W. C. (Dan)", 
+      "sponsored_at": "1986-07-29", 
+      "state": "VA", 
+      "thomas_id": "00261", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Dwyer, Bernard J.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "NJ", 
+      "thomas_id": "00327", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Edwards, Mickey", 
+      "sponsored_at": "1986-07-29", 
+      "state": "OK", 
+      "thomas_id": "00338", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fazio, Vic", 
+      "sponsored_at": "1986-08-14", 
+      "state": "CA", 
+      "thomas_id": "00374", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Fuster, Jamie B.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "PR", 
+      "thomas_id": "00424", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Gejdenson, Sam", 
+      "sponsored_at": "1986-08-14", 
+      "state": "CT", 
+      "thomas_id": "00431", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Gilman, Benjamin A.", 
+      "sponsored_at": "1986-07-29", 
+      "state": "NY", 
+      "thomas_id": "00440", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Gray, Kenneth J.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "IL", 
+      "thomas_id": "00459", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hefner, W. G. (Bill)", 
+      "sponsored_at": "1986-08-14", 
+      "state": "NC", 
+      "thomas_id": "00525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Hughes, William J.", 
+      "sponsored_at": "1986-07-29", 
+      "state": "NJ", 
+      "thomas_id": "00572", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "45", 
+      "name": "Hunter, Duncan", 
+      "sponsored_at": "1986-07-29", 
+      "state": "CA", 
+      "thomas_id": "00575", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Hutto, Earl", 
+      "sponsored_at": "1986-07-29", 
+      "state": "FL", 
+      "thomas_id": "00579", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Ireland, Andrew P.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "FL", 
+      "thomas_id": "00585", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Jones, James R.", 
+      "sponsored_at": "1986-07-29", 
+      "state": "OK", 
+      "thomas_id": "00609", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Lantos, Tom", 
+      "sponsored_at": "1986-08-14", 
+      "state": "CA", 
+      "thomas_id": "00663", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "McCurdy, Dave", 
+      "sponsored_at": "1986-07-29", 
+      "state": "OK", 
+      "thomas_id": "00764", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Mitchell, Parren J.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "MD", 
+      "thomas_id": "00818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Nichols, Bill", 
+      "sponsored_at": "1986-08-14", 
+      "state": "AL", 
+      "thomas_id": "00863", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Nowak, Henry", 
+      "sponsored_at": "1986-08-14", 
+      "state": "NY", 
+      "thomas_id": "00870", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Pepper, Claude", 
+      "sponsored_at": "1986-07-29", 
+      "state": "FL", 
+      "thomas_id": "00907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Rangel, Charles B.", 
+      "sponsored_at": "1986-07-29", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Russo, Martin A.", 
+      "sponsored_at": "1986-08-14", 
+      "state": "IL", 
+      "thomas_id": "01004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "1986-07-29", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Smith, Lawrence", 
+      "sponsored_at": "1986-07-29", 
+      "state": "FL", 
+      "thomas_id": "01077", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Walker, Robert S.", 
+      "sponsored_at": "1986-07-29", 
+      "state": "PA", 
+      "thomas_id": "01196", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Watkins, Wes", 
+      "sponsored_at": "1986-07-29", 
+      "state": "OK", 
+      "thomas_id": "01206", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "1986-07-29", 
+  "number": "5269", 
+  "official_title": "A bill to authorize appropriations for fiscal year 1987 for additional assistant United States attorneys and additional special agents of the Drug Enforcement Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5484-99", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Department of Justice Narcotics Control Act of 1986", 
+  "sponsor": {
+    "district": "6", 
+    "name": "English, Glenn", 
+    "state": "OK", 
+    "thomas_id": "00345", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "1986-07-29", 
+  "subjects": [
+    "Authorization", 
+    "Department of Justice", 
+    "Drug Enforcement Administration (DEA)", 
+    "Economics and public finance", 
+    "Government attorneys", 
+    "Government operations and politics", 
+    "Narcotic traffic", 
+    "Narcotics and crime", 
+    "Police communication systems", 
+    "U.S. Attorneys"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1986-07-29", 
+    "text": "Department of Justice Narcotics Control Act of 1986 - Authorizes appropriations for FY 1987 for: (1) additional assistant United States attorneys; and (2) the Drug Enforcement Administration for additional special agents and voice privacy radios."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Department of Justice Narcotics Control Act of 1986", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "A bill to authorize appropriations for fiscal year 1987 for additional assistant United States attorneys and additional special agents of the Drug Enforcement Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T19:58:36-05:00"
+}
