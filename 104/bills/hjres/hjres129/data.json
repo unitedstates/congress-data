@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-11-30", 
+      "committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1995-12-11", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "subcommittee": "Commercial and Administrative Law", 
+      "text": "Referred to the Subcommittee on Commercial and Administrative Law.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1996-02-29", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-02-29", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-02-29", 
+      "in_committee": "House Committee on the Judiciary", 
+      "in_subcommittee": "Commercial and Administrative Law", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-12", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-12", 
+      "in_committee": "House Committee on the Judiciary", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1996-03-18T15:42:00-05:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Judiciary. H. Rept. 104-485.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-18T15:43:00-05:00", 
+      "calendar": "House", 
+      "number": "194", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 194.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1996-03-19T14:56:00-05:00", 
+      "references": [], 
+      "text": "Mr. Gekas moved to suspend the rules and pass the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-19T14:57:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2339-2341", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-19T14:57:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-19T15:04:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1996-03-19T15:05:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-03-19T15:05:00-05:00", 
+      "bill_ids": [
+        "sjres38-104"
+      ], 
+      "references": [
+        {
+          "reference": "CR H2342", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Laid on the table. See S.J. Res. 38 for further action.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres129-104", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Commercial and Administrative Law", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Bass, Charles F.", 
+      "sponsored_at": "1995-11-30", 
+      "state": "NH", 
+      "thomas_id": "00063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1996-03-19T15:04:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1995-11-30", 
+  "number": "129", 
+  "official_title": "Granting the consent of Congress to the Vermont-New Hampshire Interstate Public Water Supply Compact.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sjres38-104", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "sjres38-104", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1996-03-19T15:04:00-05:00", 
+  "subjects": [
+    "Congress", 
+    "Congressional oversight", 
+    "Government operations and politics", 
+    "Infrastructure", 
+    "Interstate compacts", 
+    "New Hampshire", 
+    "Vermont", 
+    "Water resources development", 
+    "Water storage", 
+    "Water supply", 
+    "Water treatment plants"
+  ], 
+  "subjects_top_term": "Interstate compacts", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1995-11-30", 
+    "text": "Interstate Compact - Grants congressional consent to the Vermont-New Hampshire Interstate Public Water Supply Compact entered into between the States of Vermont and New Hampshire to erect and maintain joint public water supply facilities."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Granting the consent of Congress to the Vermont-New Hampshire Interstate Public Water Supply Compact.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:11-05:00"
+}

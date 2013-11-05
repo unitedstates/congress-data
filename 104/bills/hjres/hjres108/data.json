@@ -1,0 +1,253 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-09-27", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1995-09-27T19:31:00-04:00", 
+      "bill_ids": [
+        "hres230-104"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 230 Reported to House. Rule provides for consideration of H.J. Res. 108 with 1 hour of general debate. Motion to recommit allowed. Providing for the consideration of the joint resolution in the House. All points of order against the consideration of the joint resolution shall be waived. A motion to recommit the joint resolution shall be in order only if offered by Minority Leader or his designee. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-28T11:17:00-04:00", 
+      "bill_ids": [
+        "hres230-104"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 230 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-28T11:17:00-04:00", 
+      "bill_ids": [
+        "hres230-104"
+      ], 
+      "references": [
+        {
+          "reference": "CR H9604-9606", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 230.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-28T11:17:00-04:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.J. Res. 108 with 1 hour of general debate. Motion to recommit allowed. Providing for the consideration of the joint resolution in the House. All points of order against the consideration of the joint resolution shall be waived. A motion to recommit the joint resolution shall be in order only if offered by Minority Leader or his designee. Bill is closed to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-28T11:18:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-28T11:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1995-09-28T11:32:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-28", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-29", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S14637-14639", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1995-09-29", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-29", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1995-09-29", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1995-09-30", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1995-09-30", 
+      "congress": "104", 
+      "law": "public", 
+      "number": "31", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 104-31.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h826-104", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "826"
+    }
+  ], 
+  "bill_id": "hjres108-104", 
+  "bill_type": "hjres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "104", 
+    "law_type": "public", 
+    "number": "31"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1995-09-30", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1995-09-28T11:32:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1995-09-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1995-09-27", 
+  "number": "108", 
+  "official_title": "Making continuing appropriations for the fiscal year 1996, and for other purposes.", 
+  "popular_title": "Continuing Appropriation (first)", 
+  "related_bills": [
+    {
+      "bill_id": "hres230-104", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Livingston, Bob", 
+    "state": "LA", 
+    "thomas_id": "00696", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1995-09-30", 
+  "subjects": [
+    "Administrative fees", 
+    "Alaska", 
+    "Appropriations", 
+    "Armed forces and national security", 
+    "Commerce", 
+    "Conferences", 
+    "Congress", 
+    "Congressional agencies", 
+    "Continuing resolutions", 
+    "Defense budgets", 
+    "Defense procurement", 
+    "Department of the Interior", 
+    "Disabled", 
+    "District of Columbia", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational policy", 
+    "Environmental Protection Agency", 
+    "Environmental protection", 
+    "Executive reorganization", 
+    "Federal employees", 
+    "Federally-guaranteed loans", 
+    "Finance and financial sector", 
+    "Government lending", 
+    "Government operations and politics", 
+    "Government spending reductions", 
+    "Grants-in-aid", 
+    "Health", 
+    "Immigration", 
+    "Independent regulatory commissions", 
+    "Information services", 
+    "International affairs", 
+    "International agencies", 
+    "Labor and employment", 
+    "Law", 
+    "Layoffs", 
+    "Mine safety", 
+    "Mines and mineral resources", 
+    "Municipal budgets", 
+    "Occupational health and safety", 
+    "Payments in lieu of taxes", 
+    "Public lands and natural resources", 
+    "Securities and Exchange Commission", 
+    "Securities regulation", 
+    "Visas"
+  ], 
+  "subjects_top_term": "Appropriations", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1995-09-28", 
+    "text": "Makes continuing appropriations for FY 1996 for continuing projects and activities, including the costs of direct loans and loan guarantees, conducted in 1995 and for which appropriations or other authority would have been available in the following Acts: (1) the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1966; (2) the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1996; (3) the Department of Defense Appropriations Act, 1996; (4) the District of Columbia Appropriations Act, 1996; (5) the Energy and Water Development Appropriations Act, 1996; (6) the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1996; (7) the Department of the Interior and Related Agencies Appropriations Act, 1996; (8) the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1996; (9) the Legislative Branch Appropriations Act, 1996; (10) the Military Construction Appropriations Act, 1996; (11) the Department of Transportation Appropriations Act, 1996; (12) the Treasury, Postal Service, and General Government Appropriations Act, 1996; and (13) the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996. Sets the rates of such funding. Sets forth limitations on the use of such funds. (Sec. 112) Requires that whenever the rate for operations for any continuing project or activity provided for which there is a budget request would result in a furlough of Government employees, that rate for operations may be increased to a level that would enable the furlough to be avoided. (Sec. 113) Requires, with exceptions, that for those programs that had high initial rates of operation or complete distribution of funding at the beginning of FY 1995 because of distributions of funding to States, foreign countries, grantees, or others, similar distributions of funds for FY 1996 shall not be made and no grants shall be awarded for such programs funded by this resolution that would impinge on final funding prerogatives. (Sec. 115) Requires that the rate of operations for any continuing project or activity that have not been increased shall be reduced by five percent but shall not be reduced below the minimum level defined or below the level that would result in a furlough. (Sec. 116) Provides that section 132 of the District of Columbia Appropriations Act of 1988 (which provides that amounts appropriated for the Federal Payment to the District of Columbia shall not be subject to apportionment) shall not apply for this joint resolution. Provides for including in the apportionment for the Federal Payment to the District of Columbia an additional $217 million. (Sec. 117) Requires that the authority and conditions for the application of appropriations of the Office of Technology Assessment, as contained in House Report 104-212, shall be followed when applying the funding made available by this joint resolution. (Sec. 120) Requires the Securities and Exchange Commission's Salaries and Expenses account to include, in addition to direct appropriations, the amount it collects under the fee rate and offsetting collection authority. (Sec. 121) Requires that funding be made available for the necessary expenses of the Bureau of Mines for: (1) continuing limited health and safety and related research, materials partnerships, and minerals information activities; (2) mineral assessments in Alaska; and (3) terminating all other activities of the Bureau of Mines. (Sec. 122) Requires, with certain exceptions, that funds for the Environmental Protection Agency shall be made available in the appropriation accounts which are provided in H.R. 2099 as reported on September 13, 1995."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Continuing Appropriation (first)", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making continuing appropriations for the fiscal year 1996, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:36:10-05:00"
+}

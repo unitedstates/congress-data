@@ -1,0 +1,382 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-10-18", 
+      "committee": "House Committee on Appropriations", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Appropriations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1995-10-19T18:33:00-04:00", 
+      "bill_ids": [
+        "hres239-104"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 239 Reported to House. Rule provides for consideration of H.R. 2492 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Upon adoption of this resolution it shall be in order to consider the bill in the House. Measure will be read by section. Bill is open to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-10-31T11:53:00-05:00", 
+      "bill_ids": [
+        "hres239-104"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 239 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-10-31T11:53:00-05:00", 
+      "bill_ids": [
+        "hres239-104"
+      ], 
+      "references": [
+        {
+          "reference": "CR H11483-11501", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 239.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-10-31T11:53:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 2492 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Upon adoption of this resolution it shall be in order to consider the bill in the House. Measure will be read by section. Bill is open to amendments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-10-31T11:57:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-10-31T13:01:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "747", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 315 - 106 (Roll no. 747).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1995-10-31T13:01:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-11-01", 
+      "calendar": "Senate Legislative", 
+      "number": "220", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1995-11-02", 
+      "references": [
+        {
+          "reference": "CR S16571-16572", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-11-02", 
+      "how": "by Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1995-11-02", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-11-02", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1995-11-18", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1995-11-19", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1995-11-19", 
+      "congress": "104", 
+      "law": "public", 
+      "number": "53", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 104-53.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2492-104", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [], 
+  "enacted_as": {
+    "congress": "104", 
+    "law_type": "public", 
+    "number": "53"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1995-11-19", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1995-10-31T13:01:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1995-11-02", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1995-10-18", 
+  "number": "2492", 
+  "official_title": "Making appropriations for the Legislative Branch for the fiscal year ending September 30, 1996, and for other purposes.", 
+  "popular_title": "Appropriations bill FY96, Legislative Branch", 
+  "related_bills": [
+    {
+      "bill_id": "hres239-104", 
+      "reason": "rule"
+    }, 
+    {
+      "bill_id": "hr1854-104", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Legislative Branch Appropriations Act, 1996", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Packard, Ron", 
+    "state": "CA", 
+    "thomas_id": "00886", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1995-11-19", 
+  "subjects": [
+    "Administrative Conference of the U.S.", 
+    "Agriculture and food", 
+    "Albania", 
+    "Appropriations", 
+    "Art objects", 
+    "Arts, culture, religion", 
+    "Asbestos abatement", 
+    "Auditing", 
+    "Automobile repair", 
+    "Barber and beauty shops", 
+    "Blind", 
+    "Books", 
+    "Botanical gardens", 
+    "Budget deficits", 
+    "Buy American", 
+    "Capitol (Washington, D.C.)", 
+    "Civil rights and liberties, minority issues", 
+    "Claims", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional Record", 
+    "Congressional Research Service", 
+    "Congressional agencies", 
+    "Congressional allowances", 
+    "Congressional budget", 
+    "Congressional candidates", 
+    "Congressional committees (House)", 
+    "Congressional committees (Senate)", 
+    "Congressional elections (House)", 
+    "Congressional employees", 
+    "Congressional information resources", 
+    "Congressional investigations", 
+    "Congressional joint committees", 
+    "Congressional leadership", 
+    "Congressional mail", 
+    "Congressional newsletters and questionnaires", 
+    "Congressional office buildings", 
+    "Congressional officers", 
+    "Congressional oversight", 
+    "Congressional pages", 
+    "Congressional privileges and immunities", 
+    "Congressional publications", 
+    "Congressional reorganization", 
+    "Congressional salaries and pensions", 
+    "Congressional travel", 
+    "Copyright", 
+    "Costs", 
+    "Crime and law enforcement", 
+    "Cultural relations", 
+    "Data banks", 
+    "Day care", 
+    "Deficit reduction", 
+    "Delegation of powers", 
+    "Democracy", 
+    "Depository libraries", 
+    "Developing countries", 
+    "Disabled", 
+    "Discrimination in employment", 
+    "Dismissal wage", 
+    "Drug abuse", 
+    "Early retirement", 
+    "Economics and public finance", 
+    "Electronic data processing", 
+    "Employee rights", 
+    "Environmental protection", 
+    "Europe", 
+    "Federal budgets", 
+    "Federal employees", 
+    "Federal mandates", 
+    "Federal officials", 
+    "Fees", 
+    "Finance and financial sector", 
+    "Firearms", 
+    "Flags", 
+    "Flexible work hours", 
+    "Foreign trade and international finance", 
+    "Franking privilege", 
+    "Gifts", 
+    "Government consultants", 
+    "Government liability", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government procurement", 
+    "Government publications", 
+    "Government service contracts", 
+    "Government spending reductions", 
+    "Government vehicles", 
+    "Health", 
+    "Hours of labor", 
+    "House of Representatives", 
+    "Housing and community development", 
+    "Information services", 
+    "Information storage and retrieval systems", 
+    "Intellectual property", 
+    "International affairs", 
+    "Labor and employment", 
+    "Law", 
+    "Law enforcement officers", 
+    "Layoffs", 
+    "Leave of absence", 
+    "Legislative reference services", 
+    "Legislative resolutions", 
+    "Libraries", 
+    "Library of Congress", 
+    "Maintenance and repair", 
+    "Members of Congress (House)", 
+    "Members of Congress (Senate)", 
+    "Motor vehicles", 
+    "Narcotic traffic", 
+    "Office of Management and Budget", 
+    "Overhead costs", 
+    "Parking facilities", 
+    "Physicians", 
+    "Police", 
+    "Police training", 
+    "Printing", 
+    "Public lands and natural resources", 
+    "Relocation", 
+    "Reprogramming of appropriated funds", 
+    "Rescission of appropriated funds", 
+    "Restaurants", 
+    "Revolving funds", 
+    "Romania", 
+    "Russia", 
+    "Salaries", 
+    "Science, technology, communications", 
+    "Security measures", 
+    "Senate", 
+    "Sick leave", 
+    "Social welfare", 
+    "Strategic planning", 
+    "Surplus government property", 
+    "Tax auditing", 
+    "Tax refunds", 
+    "Taxation", 
+    "Technology assessment", 
+    "Telephone", 
+    "Temporary employment", 
+    "Transfer of employees", 
+    "Transportation and public works", 
+    "Travel costs", 
+    "Ukraine"
+  ], 
+  "subjects_top_term": "Appropriations", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1995-10-18", 
+    "text": "TABLE OF CONTENTS: Title I: Congressional Operations Title II: Other Agencies Title III: General Provisions Legislative Branch Appropriations Act, 1996 - Title I: Congressional Operations - Congressional Operations Appropriations Act, 1996 - Appropriates funds for FY 1996 for the Senate, the House of Representatives, and joint items between the House and the Senate. Prohibits the use of any funds appropriated for House Members' representational allowances, including official mail, to send unsolicited mass mailings within 90 days before an election in which the Member is a candidate. Makes FY 1996 appropriations for the: (1) Office of Compliance; (2) Office of Technology Assessment (to carry out its orderly closure); (3) Congressional Budget Office; (5) Congressional Research Service of the Library of Congress; and (6) Government Printing Office for congressional printing and binding. (Sec. 114) Directs the Architect of the Capitol to submit a proposal on how to transfer Office of Technology Assessment records and property to appropriate support agencies of the legislative branch, subject to approval of the House and Senate Appropriations Committees. Title II: Other Agencies - Appropriates FY 1996 funds for the: (1) Botanic Garden; (2) Library of Congress (with administrative limitations), including the Copyright Office and the Books for the Blind and Handicapped program; (3) Architect of the Capitol; (4) Government Printing Office; and (5) General Accounting Office. (Sec. 209) States that the purpose of this section is to reduce the cost of information support for the Congress by eliminating duplication among systems which provide electronic access by Congress to legislative information. Directs the Library to develop a plan for creation of a single legislative information retrieval system to serve the entire Congress. Requires the plan (which must be approved by the Senate Committee on Rules and Administration, the House Oversight Committee, and the House and Senate Appropriations Committees) to include an examination of the issues regarding efficient ways to make this information available to the public. (Sec. 210) Requires the FY 1997 budget submission by the Public Printer for the Government Printing Office to include appropriations requests and recommendations to the Congress that are consistent with specific strategic plans, that assure progress toward electronic information dissemination, and that are formulated so as to require that any government entity that does not make such progress shall bear from its own resources the cost of its information dissemination by other than electronic means. (Sec. 212) Directs the Comptroller General to prescribe regulations designed to effect a reduction in force of officers and employees of the General Accounting Office. Requires the regulations, to the extent feasible, to minimize disruption and promote efficiency in the Office. Title III: General Provisions - Prohibits any funds appropriated in this Act from being used for maintenance or care of private vehicles, except for emergencies. (Sec. 304) Limits the expenditure of any appropriation under this Act for consulting services to those contracts that are a matter of public record, except as provided under existing law or executive order. (Sec. 305) Expresses the sense of the Congress that, to the greatest extent possible, all equipment and products purchased with funds under this Act should be American-made. (Sec. 307) Prohibits the use of funds made available in this Act for the relocation of the office of any House member within the House office buildings."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "title": "Appropriations bill FY96, Legislative Branch", 
+      "type": "popular"
+    }, 
+    {
+      "as": null, 
+      "title": "Legislative Branch FY96 Appropriations bill", 
+      "type": "popular"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Legislative Branch Appropriations Act, 1996", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Congressional Operations Appropriations Act, 1996", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Legislative Branch Appropriations Act, 1996", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "title": "Congressional Operations Appropriations Act, 1996", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "Making appropriations for the Legislative Branch for the fiscal year ending September 30, 1996, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:55-05:00"
+}

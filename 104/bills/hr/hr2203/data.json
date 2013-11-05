@@ -1,0 +1,255 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-08-04", 
+      "committee": "House Committee on Banking and Financial Services", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Banking and Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1995-08-11", 
+      "in_committee": "House Committee on Banking and Financial Services", 
+      "references": [], 
+      "subcommittee": "Domestic and International Monetary Policy", 
+      "text": "Referred to the Subcommittee on Domestic and International Monetary Policy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1995-09-07", 
+      "in_committee": "House Committee on Banking and Financial Services", 
+      "in_subcommittee": "Domestic and International Monetary Policy", 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-07", 
+      "in_committee": "House Committee on Banking and Financial Services", 
+      "in_subcommittee": "Domestic and International Monetary Policy", 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-09-07", 
+      "in_committee": "House Committee on Banking and Financial Services", 
+      "in_subcommittee": "Domestic and International Monetary Policy", 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-19T11:27:00-05:00", 
+      "references": [], 
+      "text": "Mr. Castle moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-19T11:28:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H15107-15108", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-19T11:28:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-19T11:35:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1995-12-19T11:36:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-19", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-29", 
+      "how": "by Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S19311", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1995-12-29", 
+      "references": [], 
+      "text": "Cleared for White House.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1995-12-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-01-04", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "1996-01-11", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "1996-01-11", 
+      "congress": "104", 
+      "law": "public", 
+      "number": "97", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 104-97.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2203-104", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Banking and Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Banking and Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Domestic and International Monetary Policy", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Flake, Floyd H.", 
+      "sponsored_at": "1995-08-04", 
+      "state": "NY", 
+      "thomas_id": "00388", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Gonzalez, Henry B.", 
+      "sponsored_at": "1995-08-04", 
+      "state": "TX", 
+      "thomas_id": "00445", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "104", 
+    "law_type": "public", 
+    "number": "97"
+  }, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "1996-01-11", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1995-12-19T11:35:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1995-12-29", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1995-08-04", 
+  "number": "2203", 
+  "official_title": "To reauthorize the tied aid credit program of the Export-Import Bank of the United States, and to allow the Export-Import Bank to conduct a demonstration project.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1309-104", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Castle, Michael N.", 
+    "state": "DE", 
+    "thomas_id": "00183", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "1996-01-11", 
+  "subjects": [
+    "American economic assistance", 
+    "American military assistance", 
+    "Authorization", 
+    "Commerce", 
+    "Economics and public finance", 
+    "Export credit", 
+    "Export-Import Bank of the United States", 
+    "Federal employees", 
+    "Finance and financial sector", 
+    "Foreign loans", 
+    "Foreign trade and international finance", 
+    "Government corporations", 
+    "Government operations and politics", 
+    "Government procurement", 
+    "International affairs", 
+    "Labor and employment", 
+    "Personnel management"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1995-12-19", 
+    "text": "Amends the Export-Import Bank Act of 1945 to reauthorize the tied aid credit program of the Export-Import Bank of the United States through September 30, 1997. Authorizes the Bank to conduct a demonstration project relating to personnel management policies or procedures."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To reauthorize the tied aid credit program of the Export-Import Bank of the United States, and to allow the Export-Import Bank to conduct a demonstration project.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:34:47-05:00"
+}

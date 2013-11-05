@@ -1,0 +1,239 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-12-12", 
+      "committee": "House Committee on Rules", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Rules.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1995-12-21T20:55:00-05:00", 
+      "bill_ids": [
+        "hres322-104"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 322 Reported to House. Rule provides for consideration of H. Res. 299 with 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions. Providing for the consideration of H. Res. 299 in the House and waiving all points of order against a motion to amend the resolution printed in the report of the Committee on Rules accompanying this resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-22T11:26:00-05:00", 
+      "bill_ids": [
+        "hres322-104"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 322 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-22T11:26:00-05:00", 
+      "bill_ids": [
+        "hres322-104"
+      ], 
+      "references": [
+        {
+          "reference": "CR H15594-15599", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 322.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-22T11:27:00-05:00", 
+      "references": [], 
+      "text": "Rule provides for consideration of H. Res. 299 with 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions. Providing for the consideration of H. Res. 299 in the House and waiving all points of order against a motion to amend the resolution printed in the report of the Committee on Rules accompanying this resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-22T11:32:00-05:00", 
+      "bill_ids": [
+        "hres322-104"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 322, the House proceed with 30 minutes of debate on the Solomon amendment and the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-22T12:12:00-05:00", 
+      "references": [], 
+      "text": "The previous question was ordered on the amendment and the resolution pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-12-22T12:50:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "883", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by recorded vote: 259 - 128, 2 Present (Roll no. 883).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1995-12-22T12:50:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "h925-104", 
+      "amendment_type": "h", 
+      "chamber": "h", 
+      "number": "925"
+    }
+  ], 
+  "bill_id": "hres299-104", 
+  "bill_type": "hres", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Borski, Robert A.", 
+      "sponsored_at": "1995-12-12", 
+      "state": "PA", 
+      "thomas_id": "00111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "1995-12-12", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "1995-12-12", 
+      "state": "FL", 
+      "thomas_id": "00450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Hobson, David L.", 
+      "sponsored_at": "1995-12-12", 
+      "state": "OH", 
+      "thomas_id": "00545", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "1995-12-12", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Pelosi, Nancy", 
+      "sponsored_at": "1995-12-12", 
+      "state": "CA", 
+      "thomas_id": "00905", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Sawyer, Thomas C.", 
+      "sponsored_at": "1995-12-12", 
+      "state": "OH", 
+      "thomas_id": "01022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Schiff, Steven", 
+      "sponsored_at": "1995-12-12", 
+      "state": "NM", 
+      "thomas_id": "01030", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1995-12-22T12:50:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1995-12-12", 
+  "number": "299", 
+  "official_title": "To amend the Rules of the House of Representatives regarding outside earned income.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres322-104", 
+      "reason": "rule"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Johnson, Nancy L.", 
+    "state": "CT", 
+    "thomas_id": "00602", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "1995-12-22T12:50:00-05:00", 
+  "subjects": [
+    "Arts, culture, religion", 
+    "Authors and authorship", 
+    "Books", 
+    "Congress", 
+    "Congressional employees", 
+    "Congressional ethics", 
+    "Congressional officers", 
+    "Contracts", 
+    "Copyright royalties", 
+    "Earnings", 
+    "Government operations and politics", 
+    "House of Representatives", 
+    "House rules and procedure", 
+    "Intellectual property", 
+    "Members of Congress (House)", 
+    "Publishers and publishing"
+  ], 
+  "subjects_top_term": "House of Representatives", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "1995-12-22", 
+    "text": "Amends rule XLVII (regarding limitations on outside employment and earned income) of the Rules of the House of Representatives to prohibit a Member, officer, or employee of the House from receiving: (1) advance payments on copyright royalties; or (2) copyright royalties pursuant to a contract entered into on or after January 1, 1996, unless the contract is first approved by the Committee on Standards of Official Conduct and such royalties are received from an established publisher pursuant to usual and customary contractual terms. Allows any literary agent, researcher, or other individual (other than a House employee or a relative of a Member, officer, or employee) working on behalf of a Member, officer, or employee with respect to a publication to receive an advance payment of a copyright royalty directly from a publisher and solely for the benefit of that literary agent, researcher, or other individual."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To amend the Rules of the House of Representatives regarding outside earned income.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:33:30-05:00"
+}

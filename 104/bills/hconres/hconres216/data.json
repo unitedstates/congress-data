@@ -1,0 +1,258 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-09-24", 
+      "committee": "House Committee on House Oversight", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Oversight.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1996-09-26T19:28:00-04:00", 
+      "references": [], 
+      "text": "Committee on House Oversight discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-09-26T19:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H11358-11359", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-09-26T19:29:00-04:00", 
+      "references": [], 
+      "text": "Mrs. Morella asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-09-26T19:35:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1996-09-26T19:35:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-09-27", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S11573", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1996-09-28", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres216-104", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Oversight", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Dunn, Jennifer", 
+      "sponsored_at": "1996-09-24", 
+      "state": "WA", 
+      "thomas_id": "00324", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Fawell, Harris W.", 
+      "sponsored_at": "1996-09-26", 
+      "state": "IL", 
+      "thomas_id": "00373", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "1996-09-24", 
+      "state": "FL", 
+      "thomas_id": "00404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Johnson, Nancy L.", 
+      "sponsored_at": "1996-09-24", 
+      "state": "CT", 
+      "thomas_id": "00602", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Kelly, Sue W.", 
+      "sponsored_at": "1996-09-24", 
+      "state": "NY", 
+      "thomas_id": "00624", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Meyers, Jan", 
+      "sponsored_at": "1996-09-24", 
+      "state": "KS", 
+      "thomas_id": "00794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Molinari, Susan", 
+      "sponsored_at": "1996-09-24", 
+      "state": "NY", 
+      "thomas_id": "00823", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Myrick, Sue Wilkins", 
+      "sponsored_at": "1996-09-24", 
+      "state": "NC", 
+      "thomas_id": "00849", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Roukema, Marge", 
+      "sponsored_at": "1996-09-24", 
+      "state": "NJ", 
+      "thomas_id": "00990", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Seastrand, Andrea H.", 
+      "sponsored_at": "1996-09-24", 
+      "state": "CA", 
+      "thomas_id": "01038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Vucanovich, Barbara F.", 
+      "sponsored_at": "1996-09-24", 
+      "state": "NV", 
+      "thomas_id": "01190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Waldholtz, Enid Greene", 
+      "sponsored_at": "1996-09-24", 
+      "state": "UT", 
+      "thomas_id": "01192", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1996-09-26T19:35:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1996-09-27", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1996-09-24", 
+  "number": "216", 
+  "official_title": "Providing for relocation of the Portrait Monument.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sconres21-104", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "8", 
+    "name": "Morella, Constance A.", 
+    "state": "MD", 
+    "thomas_id": "00833", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "1996-09-27", 
+  "subjects": [
+    "Anniversaries", 
+    "Arts, culture, religion", 
+    "Capitol (Washington, D.C.)", 
+    "Civil rights and liberties, minority issues", 
+    "Commemorations", 
+    "Federal advisory bodies", 
+    "Government operations and politics", 
+    "Monuments and memorials", 
+    "Rights of women", 
+    "Sculpture", 
+    "Women", 
+    "Women's voting"
+  ], 
+  "subjects_top_term": "Monuments and memorials", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1996-09-24", 
+    "text": "Directs the Architect of the Capitol to: (1) restore the Portrait Monument (a statue of Lucretia Mott, Elizabeth Cady Stanton, and Susan B. Anthony) and place it in the Rotunda of the Capitol for one year at which time it, along with an appropriate educational display, shall be moved to a permanent site and an alternative statue shall be placed in the Rotunda; and (2) make all necessary arrangements for a rededication ceremony of the Monument in the Rotunda in conjunction with the Woman Suffrage Statue Campaign. Establishes a commission to: (1) select the permanent site; (2) plan and develop the educational display that described some of the most dramatic events of the suffragettes' lives; and (3) select the alternative statue to commemorate the struggle of women in America for equal rights. Prohibits use of Federal funds to pay any expense of the educational display or of restoring, moving, or relocating the Monument."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Providing for relocation of the Portrait Monument.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:57-05:00"
+}

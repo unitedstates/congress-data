@@ -1,0 +1,276 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-07-23", 
+      "committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1996-07-24", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-24", 
+      "in_committee": "House Committee on Commerce", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1996-07-26T15:04:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Commerce. H. Rept. 104-712.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-26T15:04:00-04:00", 
+      "calendar": "Union", 
+      "number": "379", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 379.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1996-07-30T10:15:00-04:00", 
+      "references": [], 
+      "text": "Mr. Schaefer moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-30T10:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H8671-8672", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-30T10:15:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-30T10:21:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1996-07-30T10:21:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-07-31", 
+      "calendar": "Senate Legislative", 
+      "number": "556", 
+      "references": [], 
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "1996-09-28", 
+      "references": [
+        {
+          "reference": "CR S11669-11670", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Measure laid before Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-09-28", 
+      "references": [], 
+      "text": "Amendment SP 5415 proposed by Senator Lott for Senator Murkowski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-09-28", 
+      "references": [], 
+      "text": "Amendment SP 5415 agreed to in Senate by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-09-28", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "1996-09-30", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "s5415-104", 
+      "amendment_type": "s", 
+      "chamber": "s", 
+      "number": "5415"
+    }
+  ], 
+  "bill_id": "hr3868-104", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1996-07-30T10:21:00-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "1996-09-28", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1996-07-23", 
+  "number": "3868", 
+  "official_title": "To extend certain programs under the Energy Policy and Conservation Act through September 30, 1996.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1888-104", 
+      "reason": "identical"
+    }, 
+    {
+      "bill_id": "s1888-104", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "6", 
+    "name": "Schaefer, Dan", 
+    "state": "CO", 
+    "thomas_id": "01026", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_BACK:SENATE", 
+  "status_at": "1996-09-28", 
+  "subjects": [
+    "Administrative procedure", 
+    "Air pollution control", 
+    "Alternative energy sources", 
+    "Alternative fuels", 
+    "Antitrust actions", 
+    "Antitrust law", 
+    "Armed forces and national security", 
+    "Authorization", 
+    "Automobile fuel consumption", 
+    "Coal", 
+    "Coal reserves", 
+    "Commerce", 
+    "Competition", 
+    "Congress", 
+    "Congressional oversight", 
+    "Congressional reporting requirements", 
+    "Continental shelf", 
+    "Department of Energy", 
+    "Department of Justice", 
+    "Economic impact statements", 
+    "Economics and public finance", 
+    "Education", 
+    "Educational facilities", 
+    "Educational policy", 
+    "Emergency management", 
+    "Energy", 
+    "Energy conservation", 
+    "Energy efficiency", 
+    "Energy industries", 
+    "Energy policy", 
+    "Energy shortages", 
+    "Energy supplies", 
+    "Environmental protection", 
+    "Export controls", 
+    "Export finance", 
+    "Exports", 
+    "Federal aid to education", 
+    "Federal aid to hospitals", 
+    "Feedstock", 
+    "Foreign trade and international finance", 
+    "Foreign trade promotion", 
+    "Fuel allocation", 
+    "Gas in submerged lands", 
+    "Government operations and politics", 
+    "Government paperwork", 
+    "Government trust funds", 
+    "Health", 
+    "Housing and community development", 
+    "International affairs", 
+    "International cooperation", 
+    "Law", 
+    "Marine and coastal resources, fisheries", 
+    "Natural gas", 
+    "Natural gas reserves", 
+    "Oil and gas leases", 
+    "Petrochemicals", 
+    "Petroleum", 
+    "Petroleum in submerged lands", 
+    "Petroleum industry", 
+    "Petroleum prices", 
+    "Petroleum reserves", 
+    "Petroleum storage", 
+    "Public lands and natural resources", 
+    "Residential energy conservation", 
+    "Science, technology, communications", 
+    "Small business", 
+    "Strategic materials", 
+    "Technology transfer", 
+    "Transportation and public works", 
+    "Trucks"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Passed Senate amended", 
+    "date": "1996-09-28", 
+    "text": "Amends the Energy Policy and Conservation Act (EPCA) to authorize appropriations for FY 1997 for the Strategic Petroleum Reserve and for programs promoting the domestic renewable energy industry and related service industries. Revises the exclusivity requirements for international voluntary agreements to make EPCA requirements the sole procedures for implementing international emergency response provisions of such agreements, defined as the international petroleum allocation and information provisions currently covered, as well as specified additional emergency response measures. Changes from mandatory to discretionary the authority of the Attorney General to promulgate recordkeeping rules with respect to voluntary agreements and plans of action. Requires the Attorney General and the Federal Trade Commission to make competition and small business impact reports to the President and the Congress at least annually (currently, semiannually), or once every six months during an international energy supply emergency. States that the antitrust defense under EPCA shall not extend to the international allocation of petroleum products unless allocation is required by the international energy program during an international energy supply emergency. Extends from June 30, 1996, to September 30, 1997, all authorities relating to: (1) domestic energy supply availability (including the Strategic Petroleum Reserve and contracting authority for foreign-owned petroleum products); and (2) energy emergency preparedness. Authorizes appropriations for FY 1997 for: (1) State energy conservation programs and the Federal financial and technical assistance in support of such programs; (2) grants for project costs and technical assistance to schools and hospitals for implementing approved energy conservation projects; and (3) the alternative fuels truck commercial application program. (Sec. 2) Amends the Energy Conservation and Production Act to authorize appropriations for FY 1997 for the weatherization program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "To extend certain programs under the Energy Policy and Conservation Act through September 30, 1996.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:40-05:00"
+}

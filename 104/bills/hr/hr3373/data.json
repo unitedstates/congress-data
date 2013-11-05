@@ -1,0 +1,323 @@
+{
+  "actions": [
+    {
+      "acted_at": "1996-05-01", 
+      "committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1996-05-08", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-08", 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "1996-05-10T12:51:00-04:00", 
+      "references": [], 
+      "text": "Reported by the Committee on Veterans' Affairs. H. Rept. 104-572.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-10T12:51:00-04:00", 
+      "calendar": "Union", 
+      "number": "281", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 281.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "1996-05-21T14:35:00-04:00", 
+      "references": [], 
+      "text": "Mr. Stump moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-21T14:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5313-5315", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-21T14:36:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-21T14:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1996-05-21T14:49:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1996-05-22", 
+      "committee": "Committee on Veterans", 
+      "references": [], 
+      "text": "Received in the Senate and read twice and referred to the Committee on Veterans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1996-09-28", 
+      "bill_ids": [
+        "s1711-104"
+      ], 
+      "in_committee": "House Committee on Veterans' Affairs", 
+      "references": [], 
+      "text": "See S.1711.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3373-104", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "1996-05-10", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "sponsored_at": "1996-05-10", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Buyer, Stephen E.", 
+      "sponsored_at": "1996-05-10", 
+      "state": "IN", 
+      "thomas_id": "00160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Clement, Bob", 
+      "sponsored_at": "1996-05-10", 
+      "state": "TN", 
+      "thomas_id": "00205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Cooley, Wes", 
+      "sponsored_at": "1996-05-10", 
+      "state": "OR", 
+      "thomas_id": "00230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Evans, Lane", 
+      "sponsored_at": "1996-05-01", 
+      "state": "IL", 
+      "thomas_id": "00361", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "50", 
+      "name": "Filner, Bob", 
+      "sponsored_at": "1996-05-10", 
+      "state": "CA", 
+      "thomas_id": "00381", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Flanagan, Michael Patrick", 
+      "sponsored_at": "1996-05-10", 
+      "state": "IL", 
+      "thomas_id": "00389", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Hutchinson, Tim", 
+      "sponsored_at": "1996-05-10", 
+      "state": "AR", 
+      "thomas_id": "00578", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Mascara, Frank", 
+      "sponsored_at": "1996-05-10", 
+      "state": "PA", 
+      "thomas_id": "00745", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Montgomery, G. V. (Sonny)", 
+      "sponsored_at": "1996-05-01", 
+      "state": "MS", 
+      "thomas_id": "00827", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "1996-05-10", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Stump, Bob", 
+      "sponsored_at": "1996-05-01", 
+      "state": "AZ", 
+      "thomas_id": "01122", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1996-05-21T14:48:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1996-05-01", 
+  "number": "3373", 
+  "official_title": "To amend title 38, United States Code, to improve certain veterans' benefits programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2843-104", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr2850-104", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "hr3036-104", 
+      "reason": "related"
+    }, 
+    {
+      "bill_id": "s1711-104", 
+      "reason": "related"
+    }
+  ], 
+  "short_title": "Veterans' Benefits Amendments of 1996", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Everett, Terry", 
+    "state": "AL", 
+    "thomas_id": "00364", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1996-05-21T14:48:00-04:00", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Armed forces reserves", 
+    "Cemeteries and funerals", 
+    "Department of Veterans Affairs", 
+    "District of Columbia", 
+    "Education", 
+    "Educational policy", 
+    "Families", 
+    "Federal office buildings", 
+    "Finance and financial sector", 
+    "Government life insurance", 
+    "Government operations and politics", 
+    "Higher education", 
+    "Information services", 
+    "Life insurance", 
+    "Military dependents", 
+    "Names", 
+    "Students", 
+    "Veterans' education"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1996-05-01", 
+    "text": "TABLE OF CONTENTS: Title I: Insurance Reform Title II: Other Matters Veterans' Benefits Amendments of 1996 - Title I: Insurance Reform - Amends the Servicemen's Group Life Insurance (SGLI) Program to exclude from coverage under such Program members assigned or transferred to the Retired Reserve. Provides that, upon termination of active-duty service, a person's coverage under SGLI: (1) shall be automatically converted to Veterans' Group Life Insurance (VGLI), subject to the payment of premiums and other applicable terms and conditions; or (2) shall, at the election of the member, be converted to an individual insurance policy with a participating private insurer selected by the member. Outlines VGLI coverage limits in the case of any person insured under VGLI who becomes insured under SGLI but dies before terminating or converting the VGLI coverage. Terminates VGLI coverage on the effective date of an individual insurance policy with a private insurer. Directs the Secretary of the military department concerned to provide military personnel with general information concerning life insurance whenever they have the opportunity to elect not to be insured under SGLI or to be insured in an amount less than the maximum $200,000 coverage. Redesignates the Servicemen's Life Insurance Program as the Servicemembers' Life Insurance Program. Requires the SGLI coverage of any member of the Retired Reserve to be converted to VGLI coverage within 90 days after enactment of this Act. Title II: Other Matters - Defines a minor child, for purposes of eligibility for burial in national cemeteries, as one under 21 years of age or under 23 years of age if pursuing a program of education in an educational institution. Requires the offices of Education Procedures Systems, Education Operations, and Education Policy and Program Administration of the Education Service of the Veterans Benefits Administration to be located in the District of Columbia."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Veterans' Benefits Amendments of 1996", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "title": "To amend title 38, United States Code, to improve certain veterans' benefits programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:23-05:00"
+}

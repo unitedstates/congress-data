@@ -1,0 +1,337 @@
+{
+  "actions": [
+    {
+      "acted_at": "1995-01-04", 
+      "committee": "House Committee on National Security", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on National Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "1995-01-05T02:10:00-05:00", 
+      "references": [], 
+      "text": "Committee on National Security discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-05T02:10:00-05:00", 
+      "references": [
+        {
+          "reference": "1/4/1995 CR H107-108", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-05T02:10:00-05:00", 
+      "references": [], 
+      "text": "Mr. Spence asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-05T02:14:00-05:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "1995-01-05T02:14:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "1995-01-09", 
+      "committee": "Committee on Armed Services", 
+      "references": [], 
+      "text": "Received in the Senate and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres1-104", 
+  "bill_type": "hconres", 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House National Security", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "in committee"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "104", 
+  "cosponsors": [
+    {
+      "district": "9", 
+      "name": "Bilirakis, Michael", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00089", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Brown, Corrine", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00132", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Canady, Charles T.", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Deutsch, Peter", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00291", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "21", 
+      "name": "Diaz-Balart, Lincoln", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "16", 
+      "name": "Foley, Mark", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00396", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Fowler, Tillie", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00404", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Gibbons, Sam", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00437", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Goss, Porter J.", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00450", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "23", 
+      "name": "Hastings, Alcee L.", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "McCollum, Bill", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Meek, Carrie P.", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "13", 
+      "name": "Miller, Dan", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Peterson, Douglas (Pete)", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00911", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Richardson, Bill", 
+      "sponsored_at": "1995-01-04", 
+      "state": "NM", 
+      "thomas_id": "00958", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "18", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Scarborough, Joe", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "01025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "22", 
+      "name": "Shaw, E. Clay, Jr.", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "01047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Stearns, Cliff", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "01103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thurman, Karen L.", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "01157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "15", 
+      "name": "Weldon, Dave", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "01215", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Young, C.W. Bill", 
+      "sponsored_at": "1995-01-04", 
+      "state": "FL", 
+      "thomas_id": "01255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "1995-01-05T02:14:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "1995-01-04", 
+  "number": "1", 
+  "official_title": "Recognizing the sacrifice and courage of Army Warrant Officers David Hilemon and Bobby W. Hall II, whose helicopter was shot down over North Korea on December 17, 1994.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Spence, Floyd", 
+    "state": "SC", 
+    "thomas_id": "01091", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "1995-01-05T02:14:00-05:00", 
+  "subjects": [
+    "Aircraft pilots", 
+    "Armed forces abroad", 
+    "Armed forces and national security", 
+    "Army personnel", 
+    "Boundaries", 
+    "Commemorations", 
+    "Congress", 
+    "Congressional tributes", 
+    "East Asia", 
+    "International affairs", 
+    "Military helicopters", 
+    "North Korea", 
+    "Officer personnel", 
+    "South Korea", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Congressional tributes", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "1995-01-04", 
+    "text": "Recognizes the sacrifice of Army Chief Warrant Officer David Hilemon to his country and expresses gratitude for his selflessness and regret for his loss to his family. Recognizes the service of Army Chief Warrant Officer Bobby W. Hall II to his country and expresses commendation for his courage."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "title": "Recognizing the sacrifice and courage of Army Warrant Officers David Hilemon and Bobby W. Hall II, whose helicopter was shot down over North Korea on December 17, 1994.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-02-02T20:35:51-05:00"
+}
